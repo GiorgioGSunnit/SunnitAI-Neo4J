@@ -1,116 +1,122 @@
 {
-    "nodes": [
-        {
-            "id": "LEGAL_DOC",
-            "labels": ["LEGAL_DOC"],
-            "properties": {
-                "id": "string",
-                "name": "string",
-                "description": "string",
-                "date_enacted": "string",
-                "status": "string",
-                "hash": "string"
-            }
-        },
-        {
-            "id": "DOCUMENT_SECTION",
-            "labels": ["DOCUMENT_SECTION"],
-            "properties": {
-                "id": "string",
-                "name": "string",
-				"type": "string",
-                "abstract": "string",
-				"plain-text": "string",
-                "hash": "string"
-            }
-        },
-        {
-            "id": "LEGAL_CONCEPT",
-            "labels": ["LEGAL_CONCEPT"],
-            "properties": {
-                "id": "string",
-                "name": "string",
-                "description": "string"
-            }
-        },
-        {
-            "id": "LEGAL_SOURCE",
-            "labels": ["LEGAL_SOURCE"],
-            "properties": {
-                "id": "string",
-                "name": "string",
-                "date": "string",
-                "description": "string"
-            }
-        },
-        {
-            "id": "LOCATION",
-            "labels": ["LOCATION"],
-            "properties": {
-                "id": "string",
-                "name": "string",
-                "description": "string",
-                "jurisdiction": "string"
-            }
-        },
-        {
-            "id": "ORGANIZATION",
-            "labels": ["ORGANIZATION"],
-            "properties": {
-                "id": "string",
-                "name": "string",
-                "description": "string"
-            }
-        },
-        {
-            "id": "PERSON",
-            "labels": ["PERSON"],
-            "properties": {
-                "id": "string",
-                "name": "string",
-                "description": "string"
-            }
-        },
-        {
-            "id": "ROLE",
-            "labels": ["ROLE"],
-            "properties": {
-                "id": "string",
-                "name": "string",
-                "description": "string"
-            }
-        },
-        {
-            "id": "DATE",
-            "labels": ["DATE"],
-            "properties": {
-                "id": "string",
-                "name": "string",
-                "date": "string",
-                "description": "string"
-            }
-        }
-    ],
-	"relationships": [
-        {	"type": "CONTAINS",		"source": "LEGAL_DOC",			"target": "DOCUMENT_SECTION"	},
-		{   "type": "PART_OF",      "source": "DOCUMENT_SECTION",   "target": "DOCUMENT_SECTION"    },
-        {	"type": "REGULATES",    "source": "LEGAL_CONCEPT",      "target": "LEGAL_DOC"        	},
-        {	"type": "REFERS_TO",    "source": "LEGAL_DOC",          "target": "LEGAL_CONCEPT"       },
-        {	"type": "REFERS_TO",    "source": "DOCUMENT_SECTION",   "target": "DOCUMENT_SECTION"    },
-        {	"type": "PUBLISHED",    "source": "LEGAL_DOC",          "target": "LEGAL_SOURCE"        },
-        {	"type": "REGULATED_BY", "source": "ORGANIZATION",       "target": "LEGAL_DOC"        	},
-		{ 	"type": "REGULATED_BY", "source": "LEGAL_ACTION", 		"target": "LEGAL_DOC" 			},
-        {	"type": "LOCATED_AT",   "source": "ORGANIZATION",       "target": "LOCATION"        	},
-        {	"type": "OCCURS_ON",    "source": "LEGAL_CONCEPT",      "target": "DATE"        		},
-        {	"type": "VALID_ON",     "source": "LEGAL_DOC",          "target": "LOCATION"        	},
-        {	"type": "VALID_FROM",   "source": "LEGAL_DOC",          "target": "DATE"        		},
-        {	"type": "VALID_TO",     "source": "LEGAL_DOC",          "target": "DATE"        		},
-        {	"type": "HAS_ROLE",     "source": "PERSON",            	"target": "ROLE"        		},
-        {	"type": "WORKS_FOR",    "source": "PERSON",            	"target": "ORGANIZATION"        },
-        {	"type": "MEMBER_OF",    "source": "ROLE",            	"target": "ORGANIZATION"        }
-    ]
+  "nodes": [
+    {
+      "id": "LEGAL_DOC",
+      "labels": ["LEGAL_DOC"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "description": "string",
+        "date_enacted": "string",
+        "status": "string",
+        "hash": "string"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION",
+      "labels": ["DOCUMENT_SECTION"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "type": "string",
+        "abstract": "string",
+        "plain_text": "string",
+        "hash": "string"
+      }
+    },
+    {
+      "id": "LEGAL_CONCEPT",
+      "labels": ["LEGAL_CONCEPT"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "description": "string"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE",
+      "labels": ["LEGAL_SOURCE"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "date": "string",
+        "description": "string"
+      }
+    },
+    {
+      "id": "LOCATION",
+      "labels": ["LOCATION"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "description": "string",
+        "jurisdiction": "string"
+      }
+    },
+    {
+      "id": "ORGANIZATION",
+      "labels": ["ORGANIZATION"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "description": "string"
+      }
+    },
+    {
+      "id": "PERSON",
+      "labels": ["PERSON"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "description": "string"
+      }
+    },
+    {
+      "id": "ROLE",
+      "labels": ["ROLE"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "description": "string"
+      }
+    },
+    {
+      "id": "DATE",
+      "labels": ["DATE"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "date": "string",
+        "description": "string"
+      }
+    },
+    {
+      "id": "LEGAL_ACTION",
+      "labels": ["LEGAL_ACTION"],
+      "properties": {
+        "id": "string",
+        "name": "string",
+        "description": "string"
+      }
+    }
+  ],
+  "relationships": [
+    { "type": "CONTAINS", "source": "LEGAL_DOC", "target": "DOCUMENT_SECTION" },
+    { "type": "PART_OF", "source": "DOCUMENT_SECTION", "target": "DOCUMENT_SECTION" },
+    { "type": "REGULATES", "source": "LEGAL_DOC", "target": "LEGAL_CONCEPT" },
+    { "type": "REFERS_TO", "source": "LEGAL_DOC", "target": "LEGAL_CONCEPT" },
+    { "type": "REFERS_TO", "source": "DOCUMENT_SECTION", "target": "DOCUMENT_SECTION" },
+    { "type": "PUBLISHED", "source": "LEGAL_DOC", "target": "LEGAL_SOURCE" },
+    { "type": "REGULATED_BY", "source": "ORGANIZATION", "target": "LEGAL_DOC" },
+    { "type": "REGULATED_BY", "source": "LEGAL_ACTION", "target": "LEGAL_DOC" },
+    { "type": "LOCATED_AT", "source": "ORGANIZATION", "target": "LOCATION" },
+    { "type": "LOCATED_AT", "source": "LEGAL_ACTION", "target": "LOCATION" },
+    { "type": "OCCURS_ON", "source": "LEGAL_ACTION", "target": "DATE" },
+    { "type": "VALID_ON", "source": "LEGAL_DOC", "target": "LOCATION" },
+    { "type": "VALID_FROM", "source": "LEGAL_DOC", "target": "DATE" },
+    { "type": "VALID_TO", "source": "LEGAL_DOC", "target": "DATE" },
+    { "type": "HAS_ROLE", "source": "PERSON", "target": "ROLE" },
+    { "type": "WORKS_FOR", "source": "PERSON", "target": "ORGANIZATION" },
+    { "type": "MEMBER_OF", "source": "ROLE", "target": "ORGANIZATION" }
+  ]
 }
-
-
-
-
