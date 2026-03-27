@@ -1,0 +1,120 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::a4e15f56bbfc44acff93184569febc0e",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::a4e15f56bbfc44acff93184569febc0e",
+        "name": "A17413-17413.pdf",
+        "description": "Il comma comunica la rettifica di errori materiali nella pubblicazione della precedente ordinanza, specificando le correzioni da apportare al testo. Testo significativo: Advertidos errores en la publicación de la Orden EHA/1037/2005, de 29 de abril, por la que se regula el empleo de medios electrónicos en los procedimientos de contratación, publicada en el Boletín Oficial del Estado n.º 114, de 13 de mayo, se procede a su rectificación: En la página 16179, en el título de la Orden, donde dice «procedimiento de contratación», debe decir «proce-dimientos de contratación». En la página 16182, apartado Octavo, donde dice «… a los que se refiere el número seis del apartado tercero…» debe decir «… a los que se refiere el número siete del apartado tercero…». de la Orden EHA/ 1307/2005, de 29 de abril, por la que se regula el empleo de medios electrónicos en los proce-dimientos de contratación. Advertidos errores en la publicación de la Orden EHA/1037/2005, de 29 de abril, por la que se regula el empleo de medios electrónicos en los procedimientos de contratación, publicada en el Boletín Oficial del Estado n.º 114, de 13 de mayo, se procede a su rectificación: En la página 16179, en el título de la Orden, donde dice «procedimiento de contratación», debe decir «proce-dimientos de contratación». En la página 16182, apartado Octavo, donde dice «… a los que se refiere el número seis del apartado tercero…» debe decir «… a los que se refiere el número siete del apartado tercero…». de la Orden EHA/ 1307/2005, de 29 de abril, por la que se regula el empleo de medios electrónicos en los proce-dimientos de contratación. Advertidos errores en la publicación de la Orden EHA/1037/2005, de 29 de abril, por la que se regula el empleo de medios electrónicos en los procedimientos de contratación, publicada en el Boletín Oficial del Estado n.º 114, de 13 de mayo, se procede a su rectificación: En la página 16179, en el título de la Orden, donde dice «procedimiento de contratación», debe decir «proce-dimientos de contratación». En la página 16182, apartado Octavo, donde dice «… a los que se refiere el número seis del apartado tercero…» debe decir «… a los que se refiere el número siete del apartado tercero…». Il comma introduce la promulgazione della legge e il preambolo storico della Commissione Giuridica Asesora, senza imporre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley. PREÁMBULO El Decreto de 17 de octubre de 1978 restableció la Comisión Jurídica Asesora, como alto órgano consultivo. 5/2005, de 2 de mayo, de la Comisión Jurí-dica Asesora. EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo",
+        "date_enacted": "",
+        "status": "",
+        "hash": "a4e15f56bbfc44acff93184569febc0e"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::95e16194c0768128f976",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::95e16194c0768128f976",
+        "name": "8458",
+        "type": "Sottocomma",
+        "abstract": "Il comma comunica la rettifica di errori materiali nella pubblicazione della precedente ordinanza, specificando le correzioni da apportare al testo. Testo significativo: Advertidos errores en la publicación de la Orden EHA/1037/2005, de 29 de abril, por la que se regula el empleo de medios electrónicos en los procedimientos de contratación, publicada en el Boletín Oficial del Estado n.º 114, de 13 de mayo, se procede a su rectificación: En la página 16179, en el título de la Orden, donde dice «procedimiento de contratación», debe decir «proce-dimientos de contratación». En la página 16182, apartado Octavo, donde dice «… a los que se refiere el número seis del apartado tercero…» debe decir «… a los que se refiere el número siete del apartado tercero…».",
+        "plain_text": "de la Orden EHA/ 1307/2005, de 29 de abril, por la que se regula  el empleo de medios electrónicos en los proce-dimientos de contratación. Advertidos errores en la publicación de la Orden  EHA/1037/2005, de 29 de abril, por la que se regula el  empleo de medios electrónicos en los procedimientos de  contratación, publicada en el Boletín Oficial del Estado  n.º 114, de 13 de mayo, se procede a su rectificación: En la página 16179, en el título de la Orden, donde  dice «procedimiento de contratación», debe decir «proce-dimientos de contratación». En la página 16182, apartado Octavo, donde dice «… a  los que se refiere el número seis del apartado tercero…»  debe decir «… a los que se refiere el número siete del  apartado tercero…».",
+        "hash": "95e16194c0768128f9764d0e84a701aba4c8fe1bb20be92b8647d51d05460258"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::adad194d5250da30524a",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::adad194d5250da30524a",
+        "name": "8459",
+        "type": "Sottocomma",
+        "abstract": "Il comma introduce la promulgazione della legge e il preambolo storico della Commissione Giuridica Asesora, senza imporre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley. PREÁMBULO El Decreto de 17 de octubre de 1978 restableció la Comisión Jurídica Asesora, como alto órgano consultivo.",
+        "plain_text": "5/2005, de 2 de mayo, de la Comisión Jurí-dica Asesora. EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA Sea notorio a todos los ciudadanos que el Parlamento  de Cataluña ha aprobado y yo, en nombre del Rey y de  acuerdo con lo que establece el artículo 33.2 del Estatuto  de autonomía de Cataluña, promulgo la siguiente Ley. PREÁMBULO El Decreto de 17 de octubre de 1978 restableció la  Comisión Jurídica Asesora, como alto órgano consultivo",
+        "hash": "adad194d5250da30524a06ec35736a07dc923b9ace9e51d668bcdc9f53c01e74"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::a4e15f56bbfc44acff93184569febc0e",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::a4e15f56bbfc44acff93184569febc0e",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::95e16194c0768128f976"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::a4e15f56bbfc44acff93184569febc0e",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::95e16194c0768128f976"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::a4e15f56bbfc44acff93184569febc0e",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::95e16194c0768128f976"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::a4e15f56bbfc44acff93184569febc0e",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::adad194d5250da30524a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::a4e15f56bbfc44acff93184569febc0e",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::adad194d5250da30524a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::a4e15f56bbfc44acff93184569febc0e",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::adad194d5250da30524a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::95e16194c0768128f976",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::95e16194c0768128f976"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::95e16194c0768128f976",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::95e16194c0768128f976"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::adad194d5250da30524a",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::adad194d5250da30524a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::adad194d5250da30524a",
+      "target": "DOCUMENT_SECTION::a4e15f56bbfc44acff93184569febc0e::adad194d5250da30524a"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:28:13.251726+00:00",
+    "document_name": "A17413-17413.pdf",
+    "document_hash": "a4e15f56bbfc44acff93184569febc0e"
+  }
+}

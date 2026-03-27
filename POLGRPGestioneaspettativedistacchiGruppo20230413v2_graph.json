@@ -1,0 +1,710 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+        "name": "POLGRPGestioneaspettativedistacchiGruppo20230413v2.pdf",
+        "description": "Il comma fornisce una panoramica informativa sulla tipologia, lo stato e i riferimenti normativi collegati al documento, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: 1.1 Scheda del documento [['Tipologia Documento', None, None, '', 'Policy di Gruppo', ''], ['', 'Normativa interna', '', '-', None, None], [None, 'abrogata', None, None, None, None], ['Principale normativa di CDP S.p.A. collegata', None, None, '', '• Codice Etico', ''], [None, None, None, None, '• Funzionigramma Aziendale', None], [None, None, None, None, '• Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001', None], [None, None, None, None, '• Linee Guida in materia di trattamento dei dati personali', None], [None, None, None, None, '• Procedura Gestione adempimenti Privacy', None], [None, None, None, None, '• Regolamento Conflitti di Interesse', None], [None, None, None, None, '• Regolamento presidi organizzativi per lo svolgimento delle attività di', None], [None, None, None, None, 'business', None], [None, None, None, None, '• Procedura Pianificazione dell’Organico, dello Staffing e dei Costi del', None], [None, None, None, None, 'Personale Aziendale', None], [None, None, None, None, '• Procedura Amministrazione RU', None], [None, None, None, None, '• Regolamento “Gestione distacchi dall’estero\"', None], [None, None, None, None, '• Regolamento “Trattamento economico organizzativo del personale', None], [None, 1.1 Scheda del documento [['Tipologia Documento', None, None, '', 'Policy di Gruppo', ''], ['', 'Normativa interna', '', '-', None, None], [None, 'abrogata', None, None, None, None], ['Principale normativa di\\nCDP S.p.A. collegata', None, None, '', '• Codice Etico', ''], [None, None, None, None, '• Funzionigramma Aziendale', None], [None, None, None, None, '• Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001', None], [None, None, None, None, '• Linee Guida in materia di trattamento dei dati personali', None], [None, None, None, None, '• Procedura Gestione adempimenti Privacy', None], [None, None, None, None, '• Regolamento Conflitti di Interesse', None], [None, None, None, None, '• Regolamento presidi organizzativi per lo svolgimento delle attività di', None], [None, None, None, None, 'business', None], [None, None, None, None, '• Procedura Pianificazione dell’Organico, dello Staffing e dei Costi del', None], [None, None, None, None, 'Personale Aziendale', None], [None, None, None, None, '• Procedura Amministrazione RU', None], [None, None, None, None, '• Regolamento “Gestione distacchi dall’estero\"', None], [None, None, None, None, '• Regolamento “Trattamento economico organizzativo del personale', None], [None, None, None, None, 'all’estero”', None], ['Principale normativa di\\nGruppo collegata', None, None, '', '• Principi generali sull’esercizio dell’attività di direzione e coordinamento', ''], [None, None, None, None, '• Policy 1.1 Scheda del documento [['Tipologia Documento', None, None, '', 'Policy di Gruppo', ''], ['', 'Normativa interna', '', '-', None, None], [None, 'abrogata', None, None, None, None], ['Principale normativa di\\nCDP S.p.A. collegata', None, None, '', '• Codice Etico', ''], [None, None, None, None, '• Funzionigramma Aziendale', None], [None, None, None, None, '• Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001', None], [None, None, None, None, '• Linee Guida in materia di trattamento dei dati personali', None], [None, None, None, None, '• Procedura Gestione adempimenti Privacy', None], [None, None, None, None, '• Regolamento Conflitti di Interesse', None], [None, None, None,",
+        "date_enacted": "",
+        "status": "",
+        "hash": "4634ff1bef5209de15055f0e328eac68"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::57aab08fbd0ba7608235",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::57aab08fbd0ba7608235",
+        "name": "1",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una panoramica informativa sulla tipologia, lo stato e i riferimenti normativi collegati al documento, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: 1.1 Scheda del documento [['Tipologia Documento', None, None, '', 'Policy di Gruppo', ''], ['', 'Normativa interna', '', '-', None, None], [None, 'abrogata', None, None, None, None], ['Principale normativa di CDP S.p.A. collegata', None, None, '', '• Codice Etico', ''], [None, None, None, None, '• Funzionigramma Aziendale', None], [None, None, None, None, '• Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001', None], [None, None, None, None, '• Linee Guida in materia di trattamento dei dati personali', None], [None, None, None, None, '• Procedura Gestione adempimenti Privacy', None], [None, None, None, None, '• Regolamento Conflitti di Interesse', None], [None, None, None, None, '• Regolamento presidi organizzativi per lo svolgimento delle attività di', None], [None, None, None, None, 'business', None], [None, None, None, None, '• Procedura Pianificazione dell’Organico, dello Staffing e dei Costi del', None], [None, None, None, None, 'Personale Aziendale', None], [None, None, None, None, '• Procedura Amministrazione RU', None], [None, None, None, None, '• Regolamento “Gestione distacchi dall’estero\"', None], [None, None, None, None, '• Regolamento “Trattamento economico organizzativo del personale', None], [None,",
+        "plain_text": "1.1  Scheda del documento   [['Tipologia Documento', None, None, '', 'Policy di Gruppo', ''], ['', 'Normativa interna', '', '-', None, None], [None, 'abrogata', None, None, None, None], ['Principale normativa di\\nCDP S.p.A. collegata', None, None, '', '• Codice Etico', ''], [None, None, None, None, '• Funzionigramma Aziendale', None], [None, None, None, None, '• Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001', None], [None, None, None, None, '• Linee Guida in materia di trattamento dei dati personali', None], [None, None, None, None, '• Procedura Gestione adempimenti Privacy', None], [None, None, None, None, '• Regolamento Conflitti di Interesse', None], [None, None, None, None, '• Regolamento presidi organizzativi per lo svolgimento delle attività di', None], [None, None, None, None, 'business', None], [None, None, None, None, '• Procedura Pianificazione dell’Organico, dello Staffing e dei Costi del', None], [None, None, None, None, 'Personale Aziendale', None], [None, None, None, None, '• Procedura Amministrazione RU', None], [None, None, None, None, '• Regolamento “Gestione distacchi dall’estero\"', None], [None, None, None, None, '• Regolamento “Trattamento economico organizzativo del personale', None], [None, None, None, None, 'all’estero”', None], ['Principale normativa di\\nGruppo collegata', None, None, '', '• Principi generali sull’esercizio dell’attività di direzione e coordinamento', ''], [None, None, None, None, '• Policy di Gruppo Modello normativo di Gruppo e principi per la gestione', None], [None, None, None, None, 'della Normativa di Gruppo', None], [None, None, None, None, '• Policy di Gruppo Assunzione e rinnovo di incarichi e collaborazioni', None], [None, None, None, None, 'esterne e svolgimento di attività imprenditoriali da parte dei dipendenti del', None], [None, None, None, None, 'Gruppo CDP', None], [None, None, None, None, '• Policy di Gruppo Anti-Corruzione', None], [None, None, None, None, '• Policy di Gruppo Linee Guida in materia di trattamento dei dati personali', None], [None, None, None, None, '• Processo di Gruppo Gestione anagrafica dei dipendenti', None], [None, None, None, None, '• Istruzione Operativa di Gruppo Gestione aspetti salute e sicurezza per il', None], [None, None, None, None, 'personale distaccato', None], ['Riferimenti a normativa\\nesterna', None, None, '', '• Articolo 51 Costituzione Italiana', ''], [None, None, None, None, '• D. lgs. 231/2001', None], [None, None, None, None, '• D.lgs. n. 39/2013', None], [None, None, None, None, '• Articolo 31 Legge n. 300/1970', None], [None, None, None, None, '• Legge n. 53/2000 e Decreto Ministeriale n. 278/2000', None], [None, None, None, None, '• D.Lgs. n. 276/2003', None], [None, None, None, None, '• Articoli 14 e 57 CCNL Credito Impiegati/Quadri', None], [None, None, None, None, '• Articolo 14 CCNL Credito Dirigenti', None], [None, None, None, None, '• Decreto Legislativo 27 giugno 2022, n. 104', None]] Tipologia Documento  Policy di Gruppo   Normativa interna  abrogata   -  Principale normativa di  CDP S.p.A. collegata    • Codice Etico   • Funzionigramma Aziendale   • Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001   • Linee Guida in materia di trattamento dei dati personali   • Procedura Gestione adempimenti Privacy   • Regolamento Conflitti di Interesse   • Regolamento presidi organizzativi per lo svolgimento delle attività di   business   • Procedura Pianificazione dell’Organico, dello Staffing e dei Costi del   Personale Aziendale   • Procedura Amministrazione RU   • Regolamento “Gestione distacchi dall’estero\"   • Regolamento “Trattamento economico organizzativo del personale   all’estero”   Principale normativa di  Gruppo collegata   • Principi generali sull’esercizio dell’attività di direzione e coordinamento   • Policy di Gruppo Modello normativo di Gruppo e principi per la gestione   della Normativa di Gruppo   • Policy di Gruppo Assunzione e rinnovo di incarichi e collaborazioni   esterne e svolgimento di attività imprenditoriali da parte dei dipendenti del  Gruppo CDP   • Policy di Gruppo Anti-Corruzione   • Policy di Gruppo Linee Guida in materia di trattamento dei dati personali   • Processo di Gruppo Gestione anagrafica dei dipendenti   • Istruzione Operativa di Gruppo Gestione aspetti salute e sicurezza per il   personale distaccato   Riferimenti a normativa  esterna   • Articolo 51 Costituzione Italiana   • D. lgs. 231/2001   • D.lgs. n. 39/2013   • Articolo 31 Legge n. 300/1970   • Legge n. 53/2000 e Decreto Ministeriale n. 278/2000   • D.Lgs. n. 276/2003   • Articoli 14 e 57 CCNL Credito Impiegati/Quadri   • Articolo 14 CCNL Credito Dirigenti   • Decreto Legislativo 27 giugno 2022, n. 104",
+        "hash": "57aab08fbd0ba760823548214f25dc97ff6b462bcf3cc831ebcf05661ef1a6d7"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::41a820e1b648329efacd",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::41a820e1b648329efacd",
+        "name": "1.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una panoramica delle informazioni di contesto e dei riferimenti normativi, organizzativi e procedurali collegati al documento, nonché delle funzioni aziendali coinvolte nella sua emanazione, validazione e approvazione. Testo significativo: Tipologia Documento Policy di Gruppo Normativa interna abrogata - Principale normativa di CDP S.p.A. collegata • Codice Etico • Funzionigramma Aziendale • Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001 • Linee Guida in materia di trattamento dei dati personali • Procedura Gestione adempimenti Privacy • Regolamento Conflitti di Interesse • Regolamento presidi organizzativi per lo svolgimento delle attività di business • Procedura Pianificazione dell’Organico, dello Staffing e dei Costi del Personale Aziendale • Procedura Amministrazione RU • Regolamento “Gestione distacchi dall’estero\" • Regolamento “Trattamento economico organizzativo del personale all’estero” Principale normativa di Gruppo collegata • Principi generali sull’esercizio dell’attività di direzione e coordinamento • Policy di Gruppo Modello normativo di Gruppo e principi per la gestione della Normativa di Gruppo • Policy di Gruppo Assunzione e rinnovo di incarichi e collaborazioni esterne e svolgimento di attività imprenditoriali da parte dei dipendenti del Gruppo CDP • Policy di Gruppo Anti-Corruzione • Policy di Gruppo Linee Guida in materia di trattamento dei dati personali • Processo di",
+        "plain_text": "[['Tipologia Documento', None, None, '', 'Policy di Gruppo', ''], ['', 'Normativa interna', '', '-', None, None], [None, 'abrogata', None, None, None, None], ['Principale normativa di\\nCDP S.p.A. collegata', None, None, '', '• Codice Etico', ''], [None, None, None, None, '• Funzionigramma Aziendale', None], [None, None, None, None, '• Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001', None], [None, None, None, None, '• Linee Guida in materia di trattamento dei dati personali', None], [None, None, None, None, '• Procedura Gestione adempimenti Privacy', None], [None, None, None, None, '• Regolamento Conflitti di Interesse', None], [None, None, None, None, '• Regolamento presidi organizzativi per lo svolgimento delle attività di', None], [None, None, None, None, 'business', None], [None, None, None, None, '• Procedura Pianificazione dell’Organico, dello Staffing e dei Costi del', None], [None, None, None, None, 'Personale Aziendale', None], [None, None, None, None, '• Procedura Amministrazione RU', None], [None, None, None, None, '• Regolamento “Gestione distacchi dall’estero\"', None], [None, None, None, None, '• Regolamento “Trattamento economico organizzativo del personale', None], [None, None, None, None, 'all’estero”', None], ['Principale normativa di\\nGruppo collegata', None, None, '', '• Principi generali sull’esercizio dell’attività di direzione e coordinamento', ''], [None, None, None, None, '• Policy di Gruppo Modello normativo di Gruppo e principi per la gestione', None], [None, None, None, None, 'della Normativa di Gruppo', None], [None, None, None, None, '• Policy di Gruppo Assunzione e rinnovo di incarichi e collaborazioni', None], [None, None, None, None, 'esterne e svolgimento di attività imprenditoriali da parte dei dipendenti del', None], [None, None, None, None, 'Gruppo CDP', None], [None, None, None, None, '• Policy di Gruppo Anti-Corruzione', None], [None, None, None, None, '• Policy di Gruppo Linee Guida in materia di trattamento dei dati personali', None], [None, None, None, None, '• Processo di Gruppo Gestione anagrafica dei dipendenti', None], [None, None, None, None, '• Istruzione Operativa di Gruppo Gestione aspetti salute e sicurezza per il', None], [None, None, None, None, 'personale distaccato', None], ['Riferimenti a normativa\\nesterna', None, None, '', '• Articolo 51 Costituzione Italiana', ''], [None, None, None, None, '• D. lgs. 231/2001', None], [None, None, None, None, '• D.lgs. n. 39/2013', None], [None, None, None, None, '• Articolo 31 Legge n. 300/1970', None], [None, None, None, None, '• Legge n. 53/2000 e Decreto Ministeriale n. 278/2000', None], [None, None, None, None, '• D.Lgs. n. 276/2003', None], [None, None, None, None, '• Articoli 14 e 57 CCNL Credito Impiegati/Quadri', None], [None, None, None, None, '• Articolo 14 CCNL Credito Dirigenti', None], [None, None, None, None, '• Decreto Legislativo 27 giugno 2022, n. 104', None]] Tipologia Documento  Policy di Gruppo   Normativa interna  abrogata   -  Principale normativa di  CDP S.p.A. collegata    • Codice Etico   • Funzionigramma Aziendale   • Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001   • Linee Guida in materia di trattamento dei dati personali   • Procedura Gestione adempimenti Privacy   • Regolamento Conflitti di Interesse   • Regolamento presidi organizzativi per lo svolgimento delle attività di   business   • Procedura Pianificazione dell’Organico, dello Staffing e dei Costi del   Personale Aziendale   • Procedura Amministrazione RU   • Regolamento “Gestione distacchi dall’estero\"   • Regolamento “Trattamento economico organizzativo del personale   all’estero”   Principale normativa di  Gruppo collegata   • Principi generali sull’esercizio dell’attività di direzione e coordinamento   • Policy di Gruppo Modello normativo di Gruppo e principi per la gestione   della Normativa di Gruppo   • Policy di Gruppo Assunzione e rinnovo di incarichi e collaborazioni   esterne e svolgimento di attività imprenditoriali da parte dei dipendenti del  Gruppo CDP   • Policy di Gruppo Anti-Corruzione   • Policy di Gruppo Linee Guida in materia di trattamento dei dati personali   • Processo di Gruppo Gestione anagrafica dei dipendenti   • Istruzione Operativa di Gruppo Gestione aspetti salute e sicurezza per il   personale distaccato   Riferimenti a normativa  esterna   • Articolo 51 Costituzione Italiana   • D. lgs. 231/2001   • D.lgs. n. 39/2013   • Articolo 31 Legge n. 300/1970   • Legge n. 53/2000 e Decreto Ministeriale n. 278/2000   • D.Lgs. n. 276/2003   • Articoli 14 e 57 CCNL Credito Impiegati/Quadri   • Articolo 14 CCNL Credito Dirigenti   • Decreto Legislativo 27 giugno 2022, n. 104      [['Funzione Proponente', None, None, '', '• Compensation e Organizzazione', ''], [None, None, None, None, '• Gestione, Relazioni Industriali e Amministrazione Risorse Umane', None], ['Funzione Validante', None, None, '', '• Staff AD di CDP S.p.A.', ''], [None, None, None, None, '• Compliance di CDP S.p.A.', None], [None, None, None, None, '• Supporto Organismo di Vigilanza di CDP S.p.A.', None], ['', 'Funzione Approvante', '', '', 'Amministratore Delegato', ''], ['', 'Funzione Emanante', '', '', 'Ordine di Servizio dell’Amministratore Delegato n. 8 del 19 aprile 2023', ''], ['', 'Modalità di', '', 'Intranet Aziendale', None, None], [None, 'pubblicazione', None, None, None, None]] Funzione Proponente   • Compensation e Organizzazione   • Gestione, Relazioni Industriali e Amministrazione Risorse Umane   Funzione Validante   • Staff AD di CDP S.p.A.   • Compliance di CDP S.p.A.   • Supporto Organismo di Vigilanza di CDP S.p.A.   Funzione Approvante  Amministratore Delegato   Funzione Emanante  Ordine di Servizio dell’Amministratore Delegato n. 8 del 19 aprile 2023   Modalità di  pubblicazione   Intranet Aziendale   1.2  Storia del documento    [['', 'AGGIORNAMENTI E REVISIONI', None, None, None, None, ''], ['Versione', None, 'Principali modifiche introdotte', 'Data', '', 'Soggetto', ''], [None, None, None, None, None, 'Approvatore', None], ['1.0', None, 'Documento di prima emanazione', '19/04/2023', 'AD', None, None]] AGGIORNAMENTI E REVISIONI   Versione  Principali modifiche introdotte  Data   Soggetto   Approvatore   1.0   Documento di prima emanazione  19/04/2023  AD",
+        "hash": "41a820e1b648329efacdb5f8dbe9a23df1a2aadc7576ed52809cb797fe95a56e"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::91f6a46883a733033207",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::91f6a46883a733033207",
+        "name": "1.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta aggiornamenti, revisioni e un glossario di definizioni utilizzate nel documento, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: AGGIORNAMENTI E REVISIONI Versione Principali modifiche introdotte Data Soggetto Approvatore 1.0 Documento di prima emanazione 19/04/2023 AD 1.3 Glossario • Aspettativa1 : è la facoltà del lavoratore di astenersi dalla prestazione di lavoro, in costanza di rapporto contrattuale, che il datore di lavoro concede – compatibilmente con le esigenze di servizio – al lavoratore che ne faccia formale richiesta. • Capogruppo: Cassa Depositi e Prestiti S.p.A. (o CDP S.p.A.). • Dipendente: lavoratore facente parte dell’organico del Gruppo CDP, in virtù di un contratto di lavoro subordinato in essere, a tempo determinato o indeterminato. • Distacco: è l’istituto giuridico che disciplina i casi in cui il datore di lavoro (c.d. distaccante), per soddisfare un proprio interesse, mette temporaneamente a disposizione di un altro soggetto (c.d. distaccatario) un dipendente (c.d. distaccato). Salvo i casi previsti per legge, non è necessario il consenso del distaccato. • Direttore Risorse Umane: Responsabile di prima linea della singola Società del Gruppo che sovrintende la gestione delle risorse umane. • Funzione Risorse Umane: Unità Organizzativa della singola Società del Gruppo competente per la gestione",
+        "plain_text": "[['', 'AGGIORNAMENTI E REVISIONI', None, None, None, None, ''], ['Versione', None, 'Principali modifiche introdotte', 'Data', '', 'Soggetto', ''], [None, None, None, None, None, 'Approvatore', None], ['1.0', None, 'Documento di prima emanazione', '19/04/2023', 'AD', None, None]] AGGIORNAMENTI E REVISIONI   Versione  Principali modifiche introdotte  Data   Soggetto   Approvatore   1.0   Documento di prima emanazione  19/04/2023  AD           1.3  Glossario   •  Aspettativa1 : è la facoltà del lavoratore di astenersi dalla prestazione di lavoro, in costanza di  rapporto contrattuale, che il datore di lavoro concede – compatibilmente con le esigenze di  servizio – al lavoratore che ne faccia formale richiesta.   • Capogruppo: Cassa Depositi e Prestiti S.p.A. (o CDP S.p.A.).   • Dipendente: lavoratore facente parte dell’organico del Gruppo CDP, in virtù di un contratto di   lavoro subordinato in essere, a tempo determinato o indeterminato.   • Distacco: è l’istituto giuridico che disciplina i casi in cui il datore di lavoro (c.d. distaccante), per   soddisfare un proprio interesse, mette temporaneamente a disposizione di un altro soggetto (c.d.  distaccatario) un dipendente (c.d. distaccato). Salvo i casi previsti per legge, non è necessario il  consenso del distaccato.    • Direttore Risorse Umane: Responsabile di prima linea della singola Società del Gruppo che   sovrintende la gestione delle risorse umane.   • Funzione Risorse Umane: Unità Organizzativa della singola Società del Gruppo competente   per la gestione delle risorse umane, nonché per lo sviluppo del capitale umano. Nelle Società del  Gruppo dove non sia presente la funzione Risorse Umane, il processo è presidiato secondo  quanto previsto dai Service Agreement o in alternativa dalle rispettive funzioni aziendali  competenti.   • Gruppo Cassa Depositi e Prestiti/Società del Gruppo CDP (o Gruppo CDP): Capogruppo e   Società del Gruppo, come definite al paragrafo 2 del presente documento.   • Istituzioni Pubbliche nazionali o internazionali (di seguito Istituzioni Pubbliche): l'insieme   degli enti che svolgono l'attività rivolta al concreto perseguimento di interessi pubblici e che  concorrono all'esercizio e alle funzioni dell'amministrazione di uno Stato, nelle materie di sua  competenza, sia a livello centrale (es. Governo, Parlamento, Autorità Indipendenti, Organi  costituzionalmente rilevanti), sia a livello territoriale o locale (es. Regioni, Province, Città  metropolitane, Comuni), destinati istituzionalmente alla cura di interessi generali della collettività.  Sono ricomprese in tale definizione anche le Istituzioni Europee (es. Banca Centrale Europea,  Commissione Europea), Sovranazionali (es. Banca Europea per gli Investimenti), Internazionali  (es. Banca Mondiale) nonché istituzioni analoghe a CDP (es. KFW, Caisse des Depots, ecc.)      1 Il presente documento non disciplina l’aspettativa di legge per cariche pubbliche elettive, in quanto istituto giuridico che  determina il diritto alla sospensione del rapporto di lavoro subordinato, su richiesta del dipendente, a fronte della sua  elezione. La legge prevede che l’elezione a cariche pubbliche elettive può avvenire solo previa verifica -da parte  dell’autorità di volta in volta competente -di eventuali cause di incompatibilità e/o ineleggibilità, in ragione della legislazione  vigente, eventualmente riconducibili al rapporto di lavoro. A tal fine, il dipendente dovrà tempestivamente comunicare alla  propria società del Gruppo CDP la sua candidatura allo scopo di permettere all’azienda di rappresentare alle autorità  competenti il ruolo della società stessa e l’attività svolta da dipendente in costanza di rapporto di lavoro.",
+        "hash": "91f6a46883a7330332077b2dbb9fe315adde2d4b9c5ecca2fd5ba853b81e8f53"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::dd4d1a1df76e1eb7f21f",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::dd4d1a1df76e1eb7f21f",
+        "name": "1.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una serie di definizioni operative e chiarisce il perimetro di applicazione della normativa, specificando i soggetti destinatari e le modalità di recepimento e pubblicazione della policy, nonché un regime transitorio per specifici accordi di distacco. Testo significativo: • Aspettativa1 : è la facoltà del lavoratore di astenersi dalla prestazione di lavoro, in costanza di rapporto contrattuale, che il datore di lavoro concede – compatibilmente con le esigenze di servizio – al lavoratore che ne faccia formale richiesta. • Capogruppo: Cassa Depositi e Prestiti S.p.A. (o CDP S.p.A.). • Dipendente: lavoratore facente parte dell’organico del Gruppo CDP, in virtù di un contratto di lavoro subordinato in essere, a tempo determinato o indeterminato. • Distacco: è l’istituto giuridico che disciplina i casi in cui il datore di lavoro (c.d. distaccante), per soddisfare un proprio interesse, mette temporaneamente a disposizione di un altro soggetto (c.d. distaccatario) un dipendente (c.d. distaccato). Salvo i casi previsti per legge, non è necessario il consenso del distaccato. • Direttore Risorse Umane: Responsabile di prima linea della singola Società del Gruppo che sovrintende la gestione delle risorse umane. • Funzione Risorse Umane: Unità Organizzativa della singola Società del Gruppo competente per la gestione delle risorse",
+        "plain_text": "•  Aspettativa1 : è la facoltà del lavoratore di astenersi dalla prestazione di lavoro, in costanza di  rapporto contrattuale, che il datore di lavoro concede – compatibilmente con le esigenze di  servizio – al lavoratore che ne faccia formale richiesta.   • Capogruppo: Cassa Depositi e Prestiti S.p.A. (o CDP S.p.A.).   • Dipendente: lavoratore facente parte dell’organico del Gruppo CDP, in virtù di un contratto di   lavoro subordinato in essere, a tempo determinato o indeterminato.   • Distacco: è l’istituto giuridico che disciplina i casi in cui il datore di lavoro (c.d. distaccante), per   soddisfare un proprio interesse, mette temporaneamente a disposizione di un altro soggetto (c.d.  distaccatario) un dipendente (c.d. distaccato). Salvo i casi previsti per legge, non è necessario il  consenso del distaccato.    • Direttore Risorse Umane: Responsabile di prima linea della singola Società del Gruppo che   sovrintende la gestione delle risorse umane.   • Funzione Risorse Umane: Unità Organizzativa della singola Società del Gruppo competente   per la gestione delle risorse umane, nonché per lo sviluppo del capitale umano. Nelle Società del  Gruppo dove non sia presente la funzione Risorse Umane, il processo è presidiato secondo  quanto previsto dai Service Agreement o in alternativa dalle rispettive funzioni aziendali  competenti.   • Gruppo Cassa Depositi e Prestiti/Società del Gruppo CDP (o Gruppo CDP): Capogruppo e   Società del Gruppo, come definite al paragrafo 2 del presente documento.   • Istituzioni Pubbliche nazionali o internazionali (di seguito Istituzioni Pubbliche): l'insieme   degli enti che svolgono l'attività rivolta al concreto perseguimento di interessi pubblici e che  concorrono all'esercizio e alle funzioni dell'amministrazione di uno Stato, nelle materie di sua  competenza, sia a livello centrale (es. Governo, Parlamento, Autorità Indipendenti, Organi  costituzionalmente rilevanti), sia a livello territoriale o locale (es. Regioni, Province, Città  metropolitane, Comuni), destinati istituzionalmente alla cura di interessi generali della collettività.  Sono ricomprese in tale definizione anche le Istituzioni Europee (es. Banca Centrale Europea,  Commissione Europea), Sovranazionali (es. Banca Europea per gli Investimenti), Internazionali  (es. Banca Mondiale) nonché istituzioni analoghe a CDP (es. KFW, Caisse des Depots, ecc.)      1 Il presente documento non disciplina l’aspettativa di legge per cariche pubbliche elettive, in quanto istituto giuridico che  determina il diritto alla sospensione del rapporto di lavoro subordinato, su richiesta del dipendente, a fronte della sua  elezione. La legge prevede che l’elezione a cariche pubbliche elettive può avvenire solo previa verifica -da parte  dell’autorità di volta in volta competente -di eventuali cause di incompatibilità e/o ineleggibilità, in ragione della legislazione  vigente, eventualmente riconducibili al rapporto di lavoro. A tal fine, il dipendente dovrà tempestivamente comunicare alla  propria società del Gruppo CDP la sua candidatura allo scopo di permettere all’azienda di rappresentare alle autorità  competenti il ruolo della società stessa e l’attività svolta da dipendente in costanza di rapporto di lavoro.      • Società partecipate: ai fini del presente documento sono da intendersi quelle società nelle quali   il Gruppo CDP detiene una partecipazione diretta o indiretta e che non sono soggette all’attività  di direzione e coordinamento di CDP (es. Italgas S.p.A., Terna S.p.A., etc.).   2  Perimetro di applicazione   Il presente documento si applica a:   • Cassa Depositi e Prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”);   • Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del   codice civile (di seguito anche “Società del Gruppo”).   Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a  Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo, nel  rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale posti in  capo agli Organi Societari delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché  della specifica normativa di settore a cui quest’ultimi sono sottoposti.    Le Società del Gruppo applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando  normativa interna della Società per renderla coerente con i principi e le regole contenute in questo  documento.    Nel caso in cui alcune delle previsioni contenute nella presente Policy dovessero essere meno  restrittive rispetto alla normativa aziendale della singola Società, la stessa potrà adottare la norma  aziendale vigente e maggiormente restrittiva.    La Capogruppo recepisce la presente normativa all’interno del corpo normativo aziendale sotto  forma di regolamento. La presente Policy di Gruppo è pubblicata sulle rispettive intranet aziendali  della Capogruppo e delle Società del Gruppo, ovvero diffusa secondo le modalità ritenute più  opportune dalle stesse.   La presente Policy si applica, a far data dalla prima pubblicazione, a tutti i nuovi accordi di  aspettativa/distacco di dipendenti del Gruppo CDP con rapporto di lavoro subordinato.    È previsto un regime transitorio per i soli accordi di distacco in essere in scadenza prima del  31/12/2023, e che, alla data di prima emanazione della presente policy, hanno già cumulato o  cumuleranno entro il 2023 i termini temporali di cui al paragrafo 5.3. Tale regime transitorio consiste  nella proroga del distacco fino alla predetta data. Tale regime transitorio non trova applicazione nei  confronti sia dei distacchi in essere con scadenza oltre il 31/12/2023, sia dei distacchi in essere in  scadenza prima del 31/12/2023 ma che non hanno già cumulato o cumuleranno entro il 2023 i termini  temporali di cui al paragrafo 5.3.",
+        "hash": "dd4d1a1df76e1eb7f21f851add5fee44eddf614949019589acd5af3b3221a24b"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::61aeaa1e779cf8a7043b",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::61aeaa1e779cf8a7043b",
+        "name": "2",
+        "type": "Sottocomma",
+        "abstract": "Il comma definisce i soggetti a cui si applica la policy, le modalità di recepimento e pubblicazione, le regole di adeguamento della normativa interna, la gestione di eventuali divergenze tra policy di gruppo e normativa aziendale, e introduce un regime transitorio per specifici accordi di distacco. Testo significativo: Il presente documento si applica a: • Cassa Depositi e Prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”); • Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del codice civile (di seguito anche “Società del Gruppo”). Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo, nel rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti. Le Società del Gruppo applicano, nel recepimento della presente normativa, quanto previsto dal “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente",
+        "plain_text": "Il presente documento si applica a:   • Cassa Depositi e Prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”);   • Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del   codice civile (di seguito anche “Società del Gruppo”).   Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a  Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo, nel  rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale posti in  capo agli Organi Societari delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché  della specifica normativa di settore a cui quest’ultimi sono sottoposti.    Le Società del Gruppo applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando  normativa interna della Società per renderla coerente con i principi e le regole contenute in questo  documento.    Nel caso in cui alcune delle previsioni contenute nella presente Policy dovessero essere meno  restrittive rispetto alla normativa aziendale della singola Società, la stessa potrà adottare la norma  aziendale vigente e maggiormente restrittiva.    La Capogruppo recepisce la presente normativa all’interno del corpo normativo aziendale sotto  forma di regolamento. La presente Policy di Gruppo è pubblicata sulle rispettive intranet aziendali  della Capogruppo e delle Società del Gruppo, ovvero diffusa secondo le modalità ritenute più  opportune dalle stesse.   La presente Policy si applica, a far data dalla prima pubblicazione, a tutti i nuovi accordi di  aspettativa/distacco di dipendenti del Gruppo CDP con rapporto di lavoro subordinato.    È previsto un regime transitorio per i soli accordi di distacco in essere in scadenza prima del  31/12/2023, e che, alla data di prima emanazione della presente policy, hanno già cumulato o  cumuleranno entro il 2023 i termini temporali di cui al paragrafo 5.3. Tale regime transitorio consiste  nella proroga del distacco fino alla predetta data. Tale regime transitorio non trova applicazione nei  confronti sia dei distacchi in essere con scadenza oltre il 31/12/2023, sia dei distacchi in essere in  scadenza prima del 31/12/2023 ma che non hanno già cumulato o cumuleranno entro il 2023 i termini  temporali di cui al paragrafo 5.3.       3  Premessa   3.1  Contesto di riferimento   Le Istituzioni Pubbliche nazionali e internazionali, così come le Società private operative in settori  strategici per il Paese, sono sottoposte alla continua evoluzione del contesto giuridico e socio-economico di riferimento e, per il perseguimento dei propri obiettivi e dell’interesse pubblico  collettivo, sono chiamate ad adeguare costantemente la propria operatività, talvolta anche ricorrendo  al supporto temporaneo di specifiche professionalità esterne, ovvero all’opportunità di scambio di  figure professionali.    Il ricorso a tali fattispecie è caratteristico dei sistemi economici sviluppati ed evoluti e rappresenta  una virtuosa modalità attraverso cui sviluppare il capitale umano e le competenze, avvalendosi di  contaminazioni professionali e di conoscenze che, sia nel breve che nel medio lungo periodo,  favoriscono la sempre più efficace ed efficiente interazione tra operatori privati e pubblici.   In tale contesto, le Società del Gruppo CDP, le società partecipate e le Istituzioni pubbliche possono  individuare l’opportunità di fornire temporaneamente alcune delle proprie professionalità, per  necessità connesse ad aspetti strategici legati alla propria missione istituzionale e di business.   Di norma, tale opportunità si concretizza attraverso gli istituti dell’aspettativa e del distacco, così  come previsto dalla legge.   3.2  Obiettivo del documento   Il presente documento ha l’obiettivo di definire i principi generali, i criteri di valutazione, nonché le  regole per lo scambio temporaneo di professionalità, tramite gli istituti dell’aspettativa o del distacco,  nel rispetto del principio di autonomia decisionale e avuto in ogni caso riguardo al soddisfacimento  delle esigenze e alla tutela degli interessi di ciascun soggetto coinvolto.   In particolare, il documento definisce, per le casistiche rientranti nel perimetro di applicabilità:   •  i principi generali e i criteri utilizzati per la preventiva valutazione di merito;    •  le regole per l’applicabilità degli istituti;   •  i ruoli e le responsabilità dei diversi attori e degli organi interessati;   •  il processo di valutazione;   •  i flussi informativi verso la Capogruppo;   •  gli aspetti amministrativi e gestionali relativi al periodo di aspettativa o distacco.",
+        "hash": "61aeaa1e779cf8a7043bbe56c96cd25eab3d5e40f677ef3bab7d0928488244c2"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::5398e415e2efdb173e23",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::5398e415e2efdb173e23",
+        "name": "3",
+        "type": "Sottocomma",
+        "abstract": "Il comma espone il contesto di riferimento e gli obiettivi del documento, descrivendo le motivazioni e le modalità generali dello scambio temporaneo di professionalità tra istituzioni pubbliche e società private, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: Il presente documento ha l’obiettivo di definire i principi generali, i criteri di valutazione, nonché le regole per lo scambio temporaneo di professionalità, tramite gli istituti dell’aspettativa o del distacco, nel rispetto del principio di autonomia decisionale e avuto in ogni caso riguardo al soddisfacimento delle esigenze e alla tutela degli interessi di ciascun soggetto coinvolto.",
+        "plain_text": "3.1  Contesto di riferimento   Le Istituzioni Pubbliche nazionali e internazionali, così come le Società private operative in settori  strategici per il Paese, sono sottoposte alla continua evoluzione del contesto giuridico e socio-economico di riferimento e, per il perseguimento dei propri obiettivi e dell’interesse pubblico  collettivo, sono chiamate ad adeguare costantemente la propria operatività, talvolta anche ricorrendo  al supporto temporaneo di specifiche professionalità esterne, ovvero all’opportunità di scambio di  figure professionali.    Il ricorso a tali fattispecie è caratteristico dei sistemi economici sviluppati ed evoluti e rappresenta  una virtuosa modalità attraverso cui sviluppare il capitale umano e le competenze, avvalendosi di  contaminazioni professionali e di conoscenze che, sia nel breve che nel medio lungo periodo,  favoriscono la sempre più efficace ed efficiente interazione tra operatori privati e pubblici.   In tale contesto, le Società del Gruppo CDP, le società partecipate e le Istituzioni pubbliche possono  individuare l’opportunità di fornire temporaneamente alcune delle proprie professionalità, per  necessità connesse ad aspetti strategici legati alla propria missione istituzionale e di business.   Di norma, tale opportunità si concretizza attraverso gli istituti dell’aspettativa e del distacco, così  come previsto dalla legge.   3.2  Obiettivo del documento   Il presente documento ha l’obiettivo di definire i principi generali, i criteri di valutazione, nonché le  regole per lo scambio temporaneo di professionalità, tramite gli istituti dell’aspettativa o del distacco,  nel rispetto del principio di autonomia decisionale e avuto in ogni caso riguardo al soddisfacimento  delle esigenze e alla tutela degli interessi di ciascun soggetto coinvolto.   In particolare, il documento definisce, per le casistiche rientranti nel perimetro di applicabilità:   •  i principi generali e i criteri utilizzati per la preventiva valutazione di merito;    •  le regole per l’applicabilità degli istituti;   •  i ruoli e le responsabilità dei diversi attori e degli organi interessati;   •  il processo di valutazione;   •  i flussi informativi verso la Capogruppo;   •  gli aspetti amministrativi e gestionali relativi al periodo di aspettativa o distacco.",
+        "hash": "5398e415e2efdb173e236d33b24e6b7bbaa763740920ddf972d614e351643c88"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::de4a140df6c91abe7cde",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::de4a140df6c91abe7cde",
+        "name": "3.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive il contesto generale in cui operano le istituzioni pubbliche e le società private strategiche, evidenziando la necessità di adeguamento continuo e la possibilità di ricorrere temporaneamente a professionalità esterne o allo scambio di figure professionali, senza imporre obblighi o condizioni specifiche. Testo significativo: Le Istituzioni Pubbliche nazionali e internazionali, così come le Società private operative in settori strategici per il Paese, sono sottoposte alla continua evoluzione del contesto giuridico e socio-economico di riferimento e, per il perseguimento dei propri obiettivi e dell’interesse pubblico collettivo, sono chiamate ad adeguare costantemente la propria operatività, talvolta anche ricorrendo al supporto temporaneo di specifiche professionalità esterne, ovvero all’opportunità di scambio di figure professionali.",
+        "plain_text": "Le Istituzioni Pubbliche nazionali e internazionali, così come le Società private operative in settori  strategici per il Paese, sono sottoposte alla continua evoluzione del contesto giuridico e socio-economico di riferimento e, per il perseguimento dei propri obiettivi e dell’interesse pubblico  collettivo, sono chiamate ad adeguare costantemente la propria operatività, talvolta anche ricorrendo  al supporto temporaneo di specifiche professionalità esterne, ovvero all’opportunità di scambio di  figure professionali.    Il ricorso a tali fattispecie è caratteristico dei sistemi economici sviluppati ed evoluti e rappresenta  una virtuosa modalità attraverso cui sviluppare il capitale umano e le competenze, avvalendosi di  contaminazioni professionali e di conoscenze che, sia nel breve che nel medio lungo periodo,  favoriscono la sempre più efficace ed efficiente interazione tra operatori privati e pubblici.   In tale contesto, le Società del Gruppo CDP, le società partecipate e le Istituzioni pubbliche possono  individuare l’opportunità di fornire temporaneamente alcune delle proprie professionalità, per  necessità connesse ad aspetti strategici legati alla propria missione istituzionale e di business.   Di norma, tale opportunità si concretizza attraverso gli istituti dell’aspettativa e del distacco, così  come previsto dalla legge.   3.2  Obiettivo del documento   Il presente documento ha l’obiettivo di definire i principi generali, i criteri di valutazione, nonché le  regole per lo scambio temporaneo di professionalità, tramite gli istituti dell’aspettativa o del distacco,  nel rispetto del principio di autonomia decisionale e avuto in ogni caso riguardo al soddisfacimento  delle esigenze e alla tutela degli interessi di ciascun soggetto coinvolto.   In particolare, il documento definisce, per le casistiche rientranti nel perimetro di applicabilità:   •  i principi generali e i criteri utilizzati per la preventiva valutazione di merito;    •  le regole per l’applicabilità degli istituti;   •  i ruoli e le responsabilità dei diversi attori e degli organi interessati;   •  il processo di valutazione;   •  i flussi informativi verso la Capogruppo;   •  gli aspetti amministrativi e gestionali relativi al periodo di aspettativa o distacco.",
+        "hash": "de4a140df6c91abe7cdedc656f73cda577721297dca53ba1732af5c9b14b3971"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e698df2bf897d7e67f88",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e698df2bf897d7e67f88",
+        "name": "3.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma espone l'obiettivo generale del documento, che consiste nel definire principi, criteri e regole per lo scambio temporaneo di professionalità tramite aspettativa o distacco, specificando i criteri di valutazione, le responsabilità e gli aspetti amministrativi. Testo significativo: Il presente documento ha l’obiettivo di definire i principi generali, i criteri di valutazione, nonché le regole per lo scambio temporaneo di professionalità, tramite gli istituti dell’aspettativa o del distacco, nel rispetto del principio di autonomia decisionale e avuto in ogni caso riguardo al soddisfacimento delle esigenze e alla tutela degli interessi di ciascun soggetto coinvolto.",
+        "plain_text": "Il presente documento ha l’obiettivo di definire i principi generali, i criteri di valutazione, nonché le  regole per lo scambio temporaneo di professionalità, tramite gli istituti dell’aspettativa o del distacco,  nel rispetto del principio di autonomia decisionale e avuto in ogni caso riguardo al soddisfacimento  delle esigenze e alla tutela degli interessi di ciascun soggetto coinvolto.   In particolare, il documento definisce, per le casistiche rientranti nel perimetro di applicabilità:   •  i principi generali e i criteri utilizzati per la preventiva valutazione di merito;    •  le regole per l’applicabilità degli istituti;   •  i ruoli e le responsabilità dei diversi attori e degli organi interessati;   •  il processo di valutazione;   •  i flussi informativi verso la Capogruppo;   •  gli aspetti amministrativi e gestionali relativi al periodo di aspettativa o distacco.      4  Principi generali e criteri di valutazione   In termini generali, per il Gruppo CDP è previsto l’utilizzo di un istituto piuttosto che dell’altro in  funzione del soggetto che manifesta l’esigenza. In particolare, si applica:   a) l’aspettativa2, di norma non retribuita, per quanto concerne la casistica in cui sia la società   datrice di lavoro a ricevere una richiesta da parte di un proprio dipendente;   b) il distacco, per quanto concerne i casi in cui è il datore di lavoro ad individuare una opportunità,   o a ricevere una richiesta da una altra società/Istituzione3. .   Le opportunità di fornire/ricevere temporaneamente alcune professionalità devono essere valutate  sulla base di 3 criteri, di seguito descritti:   1) Opportunità: la valutazione deve avere ad oggetto:    i.  i potenziali vantaggi derivanti dall’avere un dipendente del Gruppo CDP all’interno di una  Istituzione Pubblica/Società partecipata/ altra Società del Gruppo CDP, ovvero avere  all’interno dell’organico delle varie Società del Gruppo CDP una risorsa appartenente ad una  Istituzione Pubblica/Società partecipata/altra Società del Gruppo CDP, che permetta una  migliore e più efficiente interazione e comunicazione tra le parti coinvolte;    ii.  la possibilità di arricchimento formativo -professionale che posso trarne, in via diretta, i  dipendenti del Gruppo CDP coinvolti4, e, in via indiretta, il Gruppo CDP;   iii.  i profili di potenziale conflitto d’interesse, nonché i profili istituzionali rispetto all’operatività del  Gruppo CDP, anche con riguardo all’assenza di esercizio di poteri autoritativi e/o negoziali  che siano esercitati nei confronti del Gruppo CDP;   iv.  i possibili rischi reputazionali;   v.  la conformità della misura alla normativa sul lavoro.   2) Priorità: valutazione delle implicazioni operative ed amministrative per il Gruppo CDP, in   particolare:    i.  impatti operativi per il Gruppo CDP legati all’indisponibilità temporanea del dipendente5 nel  caso di aspettative o distacco verso altre controparti;   ii.  presenza di Memorandum of Understanding (MoU) e/o altre forme di accordo/protocollo      2 In generale, il rapporto di lavoro rimane sospeso senza la maturazione e/o erogazione di elementi retributivi e  previdenziali. La società del Gruppo CDP può – in circostanze specifiche – riconoscere profili di onerosità anche a proprio  carico.   3 Per quanto riguarda il distacco out di dipendenti del Gruppo CDP, è esclusivamente la società di cui la risorsa è  dipendente ad individuare la risorsa interna potenzialmente più adeguata a soddisfare tale richiesta e interesse   4 In caso di distacco/aspettativa IN viene valutato anche l’arricchimento professionale che il collaboratore esterno potrà  trasmettere alle risorse del Gruppo CDP.   5 Da valutare in relazione alla tempistica ritenuta congrua, che non deve essere di norma superiore a 2 anni o alla durata  del mandato del governo centrale o territoriale.",
+        "hash": "e698df2bf897d7e67f88bf43e3c4cc13bf5d6d60de3f0e2905baba6fa1a001b6"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::356940c978c7e36180d4",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::356940c978c7e36180d4",
+        "name": "4",
+        "type": "Sottocomma",
+        "abstract": "Il comma stabilisce i criteri e le regole generali per l'applicazione degli istituti di distacco e aspettativa nel Gruppo CDP, specificando le condizioni, i limiti quantitativi e temporali, e le modalità di ripartizione dei costi tra le società coinvolte. Testo significativo: Sono di seguito riportate le regole di applicazione e ripartizione dei costi, nonché eventuali limiti quantitativi e temporali.",
+        "plain_text": "In termini generali, per il Gruppo CDP è previsto l’utilizzo di un istituto piuttosto che dell’altro in  funzione del soggetto che manifesta l’esigenza. In particolare, si applica:   a) l’aspettativa2, di norma non retribuita, per quanto concerne la casistica in cui sia la società   datrice di lavoro a ricevere una richiesta da parte di un proprio dipendente;   b) il distacco, per quanto concerne i casi in cui è il datore di lavoro ad individuare una opportunità,   o a ricevere una richiesta da una altra società/Istituzione3. .   Le opportunità di fornire/ricevere temporaneamente alcune professionalità devono essere valutate  sulla base di 3 criteri, di seguito descritti:   1) Opportunità: la valutazione deve avere ad oggetto:    i.  i potenziali vantaggi derivanti dall’avere un dipendente del Gruppo CDP all’interno di una  Istituzione Pubblica/Società partecipata/ altra Società del Gruppo CDP, ovvero avere  all’interno dell’organico delle varie Società del Gruppo CDP una risorsa appartenente ad una  Istituzione Pubblica/Società partecipata/altra Società del Gruppo CDP, che permetta una  migliore e più efficiente interazione e comunicazione tra le parti coinvolte;    ii.  la possibilità di arricchimento formativo -professionale che posso trarne, in via diretta, i  dipendenti del Gruppo CDP coinvolti4, e, in via indiretta, il Gruppo CDP;   iii.  i profili di potenziale conflitto d’interesse, nonché i profili istituzionali rispetto all’operatività del  Gruppo CDP, anche con riguardo all’assenza di esercizio di poteri autoritativi e/o negoziali  che siano esercitati nei confronti del Gruppo CDP;   iv.  i possibili rischi reputazionali;   v.  la conformità della misura alla normativa sul lavoro.   2) Priorità: valutazione delle implicazioni operative ed amministrative per il Gruppo CDP, in   particolare:    i.  impatti operativi per il Gruppo CDP legati all’indisponibilità temporanea del dipendente5 nel  caso di aspettative o distacco verso altre controparti;   ii.  presenza di Memorandum of Understanding (MoU) e/o altre forme di accordo/protocollo      2 In generale, il rapporto di lavoro rimane sospeso senza la maturazione e/o erogazione di elementi retributivi e  previdenziali. La società del Gruppo CDP può – in circostanze specifiche – riconoscere profili di onerosità anche a proprio  carico.   3 Per quanto riguarda il distacco out di dipendenti del Gruppo CDP, è esclusivamente la società di cui la risorsa è  dipendente ad individuare la risorsa interna potenzialmente più adeguata a soddisfare tale richiesta e interesse   4 In caso di distacco/aspettativa IN viene valutato anche l’arricchimento professionale che il collaboratore esterno potrà  trasmettere alle risorse del Gruppo CDP.   5 Da valutare in relazione alla tempistica ritenuta congrua, che non deve essere di norma superiore a 2 anni o alla durata  del mandato del governo centrale o territoriale.      stipulate tra una o più Società del Gruppo CDP e un’Istituzione Pubblica o Società  partecipata, che regolano obiettivi, tempistiche e finalità degli scambi;   iii.  adempimenti normativi, nonché aspetti di natura economica e relativo impatto, nel caso in  cui il distacco sia al di fuori del territorio nazionale.     3) Reinserimento: nel caso di distacco/aspettativa out, per il reinserimento nel Gruppo CDP   vengono valutati possibili conflitti di interesse rispetto al ruolo o all’incarico ricoperto  esternamente, tenuto conto anche di eventuali poteri autorizzativi e deleghe che la posizione da  assumere nel Gruppo CDP comporti.   5  Regole per l’applicabilità degli Istituti   Sono di seguito riportate le regole di applicazione e ripartizione dei costi, nonché eventuali limiti  quantitativi e temporali.    5.1  Regole generali sui costi   Di norma il distacco è a titolo oneroso per la società distaccataria. Nel caso di distacchi out di  dipendenti del Gruppo CDP verso Istituzioni Pubbliche nazionali, data la natura pubblica della  controparte, possono essere valutate caso per caso eccezioni alla predetta regola, quali la gratuità  o il rimborso parziale.   A fini fiscali, per la suddivisione dei pagamenti tra società distaccante e distaccataria, in base alla  percentuale di distacco, si rimanda alla normativa tempo per tempo vigente.   5.2  Regole per le Istituzioni Pubbliche   5.2.1 Distacco/aspettativa “OUT”   Di norma, verso le Istituzioni Pubbliche nazionali e internazionali sono ammessi sia il distacco che  l’aspettativa, con l’eccezione dei Comuni per i quali -data l’elevata numerosità e la prevalente  connotazione politica dell’incarico -è ammessa solo l’aspettativa.    Di norma, sono applicati i seguenti limiti relativi alla numerosità degli accordi di distacco/aspettativa  attivi:   •  verso le Istituzioni Pubbliche nazionali possono essere, a livello di Gruppo:   o complessivamente non superiori a 25;    o massimo 3 presso ciascuna Istituzione;   •   verso istituzioni pubbliche internazionali, non vi sono limitazioni.   Di norma, la durata del distacco/aspettativa è così definita:",
+        "hash": "356940c978c7e36180d4262d05381fe34a69b77d8739fe8b78bb592a6e21eee0"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e3b0c44298fc1c149afb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e3b0c44298fc1c149afb",
+        "name": "5 Regole per l’applicabilità degli Istituti",
+        "type": "Articolo",
+        "abstract": "",
+        "plain_text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::bcedc283f6af409550d5",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::bcedc283f6af409550d5",
+        "name": "5.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma stabilisce che il distacco è generalmente a titolo oneroso per la società distaccataria, ma per i distacchi verso Istituzioni Pubbliche nazionali possono essere valutate eccezioni come la gratuità o il rimborso parziale; inoltre, per la suddivisione dei pagamenti si rimanda alla normativa vigente. Testo significativo: Di norma il distacco è a titolo oneroso per la società distaccataria. Nel caso di distacchi out di dipendenti del Gruppo CDP verso Istituzioni Pubbliche nazionali, data la natura pubblica della controparte, possono essere valutate caso per caso eccezioni alla predetta regola, quali la gratuità o il rimborso parziale. A fini fiscali, per la suddivisione dei pagamenti tra società distaccante e distaccataria, in base alla percentuale di distacco, si rimanda alla normativa tempo per tempo vigente.",
+        "plain_text": "Di norma il distacco è a titolo oneroso per la società distaccataria. Nel caso di distacchi out di  dipendenti del Gruppo CDP verso Istituzioni Pubbliche nazionali, data la natura pubblica della  controparte, possono essere valutate caso per caso eccezioni alla predetta regola, quali la gratuità  o il rimborso parziale.   A fini fiscali, per la suddivisione dei pagamenti tra società distaccante e distaccataria, in base alla  percentuale di distacco, si rimanda alla normativa tempo per tempo vigente.   5.2  Regole per le Istituzioni Pubbliche   5.2.1 Distacco/aspettativa “OUT”   Di norma, verso le Istituzioni Pubbliche nazionali e internazionali sono ammessi sia il distacco che  l’aspettativa, con l’eccezione dei Comuni per i quali -data l’elevata numerosità e la prevalente  connotazione politica dell’incarico -è ammessa solo l’aspettativa.    Di norma, sono applicati i seguenti limiti relativi alla numerosità degli accordi di distacco/aspettativa  attivi:   •  verso le Istituzioni Pubbliche nazionali possono essere, a livello di Gruppo:   o complessivamente non superiori a 25;    o massimo 3 presso ciascuna Istituzione;   •   verso istituzioni pubbliche internazionali, non vi sono limitazioni.   Di norma, la durata del distacco/aspettativa è così definita:",
+        "hash": "bcedc283f6af409550d5470120a3e4838d8a5bf8285cd63a44427615311e325a"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::81f611170277e15eb729",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::81f611170277e15eb729",
+        "name": "5.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma stabilisce i limiti e le condizioni per il distacco e l'aspettativa del personale verso le Istituzioni Pubbliche, distinguendo tra istituzioni nazionali, internazionali e Comuni, e specificando limiti numerici e di durata. Testo significativo: Di norma, verso le Istituzioni Pubbliche nazionali e internazionali sono ammessi sia il distacco che l’aspettativa, con l’eccezione dei Comuni per i quali -data l’elevata numerosità e la prevalente connotazione politica dell’incarico -è ammessa solo l’aspettativa. Di norma, sono applicati i seguenti limiti relativi alla numerosità degli accordi di distacco/aspettativa attivi: • verso le Istituzioni Pubbliche nazionali possono essere, a livello di Gruppo: o complessivamente non superiori a 25; o massimo 3 presso ciascuna Istituzione; • verso istituzioni pubbliche internazionali, non vi sono limitazioni. Di norma, la durata del distacco/aspettativa è così definita:",
+        "plain_text": "5.2.1 Distacco/aspettativa “OUT”   Di norma, verso le Istituzioni Pubbliche nazionali e internazionali sono ammessi sia il distacco che  l’aspettativa, con l’eccezione dei Comuni per i quali -data l’elevata numerosità e la prevalente  connotazione politica dell’incarico -è ammessa solo l’aspettativa.    Di norma, sono applicati i seguenti limiti relativi alla numerosità degli accordi di distacco/aspettativa  attivi:   •  verso le Istituzioni Pubbliche nazionali possono essere, a livello di Gruppo:   o complessivamente non superiori a 25;    o massimo 3 presso ciascuna Istituzione;   •   verso istituzioni pubbliche internazionali, non vi sono limitazioni.   Di norma, la durata del distacco/aspettativa è così definita:",
+        "hash": "81f611170277e15eb729e2de8d9f6959683bb90d4d9882bd53446cfa2968ce4a"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::a7cf4469bbfbefc7b6ae",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::a7cf4469bbfbefc7b6ae",
+        "name": "5.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina le modalità, i limiti temporali e le responsabilità relative al distacco di personale tra Società partecipate e altre Società del Gruppo CDP, specificando ruoli, procedure e condizioni operative per la richiesta e la gestione del distacco e dell’aspettativa. Testo significativo: Da e verso Società partecipate o altre Società del Gruppo CDP, è ammissibile il solo istituto del distacco. La durata del distacco– sia “in” che “out” – è così definita: per Responsabili di I linea a riporto dell’Amministratore Delegato o del Consiglio di Amministrazione presso la società distaccataria, il distacco, se totale, ha la durata massima di 1 anno. per tutte le altre risorse, il distacco, se totale, può durare massimo 3 anni. In entrambi i casi, al termine è previsto il rientro presso la società datore di lavoro, oppure la cessione del contratto alla società distaccataria, previo accordo con il dipendente.",
+        "plain_text": "Da e verso Società partecipate o altre Società del Gruppo CDP, è ammissibile il solo istituto del  distacco.    La durata del distacco– sia “in” che “out” – è così definita7:   •  per Responsabili di I linea a riporto dell’Amministratore Delegato o del Consiglio di  Amministrazione presso la società distaccataria, il distacco, se totale, ha la durata massima  di 1 anno.    •  per tutte le altre risorse, il distacco, se totale, può durare massimo 3 anni8.    In entrambi i casi, al termine è previsto il rientro presso la società datore di lavoro, oppure la cessione  del contratto alla società distaccataria, previo accordo con il dipendente.      6 Si specifica che per tale fattispecie è previsto l’obbligo, a carico della figura professionale da inserire, di comunicare a  CDP se si trova in situazione di aspettativa e con quale durata (cfr. Regolamento Selezione e Assunzione del Personale- Allegato 3).   7 I limiti temporali definiti non trovano applicabilità per i dipendenti distaccati presso la Fondazione CDP.   8 Cfr. nota precedente.      6  Ruoli e responsabilità   Di seguito si riportano i ruoli e le responsabilità degli attori coinvolti nel processo di valutazione    •  Istituzione Pubblica o Società partecipata o altra Società del Gruppo CDP interessata: è  l’entità che richiede alla Società del Gruppo CDP titolare del rapporto di lavoro la possibilità di  avvalersi in via temporanea di una sua professionalità, ovvero alla quale una Società del Gruppo  CDP può richiedere di avvalersi di una propria risorsa.  Nel caso in cui sia tale entità a richiedere  al Gruppo CDP di avvalersi di una sua risorsa, è previsto che formalizza la suddetta richiesta  tramite l’invio di una e-mail / pec, avendo cura di evidenziare le seguenti informazioni: finalità  della richiesta, durata per la quale è richiesto il distacco, eventuali richieste relative alla gestione  degli adempimenti contrattuali/amministrativi, descrizione del profilo ricercato.   •  Dipendente del Gruppo CDP: è la risorsa che richiede la possibilità di avvalersi di un’aspettativa  per motivi professionali, anche al fine di prestare la propria opera professionale in una Istituzione  Pubblica, secondo la normativa collettiva e aziendale tempo per tempo vigente. Formalizza la  suddetta richiesta con l’invio di una e-mail alla competente funzione Risorse Umane e/o al  proprio Direttore Risorse Umane avendo cura di evidenziare le seguenti informazioni: finalità  della richiesta e ruolo da ricoprire, durata per la quale è richiesta l’aspettativa, eventuali richieste  relative alla gestione degli adempimenti contrattuali/amministrativi e potenziali rischi  reputazionali o conflitti di interesse.   •  Struttura organizzativa di riferimento: corrisponde alla Direzione di riferimento in cui è  organizzativamente assegnato il dipendente al momento della valutazione, ovvero alla Direzione  che richiede di avvalersi di una professionalità esterna, appartenente ad una Istituzione Pubblica  / Società partecipata / altra Società del Gruppo CDP. È chiamata a valutare il rispetto dei criteri  di competenza, di cui al paragrafo 4.   •  Competente funzione Risorse Umane della Società del Gruppo CDP:    o assicura la gestione dell’intero processo di valutazione di cui al presente documento, ,   con il supporto delle altre strutture, segnalando eventuali elementi di attenzione, per gli  ambiti di competenza, all’Amministratore Delegato o al suo staff.   o valuta, per ogni singola opportunità/richiesta, gli aspetti giuslavoristici, l’esigenza di   eventuale sostituzione temporanea, nonché le modalità di reinserimento del dipendente  al termine del periodo di distacco o aspettativa, secondo quanto stabilito al paragrafo 4;   o valuta eventuali opportunità di promuovere la definizione di Memorandum of   Understanding (c.d. MoU) con Istituzioni Pubbliche o Società partecipate;   •  Funzione Compliance della Società del Gruppo CDP: solo per i distacchi (e non per le  Aspettative) e nelle sole ipotesi in cui siano soddisfatte congiuntamente le seguenti condizioni:  i) sono stati dichiarati dal Dipendente del Gruppo possibili rischi di natura reputazionale, nonché  profili di potenziale conflitti di interesse; ii) il Distacco sia verso un entità/società diversa da  Capogruppo, una Società del Gruppo o una Società Partecipata, suggerisce, in accordo con la",
+        "hash": "a7cf4469bbfbefc7b6ae69d0f5aa34d95eaa9eddd0c06e030a002871997a1860"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ebee3701005e472a7846",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ebee3701005e472a7846",
+        "name": "6",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive in modo dettagliato i ruoli, le responsabilità e le attività operative dei soggetti coinvolti nel processo di valutazione delle richieste di distacco o aspettativa, specificando le modalità di formalizzazione delle richieste, le funzioni coinvolte e le fasi procedurali. Testo significativo: Di seguito si riportano i ruoli e le responsabilità degli attori coinvolti nel processo di valutazione • Istituzione Pubblica o Società partecipata o altra Società del Gruppo CDP interessata: è l’entità che richiede alla Società del Gruppo CDP titolare del rapporto di lavoro la possibilità di avvalersi in via temporanea di una sua professionalità, ovvero alla quale una Società del Gruppo CDP può richiedere di avvalersi di una propria risorsa. Nel caso in cui sia tale entità a richiedere al Gruppo CDP di avvalersi di una sua risorsa, è previsto che formalizza la suddetta richiesta tramite l’invio di una e-mail / pec, avendo cura di evidenziare le seguenti informazioni: finalità della richiesta, durata per la quale è richiesto il distacco, eventuali richieste relative alla gestione degli adempimenti contrattuali/amministrativi, descrizione del profilo ricercato. • Dipendente del Gruppo CDP: è la risorsa che richiede la possibilità di avvalersi di un’aspettativa per motivi professionali, anche al fine di prestare la",
+        "plain_text": "Di seguito si riportano i ruoli e le responsabilità degli attori coinvolti nel processo di valutazione    •  Istituzione Pubblica o Società partecipata o altra Società del Gruppo CDP interessata: è  l’entità che richiede alla Società del Gruppo CDP titolare del rapporto di lavoro la possibilità di  avvalersi in via temporanea di una sua professionalità, ovvero alla quale una Società del Gruppo  CDP può richiedere di avvalersi di una propria risorsa.  Nel caso in cui sia tale entità a richiedere  al Gruppo CDP di avvalersi di una sua risorsa, è previsto che formalizza la suddetta richiesta  tramite l’invio di una e-mail / pec, avendo cura di evidenziare le seguenti informazioni: finalità  della richiesta, durata per la quale è richiesto il distacco, eventuali richieste relative alla gestione  degli adempimenti contrattuali/amministrativi, descrizione del profilo ricercato.   •  Dipendente del Gruppo CDP: è la risorsa che richiede la possibilità di avvalersi di un’aspettativa  per motivi professionali, anche al fine di prestare la propria opera professionale in una Istituzione  Pubblica, secondo la normativa collettiva e aziendale tempo per tempo vigente. Formalizza la  suddetta richiesta con l’invio di una e-mail alla competente funzione Risorse Umane e/o al  proprio Direttore Risorse Umane avendo cura di evidenziare le seguenti informazioni: finalità  della richiesta e ruolo da ricoprire, durata per la quale è richiesta l’aspettativa, eventuali richieste  relative alla gestione degli adempimenti contrattuali/amministrativi e potenziali rischi  reputazionali o conflitti di interesse.   •  Struttura organizzativa di riferimento: corrisponde alla Direzione di riferimento in cui è  organizzativamente assegnato il dipendente al momento della valutazione, ovvero alla Direzione  che richiede di avvalersi di una professionalità esterna, appartenente ad una Istituzione Pubblica  / Società partecipata / altra Società del Gruppo CDP. È chiamata a valutare il rispetto dei criteri  di competenza, di cui al paragrafo 4.   •  Competente funzione Risorse Umane della Società del Gruppo CDP:    o assicura la gestione dell’intero processo di valutazione di cui al presente documento, ,   con il supporto delle altre strutture, segnalando eventuali elementi di attenzione, per gli  ambiti di competenza, all’Amministratore Delegato o al suo staff.   o valuta, per ogni singola opportunità/richiesta, gli aspetti giuslavoristici, l’esigenza di   eventuale sostituzione temporanea, nonché le modalità di reinserimento del dipendente  al termine del periodo di distacco o aspettativa, secondo quanto stabilito al paragrafo 4;   o valuta eventuali opportunità di promuovere la definizione di Memorandum of   Understanding (c.d. MoU) con Istituzioni Pubbliche o Società partecipate;   •  Funzione Compliance della Società del Gruppo CDP: solo per i distacchi (e non per le  Aspettative) e nelle sole ipotesi in cui siano soddisfatte congiuntamente le seguenti condizioni:  i) sono stati dichiarati dal Dipendente del Gruppo possibili rischi di natura reputazionale, nonché  profili di potenziale conflitti di interesse; ii) il Distacco sia verso un entità/società diversa da  Capogruppo, una Società del Gruppo o una Società Partecipata, suggerisce, in accordo con la      competente funzione Risorse Umane della Società del Gruppo, ove esistenti, l’adozione di  presidi di mitigazione.   •  Direttore Risorse Umane della Società del Gruppo CDP: in accordo con Amministratore  Delegato / Staff AD, approva o rigetta la proposta ad esito della valutazione basata sulle  evidenze fornite dalle predette funzioni aziendali competenti. Il Direttore Risorse Umane della  Capogruppo rilascia i pareri non vincolanti in caso di richieste di attivazione di  distacchi/aspettative in e out in perimetro (cfr. par. 8)   •  Amministratore Delegato/Staff AD della Società del Gruppo CDP: in accordo con il Direttore  Risorse Umane, approvano o rigettano la proposta. Possono autorizzare deroghe al processo  definito.   •  Vertici aziendali della Società del Gruppo CDP: possono manifestare la volontà di inserire  all’interno del Gruppo CDP una risorsa proveniente una Istituzione Pubblica o di una Società  partecipata / altra Società del Gruppo CDP.           7  Processo di valutazione   7.1  Distacco/aspettativa “OUT”   Il processo di valutazione di una richiesta rientrante nelle presenti fattispecie si articola nelle attività  di seguito descritte:   1) La competente funzione Risorse Umane riceve le richieste tramite canali interni o esterni, aventi   ad oggetto:    a. una richiesta proveniente da una Istituzione Pubblica e/o Società partecipata/ altra Società   del Gruppo9, di messa a disposizione in via temporanea di una professionalità interna al  Gruppo CDP;   b. una richiesta da parte di un dipendente del Gruppo CDP di avvalersi di un’aspettativa per   motivi professionali, anche al fine di prestare la propria opera professionale in una Istituzione  Pubblica e/o Società partecipata.   2) La competente funzione Risorse Umane, ricevuta la richiesta, avvia il processo di valutazione   preliminare. Ad esito di tale valutazione, viene coinvolta la Struttura organizzativa interessata,  per le valutazioni di competenza, la quale viene inoltre chiamata ad individuare il dipendente del  Gruppo CDP da prendere in considerazione, per le richieste di cui al precedente punto a. Ad  esito del processo valutativo10, la competente funzione Risorse Umane predispone una breve  nota, che include anche il contributo della Struttura organizzativa interessata, da sottoporre11  all’attenzione del Direttore Risorse Umane e successivamente a quello dell’Amministratore  Delegato/Staff AD.   3) in base alla decisione presa, la competente funzione Risorse Umane, in coordinamento con la   Struttura organizzativa interessata, provvede ad informare il dipendente coinvolto, dando  seguito, in caso di approvazione, agli adempimenti amministrativi previsti. In prossimità del  termine del periodo di aspettativa/distacco, la competente funzione Risorse Umane provvede  all’individuazione della struttura organizzativa di ricollocamento, oltre che all’espletamento di tutti  gli adempimenti amministrativi previsti.   Il processo suddetto tiene conto della rilevanza del ruolo e delle responsabilità del dipendente del  Gruppo CDP coinvolto, nonché di quanto eventualmente previsto dal CCNL vigente, prevedendo  una modulazione delle attività istruttorie e valutative nel rispetto del principio di proporzionalità.  Qualora richiesto dalle circostanze, e in considerazione delle specificità del caso, possono essere  previste ulteriori misure.      9 In specifiche circostanze la richiesta di distacco può in prima istanza essere manifestata all’Amministratore Delegato o  suo incaricato, ovvero al Direttore Risorse Umane. In entrambi in casi la richiesta viene trasmessa alla competente  funzione Risorse Umane.   10 In tale sede viene verificata la disponibilità della risorsa individuata.   11 Previo parere della Capogruppo, per le società destinatarie della presente policy.",
+        "hash": "ebee3701005e472a78463a304dcac4874241f0c3f036f34fab657bf3e37098ea"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::8ad1d4217cbc3a45a1ff",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::8ad1d4217cbc3a45a1ff",
+        "name": "7",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive in dettaglio le fasi e le attività che compongono il processo di valutazione delle richieste di distacco o aspettativa OUT, specificando i soggetti coinvolti, le modalità operative e le possibili modulazioni in base alle circostanze e alle normative vigenti. Testo significativo: Il processo di valutazione di una richiesta rientrante nelle presenti fattispecie si articola nelle attività di seguito descritte: 1) La competente funzione Risorse Umane riceve le richieste tramite canali interni o esterni, aventi ad oggetto: a. una richiesta proveniente da una Istituzione Pubblica e/o Società partecipata/ altra Società del Gruppo9, di messa a disposizione in via temporanea di una professionalità interna al Gruppo CDP; b. una richiesta da parte di un dipendente del Gruppo CDP di avvalersi di un’aspettativa per motivi professionali, anche al fine di prestare la propria opera professionale in una Istituzione Pubblica e/o Società partecipata. 2) La competente funzione Risorse Umane, ricevuta la richiesta, avvia il processo di valutazione preliminare. Ad esito di tale valutazione, viene coinvolta la Struttura organizzativa interessata, per le valutazioni di competenza, la quale viene inoltre chiamata ad individuare il dipendente del Gruppo CDP da prendere in considerazione, per le richieste di cui al precedente punto a. Ad esito",
+        "plain_text": "7.1  Distacco/aspettativa “OUT”   Il processo di valutazione di una richiesta rientrante nelle presenti fattispecie si articola nelle attività  di seguito descritte:   1) La competente funzione Risorse Umane riceve le richieste tramite canali interni o esterni, aventi   ad oggetto:    a. una richiesta proveniente da una Istituzione Pubblica e/o Società partecipata/ altra Società   del Gruppo9, di messa a disposizione in via temporanea di una professionalità interna al  Gruppo CDP;   b. una richiesta da parte di un dipendente del Gruppo CDP di avvalersi di un’aspettativa per   motivi professionali, anche al fine di prestare la propria opera professionale in una Istituzione  Pubblica e/o Società partecipata.   2) La competente funzione Risorse Umane, ricevuta la richiesta, avvia il processo di valutazione   preliminare. Ad esito di tale valutazione, viene coinvolta la Struttura organizzativa interessata,  per le valutazioni di competenza, la quale viene inoltre chiamata ad individuare il dipendente del  Gruppo CDP da prendere in considerazione, per le richieste di cui al precedente punto a. Ad  esito del processo valutativo10, la competente funzione Risorse Umane predispone una breve  nota, che include anche il contributo della Struttura organizzativa interessata, da sottoporre11  all’attenzione del Direttore Risorse Umane e successivamente a quello dell’Amministratore  Delegato/Staff AD.   3) in base alla decisione presa, la competente funzione Risorse Umane, in coordinamento con la   Struttura organizzativa interessata, provvede ad informare il dipendente coinvolto, dando  seguito, in caso di approvazione, agli adempimenti amministrativi previsti. In prossimità del  termine del periodo di aspettativa/distacco, la competente funzione Risorse Umane provvede  all’individuazione della struttura organizzativa di ricollocamento, oltre che all’espletamento di tutti  gli adempimenti amministrativi previsti.   Il processo suddetto tiene conto della rilevanza del ruolo e delle responsabilità del dipendente del  Gruppo CDP coinvolto, nonché di quanto eventualmente previsto dal CCNL vigente, prevedendo  una modulazione delle attività istruttorie e valutative nel rispetto del principio di proporzionalità.  Qualora richiesto dalle circostanze, e in considerazione delle specificità del caso, possono essere  previste ulteriori misure.      9 In specifiche circostanze la richiesta di distacco può in prima istanza essere manifestata all’Amministratore Delegato o  suo incaricato, ovvero al Direttore Risorse Umane. In entrambi in casi la richiesta viene trasmessa alla competente  funzione Risorse Umane.   10 In tale sede viene verificata la disponibilità della risorsa individuata.   11 Previo parere della Capogruppo, per le società destinatarie della presente policy.",
+        "hash": "8ad1d4217cbc3a45a1ffdc2e10ae4e7d6d8e71e9a5f35cd2a15e4b5bffa5b69a"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::2dd66412f58cb3758627",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::2dd66412f58cb3758627",
+        "name": "8",
+        "type": "Sottocomma",
+        "abstract": "Le società destinatarie devono trasmettere una nota informativa preventiva alla Capogruppo prima dell'approvazione di distacchi/aspettative con Istituzioni Pubbliche e fornire aggiornamenti semestrali sulle posizioni in essere. Testo significativo: Le società destinatarie della presente Policy sono tenute a trasmettere alla Capogruppo una nota informativa preventivamente all’approvazione di un distacco/aspettativa (sia in, sia out) da/verso Istituzioni Pubbliche. [...] Con cadenza semestrale le società destinatarie forniscono un update di tutte le posizioni in essere, con le relative informazioni di dettaglio.",
+        "plain_text": "Le società destinatarie della presente Policy sono tenute a trasmettere alla Capogruppo una nota  informativa preventivamente all’approvazione di un distacco/aspettativa (sia in, sia out) da/verso  Istituzioni Pubbliche. La Capogruppo, effettuate le verifiche di competenza (es. rispetto limiti di  gruppo per distacchi/aspettative “out”), provvede a rilasciare un parere non vincolante.    Con cadenza semestrale le società destinatarie forniscono un update di tutte le posizioni in essere,  con le relative informazioni di dettaglio.   9  Aspetti amministrativi per la gestione del distacco    Gli aspetti amministrativi per la gestione dei distacchi “in” dall’estero sono disciplinati all’interno del  Regolamento “Gestione distacchi dall’estero\", mentre per i distacchi “out” verso l’estero si rimanda  al Regolamento “Trattamento economico organizzativo del personale all’estero”.   Per quanto concerne la gestione dei distacchi “in” e “out” sul territorio nazionale si rimanda alla  normativa nazionale e collettiva tempo per tempo vigente.   Al termine del distacco, il Gruppo CDP adibisce il lavoratore a mansioni riconducibili al suo livello  inquadramentale nel rispetto di quanto previsto dall’articolo 2103 cc..      12 Previo parere della Capogruppo, per le società destinatarie della presente policy.",
+        "hash": "2dd66412f58cb3758627b695476b68f81d8994a62a17e816243b66599a742c21"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ff8630e5231480292984",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ff8630e5231480292984",
+        "name": "9",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina i riferimenti normativi e regolamentari per la gestione amministrativa dei distacchi sia dall'estero che verso l'estero, nonché sul territorio nazionale, e specifica che al termine del distacco il lavoratore deve essere adibito a mansioni coerenti con il proprio livello inquadramentale, secondo l'articolo 2103 cc. Testo significativo: Gli aspetti amministrativi per la gestione dei distacchi “in” dall’estero sono disciplinati all’interno del Regolamento “Gestione distacchi dall’estero\", mentre per i distacchi “out” verso l’estero si rimanda al Regolamento “Trattamento economico organizzativo del personale all’estero”. Per quanto concerne la gestione dei distacchi “in” e “out” sul territorio nazionale si rimanda alla normativa nazionale e collettiva tempo per tempo vigente. Al termine del distacco, il Gruppo CDP adibisce il lavoratore a mansioni riconducibili al suo livello inquadramentale nel rispetto di quanto previsto dall’articolo 2103 cc..",
+        "plain_text": "Gli aspetti amministrativi per la gestione dei distacchi “in” dall’estero sono disciplinati all’interno del  Regolamento “Gestione distacchi dall’estero\", mentre per i distacchi “out” verso l’estero si rimanda  al Regolamento “Trattamento economico organizzativo del personale all’estero”.   Per quanto concerne la gestione dei distacchi “in” e “out” sul territorio nazionale si rimanda alla  normativa nazionale e collettiva tempo per tempo vigente.   Al termine del distacco, il Gruppo CDP adibisce il lavoratore a mansioni riconducibili al suo livello  inquadramentale nel rispetto di quanto previsto dall’articolo 2103 cc..      12 Previo parere della Capogruppo, per le società destinatarie della presente policy.      10 Gestione dell’aspettativa   In linea generale, l’aspettativa non retribuita viene disciplinata dalla normativa nazionale e collettiva  di riferimento tempo per tempo vigente.   Attraverso l’istituto dell’aspettativa, il rapporto di lavoro rimane sospeso senza la maturazione e/o  erogazione di elementi retributivi e previdenziali.   Conseguentemente, anche l’obbligo previdenziale e assicurativo rimane sospeso per la durata  dell’aspettativa non retribuita, e nel periodo non sono versati contributi obbligatori neanche  figurativamente. In circostanze specifiche, la società distaccante può riconoscere profili di onerosità  a suo carico tramite il mantenimento al dipendente in aspettativa di alcuni benefit preesistenti alla  data di inizio dell’aspettativa.   Al termine dell’aspettativa, il Gruppo CDP adibisce il lavoratore a mansioni riconducibili al suo livello  inquadramentale nel rispetto di quanto previsto dall’articolo 2103 cc..",
+        "hash": "ff8630e5231480292984647099ef33786d05fca5f2e85e295ef1d21038da2649"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::57aab08fbd0ba7608235"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::57aab08fbd0ba7608235"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::57aab08fbd0ba7608235"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::41a820e1b648329efacd"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::41a820e1b648329efacd"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::41a820e1b648329efacd"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::91f6a46883a733033207"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::91f6a46883a733033207"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::91f6a46883a733033207"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::dd4d1a1df76e1eb7f21f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::dd4d1a1df76e1eb7f21f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::dd4d1a1df76e1eb7f21f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::61aeaa1e779cf8a7043b"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::61aeaa1e779cf8a7043b"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::61aeaa1e779cf8a7043b"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::5398e415e2efdb173e23"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::5398e415e2efdb173e23"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::5398e415e2efdb173e23"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::de4a140df6c91abe7cde"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::de4a140df6c91abe7cde"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::de4a140df6c91abe7cde"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e698df2bf897d7e67f88"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e698df2bf897d7e67f88"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e698df2bf897d7e67f88"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::356940c978c7e36180d4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::356940c978c7e36180d4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::356940c978c7e36180d4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::bcedc283f6af409550d5"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::bcedc283f6af409550d5"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::bcedc283f6af409550d5"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::81f611170277e15eb729"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::81f611170277e15eb729"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::81f611170277e15eb729"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::a7cf4469bbfbefc7b6ae"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::a7cf4469bbfbefc7b6ae"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::a7cf4469bbfbefc7b6ae"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ebee3701005e472a7846"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ebee3701005e472a7846"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ebee3701005e472a7846"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::8ad1d4217cbc3a45a1ff"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::8ad1d4217cbc3a45a1ff"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::8ad1d4217cbc3a45a1ff"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::2dd66412f58cb3758627"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::2dd66412f58cb3758627"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::2dd66412f58cb3758627"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ff8630e5231480292984"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ff8630e5231480292984"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ff8630e5231480292984"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::4634ff1bef5209de15055f0e328eac68",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::57aab08fbd0ba7608235",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::57aab08fbd0ba7608235"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::57aab08fbd0ba7608235",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::57aab08fbd0ba7608235"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::41a820e1b648329efacd",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::41a820e1b648329efacd"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::41a820e1b648329efacd",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::41a820e1b648329efacd"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::91f6a46883a733033207",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::91f6a46883a733033207"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::91f6a46883a733033207",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::91f6a46883a733033207"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::dd4d1a1df76e1eb7f21f",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::dd4d1a1df76e1eb7f21f"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::dd4d1a1df76e1eb7f21f",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::dd4d1a1df76e1eb7f21f"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::61aeaa1e779cf8a7043b",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::61aeaa1e779cf8a7043b"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::61aeaa1e779cf8a7043b",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::61aeaa1e779cf8a7043b"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::5398e415e2efdb173e23",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::5398e415e2efdb173e23"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::5398e415e2efdb173e23",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::5398e415e2efdb173e23"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::de4a140df6c91abe7cde",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::de4a140df6c91abe7cde"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::de4a140df6c91abe7cde",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::de4a140df6c91abe7cde"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e698df2bf897d7e67f88",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e698df2bf897d7e67f88"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e698df2bf897d7e67f88",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::e698df2bf897d7e67f88"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::356940c978c7e36180d4",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::356940c978c7e36180d4"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::356940c978c7e36180d4",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::356940c978c7e36180d4"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::bcedc283f6af409550d5",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::bcedc283f6af409550d5"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::bcedc283f6af409550d5",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::bcedc283f6af409550d5"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::81f611170277e15eb729",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::81f611170277e15eb729"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::81f611170277e15eb729",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::81f611170277e15eb729"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::a7cf4469bbfbefc7b6ae",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::a7cf4469bbfbefc7b6ae"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::a7cf4469bbfbefc7b6ae",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::a7cf4469bbfbefc7b6ae"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ebee3701005e472a7846",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ebee3701005e472a7846"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ebee3701005e472a7846",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ebee3701005e472a7846"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::8ad1d4217cbc3a45a1ff",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::8ad1d4217cbc3a45a1ff"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::8ad1d4217cbc3a45a1ff",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::8ad1d4217cbc3a45a1ff"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::2dd66412f58cb3758627",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::2dd66412f58cb3758627"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::2dd66412f58cb3758627",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::2dd66412f58cb3758627"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ff8630e5231480292984",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ff8630e5231480292984"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ff8630e5231480292984",
+      "target": "DOCUMENT_SECTION::4634ff1bef5209de15055f0e328eac68::ff8630e5231480292984"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:17:37.089521+00:00",
+    "document_name": "POLGRPGestioneaspettativedistacchiGruppo20230413v2.pdf",
+    "document_hash": "4634ff1bef5209de15055f0e328eac68"
+  }
+}

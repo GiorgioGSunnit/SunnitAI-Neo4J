@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::c11a97b9b5f90900b74642b0a58d6f75",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::c11a97b9b5f90900b74642b0a58d6f75",
+        "name": "E_105766EX_DUA_3.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "c11a97b9b5f90900b74642b0a58d6f75"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::c11a97b9b5f90900b74642b0a58d6f75",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:40:21.280999+00:00",
+    "document_name": "E_105766EX_DUA_3.pdf",
+    "document_hash": "c11a97b9b5f90900b74642b0a58d6f75"
+  }
+}

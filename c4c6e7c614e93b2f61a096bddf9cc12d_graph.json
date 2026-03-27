@@ -1,0 +1,729 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+        "name": "POLGRPJobPostingv2020230919v2.pdf",
+        "description": "Il comma fornisce una scheda riepilogativa delle informazioni essenziali relative al documento, tra cui tipologia, normativa abrogata, riferimenti normativi collegati, funzioni coinvolte e modalità di pubblicazione. Testo significativo: Tipologia Documento Policy di Gruppo Normativa abrogata Policy di Gruppo “Job Posting” (v.1.4 del 022/12/2021) Principale normativa di CDP S.p.A. collegata • Modello di Organizzazione Gestione e Controllo ex D.lgs. 231/2001 • Codice Etico • Principi generali sull’esercizio dell’attività di direzione e coordinamento • Regolamento Selezione e Assunzione del Personale Principale normativa di Gruppo collegata • Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione della Normativa di Gruppo • Policy di Gruppo -Piano di staffing e budget dei costi del personale • Processo di Gruppo per la gestione della Normativa di Gruppo Riferimenti a normativa esterna • D. lgs. 231/2001 e s.m.i • Codice Civile, artt. 2497 e segg. • Contratto collettivo nazionale di riferimento Funzione proponente Direzione Persone e Organizzazione di CDP S.p.A. Funzione validante • Compliance di CDP S.p.A. • Supporto Organismo di Vigilanza di CDP S.p.A. Funzione approvante Amministratore Delegato di CDP S.p.A. Funzione emanante Ordine di Servizio dell’AD di CDP S.p.A. n. 15 del 15 novembre 2023 Modalità di pubblicazione Intranet aziendale 1.1 Scheda del documento [['', 'Tipologia Documento', '', '', 'Policy di Gruppo', ''], ['', 'Normativa abrogata', '', '', 'Policy di Gruppo “Job Posting” (v.1.4 del 022/12/2021)', ''], ['Principale normativa di CDP\\nS.p.A. collegata', None, None, '', '• Modello di Organizzazione Gestione e Controllo ex D.lgs. 231/2001', ''], [None, None, None, None, '• Codice Etico', None], [None, None, None, None, '• Principi generali sull’esercizio dell’attività di direzione e', None], [None, None, None, None, 'coordinamento', None], [None, None, None, None, '• Regolamento Selezione e Assunzione del Personale', None], ['Principale normativa di\\nGruppo collegata', None, None, '', '• Policy di Gruppo – Modello normativo di Gruppo e principi per la', ''], [None, None, None, None, 'gestione della Normativa di Gruppo', None], [None, None, None, None, '• Policy di Gruppo -Piano di staffing e budget dei costi del personale', None], [None, None, None, None, '• Processo di Gruppo per la gestione della Normativa di Gruppo', None], ['Riferimenti a normativa\\nesterna', None, None, '', '• D. lgs. 231/2001 e s.m.i', ''], [None, None, None, None, '• Codice Civile, artt. 2497 e segg.', None], [None, None, None, None, '• Contratto collettivo nazionale di riferimento', None], ['', 'Funzione proponente', '', '', 'Direzione Persone e Organizzazione di CDP S.p.A.', ''], ['Funzione 1.1 Scheda del documento [['', 'Tipologia Documento', '', '', 'Policy di Gruppo', ''], ['', 'Normativa abrogata', '', '', 'Policy di Gruppo “Job Posting” (v.1.4 del 022/12/2021)', ''], ['Principale normativa di CDP\\nS.p.A. collegata', None, None, '', '• Modello di Organizzazione Gestione e Controllo ex D.lgs. 231/2001', ''], [None, None, None, None, '• Codice Etico', None], [None, None, None, None, '• Principi generali sull’esercizio dell’attività di direzione e', None], [None, None, None, None, 'coordinamento', None], [None, None, None, None, '• Regolamento Selezione e Assunzione del Personale', None], ['Principale normativa di\\nGruppo collegata', None, None, '', '• Policy di Gruppo – Modello normativo di Gruppo",
+        "date_enacted": "",
+        "status": "",
+        "hash": "c4c6e7c614e93b2f61a096bddf9cc12d"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::ef235588b536bdc36f73",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::ef235588b536bdc36f73",
+        "name": "1",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una scheda riepilogativa delle informazioni essenziali relative al documento, tra cui tipologia, normativa abrogata, riferimenti normativi collegati, funzioni coinvolte e modalità di pubblicazione. Testo significativo: Tipologia Documento Policy di Gruppo Normativa abrogata Policy di Gruppo “Job Posting” (v.1.4 del 022/12/2021) Principale normativa di CDP S.p.A. collegata • Modello di Organizzazione Gestione e Controllo ex D.lgs. 231/2001 • Codice Etico • Principi generali sull’esercizio dell’attività di direzione e coordinamento • Regolamento Selezione e Assunzione del Personale Principale normativa di Gruppo collegata • Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione della Normativa di Gruppo • Policy di Gruppo -Piano di staffing e budget dei costi del personale • Processo di Gruppo per la gestione della Normativa di Gruppo Riferimenti a normativa esterna • D. lgs. 231/2001 e s.m.i • Codice Civile, artt. 2497 e segg. • Contratto collettivo nazionale di riferimento Funzione proponente Direzione Persone e Organizzazione di CDP S.p.A. Funzione validante • Compliance di CDP S.p.A. • Supporto Organismo di Vigilanza di CDP S.p.A. Funzione approvante Amministratore Delegato di CDP S.p.A. Funzione emanante Ordine di Servizio dell’AD di CDP S.p.A. n. 15 del 15 novembre 2023 Modalità di pubblicazione Intranet aziendale",
+        "plain_text": "1.1 Scheda del documento   [['', 'Tipologia Documento', '', '', 'Policy di Gruppo', ''], ['', 'Normativa abrogata', '', '', 'Policy di Gruppo “Job Posting” (v.1.4 del 022/12/2021)', ''], ['Principale normativa di CDP\\nS.p.A. collegata', None, None, '', '• Modello di Organizzazione Gestione e Controllo ex D.lgs. 231/2001', ''], [None, None, None, None, '• Codice Etico', None], [None, None, None, None, '• Principi generali sull’esercizio dell’attività di direzione e', None], [None, None, None, None, 'coordinamento', None], [None, None, None, None, '• Regolamento Selezione e Assunzione del Personale', None], ['Principale normativa di\\nGruppo collegata', None, None, '', '• Policy di Gruppo – Modello normativo di Gruppo e principi per la', ''], [None, None, None, None, 'gestione della Normativa di Gruppo', None], [None, None, None, None, '• Policy di Gruppo -Piano di staffing e budget dei costi del personale', None], [None, None, None, None, '• Processo di Gruppo per la gestione della Normativa di Gruppo', None], ['Riferimenti a normativa\\nesterna', None, None, '', '• D. lgs. 231/2001 e s.m.i', ''], [None, None, None, None, '• Codice Civile, artt. 2497 e segg.', None], [None, None, None, None, '• Contratto collettivo nazionale di riferimento', None], ['', 'Funzione proponente', '', '', 'Direzione Persone e Organizzazione di CDP S.p.A.', ''], ['Funzione validante', 'Funzione validante', None, '', '• Compliance di CDP S.p.A.', ''], [None, None, None, None, '• Supporto Organismo di Vigilanza di CDP S.p.A.', None], ['', 'Funzione approvante', '', '', 'Amministratore Delegato di CDP S.p.A.', ''], ['', 'Funzione emanante', '', '', 'Ordine di Servizio dell’AD di CDP S.p.A. n. 15 del 15 novembre 2023', ''], ['', 'Modalità di pubblicazione', '', '', 'Intranet aziendale', '']] Tipologia Documento  Policy di Gruppo   Normativa abrogata  Policy di Gruppo “Job Posting” (v.1.4 del 022/12/2021)   Principale normativa di CDP  S.p.A. collegata   • Modello di Organizzazione Gestione e Controllo ex D.lgs. 231/2001   • Codice Etico   • Principi  generali  sull’esercizio  dell’attività  di  direzione  e   coordinamento   • Regolamento Selezione e Assunzione del Personale   Principale  normativa  di   Gruppo collegata   • Policy di Gruppo – Modello normativo di Gruppo e principi per la   gestione della Normativa di Gruppo   • Policy di Gruppo -Piano di staffing e budget dei costi del personale   • Processo di Gruppo per la gestione della Normativa di Gruppo   Riferimenti  a  normativa   esterna   • D. lgs. 231/2001 e s.m.i   • Codice Civile, artt. 2497 e segg.   • Contratto collettivo nazionale di riferimento   Funzione proponente  Direzione Persone e Organizzazione di CDP S.p.A.   Funzione validante  • Compliance di CDP S.p.A.   • Supporto Organismo di Vigilanza di CDP S.p.A.   Funzione approvante  Amministratore Delegato di CDP S.p.A.   Funzione emanante   Ordine di Servizio dell’AD di CDP S.p.A. n. 15 del 15 novembre 2023   Modalità di pubblicazione  Intranet aziendale",
+        "hash": "ef235588b536bdc36f730445d0b17b9c0973366ba04f9d833b5a0885553b522d"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::6821595763ec75d098d5",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::6821595763ec75d098d5",
+        "name": "1.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una panoramica informativa sulla tipologia del documento, sulle normative collegate, sulle funzioni coinvolte nell'approvazione e pubblicazione, sulla storia delle revisioni e sui riferimenti di contatto. Testo significativo: Tipologia Documento Policy di Gruppo Normativa abrogata Policy di Gruppo “Job Posting” (v.1.4 del 022/12/2021) Principale normativa di CDP S.p.A. collegata • Modello di Organizzazione Gestione e Controllo ex D.lgs. 231/2001 • Codice Etico • Principi generali sull’esercizio dell’attività di direzione e coordinamento • Regolamento Selezione e Assunzione del Personale Principale normativa di Gruppo collegata • Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione della Normativa di Gruppo • Policy di Gruppo -Piano di staffing e budget dei costi del personale • Processo di Gruppo per la gestione della Normativa di Gruppo Riferimenti a normativa esterna • D. lgs. 231/2001 e s.m.i • Codice Civile, artt. 2497 e segg. • Contratto collettivo nazionale di riferimento Funzione proponente Direzione Persone e Organizzazione di CDP S.p.A. Funzione validante • Compliance di CDP S.p.A. • Supporto Organismo di Vigilanza di CDP S.p.A. Funzione approvante Amministratore Delegato di CDP S.p.A. Funzione emanante Ordine di Servizio dell’AD di CDP S.p.A. n. 15 del 15 novembre 2023 Modalità di pubblicazione Intranet",
+        "plain_text": "[['', 'Tipologia Documento', '', '', 'Policy di Gruppo', ''], ['', 'Normativa abrogata', '', '', 'Policy di Gruppo “Job Posting” (v.1.4 del 022/12/2021)', ''], ['Principale normativa di CDP\\nS.p.A. collegata', None, None, '', '• Modello di Organizzazione Gestione e Controllo ex D.lgs. 231/2001', ''], [None, None, None, None, '• Codice Etico', None], [None, None, None, None, '• Principi generali sull’esercizio dell’attività di direzione e', None], [None, None, None, None, 'coordinamento', None], [None, None, None, None, '• Regolamento Selezione e Assunzione del Personale', None], ['Principale normativa di\\nGruppo collegata', None, None, '', '• Policy di Gruppo – Modello normativo di Gruppo e principi per la', ''], [None, None, None, None, 'gestione della Normativa di Gruppo', None], [None, None, None, None, '• Policy di Gruppo -Piano di staffing e budget dei costi del personale', None], [None, None, None, None, '• Processo di Gruppo per la gestione della Normativa di Gruppo', None], ['Riferimenti a normativa\\nesterna', None, None, '', '• D. lgs. 231/2001 e s.m.i', ''], [None, None, None, None, '• Codice Civile, artt. 2497 e segg.', None], [None, None, None, None, '• Contratto collettivo nazionale di riferimento', None], ['', 'Funzione proponente', '', '', 'Direzione Persone e Organizzazione di CDP S.p.A.', ''], ['Funzione validante', 'Funzione validante', None, '', '• Compliance di CDP S.p.A.', ''], [None, None, None, None, '• Supporto Organismo di Vigilanza di CDP S.p.A.', None], ['', 'Funzione approvante', '', '', 'Amministratore Delegato di CDP S.p.A.', ''], ['', 'Funzione emanante', '', '', 'Ordine di Servizio dell’AD di CDP S.p.A. n. 15 del 15 novembre 2023', ''], ['', 'Modalità di pubblicazione', '', '', 'Intranet aziendale', '']] Tipologia Documento  Policy di Gruppo   Normativa abrogata  Policy di Gruppo “Job Posting” (v.1.4 del 022/12/2021)   Principale normativa di CDP  S.p.A. collegata   • Modello di Organizzazione Gestione e Controllo ex D.lgs. 231/2001   • Codice Etico   • Principi  generali  sull’esercizio  dell’attività  di  direzione  e   coordinamento   • Regolamento Selezione e Assunzione del Personale   Principale  normativa  di   Gruppo collegata   • Policy di Gruppo – Modello normativo di Gruppo e principi per la   gestione della Normativa di Gruppo   • Policy di Gruppo -Piano di staffing e budget dei costi del personale   • Processo di Gruppo per la gestione della Normativa di Gruppo   Riferimenti  a  normativa   esterna   • D. lgs. 231/2001 e s.m.i   • Codice Civile, artt. 2497 e segg.   • Contratto collettivo nazionale di riferimento   Funzione proponente  Direzione Persone e Organizzazione di CDP S.p.A.   Funzione validante  • Compliance di CDP S.p.A.   • Supporto Organismo di Vigilanza di CDP S.p.A.   Funzione approvante  Amministratore Delegato di CDP S.p.A.   Funzione emanante   Ordine di Servizio dell’AD di CDP S.p.A. n. 15 del 15 novembre 2023   Modalità di pubblicazione  Intranet aziendale            1.2 Storia del documento   AGGIORNAMENTI E REVISIONI   [['AGGIORNAMENTI E REVISIONI', None, None, None], ['Versione n°', '', 'Data', 'Soggetto'], [None, 'Principali modifiche introdotte', None, None], [None, None, None, 'Approvatore'], [None, '', None, None], ['1.0', '', '27/04/17', 'AD della'], [None, 'Documento di prima emissione', None, None], [None, None, None, 'Capogruppo'], [None, '', None, None], ['1.1', '• Recepimento della Policy all’interno del corpo', '31/01/2019', ''], [None, 'normativo aziendale della Capogruppo sotto', None, None], [None, None, None, 'AD della'], [None, 'forma di regolamento', None, None], [None, None, None, 'Capogruppo'], [None, '• Minori revisioni finalizzate ad efficientare il', None, None], [None, None, None, ''], [None, 'processo di gestione del Job Posting', None, None], ['1.2', 'Modifiche minor per allineamento del documento', '19/12/2019', ''], [None, None, None, 'ORP'], [None, 'alla struttura organizzativa e al corpo normativo', None, None], [None, None, None, 'Capogruppo'], [None, 'vigente', None, None], [None, None, None, ''], ['1.3', 'Modifica minor per allineamento al perimetro di', '06/05/2020', 'ORP'], [None, 'Direzione e Coordinamento vigente', None, 'Capogruppo'], ['1.4', '', '21/12/2021', 'Resp.'], [None, 'Modifiche minor per allineamento del documento', None, None], [None, None, None, 'Organizzazione'], [None, 'alla struttura organizzativa e al corpo normativo', None, None], [None, None, None, 'e Processi di'], [None, 'vigente e revisione scheda contatti1', None, 'CDP S.p.A.'], [None, '', None, None], ['2.0', 'Modifiche per allineamento alla prassi operativa', '15/11/2023', 'AD della'], [None, 'vigente', None, 'Capogruppo']] Versione n° Principali modifiche introdotte  Data  Soggetto   Approvatore   1.0  Documento di prima emissione  27/04/17  AD della   Capogruppo   1.1   • Recepimento della Policy all’interno del corpo   normativo aziendale della Capogruppo sotto  forma di regolamento   • Minori revisioni finalizzate ad efficientare il   processo di gestione del Job Posting   31/01/2019  AD della   Capogruppo   1.2   Modifiche minor per allineamento del documento  alla struttura organizzativa e al corpo normativo  vigente   19/12/2019  ORP   Capogruppo   1.3  Modifica minor per allineamento al perimetro di  Direzione e Coordinamento vigente   06/05/2020  ORP   Capogruppo   1.4   Modifiche minor per allineamento del documento  alla struttura organizzativa e al corpo normativo  vigente e revisione scheda contatti1   21/12/2021   Resp.   Organizzazione   e Processi di   CDP S.p.A.   2.0  Modifiche per allineamento alla prassi operativa  vigente   15/11/2023  AD della   Capogruppo      1.3 Scheda contatti   [['Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', '', '', 'Paola Mele – n. tel: 06 4221 2596 email: paola.mele@cdp.it', ''], ['Assistenza operativa', '', '', 'e-mail: jobposting@cdp.it', '']] Tipologia  Riferimenti   Chiarimenti sul documento  Paola Mele – n. tel: 06 4221 2596 email: paola.mele@cdp.it    Assistenza operativa  e-mail: jobposting@cdp.it",
+        "hash": "6821595763ec75d098d5259b2d02ac1c77126db1c16bc9506b7c5254367e6b8a"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::63af8e5e3d8bd544723f",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::63af8e5e3d8bd544723f",
+        "name": "1.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una cronologia delle versioni del documento, elencando le principali modifiche introdotte, le date di aggiornamento e i soggetti approvatori, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: AGGIORNAMENTI E REVISIONI [['AGGIORNAMENTI E REVISIONI', None, None, None], ['Versione n°', '', 'Data', 'Soggetto'], [None, 'Principali modifiche introdotte', None, None], [None, None, None, 'Approvatore'], [None, '', None, None], ['1.0', '', '27/04/17', 'AD della'], [None, 'Documento di prima emissione', None, None], [None, None, None, 'Capogruppo'], [None, '', None, None], ['1.1', '• Recepimento della Policy all’interno del corpo', '31/01/2019', ''], [None, 'normativo aziendale della Capogruppo sotto', None, None], [None, None, None, 'AD della'], [None, 'forma di regolamento', None, None], [None, None, None, 'Capogruppo'], [None, '• Minori revisioni finalizzate ad efficientare il', None, None], [None, None, None, ''], [None, 'processo di gestione del Job Posting', None, None], ['1.2', 'Modifiche minor per allineamento del documento', '19/12/2019', ''], [None, None, None, 'ORP'], [None, 'alla struttura organizzativa e al corpo normativo', None, None], [None, None, None, 'Capogruppo'], [None, 'vigente', None, None], [None, None, None, ''], ['1.3', 'Modifica minor per allineamento al perimetro di', '06/05/2020', 'ORP'], [None, 'Direzione e Coordinamento vigente', None, 'Capogruppo'], ['1.4', '', '21/12/2021', 'Resp.'], [None, 'Modifiche minor per allineamento del documento', None,",
+        "plain_text": "AGGIORNAMENTI E REVISIONI   [['AGGIORNAMENTI E REVISIONI', None, None, None], ['Versione n°', '', 'Data', 'Soggetto'], [None, 'Principali modifiche introdotte', None, None], [None, None, None, 'Approvatore'], [None, '', None, None], ['1.0', '', '27/04/17', 'AD della'], [None, 'Documento di prima emissione', None, None], [None, None, None, 'Capogruppo'], [None, '', None, None], ['1.1', '• Recepimento della Policy all’interno del corpo', '31/01/2019', ''], [None, 'normativo aziendale della Capogruppo sotto', None, None], [None, None, None, 'AD della'], [None, 'forma di regolamento', None, None], [None, None, None, 'Capogruppo'], [None, '• Minori revisioni finalizzate ad efficientare il', None, None], [None, None, None, ''], [None, 'processo di gestione del Job Posting', None, None], ['1.2', 'Modifiche minor per allineamento del documento', '19/12/2019', ''], [None, None, None, 'ORP'], [None, 'alla struttura organizzativa e al corpo normativo', None, None], [None, None, None, 'Capogruppo'], [None, 'vigente', None, None], [None, None, None, ''], ['1.3', 'Modifica minor per allineamento al perimetro di', '06/05/2020', 'ORP'], [None, 'Direzione e Coordinamento vigente', None, 'Capogruppo'], ['1.4', '', '21/12/2021', 'Resp.'], [None, 'Modifiche minor per allineamento del documento', None, None], [None, None, None, 'Organizzazione'], [None, 'alla struttura organizzativa e al corpo normativo', None, None], [None, None, None, 'e Processi di'], [None, 'vigente e revisione scheda contatti1', None, 'CDP S.p.A.'], [None, '', None, None], ['2.0', 'Modifiche per allineamento alla prassi operativa', '15/11/2023', 'AD della'], [None, 'vigente', None, 'Capogruppo']] Versione n° Principali modifiche introdotte  Data  Soggetto   Approvatore   1.0  Documento di prima emissione  27/04/17  AD della   Capogruppo   1.1   • Recepimento della Policy all’interno del corpo   normativo aziendale della Capogruppo sotto  forma di regolamento   • Minori revisioni finalizzate ad efficientare il   processo di gestione del Job Posting   31/01/2019  AD della   Capogruppo   1.2   Modifiche minor per allineamento del documento  alla struttura organizzativa e al corpo normativo  vigente   19/12/2019  ORP   Capogruppo   1.3  Modifica minor per allineamento al perimetro di  Direzione e Coordinamento vigente   06/05/2020  ORP   Capogruppo   1.4   Modifiche minor per allineamento del documento  alla struttura organizzativa e al corpo normativo  vigente e revisione scheda contatti1   21/12/2021   Resp.   Organizzazione   e Processi di   CDP S.p.A.   2.0  Modifiche per allineamento alla prassi operativa  vigente   15/11/2023  AD della   Capogruppo      1.3 Scheda contatti   [['Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', '', '', 'Paola Mele – n. tel: 06 4221 2596 email: paola.mele@cdp.it', ''], ['Assistenza operativa', '', '', 'e-mail: jobposting@cdp.it', '']] Tipologia  Riferimenti   Chiarimenti sul documento  Paola Mele – n. tel: 06 4221 2596 email: paola.mele@cdp.it    Assistenza operativa  e-mail: jobposting@cdp.it",
+        "hash": "63af8e5e3d8bd544723fb9ed4ac5bce815ed1f39dfbc8ad39af46e31571cceaa"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::3af13eda2bf7e7425da0",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::3af13eda2bf7e7425da0",
+        "name": "1.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce informazioni di contatto per chiarimenti e assistenza operativa, identifica le società destinatarie della policy e stabilisce che le Società del Gruppo devono assicurare la conformità delle sub-controllate non quotate alla Policy di Gruppo, applicando il processo di gestione normativa e pubblicando la policy secondo modalità opportune. Testo significativo: Le Società del Gruppo assicurano che l’operatività delle Società sub-controllate non quotate soggette a direzione e coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo, favorendone la tempestiva adozione e applicazione, nel rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale posta in capo agli Organi Societari delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti.",
+        "plain_text": "[['Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', '', '', 'Paola Mele – n. tel: 06 4221 2596 email: paola.mele@cdp.it', ''], ['Assistenza operativa', '', '', 'e-mail: jobposting@cdp.it', '']] Tipologia  Riferimenti   Chiarimenti sul documento  Paola Mele – n. tel: 06 4221 2596 email: paola.mele@cdp.it    Assistenza operativa  e-mail: jobposting@cdp.it      2  Società destinatarie   •  Capogruppo: Cassa depositi e prestiti S.p.A. (nel seguito “CDP”);   •  Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti  del codice civile (di seguito anche “Società del Gruppo”).   Le Società del Gruppo assicurano che l’operatività delle Società sub-controllate non quotate  soggette a direzione e coordinamento sia conforme a quanto statuito dalla presente Policy di  Gruppo, favorendone la tempestiva adozione e applicazione, nel rispetto del principio di  proporzionalità e tenuto conto dei profili di autonomia decisionale posta in capo agli Organi Societari  delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché della specifica normativa di  settore a cui quest’ultimi sono sottoposti.   Le Società del Gruppo applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando la  normativa interna della Società per renderla coerente con i principi e le regole contenute in questo  documento.   La presente Policy di Gruppo è pubblicata sulle rispettive intranet aziendali della Capogruppo e delle  Società del Gruppo, ovvero diffusa secondo le modalità ritenute più opportune dalle stesse.   La Capogruppo recepisce la presente normativa all’interno del corpo normativo aziendale sotto  forma di regolamento.",
+        "hash": "3af13eda2bf7e7425da0a03f641729f413a6fd62b81ab7ef1fd60c36fbbb8069"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::061162844e4165c67869",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::061162844e4165c67869",
+        "name": "2",
+        "type": "Sottocomma",
+        "abstract": "Il comma definisce i soggetti destinatari della Policy di Gruppo, specificando obblighi di conformità e modalità di recepimento e diffusione della normativa all'interno delle società del Gruppo CDP. Testo significativo: Le Società del Gruppo assicurano che l’operatività delle Società sub-controllate non quotate soggette a direzione e coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo, favorendone la tempestiva adozione e applicazione, nel rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale posta in capo agli Organi Societari delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti.",
+        "plain_text": "•  Capogruppo: Cassa depositi e prestiti S.p.A. (nel seguito “CDP”);   •  Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti  del codice civile (di seguito anche “Società del Gruppo”).   Le Società del Gruppo assicurano che l’operatività delle Società sub-controllate non quotate  soggette a direzione e coordinamento sia conforme a quanto statuito dalla presente Policy di  Gruppo, favorendone la tempestiva adozione e applicazione, nel rispetto del principio di  proporzionalità e tenuto conto dei profili di autonomia decisionale posta in capo agli Organi Societari  delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché della specifica normativa di  settore a cui quest’ultimi sono sottoposti.   Le Società del Gruppo applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando la  normativa interna della Società per renderla coerente con i principi e le regole contenute in questo  documento.   La presente Policy di Gruppo è pubblicata sulle rispettive intranet aziendali della Capogruppo e delle  Società del Gruppo, ovvero diffusa secondo le modalità ritenute più opportune dalle stesse.   La Capogruppo recepisce la presente normativa all’interno del corpo normativo aziendale sotto  forma di regolamento.        3  Premessa   3.1 Scopo del documento   Il presente documento descrive i principi e le modalità realizzative per soddisfare le esigenze di  mobilità interna su base volontaria, tramite lo strumento del Job Posting di Gruppo. Obiettivo del Job  Posting è quello di facilitare la mobilità interna delle persone favorendo lo sviluppo professionale e  l’arricchimento del capitale umano, garantendo, al contempo, la soddisfazione dei fabbisogni  espressi dall’organizzazione nel rispetto dei principi di trasparenza, merito e valorizzazione, in  conformità con il framework normativo, interno ed esterno, di riferimento.   3.2 Ambito di applicabilità   Il presente documento disciplina le situazioni che prevedono il trasferimento di risorse tra le varie  Società che compongono il Gruppo CDP2.   Non rientrano nel perimetro di applicabilità della presente Policy le mobilità delle risorse:   • derivanti da casi gestionali legati a efficientamento di strutture, cambiamenti organizzativi o a   richieste avanzate dalle risorse;   • finalizzate a favorire le sinergie di Gruppo e assecondare le eventuali richieste delle singole   famiglie professionali (es. distacchi temporanei).   I trasferimenti mediante mobilità interna alla Capogruppo o a ciascuna Società del Gruppo sono  invece disciplinati dalle relative normative e/o prassi interne, che in ogni caso si ispirano ai principi  e alle politiche gestionali espresse nella presente normativa e nella normativa esterna di riferimento.   3.3 Glossario   •  Referente della Società: la/e persona/e presso ciascuna Società del Gruppo, preferibilmente  individuata/e nell’ambito della funzione di gestione delle Risorse Umane, che agisce/agiscono  come interfaccia per le attività disciplinate nel presente documento.   •  Funzione Proponente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo che,  ravvisandone la necessità, manifesta l’esigenza organizzativa per la copertura di una posizione  attraverso il sistema di mobilità interna.   •  Funzione Cedente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo a cui  appartiene la risorsa selezionata al termine del processo di Job Posting.   •  Gruppo CDP: Cassa Depositi e Prestiti S.p.A. e Società soggette a direzione e coordinamento  di CDP S.p.A. ai sensi degli articoli 2497 e seguenti del Codice Civile.   •  Job Posting: strumento di mobilità interna su base volontaria per la copertura di una posizione  organizzativa.        2 Sono in ogni caso esclusi dalla presente normativa i processi di ricerca e selezione interna riferiti a posizioni di  responsabilità rilevanti: riporto a Consiglio di Amministrazione, riporto all’Amministratore Delegato o al Direttore Generale  per le Società che non prevedono l’Amministratore Delegato.",
+        "hash": "061162844e4165c67869c7e0afde239d267d29c3c8b9713da48c964cac467e38"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::1a6b9a8bcda381712b61",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::1a6b9a8bcda381712b61",
+        "name": "3",
+        "type": "Sottocomma",
+        "abstract": "Il comma espone lo scopo, l'ambito di applicabilità e le definizioni operative del documento, specificando i principi e le modalità per la mobilità interna volontaria tramite Job Posting, nonché le esclusioni e i termini chiave. Testo significativo: Il presente documento descrive i principi e le modalità realizzative per soddisfare le esigenze di mobilità interna su base volontaria, tramite lo strumento del Job Posting di Gruppo. Obiettivo del Job Posting è quello di facilitare la mobilità interna delle persone favorendo lo sviluppo professionale e l’arricchimento del capitale umano, garantendo, al contempo, la soddisfazione dei fabbisogni espressi dall’organizzazione nel rispetto dei principi di trasparenza, merito e valorizzazione, in conformità con il framework normativo, interno ed esterno, di riferimento.",
+        "plain_text": "3.1 Scopo del documento   Il presente documento descrive i principi e le modalità realizzative per soddisfare le esigenze di  mobilità interna su base volontaria, tramite lo strumento del Job Posting di Gruppo. Obiettivo del Job  Posting è quello di facilitare la mobilità interna delle persone favorendo lo sviluppo professionale e  l’arricchimento del capitale umano, garantendo, al contempo, la soddisfazione dei fabbisogni  espressi dall’organizzazione nel rispetto dei principi di trasparenza, merito e valorizzazione, in  conformità con il framework normativo, interno ed esterno, di riferimento.   3.2 Ambito di applicabilità   Il presente documento disciplina le situazioni che prevedono il trasferimento di risorse tra le varie  Società che compongono il Gruppo CDP2.   Non rientrano nel perimetro di applicabilità della presente Policy le mobilità delle risorse:   • derivanti da casi gestionali legati a efficientamento di strutture, cambiamenti organizzativi o a   richieste avanzate dalle risorse;   • finalizzate a favorire le sinergie di Gruppo e assecondare le eventuali richieste delle singole   famiglie professionali (es. distacchi temporanei).   I trasferimenti mediante mobilità interna alla Capogruppo o a ciascuna Società del Gruppo sono  invece disciplinati dalle relative normative e/o prassi interne, che in ogni caso si ispirano ai principi  e alle politiche gestionali espresse nella presente normativa e nella normativa esterna di riferimento.   3.3 Glossario   •  Referente della Società: la/e persona/e presso ciascuna Società del Gruppo, preferibilmente  individuata/e nell’ambito della funzione di gestione delle Risorse Umane, che agisce/agiscono  come interfaccia per le attività disciplinate nel presente documento.   •  Funzione Proponente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo che,  ravvisandone la necessità, manifesta l’esigenza organizzativa per la copertura di una posizione  attraverso il sistema di mobilità interna.   •  Funzione Cedente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo a cui  appartiene la risorsa selezionata al termine del processo di Job Posting.   •  Gruppo CDP: Cassa Depositi e Prestiti S.p.A. e Società soggette a direzione e coordinamento  di CDP S.p.A. ai sensi degli articoli 2497 e seguenti del Codice Civile.   •  Job Posting: strumento di mobilità interna su base volontaria per la copertura di una posizione  organizzativa.        2 Sono in ogni caso esclusi dalla presente normativa i processi di ricerca e selezione interna riferiti a posizioni di  responsabilità rilevanti: riporto a Consiglio di Amministrazione, riporto all’Amministratore Delegato o al Direttore Generale  per le Società che non prevedono l’Amministratore Delegato.",
+        "hash": "1a6b9a8bcda381712b61af1bd561875288664099594718eea353ab36e5f6a8bd"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::9fe4b665264a88ace77e",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::9fe4b665264a88ace77e",
+        "name": "3.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma espone le finalità, i principi e l'ambito di applicazione del documento, specificando che disciplina la mobilità interna volontaria tramite Job Posting di Gruppo, escludendo alcune tipologie di mobilità e fornendo un glossario dei termini rilevanti. Testo significativo: Il presente documento descrive i principi e le modalità realizzative per soddisfare le esigenze di mobilità interna su base volontaria, tramite lo strumento del Job Posting di Gruppo. Obiettivo del Job Posting è quello di facilitare la mobilità interna delle persone favorendo lo sviluppo professionale e l’arricchimento del capitale umano, garantendo, al contempo, la soddisfazione dei fabbisogni espressi dall’organizzazione nel rispetto dei principi di trasparenza, merito e valorizzazione, in conformità con il framework normativo, interno ed esterno, di riferimento.",
+        "plain_text": "Il presente documento descrive i principi e le modalità realizzative per soddisfare le esigenze di  mobilità interna su base volontaria, tramite lo strumento del Job Posting di Gruppo. Obiettivo del Job  Posting è quello di facilitare la mobilità interna delle persone favorendo lo sviluppo professionale e  l’arricchimento del capitale umano, garantendo, al contempo, la soddisfazione dei fabbisogni  espressi dall’organizzazione nel rispetto dei principi di trasparenza, merito e valorizzazione, in  conformità con il framework normativo, interno ed esterno, di riferimento.   3.2 Ambito di applicabilità   Il presente documento disciplina le situazioni che prevedono il trasferimento di risorse tra le varie  Società che compongono il Gruppo CDP2.   Non rientrano nel perimetro di applicabilità della presente Policy le mobilità delle risorse:   • derivanti da casi gestionali legati a efficientamento di strutture, cambiamenti organizzativi o a   richieste avanzate dalle risorse;   • finalizzate a favorire le sinergie di Gruppo e assecondare le eventuali richieste delle singole   famiglie professionali (es. distacchi temporanei).   I trasferimenti mediante mobilità interna alla Capogruppo o a ciascuna Società del Gruppo sono  invece disciplinati dalle relative normative e/o prassi interne, che in ogni caso si ispirano ai principi  e alle politiche gestionali espresse nella presente normativa e nella normativa esterna di riferimento.   3.3 Glossario   •  Referente della Società: la/e persona/e presso ciascuna Società del Gruppo, preferibilmente  individuata/e nell’ambito della funzione di gestione delle Risorse Umane, che agisce/agiscono  come interfaccia per le attività disciplinate nel presente documento.   •  Funzione Proponente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo che,  ravvisandone la necessità, manifesta l’esigenza organizzativa per la copertura di una posizione  attraverso il sistema di mobilità interna.   •  Funzione Cedente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo a cui  appartiene la risorsa selezionata al termine del processo di Job Posting.   •  Gruppo CDP: Cassa Depositi e Prestiti S.p.A. e Società soggette a direzione e coordinamento  di CDP S.p.A. ai sensi degli articoli 2497 e seguenti del Codice Civile.   •  Job Posting: strumento di mobilità interna su base volontaria per la copertura di una posizione  organizzativa.        2 Sono in ogni caso esclusi dalla presente normativa i processi di ricerca e selezione interna riferiti a posizioni di  responsabilità rilevanti: riporto a Consiglio di Amministrazione, riporto all’Amministratore Delegato o al Direttore Generale  per le Società che non prevedono l’Amministratore Delegato.",
+        "hash": "9fe4b665264a88ace77e45ae52e0334255e074de82cabcdea883eb56fc5ba348"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5ada6db34ecd8c7c43ee",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5ada6db34ecd8c7c43ee",
+        "name": "3.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma definisce le condizioni e i limiti di applicabilità della Policy, specificando quali trasferimenti di risorse sono inclusi o esclusi dal suo perimetro e rimandando ad altre normative interne per i casi non coperti. Testo significativo: Il presente documento disciplina le situazioni che prevedono il trasferimento di risorse tra le varie Società che compongono il Gruppo CDP2. Non rientrano nel perimetro di applicabilità della presente Policy le mobilità delle risorse: • derivanti da casi gestionali legati a efficientamento di strutture, cambiamenti organizzativi o a richieste avanzate dalle risorse; • finalizzate a favorire le sinergie di Gruppo e assecondare le eventuali richieste delle singole famiglie professionali (es. distacchi temporanei). I trasferimenti mediante mobilità interna alla Capogruppo o a ciascuna Società del Gruppo sono invece disciplinati dalle relative normative e/o prassi interne, che in ogni caso si ispirano ai principi e alle politiche gestionali espresse nella presente normativa e nella normativa esterna di riferimento.",
+        "plain_text": "Il presente documento disciplina le situazioni che prevedono il trasferimento di risorse tra le varie  Società che compongono il Gruppo CDP2.   Non rientrano nel perimetro di applicabilità della presente Policy le mobilità delle risorse:   • derivanti da casi gestionali legati a efficientamento di strutture, cambiamenti organizzativi o a   richieste avanzate dalle risorse;   • finalizzate a favorire le sinergie di Gruppo e assecondare le eventuali richieste delle singole   famiglie professionali (es. distacchi temporanei).   I trasferimenti mediante mobilità interna alla Capogruppo o a ciascuna Società del Gruppo sono  invece disciplinati dalle relative normative e/o prassi interne, che in ogni caso si ispirano ai principi  e alle politiche gestionali espresse nella presente normativa e nella normativa esterna di riferimento.   3.3 Glossario   •  Referente della Società: la/e persona/e presso ciascuna Società del Gruppo, preferibilmente  individuata/e nell’ambito della funzione di gestione delle Risorse Umane, che agisce/agiscono  come interfaccia per le attività disciplinate nel presente documento.   •  Funzione Proponente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo che,  ravvisandone la necessità, manifesta l’esigenza organizzativa per la copertura di una posizione  attraverso il sistema di mobilità interna.   •  Funzione Cedente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo a cui  appartiene la risorsa selezionata al termine del processo di Job Posting.   •  Gruppo CDP: Cassa Depositi e Prestiti S.p.A. e Società soggette a direzione e coordinamento  di CDP S.p.A. ai sensi degli articoli 2497 e seguenti del Codice Civile.   •  Job Posting: strumento di mobilità interna su base volontaria per la copertura di una posizione  organizzativa.        2 Sono in ogni caso esclusi dalla presente normativa i processi di ricerca e selezione interna riferiti a posizioni di  responsabilità rilevanti: riporto a Consiglio di Amministrazione, riporto all’Amministratore Delegato o al Direttore Generale  per le Società che non prevedono l’Amministratore Delegato.",
+        "hash": "5ada6db34ecd8c7c43eed1231609777b6370cbd62456a2541a4a62bacd611f3d"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::f3b57e3a731520c77cce",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::f3b57e3a731520c77cce",
+        "name": "3.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una serie di definizioni operative e descrive le modalità generali di funzionamento del processo di Job Posting e mobilità interna nel Gruppo CDP, specificando ruoli, strumenti e principi di trasparenza e pianificazione. Testo significativo: Referente della Società: la/e persona/e presso ciascuna Società del Gruppo, preferibilmente individuata/e nell’ambito della funzione di gestione delle Risorse Umane, che agisce/agiscono come interfaccia per le attività disciplinate nel presente documento. • Funzione Proponente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo che, ravvisandone la necessità, manifesta l’esigenza organizzativa per la copertura di una posizione attraverso il sistema di mobilità interna. • Funzione Cedente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo a cui appartiene la risorsa selezionata al termine del processo di Job Posting. • Gruppo CDP: Cassa Depositi e Prestiti S.p.A. e Società soggette a direzione e coordinamento di CDP S.p.A. ai sensi degli articoli 2497 e seguenti del Codice Civile. • Job Posting: strumento di mobilità interna su base volontaria per la copertura di una posizione organizzativa. ... Il processo di Job Posting è garantito mediante il presidio e governo delle varie fasi di cui si compone: 1. pianificazione periodica dei fabbisogni: le informazioni necessarie in termini di",
+        "plain_text": "•  Referente della Società: la/e persona/e presso ciascuna Società del Gruppo, preferibilmente  individuata/e nell’ambito della funzione di gestione delle Risorse Umane, che agisce/agiscono  come interfaccia per le attività disciplinate nel presente documento.   •  Funzione Proponente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo che,  ravvisandone la necessità, manifesta l’esigenza organizzativa per la copertura di una posizione  attraverso il sistema di mobilità interna.   •  Funzione Cedente: l’Unità Organizzativa di Capogruppo o della Società del Gruppo a cui  appartiene la risorsa selezionata al termine del processo di Job Posting.   •  Gruppo CDP: Cassa Depositi e Prestiti S.p.A. e Società soggette a direzione e coordinamento  di CDP S.p.A. ai sensi degli articoli 2497 e seguenti del Codice Civile.   •  Job Posting: strumento di mobilità interna su base volontaria per la copertura di una posizione  organizzativa.        2 Sono in ogni caso esclusi dalla presente normativa i processi di ricerca e selezione interna riferiti a posizioni di  responsabilità rilevanti: riporto a Consiglio di Amministrazione, riporto all’Amministratore Delegato o al Direttore Generale  per le Società che non prevedono l’Amministratore Delegato.   4  Job Posting   La mobilità interna infragruppo è incentivata e supportata dal Management di tutte le Società che  compongono il Gruppo CDP, favorendo in tal modo la sostenibilità di lungo periodo in termini di  sviluppo delle competenze e delle professionalità del capitale umano di Gruppo.   Lo strumento del Job Posting viene attivato:   •  nel rispetto dei fabbisogni definiti in fase di budget e pianificazione degli organici per ciascuna  struttura;   •  come risposta a specifiche esigenze di copertura di nuovi ruoli, anche emergenti da riassetti  organizzativi aziendali;   •  attraverso un omogeneo e strutturato processo di richiesta, valutazione ed attivazione dello  strumento, di coinvolgimento ed informazione degli attori coinvolti, a garanzia della trasparenza  del processo di selezione, nel rispetto dei principi di parità di trattamento e di non  discriminazione;   •  nel rispetto dell’esigenza di continuità operativa delle strutture cedenti, garantendo la  sostituzione delle risorse in tempi congrui ed il corretto trasferimento delle loro conoscenze.   In particolare, il processo di Job Posting si sostanzia nella ricerca e selezione interna al Gruppo CDP  di candidate/i che presentino i requisiti personali e le competenze professionali in linea con quelli  richiesti dalla posizione vacante, attraverso modalità di valutazione interna coordinata da Risorse  Umane della Capogruppo, in coerenza con la normativa aziendale per la selezione e l’assunzione  del personale delle società del Gruppo coinvolte, tenuto conto delle specificità dell’organizzazione e  dei fabbisogni di risorse delle singole strutture organizzative.    Il sistema di Mobilità Interna, al fine di garantire piena trasparenza nel processo di copertura di una  posizione organizzativa, prevede l’attivazione prioritaria del processo di Job Posting per le posizioni  vacanti.   Al contempo, Risorse Umane della Capogruppo si riserva di attivare processi di mobilità interna  alternativi qualora circostanze oggettive lo richiedano, tenuto conto dei profili di riservatezza, nonché  del ruolo e delle competenze tecniche e/o manageriali di volta in volta richieste. In casi straordinari  (es. riorganizzazioni) e a fronte di una specifica richiesta da parte dell’Unità Organizzativa Risorse  Umane delle singole Società destinatarie, è possibile valutare con Risorse Umane della Capogruppo  la sospensione della pubblicazione dei Job Posting per una determinata Società e/o area aziendale  per un determinato periodo di tempo.   Il processo di Job Posting è garantito mediante il presidio e governo delle varie fasi di cui si compone:   1. pianificazione periodica dei fabbisogni: le informazioni necessarie in termini di   pianificazione degli organici, dimensionamento delle strutture e, in generale, politiche di  sviluppo per le risorse del Gruppo, sono aggiornate congiuntamente tra la Capogruppo e le  Società del Gruppo, in relazione agli esiti dei processi di ricerca interna conclusi ed alle  eventuali variazioni derivanti dalle circostanze organizzative e gestionali di volta in volta  emergenti;",
+        "hash": "f3b57e3a731520c77cce0733f2dafd8835ef3dd47a31af2b9bebb91986ab5b57"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::a2e24d66753731d8ca72",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::a2e24d66753731d8ca72",
+        "name": "4",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive le modalità operative e le condizioni per l'attivazione e la gestione del processo di Job Posting all'interno del Gruppo CDP, specificando i passaggi, i soggetti coinvolti, i requisiti e le fasi del processo di selezione interna. Testo significativo: La mobilità interna infragruppo è incentivata e supportata dal Management di tutte le Società che compongono il Gruppo CDP, favorendo in tal modo la sostenibilità di lungo periodo in termini di sviluppo delle competenze e delle professionalità del capitale umano di Gruppo. Lo strumento del Job Posting viene attivato: • nel rispetto dei fabbisogni definiti in fase di budget e pianificazione degli organici per ciascuna struttura; • come risposta a specifiche esigenze di copertura di nuovi ruoli, anche emergenti da riassetti organizzativi aziendali; • attraverso un omogeneo e strutturato processo di richiesta, valutazione ed attivazione dello strumento, di coinvolgimento ed informazione degli attori coinvolti, a garanzia della trasparenza del processo di selezione, nel rispetto dei principi di parità di trattamento e di non discriminazione; • nel rispetto dell’esigenza di continuità operativa delle strutture cedenti, garantendo la sostituzione delle risorse in tempi congrui ed il corretto trasferimento delle loro conoscenze. In particolare, il processo di Job Posting si sostanzia nella",
+        "plain_text": "La mobilità interna infragruppo è incentivata e supportata dal Management di tutte le Società che  compongono il Gruppo CDP, favorendo in tal modo la sostenibilità di lungo periodo in termini di  sviluppo delle competenze e delle professionalità del capitale umano di Gruppo.   Lo strumento del Job Posting viene attivato:   •  nel rispetto dei fabbisogni definiti in fase di budget e pianificazione degli organici per ciascuna  struttura;   •  come risposta a specifiche esigenze di copertura di nuovi ruoli, anche emergenti da riassetti  organizzativi aziendali;   •  attraverso un omogeneo e strutturato processo di richiesta, valutazione ed attivazione dello  strumento, di coinvolgimento ed informazione degli attori coinvolti, a garanzia della trasparenza  del processo di selezione, nel rispetto dei principi di parità di trattamento e di non  discriminazione;   •  nel rispetto dell’esigenza di continuità operativa delle strutture cedenti, garantendo la  sostituzione delle risorse in tempi congrui ed il corretto trasferimento delle loro conoscenze.   In particolare, il processo di Job Posting si sostanzia nella ricerca e selezione interna al Gruppo CDP  di candidate/i che presentino i requisiti personali e le competenze professionali in linea con quelli  richiesti dalla posizione vacante, attraverso modalità di valutazione interna coordinata da Risorse  Umane della Capogruppo, in coerenza con la normativa aziendale per la selezione e l’assunzione  del personale delle società del Gruppo coinvolte, tenuto conto delle specificità dell’organizzazione e  dei fabbisogni di risorse delle singole strutture organizzative.    Il sistema di Mobilità Interna, al fine di garantire piena trasparenza nel processo di copertura di una  posizione organizzativa, prevede l’attivazione prioritaria del processo di Job Posting per le posizioni  vacanti.   Al contempo, Risorse Umane della Capogruppo si riserva di attivare processi di mobilità interna  alternativi qualora circostanze oggettive lo richiedano, tenuto conto dei profili di riservatezza, nonché  del ruolo e delle competenze tecniche e/o manageriali di volta in volta richieste. In casi straordinari  (es. riorganizzazioni) e a fronte di una specifica richiesta da parte dell’Unità Organizzativa Risorse  Umane delle singole Società destinatarie, è possibile valutare con Risorse Umane della Capogruppo  la sospensione della pubblicazione dei Job Posting per una determinata Società e/o area aziendale  per un determinato periodo di tempo.   Il processo di Job Posting è garantito mediante il presidio e governo delle varie fasi di cui si compone:   1. pianificazione periodica dei fabbisogni: le informazioni necessarie in termini di   pianificazione degli organici, dimensionamento delle strutture e, in generale, politiche di  sviluppo per le risorse del Gruppo, sono aggiornate congiuntamente tra la Capogruppo e le  Società del Gruppo, in relazione agli esiti dei processi di ricerca interna conclusi ed alle  eventuali variazioni derivanti dalle circostanze organizzative e gestionali di volta in volta  emergenti;   2. gestione e monitoraggio nel continuo dei processi: Risorse Umane della Capogruppo, in   collaborazione con le competenti strutture Risorse Umane, garantisce che lo strumento Job  Posting sia correttamente utilizzato e supervisiona l’intero processo di selezione da esso  derivante.   4.1 Input del processo di Job Posting   Il processo di ricerca e selezione interna attraverso il Job Posting si basa sui seguenti elementi di  input:   •  documento di pianificazione fabbisogni organico;   •  richiesta di attivazione di ricerca di personale da parte della Funzione Proponente  (descrizione della posizione da coprire, del profilo ideale della risorsa e delle tempistiche  relative alla piena copertura della posizione aperta).   4.2 Fasi del processo   Il processo di ricerca e selezione interna attraverso il Job Posting si articola nelle seguenti fasi:   •  richiesta di attivazione e verifiche di coerenza secondo quanto stabilito dalla policy di Gruppo  “Piano di Staffing e budget dei costi del personale”;   •  pubblicazione delle posizioni aperte;   •  processo di selezione interna e scelta della risorsa;   •  chiusura ricerca interna, ed eventuale trasferimento risorsa.     4.2.1 Richiesta di attivazione   La Funzione Proponente segnala all’Unità Organizzativa Risorse Umane della Società di riferimento  la necessità della copertura di una posizione ed a tal fine redige l’apposito modulo (Allegato 1),  avendo cura di indicare:   •  la descrizione della posizione e delle attività;    •  il profilo ideale della candidatura (in termini di esperienze, competenze, attitudini e  comportamenti attesi);   •  la motivazione della ricerca, se prevista o meno dal budget dell’organico autorizzato per la  struttura;   •  la sede di lavoro.   L’Unità Organizzativa Risorse Umane della Società di riferimento recepisce la richiesta e, dopo aver  verificato la completezza delle informazioni, ne valuta il merito avendo a riferimento il piano dei  fabbisogni di organico della struttura e la reale necessità dopo l’analisi delle motivazioni espresse,  analizzando l’opportunità di attivare il processo di mobilità interna di Gruppo.   L’Unità Organizzativa Risorse Umane della società di riferimento firma il modulo di richiesta di  attivazione della selezione e lo inoltra a Risorse Umane della Capogruppo3 per la valutazione e  successiva attivazione del processo di ricerca di personale. In termini di principio generale, la",
+        "hash": "a2e24d66753731d8ca722ce6f1faf4c76e40e5f7e2c84d898f2b4e2af994c705"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::c3773aa68ced5225c303",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::c3773aa68ced5225c303",
+        "name": "4.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive gli elementi di input e le fasi operative del processo di ricerca e selezione interna tramite Job Posting, specificando i documenti e le informazioni necessarie, nonché le responsabilità delle funzioni coinvolte. Testo significativo: Il processo di ricerca e selezione interna attraverso il Job Posting si basa sui seguenti elementi di input: • documento di pianificazione fabbisogni organico; • richiesta di attivazione di ricerca di personale da parte della Funzione Proponente (descrizione della posizione da coprire, del profilo ideale della risorsa e delle tempistiche relative alla piena copertura della posizione aperta).",
+        "plain_text": "Il processo di ricerca e selezione interna attraverso il Job Posting si basa sui seguenti elementi di  input:   •  documento di pianificazione fabbisogni organico;   •  richiesta di attivazione di ricerca di personale da parte della Funzione Proponente  (descrizione della posizione da coprire, del profilo ideale della risorsa e delle tempistiche  relative alla piena copertura della posizione aperta).   4.2 Fasi del processo   Il processo di ricerca e selezione interna attraverso il Job Posting si articola nelle seguenti fasi:   •  richiesta di attivazione e verifiche di coerenza secondo quanto stabilito dalla policy di Gruppo  “Piano di Staffing e budget dei costi del personale”;   •  pubblicazione delle posizioni aperte;   •  processo di selezione interna e scelta della risorsa;   •  chiusura ricerca interna, ed eventuale trasferimento risorsa.     4.2.1 Richiesta di attivazione   La Funzione Proponente segnala all’Unità Organizzativa Risorse Umane della Società di riferimento  la necessità della copertura di una posizione ed a tal fine redige l’apposito modulo (Allegato 1),  avendo cura di indicare:   •  la descrizione della posizione e delle attività;    •  il profilo ideale della candidatura (in termini di esperienze, competenze, attitudini e  comportamenti attesi);   •  la motivazione della ricerca, se prevista o meno dal budget dell’organico autorizzato per la  struttura;   •  la sede di lavoro.   L’Unità Organizzativa Risorse Umane della Società di riferimento recepisce la richiesta e, dopo aver  verificato la completezza delle informazioni, ne valuta il merito avendo a riferimento il piano dei  fabbisogni di organico della struttura e la reale necessità dopo l’analisi delle motivazioni espresse,  analizzando l’opportunità di attivare il processo di mobilità interna di Gruppo.   L’Unità Organizzativa Risorse Umane della società di riferimento firma il modulo di richiesta di  attivazione della selezione e lo inoltra a Risorse Umane della Capogruppo3 per la valutazione e  successiva attivazione del processo di ricerca di personale. In termini di principio generale, la",
+        "hash": "c3773aa68ced5225c3035dfd6944f6cd8689454a54006354861668689e927181"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::81ca8f169d2640a9e9a2",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::81ca8f169d2640a9e9a2",
+        "name": "4.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive le fasi operative e procedurali del processo di ricerca e selezione interna tramite Job Posting, specificando i passaggi e le responsabilità delle funzioni coinvolte, senza imporre obblighi o condizioni ma illustrando la sequenza delle attività. Testo significativo: Il processo di ricerca e selezione interna attraverso il Job Posting si articola nelle seguenti fasi: • richiesta di attivazione e verifiche di coerenza secondo quanto stabilito dalla policy di Gruppo “Piano di Staffing e budget dei costi del personale”; • pubblicazione delle posizioni aperte; • processo di selezione interna e scelta della risorsa; • chiusura ricerca interna, ed eventuale trasferimento risorsa.",
+        "plain_text": "Il processo di ricerca e selezione interna attraverso il Job Posting si articola nelle seguenti fasi:   •  richiesta di attivazione e verifiche di coerenza secondo quanto stabilito dalla policy di Gruppo  “Piano di Staffing e budget dei costi del personale”;   •  pubblicazione delle posizioni aperte;   •  processo di selezione interna e scelta della risorsa;   •  chiusura ricerca interna, ed eventuale trasferimento risorsa.     4.2.1 Richiesta di attivazione   La Funzione Proponente segnala all’Unità Organizzativa Risorse Umane della Società di riferimento  la necessità della copertura di una posizione ed a tal fine redige l’apposito modulo (Allegato 1),  avendo cura di indicare:   •  la descrizione della posizione e delle attività;    •  il profilo ideale della candidatura (in termini di esperienze, competenze, attitudini e  comportamenti attesi);   •  la motivazione della ricerca, se prevista o meno dal budget dell’organico autorizzato per la  struttura;   •  la sede di lavoro.   L’Unità Organizzativa Risorse Umane della Società di riferimento recepisce la richiesta e, dopo aver  verificato la completezza delle informazioni, ne valuta il merito avendo a riferimento il piano dei  fabbisogni di organico della struttura e la reale necessità dopo l’analisi delle motivazioni espresse,  analizzando l’opportunità di attivare il processo di mobilità interna di Gruppo.   L’Unità Organizzativa Risorse Umane della società di riferimento firma il modulo di richiesta di  attivazione della selezione e lo inoltra a Risorse Umane della Capogruppo3 per la valutazione e  successiva attivazione del processo di ricerca di personale. In termini di principio generale, la",
+        "hash": "81ca8f169d2640a9e9a235c28cc76efc18fe74c6dfcc115a6cf0d0b06b6576a4"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5e18d5b618067a3e0ba3",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5e18d5b618067a3e0ba3",
+        "name": "4.2.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive il processo e le responsabilità per la richiesta di attivazione di una selezione interna, specificando i passaggi, i soggetti coinvolti e le informazioni da fornire per la copertura di una posizione, nonché la preferenza per il Job Posting interno rispetto alla ricerca esterna. Testo significativo: La Funzione Proponente segnala all’Unità Organizzativa Risorse Umane della Società di riferimento la necessità della copertura di una posizione ed a tal fine redige l’apposito modulo (Allegato 1), avendo cura di indicare: la descrizione della posizione e delle attività; il profilo ideale della candidatura (in termini di esperienze, competenze, attitudini e comportamenti attesi); la motivazione della ricerca, se prevista o meno dal budget dell’organico autorizzato per la struttura; la sede di lavoro. L’Unità Organizzativa Risorse Umane della Società di riferimento recepisce la richiesta e, dopo aver verificato la completezza delle informazioni, ne valuta il merito avendo a riferimento il piano dei fabbisogni di organico della struttura e la reale necessità dopo l’analisi delle motivazioni espresse, analizzando l’opportunità di attivare il processo di mobilità interna di Gruppo. L’Unità Organizzativa Risorse Umane della società di riferimento firma il modulo di richiesta di attivazione della selezione e lo inoltra a Risorse Umane della Capogruppo3 per",
+        "plain_text": "La Funzione Proponente segnala all’Unità Organizzativa Risorse Umane della Società di riferimento  la necessità della copertura di una posizione ed a tal fine redige l’apposito modulo (Allegato 1),  avendo cura di indicare:   •  la descrizione della posizione e delle attività;    •  il profilo ideale della candidatura (in termini di esperienze, competenze, attitudini e  comportamenti attesi);   •  la motivazione della ricerca, se prevista o meno dal budget dell’organico autorizzato per la  struttura;   •  la sede di lavoro.   L’Unità Organizzativa Risorse Umane della Società di riferimento recepisce la richiesta e, dopo aver  verificato la completezza delle informazioni, ne valuta il merito avendo a riferimento il piano dei  fabbisogni di organico della struttura e la reale necessità dopo l’analisi delle motivazioni espresse,  analizzando l’opportunità di attivare il processo di mobilità interna di Gruppo.   L’Unità Organizzativa Risorse Umane della società di riferimento firma il modulo di richiesta di  attivazione della selezione e lo inoltra a Risorse Umane della Capogruppo3 per la valutazione e  successiva attivazione del processo di ricerca di personale. In termini di principio generale, la   preventiva attivazione dei meccanismi di ricerca mediante Job Posting interno è sempre preferibile  ed è propedeutica all’attivazione di ricerche verso il mercato esterno.   4.2.2 Attivazione Job Posting e pubblicazione posizioni aperte   Una volta concordato che il Job Posting di Gruppo sia lo strumento opportuno, Risorse Umane della  Capogruppo4 elabora con l’Unità Organizzativa Risorse Umane della Società di riferimento o con la  Funzione Proponente la descrizione dell’annuncio e procede con la sua pubblicazione.   Ciascuna risorsa può candidarsi alle posizioni inoltrando il proprio curriculum e le informazioni  relative al profilo professionale, tramite le piattaforme informatiche in uso.    4.2.3 Processo di selezione e scelta della risorsa   Ciascuna risorsa del Gruppo, purché assunta a tempo indeterminato e con anzianità nel ruolo di  almeno 1 anno, può candidarsi alle posizioni aperte, tramite le piattaforme informatiche in uso.   La candidatura deve avere carattere di riservatezza e quindi essere nota esclusivamente alla  Funzione Proponente e a Risorse Umane di Capogruppo.    Il database delle candidature ricevute per ciascuna posizione aperta è manutenuto e curato da  Risorse Umane della Capogruppo5, che ne assicura il presidio e la riservatezza.   Risorse Umane della Capogruppo6  procede con lo screening delle candidature ricevute ed  individua, congiuntamente con l’Unità Organizzativa Risorse Umane della Società che ha originato  il Job Posting e/o con la Funzione Proponente, una rosa di persone da convocare per il colloquio,  avendo valutato la pertinenza delle candidature e l’idoneità delle risorse anche in relazione ai dati di  output dei processi di valutazione periodica della performance.   I colloqui sono svolti dalla funzione Risorse Umane della Società del Gruppo che ha originato il Job  Posting, con il coinvolgimento della Funzione Proponente. Risorse Umane di Capogruppo7 presidia  tale processo e riceve comunicazione circa l’esito dei colloqui da parte delle competenti funzioni  Risorse Umane.    A conclusione delle interviste, Risorse Umane di Capogruppo procede a restituire il feedback alla  risorsa interna individuata.    Al termine del processo di selezione Risorse Umane di Capogruppo fornisce a tutte le risorse che  hanno applicato per la posizioneun feedback relativo all’esito dello stesso.   4.2.4 Chiusura della selezione, trasferimento e sostituzione   La risorsa identificata riceve opportuna comunicazione relativamente al buon esito della sua  candidatura.   In caso di conferma di disponibilità al trasferimento da parte della risorsa selezionata, vengono  attivati i seguenti iter in base agli attori coinvolti.       4 Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding”  5 Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding”  6 Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding” e “Gestione  Risorse Umane”  7Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding”",
+        "hash": "5e18d5b618067a3e0ba34a668838599930f1d8adfe800d4ba7aded7a1c9ed6ce"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5863c25295efec671a93",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5863c25295efec671a93",
+        "name": "4.2.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive il processo operativo per l'attivazione del Job Posting, la pubblicazione delle posizioni aperte, la candidatura, la selezione, la comunicazione degli esiti e le fasi di chiusura e trasferimento, specificando ruoli e responsabilità delle funzioni coinvolte. Testo significativo: Una volta concordato che il Job Posting di Gruppo sia lo strumento opportuno, Risorse Umane della Capogruppo4 elabora con l’Unità Organizzativa Risorse Umane della Società di riferimento o con la Funzione Proponente la descrizione dell’annuncio e procede con la sua pubblicazione. Ciascuna risorsa può candidarsi alle posizioni inoltrando il proprio curriculum e le informazioni relative al profilo professionale, tramite le piattaforme informatiche in uso. 4.2.3 Processo di selezione e scelta della risorsa Ciascuna risorsa del Gruppo, purché assunta a tempo indeterminato e con anzianità nel ruolo di almeno 1 anno, può candidarsi alle posizioni aperte, tramite le piattaforme informatiche in uso. La candidatura deve avere carattere di riservatezza e quindi essere nota esclusivamente alla Funzione Proponente e a Risorse Umane di Capogruppo. Il database delle candidature ricevute per ciascuna posizione aperta è manutenuto e curato da Risorse Umane della Capogruppo5, che ne assicura il presidio e la riservatezza. Risorse Umane della Capogruppo6 procede con lo screening delle candidature ricevute ed",
+        "plain_text": "Una volta concordato che il Job Posting di Gruppo sia lo strumento opportuno, Risorse Umane della  Capogruppo4 elabora con l’Unità Organizzativa Risorse Umane della Società di riferimento o con la  Funzione Proponente la descrizione dell’annuncio e procede con la sua pubblicazione.   Ciascuna risorsa può candidarsi alle posizioni inoltrando il proprio curriculum e le informazioni  relative al profilo professionale, tramite le piattaforme informatiche in uso.    4.2.3 Processo di selezione e scelta della risorsa   Ciascuna risorsa del Gruppo, purché assunta a tempo indeterminato e con anzianità nel ruolo di  almeno 1 anno, può candidarsi alle posizioni aperte, tramite le piattaforme informatiche in uso.   La candidatura deve avere carattere di riservatezza e quindi essere nota esclusivamente alla  Funzione Proponente e a Risorse Umane di Capogruppo.    Il database delle candidature ricevute per ciascuna posizione aperta è manutenuto e curato da  Risorse Umane della Capogruppo5, che ne assicura il presidio e la riservatezza.   Risorse Umane della Capogruppo6  procede con lo screening delle candidature ricevute ed  individua, congiuntamente con l’Unità Organizzativa Risorse Umane della Società che ha originato  il Job Posting e/o con la Funzione Proponente, una rosa di persone da convocare per il colloquio,  avendo valutato la pertinenza delle candidature e l’idoneità delle risorse anche in relazione ai dati di  output dei processi di valutazione periodica della performance.   I colloqui sono svolti dalla funzione Risorse Umane della Società del Gruppo che ha originato il Job  Posting, con il coinvolgimento della Funzione Proponente. Risorse Umane di Capogruppo7 presidia  tale processo e riceve comunicazione circa l’esito dei colloqui da parte delle competenti funzioni  Risorse Umane.    A conclusione delle interviste, Risorse Umane di Capogruppo procede a restituire il feedback alla  risorsa interna individuata.    Al termine del processo di selezione Risorse Umane di Capogruppo fornisce a tutte le risorse che  hanno applicato per la posizioneun feedback relativo all’esito dello stesso.   4.2.4 Chiusura della selezione, trasferimento e sostituzione   La risorsa identificata riceve opportuna comunicazione relativamente al buon esito della sua  candidatura.   In caso di conferma di disponibilità al trasferimento da parte della risorsa selezionata, vengono  attivati i seguenti iter in base agli attori coinvolti.       4 Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding”  5 Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding”  6 Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding” e “Gestione  Risorse Umane”  7Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding”",
+        "hash": "5863c25295efec671a93d3941c24acf451f2c25006a33aef2b46fd675d22d769"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::04acd324472321b15837",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::04acd324472321b15837",
+        "name": "4.2.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive le fasi operative e i requisiti procedurali per la candidatura, la valutazione, il colloquio e la comunicazione degli esiti nel processo di selezione delle risorse interne, specificando i soggetti coinvolti e la riservatezza delle informazioni. Testo significativo: Ciascuna risorsa del Gruppo, purché assunta a tempo indeterminato e con anzianità nel ruolo di almeno 1 anno, può candidarsi alle posizioni aperte, tramite le piattaforme informatiche in uso. La candidatura deve avere carattere di riservatezza e quindi essere nota esclusivamente alla Funzione Proponente e a Risorse Umane di Capogruppo. Il database delle candidature ricevute per ciascuna posizione aperta è manutenuto e curato da Risorse Umane della Capogruppo, che ne assicura il presidio e la riservatezza. Risorse Umane della Capogruppo procede con lo screening delle candidature ricevute ed individua, congiuntamente con l’Unità Organizzativa Risorse Umane della Società che ha originato il Job Posting e/o con la Funzione Proponente, una rosa di persone da convocare per il colloquio, avendo valutato la pertinenza delle candidature e l’idoneità delle risorse anche in relazione ai dati di output dei processi di valutazione periodica della performance. I colloqui sono svolti dalla funzione Risorse Umane della Società del Gruppo che ha originato il Job Posting, con",
+        "plain_text": "Ciascuna risorsa del Gruppo, purché assunta a tempo indeterminato e con anzianità nel ruolo di  almeno 1 anno, può candidarsi alle posizioni aperte, tramite le piattaforme informatiche in uso.   La candidatura deve avere carattere di riservatezza e quindi essere nota esclusivamente alla  Funzione Proponente e a Risorse Umane di Capogruppo.    Il database delle candidature ricevute per ciascuna posizione aperta è manutenuto e curato da  Risorse Umane della Capogruppo5, che ne assicura il presidio e la riservatezza.   Risorse Umane della Capogruppo6  procede con lo screening delle candidature ricevute ed  individua, congiuntamente con l’Unità Organizzativa Risorse Umane della Società che ha originato  il Job Posting e/o con la Funzione Proponente, una rosa di persone da convocare per il colloquio,  avendo valutato la pertinenza delle candidature e l’idoneità delle risorse anche in relazione ai dati di  output dei processi di valutazione periodica della performance.   I colloqui sono svolti dalla funzione Risorse Umane della Società del Gruppo che ha originato il Job  Posting, con il coinvolgimento della Funzione Proponente. Risorse Umane di Capogruppo7 presidia  tale processo e riceve comunicazione circa l’esito dei colloqui da parte delle competenti funzioni  Risorse Umane.    A conclusione delle interviste, Risorse Umane di Capogruppo procede a restituire il feedback alla  risorsa interna individuata.    Al termine del processo di selezione Risorse Umane di Capogruppo fornisce a tutte le risorse che  hanno applicato per la posizioneun feedback relativo all’esito dello stesso.   4.2.4 Chiusura della selezione, trasferimento e sostituzione   La risorsa identificata riceve opportuna comunicazione relativamente al buon esito della sua  candidatura.   In caso di conferma di disponibilità al trasferimento da parte della risorsa selezionata, vengono  attivati i seguenti iter in base agli attori coinvolti.       4 Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding”  5 Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding”  6 Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding” e “Gestione  Risorse Umane”  7Tali attività in Capogruppo sono assegnate alla struttura “Selezione, Inclusione ed Employer Branding”",
+        "hash": "04acd324472321b158373e44545f1b0906f1f0570eb52f91f688dc312acffb19"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::e3b0c44298fc1c149afb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::e3b0c44298fc1c149afb",
+        "name": "4.2.4 Chiusura della selezione, trasferimento e sostituzione",
+        "type": "Articolo",
+        "abstract": "",
+        "plain_text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::266babb45a4459b29080",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::266babb45a4459b29080",
+        "name": "4.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive gli output previsti per ciascuna fase del processo di Job Posting, specificando la pubblicazione della posizione, la redazione di un documento riepilogativo delle candidature e degli esiti, e la comunicazione di chiusura e feedback ai candidati. Testo significativo: Gli output del processo di Job Posting per ciascuna delle sue fasi sono costituiti da: • pubblicazione della posizione sui sistemi informatici in uso, collegati alla Intranet aziendale; • documento contenente la lista delle candidature ricevute ed esito del processo di Job Posting, curato e custodito da Risorse Umane della Capogruppo13; • comunicazione di chiusura del Job Posting e feedback ai candidati.",
+        "plain_text": "Gli output del processo di Job Posting per ciascuna delle sue fasi sono costituiti da:   •  pubblicazione della posizione sui sistemi informatici in uso, collegati alla Intranet aziendale;   •  documento contenente la lista delle candidature ricevute ed esito del processo di Job Posting,  curato e custodito da Risorse Umane della Capogruppo13;   •  comunicazione di chiusura del Job Posting e feedback ai candidati.   4.4 Monitoraggio del processo di Job Posting   Al fine di garantire un adeguato presidio sugli esiti delle ricerche interne e monitorarne  costantemente i fenomeni organizzativi e gestionali sottostanti, anche con l’obiettivo di adeguarne i  relativi processi per assicurare coerenza con le effettive necessità, Risorse Umane della  Capogruppo14 predispone una reportistica dei Job Posting con le candidature ricevute e lo stato di  avanzamento del processo di selezione. Tali informazioni sono mappate all’interno di un database  contente lo storico delle posizioni aperte e i relativi elementi caratteristici (riferimenti organizzativi,  numero di candidature ricevute, ecc.).   5  Allegato -Modulo di richiesta attivazione Job Posting   Allegato1_Modulo   Richiesta Assunzione Nuovo Personale.docx",
+        "hash": "266babb45a4459b290800e0a23865da66eb0a57286527d5105a9671524b11c12"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::75a163dbeeda7c420c2a",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::75a163dbeeda7c420c2a",
+        "name": "4.4",
+        "type": "Sottocomma",
+        "abstract": "Risorse Umane della Capogruppo deve predisporre una reportistica dei Job Posting, mappando le informazioni in un database con lo storico delle posizioni aperte e i relativi elementi caratteristici. Testo significativo: Risorse Umane della Capogruppo14 predispone una reportistica dei Job Posting con le candidature ricevute e lo stato di avanzamento del processo di selezione. Tali informazioni sono mappate all’interno di un database contente lo storico delle posizioni aperte e i relativi elementi caratteristici (riferimenti organizzativi, numero di candidature ricevute, ecc.).",
+        "plain_text": "Al fine di garantire un adeguato presidio sugli esiti delle ricerche interne e monitorarne  costantemente i fenomeni organizzativi e gestionali sottostanti, anche con l’obiettivo di adeguarne i  relativi processi per assicurare coerenza con le effettive necessità, Risorse Umane della  Capogruppo14 predispone una reportistica dei Job Posting con le candidature ricevute e lo stato di  avanzamento del processo di selezione. Tali informazioni sono mappate all’interno di un database  contente lo storico delle posizioni aperte e i relativi elementi caratteristici (riferimenti organizzativi,  numero di candidature ricevute, ecc.).   5  Allegato -Modulo di richiesta attivazione Job Posting   Allegato1_Modulo   Richiesta Assunzione Nuovo Personale.docx",
+        "hash": "75a163dbeeda7c420c2ae0f51c1f1c650739fb76930b04f68f5a21a006a8aa13"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::ef235588b536bdc36f73"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::ef235588b536bdc36f73"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::ef235588b536bdc36f73"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::6821595763ec75d098d5"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::6821595763ec75d098d5"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::6821595763ec75d098d5"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::63af8e5e3d8bd544723f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::63af8e5e3d8bd544723f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::63af8e5e3d8bd544723f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::3af13eda2bf7e7425da0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::3af13eda2bf7e7425da0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::3af13eda2bf7e7425da0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::061162844e4165c67869"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::061162844e4165c67869"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::061162844e4165c67869"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::1a6b9a8bcda381712b61"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::1a6b9a8bcda381712b61"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::1a6b9a8bcda381712b61"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::9fe4b665264a88ace77e"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::9fe4b665264a88ace77e"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::9fe4b665264a88ace77e"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5ada6db34ecd8c7c43ee"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5ada6db34ecd8c7c43ee"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5ada6db34ecd8c7c43ee"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::f3b57e3a731520c77cce"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::f3b57e3a731520c77cce"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::f3b57e3a731520c77cce"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::a2e24d66753731d8ca72"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::a2e24d66753731d8ca72"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::a2e24d66753731d8ca72"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::c3773aa68ced5225c303"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::c3773aa68ced5225c303"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::c3773aa68ced5225c303"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::81ca8f169d2640a9e9a2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::81ca8f169d2640a9e9a2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::81ca8f169d2640a9e9a2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5e18d5b618067a3e0ba3"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5e18d5b618067a3e0ba3"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5e18d5b618067a3e0ba3"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5863c25295efec671a93"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5863c25295efec671a93"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5863c25295efec671a93"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::04acd324472321b15837"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::04acd324472321b15837"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::04acd324472321b15837"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::266babb45a4459b29080"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::266babb45a4459b29080"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::266babb45a4459b29080"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::75a163dbeeda7c420c2a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::75a163dbeeda7c420c2a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::75a163dbeeda7c420c2a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c4c6e7c614e93b2f61a096bddf9cc12d",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::ef235588b536bdc36f73",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::ef235588b536bdc36f73"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::ef235588b536bdc36f73",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::ef235588b536bdc36f73"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::6821595763ec75d098d5",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::6821595763ec75d098d5"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::6821595763ec75d098d5",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::6821595763ec75d098d5"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::63af8e5e3d8bd544723f",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::63af8e5e3d8bd544723f"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::63af8e5e3d8bd544723f",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::63af8e5e3d8bd544723f"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::3af13eda2bf7e7425da0",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::3af13eda2bf7e7425da0"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::3af13eda2bf7e7425da0",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::3af13eda2bf7e7425da0"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::061162844e4165c67869",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::061162844e4165c67869"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::061162844e4165c67869",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::061162844e4165c67869"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::1a6b9a8bcda381712b61",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::1a6b9a8bcda381712b61"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::1a6b9a8bcda381712b61",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::1a6b9a8bcda381712b61"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::9fe4b665264a88ace77e",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::9fe4b665264a88ace77e"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::9fe4b665264a88ace77e",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::9fe4b665264a88ace77e"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5ada6db34ecd8c7c43ee",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5ada6db34ecd8c7c43ee"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5ada6db34ecd8c7c43ee",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5ada6db34ecd8c7c43ee"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::f3b57e3a731520c77cce",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::f3b57e3a731520c77cce"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::f3b57e3a731520c77cce",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::f3b57e3a731520c77cce"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::a2e24d66753731d8ca72",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::a2e24d66753731d8ca72"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::a2e24d66753731d8ca72",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::a2e24d66753731d8ca72"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::c3773aa68ced5225c303",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::c3773aa68ced5225c303"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::c3773aa68ced5225c303",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::c3773aa68ced5225c303"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::81ca8f169d2640a9e9a2",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::81ca8f169d2640a9e9a2"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::81ca8f169d2640a9e9a2",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::81ca8f169d2640a9e9a2"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5e18d5b618067a3e0ba3",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5e18d5b618067a3e0ba3"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5e18d5b618067a3e0ba3",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5e18d5b618067a3e0ba3"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5863c25295efec671a93",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5863c25295efec671a93"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5863c25295efec671a93",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::5863c25295efec671a93"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::04acd324472321b15837",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::04acd324472321b15837"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::04acd324472321b15837",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::04acd324472321b15837"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::266babb45a4459b29080",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::266babb45a4459b29080"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::266babb45a4459b29080",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::266babb45a4459b29080"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::75a163dbeeda7c420c2a",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::75a163dbeeda7c420c2a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::75a163dbeeda7c420c2a",
+      "target": "DOCUMENT_SECTION::c4c6e7c614e93b2f61a096bddf9cc12d::75a163dbeeda7c420c2a"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:19:34.403481+00:00",
+    "document_name": "POLGRPJobPostingv2020230919v2.pdf",
+    "document_hash": "c4c6e7c614e93b2f61a096bddf9cc12d"
+  }
+}

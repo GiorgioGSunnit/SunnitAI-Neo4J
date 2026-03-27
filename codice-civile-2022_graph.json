@@ -1,0 +1,700 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+        "name": "codice-civile-2022.pdf",
+        "description": "Il comma disciplina la trascrizione del contratto definitivo o di altro atto esecutivo dei contratti preliminari, o della sentenza che accoglie la relativa domanda. Testo significativo: La trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione dei contratti preliminari di cui al comma 1, ovvero della sentenza che accoglie la domanda diretta ad ottenere Il comma stabilisce che gli effetti della trascrizione del contratto preliminare cessano e si considerano come mai prodotti se, entro determinati termini temporali, non viene trascritto il contratto definitivo o altro atto esecutivo del preliminare. Testo significativo: Gli effetti della trascrizione del contratto preliminare cessano e si considerano come mai prodotti se entro un anno dalla data convenuta tra le parti per la conclusione del contratto definitivo, e in ogni caso entro tre anni dalla trascrizione predetta, non sia eseguita la trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione del contratto preliminare o della domanda giudiziale di cui all'articolo 2652, primo comma, numero 2). Per la trascrizione dei contratti preliminari relativi a porzioni di edifici da costruire o in corso di costruzione, è necessario che tali contratti indichino la superficie utile della porzione e la quota millesimale spettante al promissario acquirente. Testo significativo: I contratti preliminari aventi ad oggetto porzioni di edifici da costruire o in corso di costruzione devono indicare, per essere trascritti, la superficie utile della porzione di edificio e la quota del diritto spettante al promissario acquirente relativa all'intero costruendo edificio espressa in millesimi. Il comma disciplina le modalità di trascrizione relative a beni immobili in caso di edifici non ancora esistenti, specificando che la trascrizione si riferisce alla quota determinata secondo il comma 4 e che, una volta costruito l'edificio, gli effetti si estendono alle porzioni materiali e alle parti comuni. Inoltre, stabilisce che eventuali differenze di superficie o quota, entro il limite di un ventesimo, non producono effetti. Testo significativo: Nel caso previsto nel comma 4 la trascrizione e' eseguita con riferimento al bene immobile per la quota determinata secondo le modalita' di cui al comma stesso. Non appena l'edificio viene ad esistenza gli effetti della trascrizione si producono rispetto alle porzioni materiali corrispondenti alle quote di proprieta' predeterminate nonche' alle relative parti comuni. L'eventuale differenza di superficie o di quota contenuta nei limiti di un ventesimo rispetto a quelle indicate nel contratto preliminare non produce effetti. Il comma fornisce una definizione di edificio esistente ai fini delle disposizioni del comma 5, specificando che si considera esistente l'edificio in cui siano stati realizzati il rustico, le mura perimetrali delle singole unità e la copertura. Testo significativo: Ai fini delle disposizioni di cui al comma 5, si intende esistente l'edificio nel quale sia stato eseguito il rustico, comprensivo delle mura perimetrali delle singole unita', e sia stata completata la copertura. La trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione dei contratti preliminari di cui al comma 1, ovvero della sentenza che accoglie la domanda diretta ad ottenere Gli effetti della trascrizione",
+        "date_enacted": "",
+        "status": "",
+        "hash": "1aafe3717c1e4c2f8c10e1f8d93692d2"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb",
+        "name": "0",
+        "type": "Comma",
+        "abstract": "",
+        "plain_text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::90e1a435fddfd7939029",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::90e1a435fddfd7939029",
+        "name": "2.",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina la trascrizione del contratto definitivo o di altro atto esecutivo dei contratti preliminari, o della sentenza che accoglie la relativa domanda. Testo significativo: La trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione dei contratti preliminari di cui al comma 1, ovvero della sentenza che accoglie la domanda diretta ad ottenere",
+        "plain_text": "La trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione dei contratti\npreliminari di cui al comma 1, ovvero della sentenza che accoglie la domanda diretta ad ottenere",
+        "hash": "90e1a435fddfd7939029adeac835e09af885a4e4f01c5fb79c474f828863d237"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::ec11c1a7e7c9850bbef0",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::ec11c1a7e7c9850bbef0",
+        "name": "3.",
+        "type": "Sottocomma",
+        "abstract": "Il comma stabilisce che gli effetti della trascrizione del contratto preliminare cessano e si considerano come mai prodotti se, entro determinati termini temporali, non viene trascritto il contratto definitivo o altro atto esecutivo del preliminare. Testo significativo: Gli effetti della trascrizione del contratto preliminare cessano e si considerano come mai prodotti se entro un anno dalla data convenuta tra le parti per la conclusione del contratto definitivo, e in ogni caso entro tre anni dalla trascrizione predetta, non sia eseguita la trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione del contratto preliminare o della domanda giudiziale di cui all'articolo 2652, primo comma, numero 2).",
+        "plain_text": "Gli effetti della trascrizione del contratto preliminare cessano e si considerano come mai prodotti se\nentro un anno dalla data convenuta tra le parti per la conclusione del contratto definitivo, e in ogni caso\nentro tre anni dalla trascrizione predetta, non sia eseguita la trascrizione del contratto definitivo o di altro\natto che costituisca comunque esecuzione del contratto preliminare o della domanda giudiziale di cui\nall'articolo 2652, primo comma, numero 2).",
+        "hash": "ec11c1a7e7c9850bbef0d480120718f6e01b5ae2c11e19803b2c36dfbd4d425e"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::247ced9709e72bc5f719",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::247ced9709e72bc5f719",
+        "name": "4.",
+        "type": "Sottocomma",
+        "abstract": "Per la trascrizione dei contratti preliminari relativi a porzioni di edifici da costruire o in corso di costruzione, è necessario che tali contratti indichino la superficie utile della porzione e la quota millesimale spettante al promissario acquirente. Testo significativo: I contratti preliminari aventi ad oggetto porzioni di edifici da costruire o in corso di costruzione devono indicare, per essere trascritti, la superficie utile della porzione di edificio e la quota del diritto spettante al promissario acquirente relativa all'intero costruendo edificio espressa in millesimi.",
+        "plain_text": "I contratti preliminari aventi ad oggetto porzioni di edifici da costruire o in corso di costruzione devono\nindicare, per essere trascritti, la superficie utile della porzione di edificio e la quota del diritto spettante al\npromissario acquirente relativa all'intero costruendo edificio espressa in millesimi.",
+        "hash": "247ced9709e72bc5f719c0076e2e5acefe26b363097f786e69b64028fda6bda6"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::fb9307eb53b42cb0e416",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::fb9307eb53b42cb0e416",
+        "name": "5.",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina le modalità di trascrizione relative a beni immobili in caso di edifici non ancora esistenti, specificando che la trascrizione si riferisce alla quota determinata secondo il comma 4 e che, una volta costruito l'edificio, gli effetti si estendono alle porzioni materiali e alle parti comuni. Inoltre, stabilisce che eventuali differenze di superficie o quota, entro il limite di un ventesimo, non producono effetti. Testo significativo: Nel caso previsto nel comma 4 la trascrizione e' eseguita con riferimento al bene immobile per la quota determinata secondo le modalita' di cui al comma stesso. Non appena l'edificio viene ad esistenza gli effetti della trascrizione si producono rispetto alle porzioni materiali corrispondenti alle quote di proprieta' predeterminate nonche' alle relative parti comuni. L'eventuale differenza di superficie o di quota contenuta nei limiti di un ventesimo rispetto a quelle indicate nel contratto preliminare non produce effetti.",
+        "plain_text": "Nel caso previsto nel comma 4 la trascrizione e' eseguita con riferimento al bene immobile per la quota\ndeterminata secondo le modalita' di cui al comma stesso. Non appena l'edificio viene ad esistenza gli effetti\ndella trascrizione si producono rispetto alle porzioni materiali corrispondenti alle quote di proprieta'\npredeterminate nonche' alle relative parti comuni. L'eventuale differenza di superficie o di quota contenuta\nnei limiti di un ventesimo rispetto a quelle indicate nel contratto preliminare non produce effetti.",
+        "hash": "fb9307eb53b42cb0e41641e35e5bc03ef19c3ca26de8fdbaa77c87aa4384960e"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::f94d28e51b16568c5b60",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::f94d28e51b16568c5b60",
+        "name": "6.",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una definizione di edificio esistente ai fini delle disposizioni del comma 5, specificando che si considera esistente l'edificio in cui siano stati realizzati il rustico, le mura perimetrali delle singole unità e la copertura. Testo significativo: Ai fini delle disposizioni di cui al comma 5, si intende esistente l'edificio nel quale sia stato eseguito il rustico, comprensivo delle mura perimetrali delle singole unita', e sia stata completata la copertura.",
+        "plain_text": "Ai fini delle disposizioni di cui al comma 5, si intende esistente l'edificio nel quale sia stato eseguito il\nrustico, comprensivo delle mura perimetrali delle singole unita', e sia stata completata la copertura.)) Art. 2645-ter. (( (Trascrizione di atti di destinazione per la realizzazione di interessi meritevoli di tutela riferibili a persone con disabilita', a pubbliche amministrazioni, o ad altri enti o persone fisiche). )) ((Gli atti in forma pubblica con cui beni immobili o beni mobili iscritti in pubblici registri sono destinati,\nper un periodo non superiore a novanta anni o per la durata della vita della persona fisica beneficiaria, alla\nrealizzazione di interessi meritevoli di tutela riferibili a persone con disabilita', a pubbliche\namministrazioni, o ad altri enti o persone fisiche ai sensi dell'articolo 1322, secondo comma, possono essere\ntrascritti al fine di rendere opponibile ai terzi il vincolo di destinazione; per la realizzazione di tali interessi\npuo' agire, oltre al conferente, qualsiasi interessato anche durante la vita del conferente stesso. I beni\nconferiti e i loro frutti possono essere impiegati solo per la realizzazione del fine di destinazione e possono\ncostituire oggetto di esecuzione, salvo quanto previsto dall'articolo 2915, primo comma, solo per debiti\ncontratti per tale scopo.)) Art. 2645-quater. (( (Trascrizione di atti costitutivi di vincolo). )) ((Si devono trascrivere, se hanno per oggetto beni immobili, gli atti di diritto privato, i contratti e gli altri\natti di diritto privato, anche unilaterali, nonche' le convenzioni e i contratti con i quali vengono costituiti a\nfavore dello Stato, della regione, degli altri enti pubblici territoriali ovvero di enti svolgenti un servizio di\ninteresse pubblico, vincoli di uso pubblico o comunque ogni altro vincolo a qualsiasi fine richiesto dalle\nnormative statali e regionali, dagli strumenti urbanistici comunali nonche' dai conseguenti strumenti di\npianificazione territoriale e dalle convenzioni urbanistiche a essi relative)). Art. 2646. (Trascrizione delle divisioni). Si devono trascrivere le divisioni che hanno per oggetto beni immobili, come pure i provvedimenti di aggiudicazione\ndegli immobili divisi mediante incanto, i provvedimenti di attribuzione delle quote tra condividenti e i verbali di\nestrazione a sorte delle quote. Art. 2647. ((Costituzione del fondo patrimoniale e separazione di beni.)) ((Devono essere trascritti, se hanno per oggetto beni immobili, la costituzione del fondo patrimoniale, le\nconvenzioni matrimoniali che escludono i beni medesimi dalla comunione tra i coniugi, gli atti e i\nprovvedimenti di scioglimento della comunione, gli atti di acquisto di beni personali a norma delle lettere\nc), d), e) ed f) dell'articolo 179, a carico, rispettivamente, dei coniugi titolari del fondo patrimoniale o del\nconiuge titolare del bene escluso o che cessa di far parte della comunione. Le trascrizioni previste dal precedente comma devono essere eseguite anche relativamente ai beni immobili\nche successivamente entrano a far parte del patrimonio familiare o risultano esclusi dalla comunione tra i\nconiugi. La trascrizione del vincolo derivante dal fondo patrimoniale costituito per testamento deve essere eseguita\nd'ufficio dal conservatore contemporaneamente alla trascrizione dell'acquisto a causa di morte)). Art. 2648. (Accettazione di eredita' e acquisto di legato). Si devono trascrivere l'accettazione dell'eredita' che importi acquisto dei diritti enunciati nei numeri 1, 2 e 4 dell'art.\n2643 o liberazione dai medesimi e l'acquisto del legato che abbia lo stesso oggetto. La trascrizione dell'accettazione dell'eredita' si opera in base alla dichiarazione del chiamato all'eredita', contenuta in\nun atto pubblico ovvero in una scrittura privata con sottoscrizione autenticata o accertata giudizialmente. Se il chiamato ha compiuto uno degli atti che importano accettazione tacita dell'eredita', si puo' richiedere la\ntrascrizione sulla base di quell'atto, qualora esso risulti da sentenza, da atto pubblico o da scrittura privata con\nsottoscrizione autenticata o accertata giudizialmente. La trascrizione dell'acquisto del legato si opera sulla base di un estratto autentico del testamento. Art. 2649. (Cessione dei beni ai creditori). Deve essere trascritta, qualora comprenda beni immobili, la cessione che il debitore fa dei suoi beni ai creditori,\nperche' questi procedano alla liquidazione dei medesimi e alla ripartizione del ricavato. Non hanno effetto, rispetto ai creditori, le trascrizioni o iscrizioni di diritti acquistati verso il debitore, se eseguite dopo\nche la cessione e' stata trascritta. Art. 2650. (Continuita' delle trascrizioni). Quando l'atto anteriore di acquisto e' stato trascritto, le successive trascrizioni o iscrizioni producono effetto secondo il\nloro ordine rispettivo, salvo il disposto dell'art. 2644. L'ipoteca legale a favore dell'alienante e quella a favore del condividente, iscritte contemporaneamente alla trascrizione\ndel titolo di acquisto o della divisione, prevalgono sulle trascrizioni o iscrizioni eseguite anteriormente contro\nl'acquirente o il condividente tenuto al conguaglio. Art. 2651. (Trascrizione di sentenze). Si devono trascrivere le sentenze da cui risulta estinto per prescrizione o acquistato per usucapione ovvero in altro\nmodo non soggetto a trascrizione uno dei diritti indicati dai numeri 1, 2 e 4 dell'art. 2643. Art. 2652. (Domande riguardanti atti soggetti a trascrizione. Effetti delle relative trascrizioni rispetto ai terzi). Si devono trascrivere, qualora si riferiscano ai diritti menzionati nell'art. 2643, le domande giudiziali indicate dai\nnumeri seguenti, agli effetti per ciascuna di esse previsti: 1) le domande di risoluzione dei contratti e quelle indicate dal secondo comma dell'art. 648 e dall'ultimo comma\ndell'art. 793, le domande di rescissione, le domande di revocazione delle donazioni, nonche' quelle indicate dall'art.\n524. Le sentenze che accolgono tali domande non pregiudicano i diritti acquistati dai terzi in base a un atto trascritto o\niscritto anteriormente alla trascrizione della domanda; La trascrizione della sentenza che accoglie la domanda prevale sulle trascrizioni e iscrizioni eseguite contro il\nconvenuto dopo la trascrizione della domanda; 3) le domande dirette a ottenere l'accertamento giudiziale della sottoscrizione di scritture private in cui si contiene un\natto soggetto a trascrizione o a iscrizione. La trascrizione o l'iscrizione dell'atto contenuto nella scrittura produce effetto dalla data in cui e' stata trascritta la\ndomanda; La sentenza che accoglie la domanda non pregiudica i diritti acquistati dai terzi di buona fede in base a un atto\ntrascritto o iscritto anteriormente alla trascrizione della domanda; La sentenza che accoglie la domanda non pregiudica i diritti acquistati a titolo oneroso dai terzi di buona fede in base a\nun atto trascritto o iscritto anteriormente alla trascrizione della domanda; 6) le domande dirette a far dichiarare la nullita' o a far pronunziare l'annullamento di atti soggetti a trascrizione e le\ndomande dirette a impugnare la validita' della trascrizione. Se la domanda e' trascritta dopo cinque anni dalla data della trascrizione dell'atto impugnato, la sentenza che l'accoglie\nnon pregiudica i diritti acquistati a qualunque titolo dai terzi di buona fede in base a un atto trascritto o iscritto\nanteriormente alla trascrizione della domanda. Se pero' la domanda e' diretta a far pronunziare l'annullamento per una\ncausa diversa dall'incapacita' legale, la sentenza che raccoglie non pregiudica i diritti acquistati dai terzi di buona fede\nin base a un atto trascritto o iscritto anteriormente alla trascrizione della domanda, anche se questa e' stata trascritta\nprima che siano decorsi cinque anni dalla data della trascrizione dell'atto impugnato, purche' in questo caso i terzi\nabbiano acquistato a titolo oneroso; Salvo quanto e' disposto dal secondo e dal terzo comma dell'art. 534, se la trascrizione della domanda e' eseguita dopo\ncinque anni dalla data della trascrizione dell'acquisto, la sentenza che accoglie la domanda non pregiudica, i terzi di Se la trascrizione e' eseguita dopo dieci anni dall'apertura della successione, la sentenza che accoglie la domanda non\npregiudica i terzi che hanno acquistato a titolo oneroso diritti in base a un atto trascritto o iscritto anteriormente alla\ntrascrizione della domanda; 9) le domande di revocazione e quelle di opposizione di terzo contro le sentenze soggette a trascrizione per le cause\npreviste dai numeri 1, 2, 3 e 6 dell'art. 395 del codice di procedura civile e dal secondo comma dell'art. 404 dello stesso\ncodice. Se la domanda e' trascritta dopo cinque anni dalla trascrizione della sentenza impugnata, la sentenza che l'accoglie non\npregiudica i diritti acquistati dai terzi di buona fede in base a un atto trascritto o iscritto anteriormente alla trascrizione\ndella domanda. ((Alla domanda giudiziale e' equiparato l'atto notificato con il quale la parte, in presenza di compromesso o\ndi clausola compromissoria, dichiara all'altra la propria intenzione di promuovere il procedimento arbitrale,\npropone la domanda e procede, per quanto le spetta, alla nomina degli arbitri)). Art. 2653. (Altre domande e atti soggetti a trascrizione a diversi effetti). Devono parimenti essere trascritti: 1) le domande dirette a rivendicare la proprieta' o altri diritti reali di godimento su beni immobili e le domande dirette\nall'accertamento dei diritti stessi. La sentenza pronunziata contro il convenuto indicato nella trascrizione della domanda ha effetto anche contro coloro\nche hanno acquistato diritti dal medesimo in base a un atto trascritto dopo la trascrizione della domanda; La pronunzia di devoluzione ha effetto anche nei confronti di coloro che hanno acquistato diritti dall'enfiteuta in base a\nun atto trascritto posteriormente alla trascrizione della domanda; Se la trascrizione di tali domande a dichiarazioni e' eseguita dopo sessanta giorni dalla scadenza del termine per\nl'esercizio del riscatto, restano salvi i diritti acquistati dai terzi dopo la scadenza del termine medesimo in base a un\natto trascritto o iscritto anteriormente alla trascrizione della domanda o della dichiarazione; 4) le domande di separazione degli immobili dotali e quelle di scioglimento della comunione tra coniugi avente per\noggetto beni immobili. La sentenza che pronunzia la separazione o lo scioglimento non ha effetto a danno dei terzi che, anteriormente alla\ntrascrizione della domanda, hanno validamente acquistato dal marito diritti relativi a beni dotali o a beni della\ncomunione; L'interruzione non ha effetto riguardo ai terzi che hanno acquistato diritti dal possessore in base a un atto trascritto o\niscritto, se non dalla data della trascrizione dell'atto o della domanda. ((Alla domanda giudiziale e' equiparato l'atto notificato con il quale la parte, in presenza di compromesso o\ndi clausola compromissoria, dichiara all'altra la propria intenzione di promuovere il procedimento arbitrale,\npropone la domanda e procede, per quanto le spetta, alla nomina degli arbitri)). Art. 2654. (Annotazione di domande o atti soggetti a trascrizione). La trascrizione degli atti e delle domande indicati dai due articoli precedenti dev'essere anche annotata in margine alla\ntrascrizione o iscrizione, quando si riferisce a un atto trascritto o iscritto.((74)) Il D.Lgs. 31 ottobre 1990, n. 347, ha disposto (con l'art. 7, comma 1) che \"Le annotazioni previste dagli articoli 2654,\n2655 e 2896 del codice civile devono essere richieste, a cura delle parti o dei loro procuratori o dei notai o altri pubblici\nufficiali che hanno ricevuto o autenticato l'atto, entro il termine di trenta giorni dalla data dell'atto o della\npubblicazione della sentenza o della pronunzia del decreto. \" Art. 2655. (Annotazione di atti e di sentenze). Qualora un atto trascritto o iscritto sia dichiarato nullo o sia annullato, risoluto, rescisso o revocato o sia soggetto a\ncondizione risolutiva, la dichiarazione di nullita' e, rispettivamente, l'annullamento, la risoluzione, la rescissione, la\nrevocazione, l'avveramento della condizione devono annotarsi in margine alla trascrizione o all'iscrizione dell'atto. Si deve del pari annotare, in margine alla trascrizione della relativa domanda, la sentenza di devoluzione del fondo\nenfiteutico. Se tali annotazioni non sono eseguite, non producono effetto le successive trascrizioni o iscrizioni a carico di colui che\nha ottenuto la dichiarazione di nullita' o l'annullamento, la risoluzione, la rescissione, la revoca o la devoluzione o a\nfavore del quale si e' avverata la condizione. Eseguita l'annotazione, le trascrizioni o iscrizioni gia' compiute hanno il\nloro effetto secondo l'ordine rispettivo. L'annotazione si opera in base alla sentenza o alla convenzione da cui risulta uno dei fatti sopra indicati; se si tratta di\ncondizione, puo' eseguirsi in virtu' della dichiarazione unilaterale del contraente in danno del quale la condizione stessa\nsi e' verificata. ((74))",
+        "hash": "f94d28e51b16568c5b6089cb3e12c4a3f63650c636866f30340755c54fc9362c"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::8d2556a72bac834f1271",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::8d2556a72bac834f1271",
+        "name": "0",
+        "type": "Comma",
+        "abstract": "La trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione dei contratti preliminari di cui al comma 1, ovvero della sentenza che accoglie la domanda diretta ad ottenere Gli effetti della trascrizione del contratto preliminare cessano e si considerano come mai prodotti se entro un anno dalla data convenuta tra le parti per la conclusione del contratto definitivo, e in ogni caso entro tre anni dalla trascrizione predetta, non sia eseguita la trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione del contratto preliminare o della domanda giudiziale di cui all'articolo 2652, primo comma, numero 2). I contratti preliminari aventi ad oggetto porzioni di edifici da costruire o in corso di costruzione devono indicare, per essere trascritti, la superficie utile della porzione di edificio e la quota del diritto spettante al promissario acquirente relativa all'intero costruendo edificio espressa in millesimi. Nel caso previsto nel comma 4 la trascrizione e' eseguita con riferimento al bene immobile per la quota determinata secondo le modalita' di cui al comma stesso. Non appena l'edificio viene ad esistenza gli effetti della trascrizione si producono rispetto alle porzioni materiali corrispondenti alle quote di proprieta' predeterminate nonche' alle relative parti comuni.",
+        "plain_text": "La trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione dei contratti\npreliminari di cui al comma 1, ovvero della sentenza che accoglie la domanda diretta ad ottenere\nGli effetti della trascrizione del contratto preliminare cessano e si considerano come mai prodotti se\nentro un anno dalla data convenuta tra le parti per la conclusione del contratto definitivo, e in ogni caso\nentro tre anni dalla trascrizione predetta, non sia eseguita la trascrizione del contratto definitivo o di altro\natto che costituisca comunque esecuzione del contratto preliminare o della domanda giudiziale di cui\nall'articolo 2652, primo comma, numero 2).\nI contratti preliminari aventi ad oggetto porzioni di edifici da costruire o in corso di costruzione devono\nindicare, per essere trascritti, la superficie utile della porzione di edificio e la quota del diritto spettante al\npromissario acquirente relativa all'intero costruendo edificio espressa in millesimi.\nNel caso previsto nel comma 4 la trascrizione e' eseguita con riferimento al bene immobile per la quota\ndeterminata secondo le modalita' di cui al comma stesso. Non appena l'edificio viene ad esistenza gli effetti\ndella trascrizione si producono rispetto alle porzioni materiali corrispondenti alle quote di proprieta'\npredeterminate nonche' alle relative parti comuni. L'eventuale differenza di superficie o di quota contenuta\nnei limiti di un ventesimo rispetto a quelle indicate nel contratto preliminare non produce effetti.\nAi fini delle disposizioni di cui al comma 5, si intende esistente l'edificio nel quale sia stato eseguito il\nrustico, comprensivo delle mura perimetrali delle singole unita', e sia stata completata la copertura.)) Art. 2645-ter. (( (Trascrizione di atti di destinazione per la realizzazione di interessi meritevoli di tutela riferibili a persone con disabilita', a pubbliche amministrazioni, o ad altri enti o persone fisiche). )) ((Gli atti in forma pubblica con cui beni immobili o beni mobili iscritti in pubblici registri sono destinati,\nper un periodo non superiore a novanta anni o per la durata della vita della persona fisica beneficiaria, alla\nrealizzazione di interessi meritevoli di tutela riferibili a persone con disabilita', a pubbliche\namministrazioni, o ad altri enti o persone fisiche ai sensi dell'articolo 1322, secondo comma, possono essere\ntrascritti al fine di rendere opponibile ai terzi il vincolo di destinazione; per la realizzazione di tali interessi\npuo' agire, oltre al conferente, qualsiasi interessato anche durante la vita del conferente stesso. I beni\nconferiti e i loro frutti possono essere impiegati solo per la realizzazione del fine di destinazione e possono\ncostituire oggetto di esecuzione, salvo quanto previsto dall'articolo 2915, primo comma, solo per debiti\ncontratti per tale scopo.)) Art. 2645-quater. (( (Trascrizione di atti costitutivi di vincolo). )) ((Si devono trascrivere, se hanno per oggetto beni immobili, gli atti di diritto privato, i contratti e gli altri\natti di diritto privato, anche unilaterali, nonche' le convenzioni e i contratti con i quali vengono costituiti a\nfavore dello Stato, della regione, degli altri enti pubblici territoriali ovvero di enti svolgenti un servizio di\ninteresse pubblico, vincoli di uso pubblico o comunque ogni altro vincolo a qualsiasi fine richiesto dalle\nnormative statali e regionali, dagli strumenti urbanistici comunali nonche' dai conseguenti strumenti di\npianificazione territoriale e dalle convenzioni urbanistiche a essi relative)). Art. 2646. (Trascrizione delle divisioni). Si devono trascrivere le divisioni che hanno per oggetto beni immobili, come pure i provvedimenti di aggiudicazione\ndegli immobili divisi mediante incanto, i provvedimenti di attribuzione delle quote tra condividenti e i verbali di\nestrazione a sorte delle quote. Art. 2647. ((Costituzione del fondo patrimoniale e separazione di beni.)) ((Devono essere trascritti, se hanno per oggetto beni immobili, la costituzione del fondo patrimoniale, le\nconvenzioni matrimoniali che escludono i beni medesimi dalla comunione tra i coniugi, gli atti e i\nprovvedimenti di scioglimento della comunione, gli atti di acquisto di beni personali a norma delle lettere\nc), d), e) ed f) dell'articolo 179, a carico, rispettivamente, dei coniugi titolari del fondo patrimoniale o del\nconiuge titolare del bene escluso o che cessa di far parte della comunione. Le trascrizioni previste dal precedente comma devono essere eseguite anche relativamente ai beni immobili\nche successivamente entrano a far parte del patrimonio familiare o risultano esclusi dalla comunione tra i\nconiugi. La trascrizione del vincolo derivante dal fondo patrimoniale costituito per testamento deve essere eseguita\nd'ufficio dal conservatore contemporaneamente alla trascrizione dell'acquisto a causa di morte)). Art. 2648. (Accettazione di eredita' e acquisto di legato). Si devono trascrivere l'accettazione dell'eredita' che importi acquisto dei diritti enunciati nei numeri 1, 2 e 4 dell'art.\n2643 o liberazione dai medesimi e l'acquisto del legato che abbia lo stesso oggetto. La trascrizione dell'accettazione dell'eredita' si opera in base alla dichiarazione del chiamato all'eredita', contenuta in\nun atto pubblico ovvero in una scrittura privata con sottoscrizione autenticata o accertata giudizialmente. Se il chiamato ha compiuto uno degli atti che importano accettazione tacita dell'eredita', si puo' richiedere la\ntrascrizione sulla base di quell'atto, qualora esso risulti da sentenza, da atto pubblico o da scrittura privata con\nsottoscrizione autenticata o accertata giudizialmente. La trascrizione dell'acquisto del legato si opera sulla base di un estratto autentico del testamento. Art. 2649. (Cessione dei beni ai creditori). Deve essere trascritta, qualora comprenda beni immobili, la cessione che il debitore fa dei suoi beni ai creditori,\nperche' questi procedano alla liquidazione dei medesimi e alla ripartizione del ricavato. Non hanno effetto, rispetto ai creditori, le trascrizioni o iscrizioni di diritti acquistati verso il debitore, se eseguite dopo\nche la cessione e' stata trascritta. Art. 2650. (Continuita' delle trascrizioni). Quando l'atto anteriore di acquisto e' stato trascritto, le successive trascrizioni o iscrizioni producono effetto secondo il\nloro ordine rispettivo, salvo il disposto dell'art. 2644. L'ipoteca legale a favore dell'alienante e quella a favore del condividente, iscritte contemporaneamente alla trascrizione\ndel titolo di acquisto o della divisione, prevalgono sulle trascrizioni o iscrizioni eseguite anteriormente contro\nl'acquirente o il condividente tenuto al conguaglio. Art. 2651. (Trascrizione di sentenze). Si devono trascrivere le sentenze da cui risulta estinto per prescrizione o acquistato per usucapione ovvero in altro\nmodo non soggetto a trascrizione uno dei diritti indicati dai numeri 1, 2 e 4 dell'art. 2643. Art. 2652. (Domande riguardanti atti soggetti a trascrizione. Effetti delle relative trascrizioni rispetto ai terzi). Si devono trascrivere, qualora si riferiscano ai diritti menzionati nell'art. 2643, le domande giudiziali indicate dai\nnumeri seguenti, agli effetti per ciascuna di esse previsti: 1) le domande di risoluzione dei contratti e quelle indicate dal secondo comma dell'art. 648 e dall'ultimo comma\ndell'art. 793, le domande di rescissione, le domande di revocazione delle donazioni, nonche' quelle indicate dall'art.\n524. Le sentenze che accolgono tali domande non pregiudicano i diritti acquistati dai terzi in base a un atto trascritto o\niscritto anteriormente alla trascrizione della domanda; La trascrizione della sentenza che accoglie la domanda prevale sulle trascrizioni e iscrizioni eseguite contro il\nconvenuto dopo la trascrizione della domanda; 3) le domande dirette a ottenere l'accertamento giudiziale della sottoscrizione di scritture private in cui si contiene un\natto soggetto a trascrizione o a iscrizione. La trascrizione o l'iscrizione dell'atto contenuto nella scrittura produce effetto dalla data in cui e' stata trascritta la\ndomanda; La sentenza che accoglie la domanda non pregiudica i diritti acquistati dai terzi di buona fede in base a un atto\ntrascritto o iscritto anteriormente alla trascrizione della domanda; La sentenza che accoglie la domanda non pregiudica i diritti acquistati a titolo oneroso dai terzi di buona fede in base a\nun atto trascritto o iscritto anteriormente alla trascrizione della domanda; 6) le domande dirette a far dichiarare la nullita' o a far pronunziare l'annullamento di atti soggetti a trascrizione e le\ndomande dirette a impugnare la validita' della trascrizione. Se la domanda e' trascritta dopo cinque anni dalla data della trascrizione dell'atto impugnato, la sentenza che l'accoglie\nnon pregiudica i diritti acquistati a qualunque titolo dai terzi di buona fede in base a un atto trascritto o iscritto\nanteriormente alla trascrizione della domanda. Se pero' la domanda e' diretta a far pronunziare l'annullamento per una\ncausa diversa dall'incapacita' legale, la sentenza che raccoglie non pregiudica i diritti acquistati dai terzi di buona fede\nin base a un atto trascritto o iscritto anteriormente alla trascrizione della domanda, anche se questa e' stata trascritta\nprima che siano decorsi cinque anni dalla data della trascrizione dell'atto impugnato, purche' in questo caso i terzi\nabbiano acquistato a titolo oneroso; Salvo quanto e' disposto dal secondo e dal terzo comma dell'art. 534, se la trascrizione della domanda e' eseguita dopo\ncinque anni dalla data della trascrizione dell'acquisto, la sentenza che accoglie la domanda non pregiudica, i terzi di Se la trascrizione e' eseguita dopo dieci anni dall'apertura della successione, la sentenza che accoglie la domanda non\npregiudica i terzi che hanno acquistato a titolo oneroso diritti in base a un atto trascritto o iscritto anteriormente alla\ntrascrizione della domanda; 9) le domande di revocazione e quelle di opposizione di terzo contro le sentenze soggette a trascrizione per le cause\npreviste dai numeri 1, 2, 3 e 6 dell'art. 395 del codice di procedura civile e dal secondo comma dell'art. 404 dello stesso\ncodice. Se la domanda e' trascritta dopo cinque anni dalla trascrizione della sentenza impugnata, la sentenza che l'accoglie non\npregiudica i diritti acquistati dai terzi di buona fede in base a un atto trascritto o iscritto anteriormente alla trascrizione\ndella domanda. ((Alla domanda giudiziale e' equiparato l'atto notificato con il quale la parte, in presenza di compromesso o\ndi clausola compromissoria, dichiara all'altra la propria intenzione di promuovere il procedimento arbitrale,\npropone la domanda e procede, per quanto le spetta, alla nomina degli arbitri)). Art. 2653. (Altre domande e atti soggetti a trascrizione a diversi effetti). Devono parimenti essere trascritti: 1) le domande dirette a rivendicare la proprieta' o altri diritti reali di godimento su beni immobili e le domande dirette\nall'accertamento dei diritti stessi. La sentenza pronunziata contro il convenuto indicato nella trascrizione della domanda ha effetto anche contro coloro\nche hanno acquistato diritti dal medesimo in base a un atto trascritto dopo la trascrizione della domanda; La pronunzia di devoluzione ha effetto anche nei confronti di coloro che hanno acquistato diritti dall'enfiteuta in base a\nun atto trascritto posteriormente alla trascrizione della domanda; Se la trascrizione di tali domande a dichiarazioni e' eseguita dopo sessanta giorni dalla scadenza del termine per\nl'esercizio del riscatto, restano salvi i diritti acquistati dai terzi dopo la scadenza del termine medesimo in base a un\natto trascritto o iscritto anteriormente alla trascrizione della domanda o della dichiarazione; 4) le domande di separazione degli immobili dotali e quelle di scioglimento della comunione tra coniugi avente per\noggetto beni immobili. La sentenza che pronunzia la separazione o lo scioglimento non ha effetto a danno dei terzi che, anteriormente alla\ntrascrizione della domanda, hanno validamente acquistato dal marito diritti relativi a beni dotali o a beni della\ncomunione; L'interruzione non ha effetto riguardo ai terzi che hanno acquistato diritti dal possessore in base a un atto trascritto o\niscritto, se non dalla data della trascrizione dell'atto o della domanda. ((Alla domanda giudiziale e' equiparato l'atto notificato con il quale la parte, in presenza di compromesso o\ndi clausola compromissoria, dichiara all'altra la propria intenzione di promuovere il procedimento arbitrale,\npropone la domanda e procede, per quanto le spetta, alla nomina degli arbitri)). Art. 2654. (Annotazione di domande o atti soggetti a trascrizione). La trascrizione degli atti e delle domande indicati dai due articoli precedenti dev'essere anche annotata in margine alla\ntrascrizione o iscrizione, quando si riferisce a un atto trascritto o iscritto.((74)) Il D.Lgs. 31 ottobre 1990, n. 347, ha disposto (con l'art. 7, comma 1) che \"Le annotazioni previste dagli articoli 2654,\n2655 e 2896 del codice civile devono essere richieste, a cura delle parti o dei loro procuratori o dei notai o altri pubblici\nufficiali che hanno ricevuto o autenticato l'atto, entro il termine di trenta giorni dalla data dell'atto o della\npubblicazione della sentenza o della pronunzia del decreto. \" Art. 2655. (Annotazione di atti e di sentenze). Qualora un atto trascritto o iscritto sia dichiarato nullo o sia annullato, risoluto, rescisso o revocato o sia soggetto a\ncondizione risolutiva, la dichiarazione di nullita' e, rispettivamente, l'annullamento, la risoluzione, la rescissione, la\nrevocazione, l'avveramento della condizione devono annotarsi in margine alla trascrizione o all'iscrizione dell'atto. Si deve del pari annotare, in margine alla trascrizione della relativa domanda, la sentenza di devoluzione del fondo\nenfiteutico. Se tali annotazioni non sono eseguite, non producono effetto le successive trascrizioni o iscrizioni a carico di colui che\nha ottenuto la dichiarazione di nullita' o l'annullamento, la risoluzione, la rescissione, la revoca o la devoluzione o a\nfavore del quale si e' avverata la condizione. Eseguita l'annotazione, le trascrizioni o iscrizioni gia' compiute hanno il\nloro effetto secondo l'ordine rispettivo. L'annotazione si opera in base alla sentenza o alla convenzione da cui risulta uno dei fatti sopra indicati; se si tratta di\ncondizione, puo' eseguirsi in virtu' della dichiarazione unilaterale del contraente in danno del quale la condizione stessa\nsi e' verificata. ((74))",
+        "hash": "8d2556a72bac834f12710463aef68c10e2dd69896a09b9be36b893a725f2793f"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::90e1a435fddfd7939029"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::ec11c1a7e7c9850bbef0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::247ced9709e72bc5f719"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::fb9307eb53b42cb0e416"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::f94d28e51b16568c5b60"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::8d2556a72bac834f1271"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::1aafe3717c1e4c2f8c10e1f8d93692d2",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::8d2556a72bac834f1271"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::8d2556a72bac834f1271"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::f94d28e51b16568c5b60",
+      "target": "DOCUMENT_SECTION::1aafe3717c1e4c2f8c10e1f8d93692d2::e3b0c44298fc1c149afb"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T20:56:38.679414+00:00",
+    "document_name": "codice-civile-2022.pdf",
+    "document_hash": "1aafe3717c1e4c2f8c10e1f8d93692d2"
+  }
+}

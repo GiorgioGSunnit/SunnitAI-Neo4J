@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::c04a18e07199e57668ccd30fc4ac56b2",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::c04a18e07199e57668ccd30fc4ac56b2",
+        "name": "BOE-A-2011-17549.pdf",
+        "description": "Il comma comunica l'avvio di un procedimento ordinario presso la Sezione Quarta della Sala de lo Contencioso-Administrativo della Audiencia Nacional, relativo a responsabilità patrimoniale per presunti danni da vaccino, e invita gli interessati a costituirsi come codemandati entro nove giorni dalla pubblicazione. Testo significativo: Lo que se hace público a efectos de la notificación prevista en el mencionado precepto de la citada Ley Jurisdiccional, a fin de que todas aquellas personas físicas y jurídicas que tengan un interés legítimo en el mantenimiento del acto impugnado puedan comparecer y personarse, como codemandadas, en el expresado procedimiento, en el plazo de nueve días contados a partir de la publicación de la presente Resolución en el «Boletín Oficial del Estado» y en la forma establecida en la repetida Ley. de 18 de octubre de 2011, de la Secretaría General Técnica, por la que se emplaza a los interesados en el procedimiento ordinario 329/2011, promovido ante la sección cuarta de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional. De conformidad con lo establecido en el artículo 49 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción de lo Contencioso-Administrativo, se participa que ante la Sección Cuarta de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional se tramita el procedimiento ordinario número 329/2011, promovido por don Jordi Ardit Dolado y doña Ruth González Pérez de Villar, en nombre de su hijo menor Diego Ardit González, sobre responsabilidad patrimonial por presuntos daños ocasionados por la administración de vacunas con el componente mercurial Thiomersal. Lo que se hace público a efectos de la notificación prevista en el mencionado precepto de la citada Ley Jurisdiccional, a fin de que todas aquellas personas físicas y jurídicas que tengan un interés legítimo en el mantenimiento del acto impugnado puedan comparecer y personarse, como codemandadas, en el expresado procedimiento, en el plazo de nueve días contados a partir de la publicación de la presente Resolución en el «Boletín Oficial del Estado» y de 18 de octubre de 2011, de la Secretaría General Técnica, por la que se emplaza a los interesados en el procedimiento ordinario 329/2011, promovido ante la sección cuarta de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional. De conformidad con lo establecido en el artículo 49 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción de lo Contencioso-Administrativo, se participa que ante la Sección Cuarta de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional se tramita el procedimiento ordinario número 329/2011, promovido por don Jordi Ardit Dolado y doña Ruth González Pérez de Villar, en nombre de su hijo menor Diego Ardit González, sobre responsabilidad patrimonial por presuntos daños ocasionados por la administración de vacunas con el componente mercurial Thiomersal. Lo que se hace público a efectos de la notificación prevista en el mencionado precepto de la citada Ley Jurisdiccional, a fin de que todas aquellas personas físicas y jurídicas que tengan un interés legítimo en el mantenimiento del acto impugnado puedan comparecer y personarse, como codemandadas, en",
+        "date_enacted": "",
+        "status": "",
+        "hash": "c04a18e07199e57668ccd30fc4ac56b2"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::f87d7f4e08d2327f",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::f87d7f4e08d2327f",
+        "name": "Boletin Oficial del Estado",
+        "date": "",
+        "description": "Fonte normativa ufficiale spagnola."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::c04a18e07199e57668ccd30fc4ac56b2::7a2e4d1291c68a9db7a6",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::c04a18e07199e57668ccd30fc4ac56b2::7a2e4d1291c68a9db7a6",
+        "name": "17549",
+        "type": "Sottocomma",
+        "abstract": "Il comma comunica l'avvio di un procedimento ordinario presso la Sezione Quarta della Sala de lo Contencioso-Administrativo della Audiencia Nacional, relativo a responsabilità patrimoniale per presunti danni da vaccino, e invita gli interessati a costituirsi come codemandati entro nove giorni dalla pubblicazione. Testo significativo: Lo que se hace público a efectos de la notificación prevista en el mencionado precepto de la citada Ley Jurisdiccional, a fin de que todas aquellas personas físicas y jurídicas que tengan un interés legítimo en el mantenimiento del acto impugnado puedan comparecer y personarse, como codemandadas, en el expresado procedimiento, en el plazo de nueve días contados a partir de la publicación de la presente Resolución en el «Boletín Oficial del Estado» y en la forma establecida en la repetida Ley.",
+        "plain_text": "de 18 de octubre de 2011, de la Secretaría General Técnica, por la  que se emplaza a los interesados en el procedimiento ordinario 329/2011,  promovido ante la sección cuarta de la Sala de lo Contencioso-Administrativo  de la Audiencia Nacional. De conformidad con lo establecido en el artículo 49 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción de lo Contencioso-Administrativo, se participa que ante la  Sección Cuarta de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional se  tramita el procedimiento ordinario número 329/2011, promovido por don Jordi Ardit Dolado  y doña Ruth González Pérez de Villar, en nombre de su hijo menor Diego Ardit González,  sobre responsabilidad patrimonial por presuntos daños ocasionados por la administración  de vacunas con el componente mercurial Thiomersal. Lo que se hace público a efectos de la notificación prevista en el mencionado precepto de la citada Ley Jurisdiccional, a fin de que todas aquellas personas físicas y jurídicas  que tengan un interés legítimo en el mantenimiento del acto impugnado puedan  comparecer y personarse, como codemandadas, en el expresado procedimiento, en el  plazo de nueve días contados a partir de la publicación de la presente Resolución en el  «Boletín Oficial del Estado» y en la forma establecida en la repetida Ley. Madrid, 18 de octubre de 2011.–El Secretario General Técnico del Ministerio de Sanidad, Política Social e Igualdad, Luis Pedro Villameriel Presencio. cve: BOE-A-2011-17549 http://www.boe.es\t BOLETÍN OFICIAL DEL ESTADO\t D. L.: M-1/1958 - ISSN: 0212-033X",
+        "hash": "7a2e4d1291c68a9db7a6d0615f85e51f24f419bcd96ae4c664e475178ce91afc"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::c04a18e07199e57668ccd30fc4ac56b2",
+      "target": "LEGAL_SOURCE::f87d7f4e08d2327f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c04a18e07199e57668ccd30fc4ac56b2",
+      "target": "DOCUMENT_SECTION::c04a18e07199e57668ccd30fc4ac56b2::7a2e4d1291c68a9db7a6"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c04a18e07199e57668ccd30fc4ac56b2",
+      "target": "DOCUMENT_SECTION::c04a18e07199e57668ccd30fc4ac56b2::7a2e4d1291c68a9db7a6"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::c04a18e07199e57668ccd30fc4ac56b2",
+      "target": "DOCUMENT_SECTION::c04a18e07199e57668ccd30fc4ac56b2::7a2e4d1291c68a9db7a6"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c04a18e07199e57668ccd30fc4ac56b2::7a2e4d1291c68a9db7a6",
+      "target": "DOCUMENT_SECTION::c04a18e07199e57668ccd30fc4ac56b2::7a2e4d1291c68a9db7a6"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::c04a18e07199e57668ccd30fc4ac56b2::7a2e4d1291c68a9db7a6",
+      "target": "DOCUMENT_SECTION::c04a18e07199e57668ccd30fc4ac56b2::7a2e4d1291c68a9db7a6"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:33:30.562671+00:00",
+    "document_name": "BOE-A-2011-17549.pdf",
+    "document_hash": "c04a18e07199e57668ccd30fc4ac56b2"
+  }
+}

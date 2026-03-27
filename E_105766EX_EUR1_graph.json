@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::f44e2a028ab7b2624d56374ba173de28",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::f44e2a028ab7b2624d56374ba173de28",
+        "name": "E_105766EX_EUR1.pdf",
+        "description": "Il comma elenca le informazioni da riportare relativamente ai prodotti originari, specificando dati come numero d'ordine, marche, numerazione, natura dei colli, massa lorda, fatture, designazione delle merci e altre misure, da compilare solo se richiesto dalla normativa del paese o territorio esportatore. Testo significativo: Número de orden; marcas, numeración, número y naturaleza de los bultos (¹), 9. Masa bruta (Kg) 10. Facturas designación de las mercancías (mención facultativa) u otra medida etc.) (litros, m³, 01 18746.32 Kg PTDA: 4901 1657 PAQUETES, RTD. 1 CONTENEDOR, UESU4583389. LIBROS TOTAL 1657 BULTOS (2) Rellénese solamente cuando lo exija la regulación del país o territorio exportador Número de orden; marcas, numeración, número y naturaleza de los bultos (¹), 9. Masa 10. Facturas designación de las mercancías bruta (Kg) (mención u otra facultativa) medida etc.) (litros, m³, 01 18746.32 Kg PTDA: 4901 1657 PAQUETES, RTD. 1 CONTENEDOR, UESU4583389. LIBROS TOTAL 1657 BULTOS (2) Rellénese solamente cuando lo exija la regulación del país o territorio exportador Número de orden; marcas, numeración, número y naturaleza de los bultos (¹), 9. Masa 10. Facturas designación de las mercancías bruta (Kg) (mención u otra facultativa) medida etc.) (litros, m³, 01 18746.32 Kg PTDA: 4901 1657 PAQUETES, RTD. 1 CONTENEDOR, UESU4583389. LIBROS TOTAL 1657 BULTOS (2) Rellénese solamente cuando lo exija la regulación del país o territorio exportador",
+        "date_enacted": "",
+        "status": "",
+        "hash": "f44e2a028ab7b2624d56374ba173de28"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::be994d3889c06d970aac",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::be994d3889c06d970aac",
+        "name": "8.",
+        "type": "Sottocomma",
+        "abstract": "Il comma elenca le informazioni da riportare relativamente ai prodotti originari, specificando dati come numero d'ordine, marche, numerazione, natura dei colli, massa lorda, fatture, designazione delle merci e altre misure, da compilare solo se richiesto dalla normativa del paese o territorio esportatore. Testo significativo: Número de orden; marcas, numeración, número y naturaleza de los bultos (¹), 9. Masa bruta (Kg) 10. Facturas designación de las mercancías (mención facultativa) u otra medida etc.) (litros, m³, 01 18746.32 Kg PTDA: 4901 1657 PAQUETES, RTD. 1 CONTENEDOR, UESU4583389. LIBROS TOTAL 1657 BULTOS (2) Rellénese solamente cuando lo exija la regulación del país o territorio exportador",
+        "plain_text": "Número de orden; marcas, numeración, número y naturaleza de los bultos (¹),\n9. Masa\n10. Facturas\ndesignación de las mercancías\nbruta (Kg)\n(mención\nu otra\nfacultativa)\nmedida etc.)\n(litros, m³, 01\n 18746.32 Kg PTDA: 4901\n1657 PAQUETES, RTD.\n1 CONTENEDOR, UESU4583389.\nLIBROS\n \nTOTAL 1657 BULTOS (2) Rellénese solamente cuando lo exija la regulación del país o territorio exportador",
+        "hash": "be994d3889c06d970aacdc33f94ed0cdfc5e1e53208ae8f5d7ef22a0742d900d"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::e3b0c44298fc1c149afb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::e3b0c44298fc1c149afb",
+        "name": "0",
+        "type": "Comma",
+        "abstract": "",
+        "plain_text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::f44e2a028ab7b2624d56374ba173de28",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::f44e2a028ab7b2624d56374ba173de28",
+      "target": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::be994d3889c06d970aac"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::f44e2a028ab7b2624d56374ba173de28",
+      "target": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::be994d3889c06d970aac"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::f44e2a028ab7b2624d56374ba173de28",
+      "target": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::be994d3889c06d970aac"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::f44e2a028ab7b2624d56374ba173de28",
+      "target": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::f44e2a028ab7b2624d56374ba173de28",
+      "target": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::f44e2a028ab7b2624d56374ba173de28",
+      "target": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::be994d3889c06d970aac",
+      "target": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::be994d3889c06d970aac"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::be994d3889c06d970aac",
+      "target": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::be994d3889c06d970aac"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::f44e2a028ab7b2624d56374ba173de28::e3b0c44298fc1c149afb"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:41:47.303172+00:00",
+    "document_name": "E_105766EX_EUR1.pdf",
+    "document_hash": "f44e2a028ab7b2624d56374ba173de28"
+  }
+}

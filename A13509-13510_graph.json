@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+        "name": "A13509-13510.pdf",
+        "description": "Il comma descrive i fatti e i fondamenti giuridici relativi a un ricorso contro la decisione di un registratore immobiliare che ha rifiutato di eseguire un'annotazione preventiva di embargo, illustrando le motivazioni e i riferimenti normativi alla base della decisione. Testo significativo: El artículo 8 de la Ley Reguladora de las Haciendas Locales expresamente recoge que las actuaciones en materia de inspección o recaudación ejecutiva que hayan de efectuarse fuera del territorio de la respectiva entidad local en relación con los ingresos de derecho público propios de ésta deberán ser practicados por los órganos competentes de la correspondiente Comunidad Autónoma o el Estado según los casos, previa solicitud del presidente de la Corporación. de 6 de marzo de 2007, de la Dirección General de los Registros y del Notariado, en el recurso interpuesto por el Recaudador Municipal del Ayun-tamiento de Javea, contra la negativa del Registrador de la Propiedad de Calpe, a practicar una anotación preven-tiva de embargo. En el recurso interpuesto por don Alberto Pastor Rodríguez, Recauda-dor Municipal del Ayuntamiento de Javea, contra la negativa del Registra-dor de la Propiedad de Calpe, don José Simeón Rodríguez Sánchez, a practicar una anotación preventiva de embargo. Hechos I En mandamiento dictado el 21 de julio de 2006, recaído en el Ex pediente Administrativo de Apremio 9010200000000000610, seguido por la Unidad de Recaudación del Ayuntamiento de Javea, contra V, S. A., se ordenó la anotación preventiva de embargo sobre determinadas fincas de su propiedad del Registro de la Propiedad de Calpe. II Presentado el mandamiento en el referido Registro fue calificado con la siguiente nota: Examinado mandamiento de anotación preventiva de embargo de fecha 21 de julio de 2007, expedido en el Ayuntamiento de Javea, expediente 9010200000000000610 y que ha causado el asiento de presentación 622 del diario 54, Referencia 6138 de 2006, fecha de entrada 21 de julio de 2006, siendo interesado Ayuntamiento de de 6 de marzo de 2007, de la Dirección General de los Registros y del Notariado, en el recurso interpuesto por el Recaudador Municipal del Ayun-tamiento de Javea, contra la negativa del Registrador de la Propiedad de Calpe, a practicar una anotación preven-tiva de embargo. En el recurso interpuesto por don Alberto Pastor Rodríguez, Recauda-dor Municipal del Ayuntamiento de Javea, contra la negativa del Registra-dor de la Propiedad de Calpe, don José Simeón Rodríguez Sánchez, a practicar una anotación preventiva de embargo. Hechos I En mandamiento dictado el 21 de julio de 2006, recaído en el Ex pediente Administrativo de Apremio 9010200000000000610, seguido por la Unidad de Recaudación del Ayuntamiento de Javea, contra V, S. A., se ordenó la anotación preventiva de embargo sobre determinadas fincas de su propiedad del Registro de la Propiedad de Calpe. II Presentado el mandamiento en el referido Registro fue calificado con la siguiente nota: Examinado mandamiento de anotación preventiva de embargo de fecha 21 de julio de 2007, expedido en el Ayuntamiento de Javea, expediente 9010200000000000610 y que ha causado el asiento de presentación 622 del diario 54, Referencia 6138 de",
+        "date_enacted": "",
+        "status": "",
+        "hash": "8f1d6126a87a904cb8f107cadd748523"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::7b6fcda370f76f1364ac",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::7b6fcda370f76f1364ac",
+        "name": "6578",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive i fatti e i fondamenti giuridici relativi a un ricorso contro la decisione di un registratore immobiliare che ha rifiutato di eseguire un'annotazione preventiva di embargo, illustrando le motivazioni e i riferimenti normativi alla base della decisione. Testo significativo: El artículo 8 de la Ley Reguladora de las Haciendas Locales expresamente recoge que las actuaciones en materia de inspección o recaudación ejecutiva que hayan de efectuarse fuera del territorio de la respectiva entidad local en relación con los ingresos de derecho público propios de ésta deberán ser practicados por los órganos competentes de la correspondiente Comunidad Autónoma o el Estado según los casos, previa solicitud del presidente de la Corporación.",
+        "plain_text": "de 6 de marzo de 2007, de la Dirección  General de los Registros y del Notariado, en el recurso  interpuesto por el Recaudador Municipal del Ayun-tamiento de Javea, contra la negativa del Registrador de  la Propiedad de Calpe, a practicar una anotación preven-tiva de embargo. En el recurso interpuesto por don Alberto Pastor Rodríguez, Recauda-dor Municipal del Ayuntamiento de Javea, contra la negativa del Registra-dor de la Propiedad de Calpe, don José Simeón Rodríguez Sánchez, a  practicar una anotación preventiva de embargo. Hechos I En mandamiento dictado el 21 de julio de 2006, recaído en el  Ex pediente Administrativo de Apremio 9010200000000000610, seguido  por la Unidad de Recaudación del Ayuntamiento de Javea, contra V, S. A.,  se ordenó la anotación preventiva de embargo sobre determinadas fincas  de su propiedad del Registro de la Propiedad de Calpe. II Presentado el mandamiento en el referido Registro fue calificado con  la siguiente nota: Examinado mandamiento de anotación preventiva de  embargo de fecha 21 de julio de 2007, expedido en el Ayuntamiento  de Javea, expediente 9010200000000000610 y que ha causado el asiento  de presentación 622 del diario 54, Referencia 6138 de 2006, fecha de  entrada 21 de julio de 2006, siendo interesado Ayuntamiento de Javea, se  suspende la extensión del asiento solicitado por que: Resulta: Hechos  1. El Ayuntamiento de Javea no tiene competencia para trabar embargo  directamente en actuaciones de Recaudación Ejecutiva que afecten a  bienes situados fuera del territorio de dicha corporación. Siendo de  aplicación, a mi juicio, los siguientes fundamentos jurídicos: 1. El  artículo 18 de la Ley Hipotecaria que establece la obligación del Registra-dor de calificar los títulos presentados a inscripción. 2. En relación con  el caso concreto, la regulación de los artículos 6 y 8 de la Reguladora de  las Haciendas Locales en interpretación recogida en resolución de la  Dirección General de los Registros y del Notariado de 9 de marzo de 2006,  que dice: «El artículo 8 de la Ley Reguladora de las Haciendas Locales  expresamente recoge que las actuaciones en materia de inspección o  recaudación ejecutiva que hayan de efectuarse fuera del territorio de la  respectiva entidad local en relación con los ingresos de derecho público  propios de ésta deberán ser practicados por los órganos competentes de  la correspondiente Comunidad Autónoma o el Estado según los casos,  previa solicitud del presidente de la Corporación», y el alcance de la cali-ficación registral de los documentos administrativos en cuanto a la com-petencia que se recoge en el artículo 99 del Reglamento Hipotecario.  Contra esta nota de calificación, y sin perjuicio de utilizar cualquier otro  medio impugnatorio que se entienda procedente, los legalmente legitima-dos pueden interponer recurso ante la Dirección General de los Registros  y del Notariado que debe presentarse en este Registro en el plazo de un  mes desde la notificación de la presente, siguiéndose los trámites previs-tos en el artículo 102 de la Ley 24/2001, de 27 de diciembre, que introduce  los nuevos artículos 322 a 329 de la Ley Hipotecaria, así como puede ins-IV El Notario autorizante de la escritura informó que está totalmente de  acuerdo con los fundamentos alegados por la sociedad recurrente y que  hay que considerar lo que dice la Resolución de 27 de mayo de 1988. V La Registradora de la Propiedad informó con fecha 30 de octubre de  2006 y elevó el expediente a la Dirección General de los Registros y del  Notariado. Fundamentos de Derecho Vistos los artículos 8, 9, 13, 38 y 243 de la Ley Hipotecaria y la Resolu-ción de esta Dirección General de 27 de mayo de 1988. 1. Se presenta en el Registro una escritura de venta de una finca rús-tica. La Registradora suspende la inscripción por entender que con la  finca vendida debe venderse también una participación indivisa de otra",
+        "hash": "7b6fcda370f76f1364accedf37a62b38c7598c7742079ae9e4e5156fccce0327"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::eac7b1c56b11894e2b65",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::eac7b1c56b11894e2b65",
+        "name": "13510",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta semplicemente la data e il numero del Bollettino Ufficiale dello Stato spagnolo, senza introdurre obblighi, condizioni, termini temporali, sanzioni o altri elementi normativi. Testo significativo: Miércoles 28 marzo 2007 BOE núm. 75",
+        "plain_text": "Miércoles 28 marzo 2007  BOE núm. 75",
+        "hash": "eac7b1c56b11894e2b6560b6cdece4461021d26c864b62f3f65732be56250692"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::93e18234f36bc248f19d",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::93e18234f36bc248f19d",
+        "name": "6579",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta la cronistoria e la motivazione giuridica di un ricorso amministrativo e delle relative decisioni, illustrando le norme applicabili e le ragioni della conferma del diniego di iscrizione di una compravendita immobiliare. Testo significativo: El Registrador deniega la anotación por falta de competencia del Ayuntamiento al carecer de jurisdicción para tra-bar bienes en actuaciones de recaudación ejecutiva situados fuera del territorio de su corporación. 2. El defecto debe ser confirmado. Como ha dicho anteriormente este Centro Directivo (cfr. resoluciones citadas en el «vistos»), el artículo 8 de la Ley Reguladora de las Haciendas locales expresamente recoge que las actuaciones en materia de inspección o recaudación ejecutiva que hayan de efectuarse fuera del territorio de la respectiva entidad local en relación con los ingresos de derecho público propios de ésta deberán ser practicados por los órganos competentes de la correspondiente Comuni-dad Autónoma o del Estado según los casos, previa solicitud del presi-dente de la Corporación.",
+        "plain_text": "de 7 de marzo de 2007, de la Dirección  General de los Registros y del Notariado, en el recurso  interpuesto por el notario de Alcalá de Henares, don Isi-doro Lora-Tamayo Rodríguez, contra la negativa del  registrador de la propiedad de Sacedón, a inscribir una  escritura de compraventa. tarse la aplicación del cuadro de sustituciones que será facilitado en esta  oficina dentro de los quince días siguientes a su notificación, por los legi-timados por el artículo 19 bis de la Ley Hipotecaria. Calp, nueve de agosto  del año dos mil seis. El Registrador de la Propiedad. III Don Alberto Pastor Rodríguez, Recaudador Municipal del Ayun tamiento  de Javea, interpuso recurso contra la anterior calificación y alegó: Que la  calificación registral suspende la anotación en base a los artículos 6 y 8.3  del Texto Refundido de la Ley reguladora de las Haciendas Locales. El pri-mer articulo consagra el principio de territorialidad que afecta a los entes  locales, al ámbito territorial municipal, pero se refiere al hecho de imposi-ción de tributos y demás gravámenes de derecho público. En este sentido  se pronuncia la sentencia del Tribunal Supremo de 25 de mayo de 1982. En  lo que se refiere al segundo artículo citado, esta referido a actuaciones en  materia de inspección o recaudación ejecutiva que haya de efectuarse fuera  del territorio de la respectiva entidad local. En cuanto a la potestad de eje-cución forzosa, le viene atribuida a la entidad local en virtud del artículo de  la Ley Reguladora de Bases del Régimen Local y el artículo 94 de la Ley  30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones  Públicas y del Procedimiento Administrativo Común, en relación con el  artículo 1 de la misma Ley. Con arreglo a lo que dice el artículo 12.1 de la  citada Ley, la competencia corresponde al órgano administrativo de la  administración del Ayuntamiento de Javea. Que debe destacarse lo que dice  la Circular 471990, de 12 de noviembre, de la Dirección General de Recau-dación. Que el artículo 85 del Reglamento General de Recaudación, esta-blece que el mandamiento de anotación preventiva de embargo ha de con-tener certificación de la providencia de apremio y de la diligencia de  embargo de los bienes inmuebles, es decir, que el mismo nace de una provi-dencia de apremio que, según establece el artículo 167. 2 de la Ley 58/2003,  de 17 de diciembre, General Tributaria, tiene la misma fuerza ejecutiva que  la sentencia judicial para proceder contra los bines y derechos de los obli-gados tributarios. En el recurso interpuesto por el Notario de Alcalá de Henares, don  Isidoro Lora-Tamayo Rodríguez, contra la negativa del Registrador de la  Propiedad de Sacedón, don Jesús María Martínez Rojo, a inscribir una  escritura de compraventa. Hechos I Mediante escritura pública autorizada el 3 de agosto de 2006 por el  Notario de Alcalá de Henares, don Isidoro Lora-Tamayo Rodríguez, los  esposos de nacionalidad polaca don A. P. W. y doña H. W. compraron para  su sociedad conyugal una finca inscrita en el Registro de la Propiedad de  Sacedón. II Presentada la escritura en el Registro de la Propiedad citado fue  calificada con la siguiente nota: Hechos: El día 4 de agosto de 2006 fue-ron comunicadas las circunstancias esenciales de la escritura otorgada  el 3 de agosto de 2006 ante el Notario de Alcalá de Henares don Isidoro  Lora-Tamayo Rodríguez, número 3080 de protocolo, lo motivó el asiento  arriba citado; primera copia de la cual fue aportada el 11 de agosto de 2006.  Calificado el precedente documento por lo que resulta de él y de los  asientos del Registro por la presente se le notifican el/los siguiente/s por  el/los que se suspende/deniega su despacho (artículo 19 bis de la Ley  Hipotecaria). Fundamentos de Derecho: No resulta con claridad de la  escritura calificada alguna de las siguientes posibilidades: a) La legis-lación extranjera a que esté sometido el régimen económico matrimo-nial de los adquirentes casados, con indicación de éste, si constare;  b) Si dicho régimen económico matrimonial está sometido a la legisla-ción española, cual sea aquél, con determinación, si procediere, de las  participaciones indivisas que adquieren (artículos 51.9, 54, 92 del Regla-mento Hipotecario). Esta calificación podrá ser objeto de recurso pre-sentado en este Registro General de los Registros y del Notariado, sin  perjuicio de lo dispuesto en el artículo 38.4 de la Ley 30/1992, de 26 de  noviembre, en el plazo de un mes desde la fecha de su notificación; o ser  impugnada directamente ante el Juzgado de Primera Instancia compe-tente, en el plazo de dos meses desde la fecha de su notificación; en la  forma prevista por los artículos 322 a 328 de la Ley Hipotecaria; o bien,  podrá instarse la aplicación del cuadro de sustituciones previsto en el  artículo 275 bis de la Ley Hipotecaria (Real Decreto 1039/2003, de 1 de  agosto, y Resolución de la Dirección General de los Registros y del  Notariado de esa misma fecha). El Registrador de la Propiedad. Firma  ilegible. IV El Registrador de la Propiedad de Calpe informó y elevó el expediente a  la Dirección General de los Registros y del Notariado, con fecha 29 de sep-tiembre de 2006. Fundamentos de Derecho Vistos los artículos 2, 6 y 8.3 del Real Decreto Legislativo de 5 de marzo  de 2004 de la Ley Reguladora de las Haciendas Locales y el artículo 99 del  Reglamento Hipotecario, así como las Resoluciones de esta Dirección  General de 9 de marzo, 14 de abril, 29 de noviembre y 22 de diciembre  de 2006. 1. Se presenta al Registro mandamiento de embargo del Recaudador  Municipal de un Ayuntamiento por impago de determinadas tasas e impues-tos municipales con providencia de embargo de inmuebles de un deudor  sitos en otro término municipal. El Registrador deniega la anotación por  falta de competencia del Ayuntamiento al carecer de jurisdicción para tra-bar bienes en actuaciones de recaudación ejecutiva situados fuera del  territorio de su corporación. 2. El defecto debe ser confirmado. Como ha dicho anteriormente  este Centro Directivo (cfr. resoluciones citadas en el «vistos»), el artículo  8 de la Ley Reguladora de las Haciendas locales expresamente recoge que  las actuaciones en materia de inspección o recaudación ejecutiva que  hayan de efectuarse fuera del territorio de la respectiva entidad local en  relación con los ingresos de derecho público propios de ésta deberán ser  practicados por los órganos competentes de la correspondiente Comuni-dad Autónoma o del Estado según los casos, previa solicitud del presi-dente de la Corporación. Dado que la calificación de los documentos  administrativos tiene un alcance limitado, sin embargo llega a la compe-tencia del órgano administrativo y en este caso es correcta la actuación  del Registrador, aunque las administraciones tributarias del Estado, las  comunidades autónomas y entidades locales tengan el deber de colabora-ción entre sí en los órganos de gestión, liquidación, inspección y recauda-ción de los tributos locales. Esta Dirección General ha acordado desestimar el recurso interpuesto. III El Notario autorizante de la escritura interpuso recurso contra la  anterior calificación, y alegó: 1. Que en la escritura se hace constar  claramente que los cónyuges son de nacionalidad polaca, de lo que se  deduce que su régimen económico matrimonial esta sujeto a la legisla-ción polaca, a menos que los cónyuges manifiesten o acrediten otra cosa  (artículo 9.2 del Código Civil). Que la nacionalidad común es la rectora  del régimen económico matrimonial y que la excepción es la que debe  manifestarse o acreditarse. Por tanto, al ser la regla general la naciona-lidad común, no puede obligarse a los cónyuges a que manifiesten los  adquirentes que tenían la nacionalidad polaca al contraer matrimonio o  si otorgaron cualquier documento auténtico en que modificaron este  régimen económico matrimonial. Que hay que recordar que como tiene  declarado la Dirección General de los Registros y del Notariado, entre  otras, en la resolución de 16 de diciembre de 2002, la reforma de Regla-mento Hipotecario de 1982, respecto a las adquisiciones por extranje-ros, estableciendo que es en momento de su enajenación cuando debe  acreditarse el régimen matrimonial, al efecto de determinar la legitima-ción para disponer. Contra esta resolución, los legalmente legitimados pueden recurrir  mediante demanda ante el Juzgado de lo Civil de la capital de la Provin-cia del lugar donde radica el inmueble en el plazo de dos meses desde  su notificación, siendo de aplicación las normas del juicio verbal, todo  ello conforme a lo establecido en los artículos 325 y 328 de la Ley Hipo-tecaria. IV El Registrador de la Propiedad, con fecha 10 de octubre de 2006,  informó y elevó el expediente a esta Dirección General. Madrid, 6 de marzo de 2007.–La Directora General de los Registros y del  Notariado, Pilar Blanco-Morales Limones.",
+        "hash": "93e18234f36bc248f19d80ac766f043a089f8bb62638c310d23f76b39d70556a"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::7b6fcda370f76f1364ac"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::7b6fcda370f76f1364ac"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::7b6fcda370f76f1364ac"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::eac7b1c56b11894e2b65"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::eac7b1c56b11894e2b65"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::eac7b1c56b11894e2b65"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::93e18234f36bc248f19d"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::93e18234f36bc248f19d"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8f1d6126a87a904cb8f107cadd748523",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::93e18234f36bc248f19d"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::7b6fcda370f76f1364ac",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::7b6fcda370f76f1364ac"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::7b6fcda370f76f1364ac",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::7b6fcda370f76f1364ac"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::eac7b1c56b11894e2b65",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::eac7b1c56b11894e2b65"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::eac7b1c56b11894e2b65",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::eac7b1c56b11894e2b65"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::93e18234f36bc248f19d",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::93e18234f36bc248f19d"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::93e18234f36bc248f19d",
+      "target": "DOCUMENT_SECTION::8f1d6126a87a904cb8f107cadd748523::93e18234f36bc248f19d"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:26:55.250084+00:00",
+    "document_name": "A13509-13510.pdf",
+    "document_hash": "8f1d6126a87a904cb8f107cadd748523"
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+        "name": "A44854-44854.pdf",
+        "description": "Il comma riporta semplicemente la data e il numero del Bollettino Ufficiale dello Stato spagnolo (BOE) senza introdurre obblighi, condizioni, termini temporali, sanzioni o altri elementi normativi. Testo significativo: Miércoles 12 noviembre 2008 BOE núm. 273 Miércoles 12 noviembre 2008 BOE núm. 273 Miércoles 12 noviembre 2008 BOE núm. 273 Il comma riporta informazioni relative alla pubblicazione di una convocazione e delle relative basi specifiche per un processo selettivo, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: En el «Boletín Oficial de la Provincia de Huesca» número 177, de 12 de septiembre de 2008, se ha publicado la convocatoria y bases específicas que han de regir el proceso selectivo para cubrir: de 16 de octubre de 2008, de la Comarca de La Litera (Huesca), referente a la convo-catoria para proveer una plaza. En el «Boletín Oficial de la Provincia de Huesca» número 177, de 12 de septiembre de 2008, se ha publicado la convocatoria y bases específicas que han de regir el proceso selectivo para cubrir: de 16 de octubre de 2008, de la Comarca de La Litera (Huesca), referente a la convo-catoria para proveer una plaza. En el «Boletín Oficial de la Provincia de Huesca» número 177, de 12 de septiembre de 2008, se ha publicado la convocatoria y bases específicas que han de regir el proceso selectivo para cubrir: Il comma comunica la correzione di errori nella pubblicazione delle graduatorie relative alle prove selettive per l'accesso a una specifica scala di tecnici, specificando le nuove modalità di presentazione delle domande e la rettifica delle punteggi finali dei candidati. Testo significativo: El plazo de presentación de solicitudes será de veinte días naturales, contados a partir del siguiente al de publicación de este anuncio en el «Boletín Oficial del Estado». Corregir las puntuaciones finales que figuran en el anexo I de la citada Orden de los tres candidatos que han superado las pruebas selectivas para el acceso a especialidades del Instituto de Salud Carlos III ya que, por error, solo se incluyeron las puntuaciones correspondientes a la fase de oposición sin tener en cuenta los puntos obtenidos en la fase de concurso. CIN/3231/2008, de 23 de octubre, por la que se corrigen errores de la Orden CIN/3003/2008, de 3 de octubre, por la que se publica la relación de aspi-rantes que han superado las pruebas selectivas para el acceso, por promoción interna, a la Escala de Téc-nicos Superiores Especialistas de los Organismos Públicos de Investigación. Una plaza de Bombero-Conductor del Servicio de Extinción de Incendios y Salvamento, integrada en la escala de administración Especial, subescala de Servicios Especiales, mediante concurso-opo-sición libre. El plazo de presentación de solicitudes será de veinte días natu-rales, contados a partir del siguiente al de publicación de este anun-cio en el «Boletín Oficial del Estado». Los sucesivos anuncios derivados de esta convocatoria se publi-carán en el «Boletín Oficial de la Provincia de Huesca» y/o en el tablón de edictos de esta Comarca. Advertidos errores en la Orden CIN/3003/2008, de 3 de octubre («BOE» del",
+        "date_enacted": "",
+        "status": "",
+        "hash": "bcd292f71c3226875e4ce37e7b114663"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::507e38ac822800866169",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::507e38ac822800866169",
+        "name": "44854",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta semplicemente la data e il numero del Bollettino Ufficiale dello Stato spagnolo (BOE) senza introdurre obblighi, condizioni, termini temporali, sanzioni o altri elementi normativi. Testo significativo: Miércoles 12 noviembre 2008 BOE núm. 273",
+        "plain_text": "Miércoles 12 noviembre 2008  BOE núm. 273",
+        "hash": "507e38ac82280086616934bea2788c91826de941d8150b43f7e02ab3ea78a60a"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e18dde77a57d2318aa74",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e18dde77a57d2318aa74",
+        "name": "18237",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta informazioni relative alla pubblicazione di una convocazione e delle relative basi specifiche per un processo selettivo, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: En el «Boletín Oficial de la Provincia de Huesca» número 177, de 12 de septiembre de 2008, se ha publicado la convocatoria y bases específicas que han de regir el proceso selectivo para cubrir:",
+        "plain_text": "de 16 de octubre de 2008, de la  Comarca de La Litera (Huesca), referente a la convo-catoria para proveer una plaza. En el «Boletín Oficial de la Provincia de Huesca» número 177, de  12 de septiembre de 2008, se ha publicado la convocatoria y bases  específicas que han de regir el proceso selectivo para cubrir:",
+        "hash": "e18dde77a57d2318aa740471b48cbfd81710d683b99af4d05f424f9c73eaa6ed"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::7b35ebee3b35236219e0",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::7b35ebee3b35236219e0",
+        "name": "18235",
+        "type": "Sottocomma",
+        "abstract": "Il comma comunica la correzione di errori nella pubblicazione delle graduatorie relative alle prove selettive per l'accesso a una specifica scala di tecnici, specificando le nuove modalità di presentazione delle domande e la rettifica delle punteggi finali dei candidati. Testo significativo: El plazo de presentación de solicitudes será de veinte días naturales, contados a partir del siguiente al de publicación de este anuncio en el «Boletín Oficial del Estado». Corregir las puntuaciones finales que figuran en el anexo I de la citada Orden de los tres candidatos que han superado las pruebas selectivas para el acceso a especialidades del Instituto de Salud Carlos III ya que, por error, solo se incluyeron las puntuaciones correspondientes a la fase de oposición sin tener en cuenta los puntos obtenidos en la fase de concurso.",
+        "plain_text": "CIN/3231/2008, de 23 de octubre, por la que  se corrigen errores de la Orden CIN/3003/2008, de 3  de octubre, por la que se publica la relación de aspi-rantes que han superado las pruebas selectivas para  el acceso, por promoción interna, a la Escala de Téc-nicos Superiores Especialistas de los Organismos  Públicos de Investigación. Una plaza de Bombero-Conductor del Servicio de Extinción de  Incendios y Salvamento, integrada en la escala de administración  Especial, subescala de Servicios Especiales, mediante concurso-opo-sición libre. El plazo de presentación de solicitudes será de veinte días natu-rales, contados a partir del siguiente al de publicación de este anun-cio en el «Boletín Oficial del Estado». Los sucesivos anuncios derivados de esta convocatoria se publi-carán en el «Boletín Oficial de la Provincia de Huesca» y/o en el  tablón de edictos de esta Comarca. Advertidos errores en la Orden CIN/3003/2008, de 3 de octubre  («BOE» del día 22 de octubre), por la que se publica la relación de  aspirantes que han superado las pruebas selectivas para el acceso,  por promoción interna, a la Escala de Técnicos Superiores Especia-listas de los Organismos Públicos de Investigación, este Ministerio  resuelve: Binéfar, 16 de octubre de 2008.–El Presidente, Josep Anton  Chauvell Larrégola. Corregir las puntuaciones finales que figuran en el anexo I de la  citada Orden de los tres candidatos que han superado las pruebas  selectivas para el acceso a especialidades del Instituto de Salud  Carlos III ya que, por error, solo se incluyeron las puntuaciones  correspondientes a la fase de oposición sin tener en cuenta los puntos  obtenidos en la fase de concurso. Por tanto, las puntuaciones finales obtenidas por estos tres can-didatos seleccionados son las siguientes:",
+        "hash": "7b35ebee3b35236219e08d286c1096d4d687e0e014a9ebb9237a48e002fb834e"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de",
+        "name": "18238",
+        "type": "Sottocomma",
+        "abstract": "Il comma annuncia la convocazione di concorsi pubblici per la copertura di varie posizioni presso la Diputación Provincial de Córdoba, specificando il numero di posti, la denominazione, il sistema selettivo e le basi di pubblicazione. Indica inoltre il termine per la presentazione delle domande e le modalità di pubblicazione degli annunci successivi. Testo significativo: El plazo de presentación de las solicitudes para tomar parte en las convocatorias será de veinte días naturales, contados a partir del siguiente al de la publicación del presente anuncio en el «Boletín Oficial del Estado».",
+        "plain_text": "de 20 de octubre de 2008, de la Dipu-tación Provincial de Córdoba, referente a la convoca-toria para proveer varias plazas. Se anuncian las convocatorias de las siguientes plazas: Personal funcionario Número de plazas: Cuatro. Denominación: Delineante. Sistema  selectivo: Concurso-oposición libre. Escala: Administración Especial.  Subescala: Técnica. Clase: Auxiliar. Bases publicadas: «Boletín Ofi-cial» de la provincia de 25 de abril de 2008 y «Boletín Oficial de la  Junta de Andalucía» de 18 de junio de 2008. Número de plazas: Una. Denominación: Ingeniero de Caminos,  Canales y Puertos. Sistema selectivo: Concurso-oposición libre.  Escala: Administración Especial. Subescala: Técnica. Clase: Supe-rior. Bases publicadas: «Boletín Oficial» de la provincia de 25 de abril  de 2008 y «Boletín Oficial de la Junta de Andalucía» de 18 de junio  de 2008. Personal laboral Número de plazas: una. Denominación: Informador. Sistema  selectivo: Concurso-oposición libre. Bases publicadas: «Boletín Ofi-cial» de la provincia de 25 de abril de 2008. «Boletín Oficial de la  Junta de Andalucía» de 18 de junio de 2008. Número de plazas: Una. Denominación: Oficial 3.ª Agrícola  Ganadero. Sistema selectivo: Concurso-oposición libre. Bases publi-cadas: «Boletín Oficial» de la provincia de 25 de abril de 2008. «Bole-tín Oficial de la Junta de Andalucía» de 18 de junio de 2008. Lo que se hace público para general conocimiento. Madrid, 23 de octubre de 2008.–La Ministra de Ciencia e Inno-vación, Cristina Garmendia Mendizábal. El plazo de presentación de las solicitudes para tomar parte en  las convocatorias será de veinte días naturales, contados a partir del  siguiente al de la publicación del presente anuncio en el «Boletín Ofi-cial del Estado». Los sucesivos anuncios referentes a estas convocatorias se publi-carán exclusivamente en el «Boletín Oficial» de la provincia y tablón  de edictos de esta Corporación.",
+        "hash": "e7cc5194e97d7968c0de6c9d5d1978a81f1c4095b209a49c208a9c8ecb9e58f7"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::a3e52ea290c3f41a5aba",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::a3e52ea290c3f41a5aba",
+        "name": "18238_tab1",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta una tabella con dati identificativi e punteggi relativi a candidati per la valutazione e diffusione della ricerca in biomedicina e scienze della salute, nonché per laboratorio e tecniche biosanitarie. Testo significativo: [['DNI', 'Especialidad', 'Organismo', 'Puntuación'], ['Evaluación y Difusión de la Investigación en Biomedicina y Ciencias de la Salud 00396917Y Jiménez Jiménez, Alberto. ISCIII 113,00 08840141E Sánchez Barco, Cándida. ISCIII 100,50 Laboratorio y Técnicas Biosanitarias 02610629Z Anta Félez, Berta. ISCIII 86,00', None, None, None]]",
+        "plain_text": "[['DNI', 'Especialidad', 'Organismo', 'Puntuación'], ['Evaluación y Difusión de la Investigación en Biomedicina\\ny Ciencias de la Salud\\n00396917Y Jiménez Jiménez, Alberto. ISCIII 113,00\\n08840141E Sánchez Barco, Cándida. ISCIII 100,50\\nLaboratorio y Técnicas Biosanitarias\\n02610629Z Anta Félez, Berta. ISCIII 86,00', None, None, None]]",
+        "hash": "a3e52ea290c3f41a5aba03179595280ca8817cd67a1c1a7a46712abbfc017dab"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::b1ee47a940d7ba08e2ab",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::b1ee47a940d7ba08e2ab",
+        "name": "18236",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta l'annuncio della pubblicazione delle basi per la copertura di posti presso la guarderia infantile municipale, specificando le modalità di selezione e i canali di pubblicazione degli avvisi. Testo significativo: El plazo de presentación de solicitudes será de veinte días naturales, contados a partir del siguiente al de la publicación de este anuncio en el Boletín Oficial del Estado. Los sucesivos anuncios referentes a esta convocatoria solamente se publicarán en el BOP de la Coruña y en el tablón de edictos del Ayuntamiento.",
+        "plain_text": "de 6 de octubre de 2008, del Ayunta-miento de Santa Comba (A Coruña), referente a la  convocatoria para proveer varias plazas. Córdoba, 20 de octubre de 2008.–El Presidente, P. D., la Vice-presidenta Segunda y Diputada Delegada de Hacienda y Recursos  Humanos, María Ángeles Llamas Mata. En el BOP de la Coruña n.º 229, de 3 de octubre de 2008, se  insertó el anuncio que contienen las bases para cubrir cuatro plazas  de Maestro y cinco plazas de Personal de Apoyo de Atención al Niño  de la guardería infantil municipal. Mediante concurso-oposición libre, como personal laboral fijo. El plazo de presentación de solicitudes será de veinte días natu-rales, contados a partir del siguiente al de la publicación de este  anuncio en el Boletín Oficial del Estado. Los sucesivos anuncios referentes a esta convocatoria sóoa-mente se publicarán en el BOP de la Coruña y en el tablón de edictos  del Ayuntamiento.",
+        "hash": "b1ee47a940d7ba08e2abcd6e6175e47c1dc9996a153df61630b504acb9c8bcaa"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::77cf7611d18bdeb1b646",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::77cf7611d18bdeb1b646",
+        "name": "18239",
+        "type": "Sottocomma",
+        "abstract": "Il comma comunica la pubblicazione delle basi regolamentari per una procedura di selezione pubblica per la copertura di due posti nella Polizia Locale, specificando le date e i riferimenti delle pubblicazioni ufficiali. Testo significativo: En el BOP número 183, de 10 de octubre de 2008, y en el BOJA número 63, de 15 de octubre de 2008, se han publicado las bases que han de regir la convocatoria para la provisión, mediante el sis-tema de acceso de turno libre y a través del procedimiento de selec-ción de oposición, de dos plazas pertenecientes a la escala de Admi-nistración Especial, subescala de Servicios Especiales, categoría de Policía del Cuerpo de la Policía Local.",
+        "plain_text": "de 21 de octubre de 2008, del Ayunta-miento de Fuente Obejuna (Córdoba), referente a la  convocatoria para proveer varias plazas. En el BOP número 183, de 10 de octubre de 2008, y en el BOJA  número 63, de 15 de octubre de 2008, se han publicado las bases  que han de regir la convocatoria para la provisión, mediante el sis-tema de acceso de turno libre y a través del procedimiento de selec-ción de oposición, de dos plazas pertenecientes a la escala de Admi-nistración Especial, subescala de Servicios Especiales, categoría de  Policía del Cuerpo de la Policía Local. Santa Comba, 6 de octubre de 2008.–El Alcalde-Presidente,  Miguel Pérez Fernández.",
+        "hash": "77cf7611d18bdeb1b646d03b9ac2e5c3ad57921cb06013ab1073bfcefba86ddb"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::507e38ac822800866169"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::507e38ac822800866169"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::507e38ac822800866169"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e18dde77a57d2318aa74"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e18dde77a57d2318aa74"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e18dde77a57d2318aa74"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::7b35ebee3b35236219e0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::7b35ebee3b35236219e0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::7b35ebee3b35236219e0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::a3e52ea290c3f41a5aba"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::a3e52ea290c3f41a5aba"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::b1ee47a940d7ba08e2ab"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::b1ee47a940d7ba08e2ab"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::b1ee47a940d7ba08e2ab"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::77cf7611d18bdeb1b646"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::77cf7611d18bdeb1b646"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::bcd292f71c3226875e4ce37e7b114663",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::77cf7611d18bdeb1b646"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::507e38ac822800866169",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::507e38ac822800866169"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::507e38ac822800866169",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::507e38ac822800866169"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e18dde77a57d2318aa74",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e18dde77a57d2318aa74"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e18dde77a57d2318aa74",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e18dde77a57d2318aa74"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::7b35ebee3b35236219e0",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::7b35ebee3b35236219e0"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::7b35ebee3b35236219e0",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::7b35ebee3b35236219e0"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::a3e52ea290c3f41a5aba",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::a3e52ea290c3f41a5aba"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::a3e52ea290c3f41a5aba",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::e7cc5194e97d7968c0de"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::b1ee47a940d7ba08e2ab",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::b1ee47a940d7ba08e2ab"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::b1ee47a940d7ba08e2ab",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::b1ee47a940d7ba08e2ab"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::77cf7611d18bdeb1b646",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::77cf7611d18bdeb1b646"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::77cf7611d18bdeb1b646",
+      "target": "DOCUMENT_SECTION::bcd292f71c3226875e4ce37e7b114663::77cf7611d18bdeb1b646"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:32:13.913593+00:00",
+    "document_name": "A44854-44854.pdf",
+    "document_hash": "bcd292f71c3226875e4ce37e7b114663"
+  }
+}

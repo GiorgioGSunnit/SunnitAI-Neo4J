@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+        "name": "A24521-24521.pdf",
+        "description": "Il comma descrive dettagliatamente le modalità operative per il sorteggio, la determinazione dei numeri vincenti, la distribuzione dei premi e le condizioni di pagamento relativi a una lotteria, nonché le modalità di notifica e partecipazione agli atti di occupazione di beni per lavori pubblici. Testo significativo: Para la ejecución de este sorteo se utilizarán cinco bombos que, de izquierda a derecha, representan las decenas de millar unidades de millar, centenas, decenas y unidades. El bombo correspondiente a las decenas de millar contendrá ocho bolas, numeradas del 0 al 7, y los cuatro restantes diez bolas cada uno, numeradas del 0 al 9. El orden de adiudicación de los premios será de menor a mayor. En cada extracción entrarán en juégo tantos bombos como se requieran para obtener la combinación numérica prevista. Para las extracciones correspondientes a los premios de 20.000 pesetas se utilizarán tres bombos. Estos premios se adjudicarán. respectivamente, a aquellos billetes cuyas tres últimas cifras sean iguales y estén igualmente dispuestas que las de los números obtenidos. Los correspondientes a los premios desde 4.000.000 de pesetas, inclusive, en adelante, se obtendrán también por orden de menor a mayor cuantía de los premios, extrayéndose de ceda uno de los de 24 de octubre de 1980, de la Sexta Jefatura Regional de Carreteras, por la que se se­ ñala fecha para el levantamiento de actas previas a la ocupación de los bienes y derechos afectados por las obras que se mencionan. Esta Jefatura ha resuelto señalar el día 12 de noviembre próximo, de once a doce horas, y en los locales del Ayunta­ miento de Ulea —sin perjuicio de practicar reconocimientos de terreno que se estimaran a instancia de partes pertinentes—, al levantamiento de las actas previas a la ocupación de los bienes y derechos afectados, a consecuencia de las obras: 1-MU- 313. Mejora local. Creación de vía lenta en el puerto de La Losilla. CN-301, de Madrid a Cartagena, puntos kilométricos 360,50 al 364,65. Tramo: Cieza-Molina de Segura. Provincia de Murcia», las cuajes llevan implícita la declaración de utilidad pública y urgente ocupación, según prescribe en su artículo 42, párrafo b), el texto refundido, aprobado por Decreto 1541/1972, de 15 de junio. No obstante su reglamentaria inserción, resumida en los «Boletines Oficiales del Estado» y provincia y periódicos «Lí­ nea» y «La Verdad», el presente señalamiento será notificado por cédula a los interesados afectados, que son los titulares de de 24 de octubre de 1980, de la Sexta Jefatura Regional de Carreteras, por la que se se­ ñala fecha para el levantamiento de actas previas a la ocupación de los bienes y derechos afectados por las obras que se mencionan. Esta Jefatura ha resuelto señalar el día 12 de noviembre próximo, de once a doce horas, y en los locales del Ayunta­ miento de Ulea —sin perjuicio de practicar reconocimientos de terreno que se estimaran a instancia de partes pertinentes—, al levantamiento de las actas previas a la ocupación de los bienes y derechos afectados, a consecuencia de las",
+        "date_enacted": "",
+        "status": "",
+        "hash": "85fb78cec5d607f5097358de8811e8fa"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::a497b82e29e3a12d1eea",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::a497b82e29e3a12d1eea",
+        "name": "23948",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive dettagliatamente le modalità operative per il sorteggio, la determinazione dei numeri vincenti, la distribuzione dei premi e le condizioni di pagamento relativi a una lotteria, nonché le modalità di notifica e partecipazione agli atti di occupazione di beni per lavori pubblici. Testo significativo: Para la ejecución de este sorteo se utilizarán cinco bombos que, de izquierda a derecha, representan las decenas de millar unidades de millar, centenas, decenas y unidades. El bombo correspondiente a las decenas de millar contendrá ocho bolas, numeradas del 0 al 7, y los cuatro restantes diez bolas cada uno, numeradas del 0 al 9. El orden de adiudicación de los premios será de menor a mayor. En cada extracción entrarán en juégo tantos bombos como se requieran para obtener la combinación numérica prevista. Para las extracciones correspondientes a los premios de 20.000 pesetas se utilizarán tres bombos. Estos premios se adjudicarán. respectivamente, a aquellos billetes cuyas tres últimas cifras sean iguales y estén igualmente dispuestas que las de los números obtenidos. Los correspondientes a los premios desde 4.000.000 de pesetas, inclusive, en adelante, se obtendrán también por orden de menor a mayor cuantía de los premios, extrayéndose de ceda uno de los",
+        "plain_text": "de 24 de octubre de 1980, de la Sexta  Jefatura Regional de Carreteras, por la que se se­ ñala fecha para el levantamiento de actas previas  a la ocupación de los bienes y derechos afectados  por las obras que se mencionan. Esta Jefatura ha resuelto señalar el día 12 de noviembre  próximo, de once a doce horas, y en los locales del Ayunta­ miento de Ulea —sin perjuicio de practicar reconocimientos de  terreno que se estimaran a instancia de partes pertinentes—,  al levantamiento de las actas previas a la ocupación de los  bienes y derechos afectados, a consecuencia de las obras: 1-MU- 313. Mejora local. Creación de vía lenta en el puerto de La  Losilla. CN-301, de Madrid a Cartagena, puntos kilométricos  360,50 al 364,65. Tramo: Cieza-Molina de  Segura. Provincia de  Murcia», las cuajes llevan implícita la declaración de utilidad  pública y urgente ocupación, según prescribe en su artículo 42,  párrafo b), el texto refundido, aprobado por Decreto 1541/1972,  de 15 de junio. No obstante su reglamentaria inserción, resumida en los  «Boletines Oficiales del Estado» y provincia y periódicos «Lí­ nea» y «La Verdad», el presente señalamiento será notificado  por cédula a los interesados afectados, que son los titulares  de derechos sobre los terrenos colindantes con la carretera  indicada, comprendidos en la relación que figura expuesta en  el tablón de edictos del indicado Ayuntamiento y en esta  Jefatura Regional, sita en avenida Blasco Ibáñez, s/n., Va­ lencia, los cuales podrán concurrir al acto asistidos de Peritos  y un Notario, así como formular alegaciones —al solo efecto  de subsanar los posibles errores de que pudiera adolecer la  relación aludida—, bien mediante escrito dirigido a este Or­ ganismo expropiante o bien en el mismo momento del levan­ tamiento del acta correspondiente, a la que habrán de aportar  el título de propiedad y último recibo de Contribución. Valencia, 24 de octubre de 1980.—El Ingeniero Jefe, P. D., e]  Ingeniero Jefe de la División de Construcción, E. Labrandera.—  15.671-E. 18.464  112.000.000 Para la ejecución de este sorteo se utilizarán cinco bom­ bos que, de izquierda a derecha, representan las decenas de mi­ llar unidades de millar, centenas, decenas y unidades. El  bombo correspondiente a las decenas de millar contendrá ocho  bolas, numeradas del 0 al 7, y los cuatro restantes diez bolas  cada uno, numeradas del 0 al 9. El orden de adiudicación de los premios será de menor a  mayor. En cada extracción entrarán en juégo tantos bombos  como se requieran para obtener la combinación numérica pre­ vista. Para las extracciones correspondientes a los premios de  20.000 pesetas se utilizarán tres bombos. Estos premios se adju­ dicarán. respectivamente, a aquellos billetes cuyas tres últimas  cifras sean iguales y estén igualmente dispuestas que las de los  números obtenidos. Los correspondientes a los premios desde  4.000.000 de pesetas, inclusive, en adelante, se obtendrán también  por orden de menor a mayor cuantía de los premios, extrayéndo­ se de ceda uno de los bombos una bola, y las cinco bolas extraí­ das compondrán el número premiado. En el supuesto de que las  cinco bolas extraídas fueran todas el 0, con lo cual el número  resultante serla el 00000, se considerará que éste representa  al 80000. De los números formados por las extracciones de cinco ci­ fras. correspondientes a los premios primero, segundo y ter­ cero, se derivarán las aproximaciones y las centenas, como,  asimismo, del premio primero, las terminaciones y los rein­ tegros. Con respecto a las aproximaciones señaladas para los nú­ meros anterior y posterior de los premios primero, segundo  y tercero, se entenderá que, si saliese premiado, en cualquiera  de ellos, el número 1, su anterior es el 80000, y si éste fuese  el agraciado, el. número 1 será el siguiente. Para la aplicación de los premios de centena de 20.000 pe­ setas, se entenderá que si cualquiera de los premios primero,  segundo o tercero correspondiera, por ejemplo al número 25,  se considerarán agraciados ios 09 números restantes de la mis­ ma. es decir, desdé el i al 24 y desde el 28 al 100 Tendrán derecho al premio de 20.000 pesetas todos los billetes  cuyas dos últimas cifras sean iguales v estén igualmente dis­ puestas que las del .que obtenga el premio primero. Tendrán derecho al reintegro de su precio todos los billetes  cuya última cifra sea igual a la del que obtenga el premio  primero. De los premios de centenas, terminaciones y. reintegros ha  de entenderse que quedan exceptuados loe números de los que,  respectivamente, se deriven agraciados con los premios primero,  segundo o tercero. Asimismo tendrán derecho al reintegro de su precio todos  los billetes cuya última cifra coincida con la que se obtenga  en la extracción especial que se realizará del bombo de las  unidades, una vez efectuada la de cinco cifras correspondiente  al premio mayor y depositadas las bolas en sus respectivas  cafas. El sorteo se efectuará con las solemnidades prescritas en la  Instrucción del Ramo. En la propia forma se hará después un  sorteo especial para adjudicar la subvención a uno de los  Establecimientos.benéficos de la población donde se celebre el  sorteo Dicho sorteo especial quedará aplazado si en el momento  de la celebración del que se anuncia se desconocen los Estable­ cimientos que puedan tener derecho a la mencionada subvención Estos actos serán públicos y los concurrentes interesados en  el sorteo tendrán derecho, con la venia del Presidente, a hacér  observaciones sobre dudas que tengan respecto a las operaciones  del mismo. Verificado el sorteo, se expondrán al público la lista oficial  de las extracciones realizadas y la lista acumulada ordenada  por terminaciones. Los premios v reintegros se pagarán Indistintamente por las  Administraciones de Loterías, sea cualquiera la expendedora  de los billetes que los obtengan, sin más demora que la exigida  para la provisión de fondos cuando no alcancen al efecto los  que en la Administración existan disponibles y la derivada para  ©1 pago de ganancias mayores. Madrid, 1 de noviembre de 1980.—El Jefe del Servicio, Antonio  Gómez Gutiérrez.",
+        "hash": "a497b82e29e3a12d1eeaaaf46fce5fa080ef4e14479c3f147cb46dc1732274f3"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::2d2ca230570e3c4f155b",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::2d2ca230570e3c4f155b",
+        "name": "23949",
+        "type": "Sottocomma",
+        "abstract": "Il comma rende pubblica l'autorizzazione concessa a Renfe dal Consiglio di Amministrazione del Puerto Autónomo de Bilbao per la costruzione di un ponte sulla ría del Cadagua, specificando la durata della concessione. Testo significativo: El Consejo de Administración del Puerto Autónomo de Bilbao, en uso de las facultades que le confiere el apartado 10 del artículo 11 del Estattuo aprobado por Real Decreto 2408/1978, de 25 de agosto («Boletín Oficial del Estado» de 10 de octubre), ha otorgado con fecha 30 de septiembre de 1980 una autorización a Renfe cuyas características son las siguientes: Destino: La construcción de un puente sobre la ría del Cadagua. Plazo conoedido: Quince años. Lo que se hace público para general conocimiento.",
+        "plain_text": "de 30 de septiembre de 1980, del  Puerto Autónomo de Bilbao, por la que se hace  pública la autorización otorgada a Renfe para la  construcción de un puente sobre la ría del Cadagua. El Consejo de Administración del Puerto Autónomo de Bil­ bao, en uso de las facultades que le confiere el apartado 10 del  artículo 11 del Estattuo aprobado por Real Decreto 2408/1978, de  25 de agosto («Boletín Oficial del Estado» de 10 de octubre),  ha otorgado con fecha 30 de septiembre de 1980 una autorización  a Renfe cuyas características son las siguientes: Destino: La construcción de un puente sobre la ría del Ca­ dagua. Plazo conoedido: Quince años. Lo que se hace público para general conocimiento. Bilbao, 8 de octubre de 1980.—El Presidente. M° DE INDUSTRIA Y ENERGIA",
+        "hash": "2d2ca230570e3c4f155b6d8095cbfde7e2528768db732a6b3d4cc700082a4740"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::8210d4b644fb57715943",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::8210d4b644fb57715943",
+        "name": "23950",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta l'esecuzione di una sentenza definitiva emessa dalla Audiencia Territorial de Madrid in merito a un ricorso amministrativo promosso da una società contro una precedente decisione del Registro de la Propiedad Industrial. Testo significativo: En el recurso contencioso-administrativo número 719/77, interpuesto ante la Audiencia Territorial de Madrid por «Metallwerk Plansee, A. G.» contra resolución de este Registro de 26 de marzo de 1976, se ha dictado con fecha 2 de febrero de 1980 por la citada Audiencia sentencia, declarada firme, cuya parte dispositiva es como sigue: «Fallamos: Se estima el recurso contencioso-administrativo número setecientos diecinueve-setenta y siete interpuesto por la representación procesal de «Metallwerk Plansee, A. G.», contra acuerdo denegatorio de la marca cuatrocientos tres mil novecientos once, \"Goldmaster\", dictado por el Registro de la Propiedad Industrial de veintiséis de marzo de mil novecientos setenta y seis y contra la desestimatoria de la reposición contra dicho.",
+        "plain_text": "de 29 de septiembre de 1980, del  Registro de la Propiedad Industrial, por la que se  dispone el cumplimiento de la sentencia dictada  por la Audiencia Territorial de Madrid, declarada  firme en el recurso contencioso-administrativo nú­ mero 719/77, promovido por «Metallwerk Plansee,  A. G.», contra resolución de este Registro de 26 de  marzo de 1976. En el recurso contencioso-administrativo número 719/77, in­ terpuesto ante la Audiencia Territorial de Madrid por «Metall- vyerk Plansee, A. G.'\\ contra resolución de este Registro de 26  de marzo de 1976, se ha dictado con fecha 2 de febrero de  1980 por la citada Audiencia sentencia, declarada firme, cuya  parte dispositiva es como sigue: «Fallamos: Se estima el recurso contencioso-administrativo  número setecientos diecinueve-setenta v siete interpuesto por la  representación procesa! de «MclaUv.’rrk Plansee. A. G ”, contra  acuerdo denegatorio do la marca cuatrocientos tres mil novecien­ tos orne, \"Goldmaster”. dicta o por e! Registro de ¡a Propiedad  Industrial de veintiséis de marzr de mil novecientos setenta y  seis y contra la desestlmatoria de la reposición contra dicho",
+        "hash": "8210d4b644fb57715943e14716a45229b0510e11ab71da9f26f7c7c164d9d0dc"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::a497b82e29e3a12d1eea"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::a497b82e29e3a12d1eea"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::a497b82e29e3a12d1eea"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::2d2ca230570e3c4f155b"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::2d2ca230570e3c4f155b"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::2d2ca230570e3c4f155b"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::8210d4b644fb57715943"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::8210d4b644fb57715943"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::85fb78cec5d607f5097358de8811e8fa",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::8210d4b644fb57715943"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::a497b82e29e3a12d1eea",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::a497b82e29e3a12d1eea"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::a497b82e29e3a12d1eea",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::a497b82e29e3a12d1eea"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::2d2ca230570e3c4f155b",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::2d2ca230570e3c4f155b"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::2d2ca230570e3c4f155b",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::2d2ca230570e3c4f155b"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::8210d4b644fb57715943",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::8210d4b644fb57715943"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::8210d4b644fb57715943",
+      "target": "DOCUMENT_SECTION::85fb78cec5d607f5097358de8811e8fa::8210d4b644fb57715943"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:29:33.038648+00:00",
+    "document_name": "A24521-24521.pdf",
+    "document_hash": "85fb78cec5d607f5097358de8811e8fa"
+  }
+}

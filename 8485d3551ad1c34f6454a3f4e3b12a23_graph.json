@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+        "name": "A40576-40576.pdf",
+        "description": "Il comma riporta semplicemente la data e il numero del bollettino ufficiale, senza introdurre obblighi, condizioni, termini temporali, sanzioni o altri elementi normativi. Testo significativo: Martes 1 diciembre 1992 BOEnúm.288 Martes 1 diciembre 1992 BOEnúm.288 Martes 1 diciembre 1992 BOEnúm.288 Il comma elenca le categorie di docenti integrate nei corpi di insegnanti della scuola secondaria, secondo quanto stabilito dalla disposizione aggiuntiva ventinovesima della Ley 31/1991. Testo significativo: Profesores Técnicos de Formación Profesional, Catedráticos de Música y Artes Escénicas. Proftsores de Música y Artes Escénicas y Pro-fesores de Escuelas Oficiales de Idiomas. conforme a lo establecido en· la disposición adicional vigésima novena de la Ley 31/1991. de 30 de diciembre. de Pres!':puestos Generales del Estado para 1992. de 16 de noviembre de 1992 por la que se corrigen errores en la de 15 de octubre de 1992, que hace pública la relación de funcionarios integrados en los Cuerpos de Profesores de Enseñanza Secundaria. Profesores Técnicos de Formación Profesional, Catedráticos de Música y Artes Escénicas. Proftsores de Música y Artes Escénicas y Pro-fesores de Escuelas Oficiales de Idiomas. conforme a lo establecido en· la disposición adicional vigésima novena de la Ley 31/1991. de 30 de diciembre. de Pres!':puestos Generales del Estado para 1992. ~ de 16 de noviembre de 1992 por la que se corrigen errores en la de 15 de octubre de 1992, que hace pública la relación de funcionarios integrados en los Cuerpos de Profesores de Enseñanza Secundaria. Profesores Técnicos de Formación Profesional, Catedráticos de Música y Artes Escénicas. Proftsores de Música y Artes Escénicas y Pro-fesores de Escuelas Oficiales de Idiomas. conforme a lo establecido en· la disposición adicional vigésima novena de la Ley 31/1991. de 30 de diciembre. de Pres!':puestos Generales del Estado para 1992. ~ Il comma pubblica la graduatoria e la correzione degli esiti relativi all'assegnazione di posti di lavoro tramite il procedimento di libera designazione, specificando nominativi, incarichi e rettifiche a precedenti pubblicazioni. Testo significativo: Este Ministerio, utilizando la prórroga excepcional a que se refiere el artículo 21.3 anterionnente citado, ha dispuesto hacer pública la adjudicación de los puestos de trabajo especificados en el anexo a la presente disposición, los cuales fueron convocados mediante Orden de 14 de septiembre de 1992 (¡¡Boletín Oficial del Estado_ del 15), para ser provistos por el procedimiento de libre designación. Advertidos errores y omisiones en la publicación de la Orden de 15 de octubre de 1992 (<<Boletin Oficial del Estado del 27) por la que se hacía pública la relación de funcionarios integrados en los Cuerpos de Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, Catedráticos de Música y Artes Escénicas, Profesores de Música y Artes Escénicas y Profesores de Escuelas Oficiales de Idiomas, conforme a lo establecido en la disposición adicional vigésima novena de la Ley 31/1991, de 30 de diciembre, de Presupuestos Generales del Estado para 1992 (<<Boletín Oficial del Estado:. del 31), este Ministerio ha dispuesto su corrección en el siguiente sentido: de 7 de noviembre de 1992 POI' la que se hace pública la",
+        "date_enacted": "",
+        "status": "",
+        "hash": "8485d3551ad1c34f6454a3f4e3b12a23"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::767db674595d0dd6abab",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::767db674595d0dd6abab",
+        "name": "40576",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta semplicemente la data e il numero del bollettino ufficiale, senza introdurre obblighi, condizioni, termini temporali, sanzioni o altri elementi normativi. Testo significativo: Martes 1 diciembre 1992 BOEnúm.288",
+        "plain_text": "Martes 1 diciembre 1992 BOEnúm.288",
+        "hash": "767db674595d0dd6abab7f67267b084ad43852844a74293e66788e6c5384de5e"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::d72d3db04705ffcfd724",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::d72d3db04705ffcfd724",
+        "name": "26549",
+        "type": "Sottocomma",
+        "abstract": "Il comma elenca le categorie di docenti integrate nei corpi di insegnanti della scuola secondaria, secondo quanto stabilito dalla disposizione aggiuntiva ventinovesima della Ley 31/1991. Testo significativo: Profesores Técnicos de Formación Profesional, Catedráticos de Música y Artes Escénicas. Proftsores de Música y Artes Escénicas y Pro-fesores de Escuelas Oficiales de Idiomas. conforme a lo establecido en· la disposición adicional vigésima novena de la Ley 31/1991. de 30 de diciembre. de Pres!':puestos Generales del Estado para 1992.",
+        "plain_text": "de 16 de noviembre de 1992 por la que se corrigen errores en la de 15 de octubre de 1992, que hace pública la relación de funcionarios integrados en los Cuerpos de Profesores de Enseñanza Secundaria. Profesores Técnicos de Formación Profesional, Catedráticos de Música y Artes Escénicas. Proftsores de Música y Artes Escénicas y Pro-fesores de Escuelas Oficiales de Idiomas. conforme a lo establecido en· la disposición adicional vigésima novena de la Ley 31/1991. de 30 de diciembre. de Pres!':puestos Generales del Estado para 1992. ~",
+        "hash": "d72d3db04705ffcfd724c77bd71cb0a6fa1ed1f0a68d5d1e4e05f63db7bbfe3d"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::bd570cb0a49cb5dd3494",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::bd570cb0a49cb5dd3494",
+        "name": "26548",
+        "type": "Sottocomma",
+        "abstract": "Il comma pubblica la graduatoria e la correzione degli esiti relativi all'assegnazione di posti di lavoro tramite il procedimento di libera designazione, specificando nominativi, incarichi e rettifiche a precedenti pubblicazioni. Testo significativo: Este Ministerio, utilizando la prórroga excepcional a que se refiere el artículo 21.3 anterionnente citado, ha dispuesto hacer pública la adjudicación de los puestos de trabajo especificados en el anexo a la presente disposición, los cuales fueron convocados mediante Orden de 14 de septiembre de 1992 (¡¡Boletín Oficial del Estado_ del 15), para ser provistos por el procedimiento de libre designación. Advertidos errores y omisiones en la publicación de la Orden de 15 de octubre de 1992 (<<Boletin Oficial del Estado del 27) por la que se hacía pública la relación de funcionarios integrados en los Cuerpos de Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, Catedráticos de Música y Artes Escénicas, Profesores de Música y Artes Escénicas y Profesores de Escuelas Oficiales de Idiomas, conforme a lo establecido en la disposición adicional vigésima novena de la Ley 31/1991, de 30 de diciembre, de Presupuestos Generales del Estado para 1992 (<<Boletín Oficial del Estado:. del 31), este Ministerio ha dispuesto su corrección en el siguiente sentido:",
+        "plain_text": "de 7 de noviembre de 1992 POI' la que se hace pública la adjudicadón de los puestos de trabajo provistos por el\" procedimiento de libre designación (16/1992). De confonnidad con los articulos 20.I.e), de la Ley 30f1984. de 2 de agosto, de Medidas para la Reforma de la Función Pública, 4.° 2. Y 21.3 del Reglamento General de provisión de puestos de trabajo y promoción profesional de los funcionarios civiles de la Administración del Estado. aprobado por Real Decreto 28/1990. de 15 de enero. Este Ministerio. utilizando la prórroga excepcional a que se refiere el artículo 21.3 anterionnente citado. ha dispuesto hacer pública la adjudicación de los puestos de trabajo especificados en el anexo a la presente disposición. los cuales fueron convocados mediante Orden de 14 de septiembre de 1992 (¡¡Boletín Oficial del Estado_ del 15), para ser provistos por el procedimiento de libre designación. Advertidos errores y omisiones en la publicación de la Orden de 15 de octubre de 1992 (<<Boletin Oficial del Estado del 27) por la que se hacía pública la relación de funcionarios integrados en los Cuer w pos de Profesores de Enseñanza Secundaria. Profesores Técnicos de Formación Profesional, Catedráticos de Música y Artes Escénicas, Pro-fesores de Música y Artes Escénicas y Profesores de Escuelas Oficiales Madrid. 7 de noviembre de 1992.-P. D. (Orden de 22 de julio .de Idiomas. conforme a lo establecido en la disposición· adicional vigé-de 1985). el Subsecretario. Enrique Martinez Robles. sima novena: de la Ley 31/1991. de 30 de diciembre. de Presupuestos Generales del Estado para 1992 (<<Boletín Oficial del Estado:. del 31). este Ministerio ha dispuesto su corrección en el siguiente sentido: Ilmo. Sr. Director general de Servicios. En el anexo 1. Cuerpo de Profesores de Enseñanza Secundaria, ANEXO deben considerarse incluidos los Profesores que a continuación se expresan: CONVOCATORIA: ORDEN DE 14 DE SEPTIEMBRE DE 1992 (<BOLETIN OFlOAL DEL ESTADO. DEL 15) 1581 160813A0590 Gainza Artazcoz, Ana Berta. 15792l6657A0590 Martinez Iturmendi. Juan Carlos. 1580362668AOS90 Martinez Martinez. José Luis. 15826861l3A0590 Tanco Lanas. Luis. 1581094757A0590 Orla Mundín. EugeníoJosé. 1584169413A0590 Muruzábal Muro. Adolfo. 1576992057A0590 Aspurz Barberena., Nicasio Javier. Secretaría de Estado de Economía Subdirección General de Economia Laboral 7263433102AOS90 Azcona Navarcorena., Félix José. 1578369068A0590 Barquero Arbizu. Portlrio. 7265939435A0590 Errandonea Maya., Antonio. 1584393746A0590 Esquiroz Azpilicueta. Fr.mcisco Javier. 1584701635A0590 Aamarique Casanova., Pedro José. 1558216802A0590 Garde Enciso. Andrés. 1579004002AOS90 Goyeneche Reta, Francisco Javier. 1573888735A0590 Lana Oyarzun, José Javier. 1600815635A0590 Lázaro Vdoche. Pedro. 1612579246A0590 Martinez de lbarreta Albizu, José Maria. 1583702402A0590 Martinez Lana. José Javier. Número de orde:t: l. Puesto adjudicado: Subdirector general. Nivel: 30. Puesto de procedencia: Ministerio de Economía y Hacienda. Direc-ción General de PoLitica Económica. Madrid. Nivel: 30. Complemento especifico: 2.220.372 pesetas. Apellidos y nombre: López-Tafall Bas-cuñana. José Jesús. Número de Registro de Personal: 1375784057. Grupo: A Cuerpo o escala; 0601. Situación: Activo. Pleno del Tribunal 7263370102A0590 Martínez Lersa. Ramiro. 1579357946A0590 Olcoz Gambarte. Pedro. 7266038357AOS90 Prim Ustariz. Jesús Maria. 7275955146A0590 Sanz Maza. Nicolás Tomás. 1522527635A0590 Urroz Arrastio. José. 1573376557A0590 SagUes Palacios. Miguel Angel. 1705671257A0590 Alonso Irujo, Felipe. 1572337646A0590 Celayeta González, Luis. 1820289802A0590 Ibero Azpiroz. Xabier. 7264622846A0590 Cortijo Yoldí, AntolÚO. Número de orden: 2. Puesto adjudicado: Secretario de los Vocales del Tribunal. Nivel: 16. Puesto de procedencia: Ministerio de Obras Públicas y Transportes. Secretaria General Técnica., Madrid Nivel: 12. Complemento específico: 61.668 pesetas. Apellidos y nombre: Mar-gelles VlZCÓn. Maria Victoria. Número de Registro de Personal: 5002329724. Grupo: D. Cuerpo o escala: 1146. Situación: Activo. CENIRQ DEüESTION CATASTRAL y COOPERACION TRIBUTARlA· Presidencia del Organismo En la págirta 36255, anexo 1. deben omitirse por estar duplicados., los Profesores que aparecen desde «N.R.P.: 7260986602A0590. Gil Ortíz. JuUOl!'. a ,N.R.P.: 1578469646A0590 Fidalgo Lizárraga, José Ignacio». ambos inclusive. En la página 36257. anexo l. donde dice: itPérez de Iriarte Orbet. Maria Josefa», debe decir:: «Perez de Iriarte Sorbet, Maria Josefa... Número de orden: 3. Puesto adjudicado: Adjunto a la Presidencia. Nivel: 29. Puesto de procedencia: Ministerio de Economía y Hacienda. Centro de Gestión Catastral y Cooperación Tributaria. Madrid. Nivel: 29. Complemento especifico: 2.220.372. Apellidos y nombre: Mas Mayoral Sebastián. Número de Registro de Personal: 0282539602. Grupo: A Cuerpo o escala: 1103. Situación: Activo. En la página 36258. anexo 11. donde dice: «N.R.P.: J6455782602A0591 Amo Esquide. Fco. Javier». debe decir. «N.RP.: 164578960lA0591 Amo Esquide. Feo. Javíen. En la misma página y anexo. donde dice: «Sarasa Mariñelarena. Gerencia Territorial de Granada provincia Rosario». debe decir:: ..-Sarasa Mariñelarena. Rosalio». En la oágina 36259, anexo IV. donde dice: ((Martillez Peñuela. Vrrginia». debe decir: «Martinez·Pe.iíuela VlIseda, Virgi.nía». NUmero de orden: 4. Puesto adjudicado: Gerente. Nivel: 29. Puesto de procedencia: Ministerio de Econonüa y Hacienda. Centro de Gestión Catastral y Cooperación Tributaria, Gerencia Territorial de Granada provincia. Granada. Nivel: 29. Complemento e~pecífico:2.109.012 pese-tas. Apellidos y nombre: Medina García. José Luis. Numero de Registro de Personal: 2429119446. Grupo: A Cuerpo o escala: 111 L Situación: Activo. Madrid. 16 de noviembre de 1992.-P. D. (Orden de 2 de mano de 1992), el Director g:::neral de Personal y Servicios. Gonzalo Junay Gacela de Viedma. Urno. Sr. Director g:::neral de r~FoOnal y Ser\\icio3.",
+        "hash": "bd570cb0a49cb5dd3494ff356e533733c6b53e0d9a47200ea9d340453f187176"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::767db674595d0dd6abab"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::767db674595d0dd6abab"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::767db674595d0dd6abab"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::d72d3db04705ffcfd724"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::d72d3db04705ffcfd724"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::d72d3db04705ffcfd724"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::bd570cb0a49cb5dd3494"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::bd570cb0a49cb5dd3494"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::8485d3551ad1c34f6454a3f4e3b12a23",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::bd570cb0a49cb5dd3494"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::767db674595d0dd6abab",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::767db674595d0dd6abab"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::767db674595d0dd6abab",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::767db674595d0dd6abab"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::d72d3db04705ffcfd724",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::d72d3db04705ffcfd724"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::d72d3db04705ffcfd724",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::d72d3db04705ffcfd724"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::bd570cb0a49cb5dd3494",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::bd570cb0a49cb5dd3494"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::bd570cb0a49cb5dd3494",
+      "target": "DOCUMENT_SECTION::8485d3551ad1c34f6454a3f4e3b12a23::bd570cb0a49cb5dd3494"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:30:55.848554+00:00",
+    "document_name": "A40576-40576.pdf",
+    "document_hash": "8485d3551ad1c34f6454a3f4e3b12a23"
+  }
+}

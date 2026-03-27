@@ -1,0 +1,656 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+        "name": "PLCGRPAmmneBilancioeSegnalazionidiGruppov14.pdf",
+        "description": "Il comma fornisce una panoramica strutturata delle informazioni chiave relative al documento, tra cui tipologia, normativa abrogata, riferimenti normativi interni ed esterni, funzioni coinvolte e modalità di pubblicazione. Testo significativo: Tipologia Documento  Policy di Gruppo Normativa interna abrogata  Policy di Gruppo “Amministrazione, Bilancio e Segnalazioni” v1.3 del 05/10/2022 Principale normativa di CDP S.p.A. collegata  Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001  Codice Etico  Principi generali sull’esercizio dell’attività di direzione e coordinamento Principale normativa di Gruppo collegata  Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione delle normative di Gruppo  Processo di Gruppo per la gestione della Normativa di Gruppo Riferimenti a normativa esterna  Codice Civile, artt. 2497 e segg.  IFRS, come adottati dall’Unione Europea  Riferimenti a normativa esterna inclusi nel Regolamento sull’esercizio dell’attività di direzione e coordinamento Funzione Proponente  Bilancio, Normativa e Segnalazioni della Capogruppo Funzione Validante  Compliance della Capogruppo Funzione Approvante  Amministratore Delegato della Capogruppo Funzione Emanante  Ordine di Servizio dell’Amministratore Delegato n. 2 del 27 gennaio 2023 Modalità di pubblicazione  Intranet aziendale 1.1 Scheda del documento [['', 'Tipologia Documento', '', '\\uf0f0 Policy di Gruppo', None, None], ['Normativa interna abrogata', 'Normativa interna abrogata', None, '', '\\uf0f0 Policy di Gruppo “Amministrazione, Bilancio e Segnalazioni”', ''], [None, None, None, None, 'v1.3 del 05/10/2022', None], ['Principale normativa di CDP S.p.A.\\ncollegata', None, None, '', '\\uf0f0 Modello di Organizzazione Gestione e Controllo ex D. Lgs.', ''], [None, None, None, None, '231/2001', None], [None, None, None, None, '\\uf0f0 Codice Etico', None], [None, None, None, None, '\\uf0f0 Principi generali sull’esercizio dell’attività di direzione e', None], [None, None, None, None, 'coordinamento', None], ['Principale normativa di Gruppo\\ncollegata', None, None, '', '\\uf0f0 Policy di Gruppo – Modello normativo di Gruppo e principi', ''], [None, None, None, None, 'per la gestione delle normative di Gruppo', None], [None, None, None, None, '\\uf0f0 Processo di Gruppo per la gestione della Normativa di', None], [None, None, None, None, 'Gruppo', None], ['Riferimenti a normativa esterna', None, None, '', '\\uf0f0 Codice Civile, artt. 2497 e segg.', ''], [None, None, None, None, '\\uf0f0 IFRS, come adottati dall’Unione Europea', None], [None, None, None, None, '\\uf0f0 Riferimenti a normativa esterna inclusi nel Regolamento', None], [None, None, None, None, 'sull’esercizio dell’attività di direzione e coordinamento', None], ['', 'Funzione Proponente', '', '\\uf0f0 Bilancio, Normativa 1.1 Scheda del documento [['', 'Tipologia Documento', '', '\\uf0f0 Policy di Gruppo', None, None], ['Normativa interna abrogata', 'Normativa interna abrogata', None, '', '\\uf0f0 Policy di Gruppo “Amministrazione, Bilancio e Segnalazioni”', ''], [None, None, None, None, 'v1.3 del 05/10/2022', None], ['Principale normativa di CDP S.p.A.\\ncollegata', None, None, '', '\\uf0f0 Modello di Organizzazione Gestione e Controllo ex D. Lgs.', ''], [None, None, None, None, '231/2001', None], [None, None, None, None, '\\uf0f0 Codice Etico', None], [None, None, None, None, '\\uf0f0 Principi generali sull’esercizio dell’attività di direzione e', None], [None, None, None, None, 'coordinamento', None], ['Principale normativa di Gruppo\\ncollegata', None, None, '', '\\uf0f0 Policy di Gruppo – Modello normativo di Gruppo e principi', ''], [None, None, None, None,",
+        "date_enacted": "",
+        "status": "",
+        "hash": "66b900cb771d0c54c098d222619fd942"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::04d394427a2edf32239a",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::04d394427a2edf32239a",
+        "name": "1",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una panoramica strutturata delle informazioni chiave relative al documento, tra cui tipologia, normativa abrogata, riferimenti normativi interni ed esterni, funzioni coinvolte e modalità di pubblicazione. Testo significativo: Tipologia Documento  Policy di Gruppo Normativa interna abrogata  Policy di Gruppo “Amministrazione, Bilancio e Segnalazioni” v1.3 del 05/10/2022 Principale normativa di CDP S.p.A. collegata  Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001  Codice Etico  Principi generali sull’esercizio dell’attività di direzione e coordinamento Principale normativa di Gruppo collegata  Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione delle normative di Gruppo  Processo di Gruppo per la gestione della Normativa di Gruppo Riferimenti a normativa esterna  Codice Civile, artt. 2497 e segg.  IFRS, come adottati dall’Unione Europea  Riferimenti a normativa esterna inclusi nel Regolamento sull’esercizio dell’attività di direzione e coordinamento Funzione Proponente  Bilancio, Normativa e Segnalazioni della Capogruppo Funzione Validante  Compliance della Capogruppo Funzione Approvante  Amministratore Delegato della Capogruppo Funzione Emanante  Ordine di Servizio dell’Amministratore Delegato n. 2 del 27 gennaio 2023 Modalità di pubblicazione  Intranet aziendale",
+        "plain_text": "1.1  Scheda del documento    [['', 'Tipologia Documento', '', '\\uf0f0 Policy di Gruppo', None, None], ['Normativa interna abrogata', 'Normativa interna abrogata', None, '', '\\uf0f0 Policy di Gruppo “Amministrazione, Bilancio e Segnalazioni”', ''], [None, None, None, None, 'v1.3 del 05/10/2022', None], ['Principale normativa di CDP S.p.A.\\ncollegata', None, None, '', '\\uf0f0 Modello di Organizzazione Gestione e Controllo ex D. Lgs.', ''], [None, None, None, None, '231/2001', None], [None, None, None, None, '\\uf0f0 Codice Etico', None], [None, None, None, None, '\\uf0f0 Principi generali sull’esercizio dell’attività di direzione e', None], [None, None, None, None, 'coordinamento', None], ['Principale normativa di Gruppo\\ncollegata', None, None, '', '\\uf0f0 Policy di Gruppo – Modello normativo di Gruppo e principi', ''], [None, None, None, None, 'per la gestione delle normative di Gruppo', None], [None, None, None, None, '\\uf0f0 Processo di Gruppo per la gestione della Normativa di', None], [None, None, None, None, 'Gruppo', None], ['Riferimenti a normativa esterna', None, None, '', '\\uf0f0 Codice Civile, artt. 2497 e segg.', ''], [None, None, None, None, '\\uf0f0 IFRS, come adottati dall’Unione Europea', None], [None, None, None, None, '\\uf0f0 Riferimenti a normativa esterna inclusi nel Regolamento', None], [None, None, None, None, 'sull’esercizio dell’attività di direzione e coordinamento', None], ['', 'Funzione Proponente', '', '\\uf0f0 Bilancio, Normativa e Segnalazioni della Capogruppo', None, None], ['', 'Funzione Validante', '', '\\uf0f0 Compliance della Capogruppo', None, None], ['', 'Funzione Approvante', '', '\\uf0f0 Amministratore Delegato della Capogruppo', None, None], ['Funzione Emanante', 'Funzione Emanante', None, '', '\\uf0f0 Ordine di Servizio dell’Amministratore Delegato n. 2 del 27', ''], [None, None, None, None, 'gennaio 2023', None], ['', 'Modalità di pubblicazione', '', '\\uf0f0 Intranet aziendale', None, None]] Tipologia Documento   Policy di Gruppo   Normativa interna abrogata   Policy di Gruppo “Amministrazione, Bilancio e Segnalazioni”   v1.3 del 05/10/2022   Principale normativa di CDP S.p.A.  collegata    Modello di Organizzazione Gestione e Controllo ex D. Lgs.   231/2001    Codice Etico    Principi generali sull’esercizio dell’attività di direzione e   coordinamento   Principale normativa di Gruppo  collegata    Policy di Gruppo – Modello normativo di Gruppo e principi   per la gestione delle normative di Gruppo    Processo di Gruppo per la gestione della Normativa di   Gruppo   Riferimenti a normativa esterna   Codice Civile, artt. 2497 e segg.   IFRS, come adottati dall’Unione Europea    Riferimenti a normativa esterna inclusi nel Regolamento   sull’esercizio dell’attività di direzione e coordinamento   Funzione Proponente   Bilancio, Normativa e Segnalazioni della Capogruppo   Funzione Validante   Compliance della Capogruppo   Funzione Approvante   Amministratore Delegato della Capogruppo   Funzione Emanante    Ordine di Servizio dell’Amministratore Delegato n. 2 del 27   gennaio 2023   Modalità di pubblicazione   Intranet aziendale",
+        "hash": "04d394427a2edf32239a554c3caecbadde7e8a89ed095bed7b17be6c3550946c"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::00617a66b8029aca63d2",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::00617a66b8029aca63d2",
+        "name": "1.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una panoramica delle informazioni di base relative al documento, tra cui tipologia, normativa abrogata, riferimenti normativi interni ed esterni, funzioni coinvolte, modalità di pubblicazione, storia delle versioni e contatti per assistenza. Testo significativo: Tipologia Documento  Policy di Gruppo Normativa interna abrogata  Policy di Gruppo “Amministrazione, Bilancio e Segnalazioni” v1.3 del 05/10/2022 Principale normativa di CDP S.p.A. collegata  Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001  Codice Etico  Principi generali sull’esercizio dell’attività di direzione e coordinamento Principale normativa di Gruppo collegata  Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione delle normative di Gruppo  Processo di Gruppo per la gestione della Normativa di Gruppo Riferimenti a normativa esterna  Codice Civile, artt. 2497 e segg.  IFRS, come adottati dall’Unione Europea  Riferimenti a normativa esterna inclusi nel Regolamento sull’esercizio dell’attività di direzione e coordinamento Funzione Proponente  Bilancio, Normativa e Segnalazioni della Capogruppo Funzione Validante  Compliance della Capogruppo Funzione Approvante  Amministratore Delegato della Capogruppo Funzione Emanante  Ordine di Servizio dell’Amministratore Delegato n. 2 del 27 gennaio 2023 Modalità di pubblicazione  Intranet aziendale 1.2 Storia del documento Versione n° Principali modifiche",
+        "plain_text": "[['', 'Tipologia Documento', '', '\\uf0f0 Policy di Gruppo', None, None], ['Normativa interna abrogata', 'Normativa interna abrogata', None, '', '\\uf0f0 Policy di Gruppo “Amministrazione, Bilancio e Segnalazioni”', ''], [None, None, None, None, 'v1.3 del 05/10/2022', None], ['Principale normativa di CDP S.p.A.\\ncollegata', None, None, '', '\\uf0f0 Modello di Organizzazione Gestione e Controllo ex D. Lgs.', ''], [None, None, None, None, '231/2001', None], [None, None, None, None, '\\uf0f0 Codice Etico', None], [None, None, None, None, '\\uf0f0 Principi generali sull’esercizio dell’attività di direzione e', None], [None, None, None, None, 'coordinamento', None], ['Principale normativa di Gruppo\\ncollegata', None, None, '', '\\uf0f0 Policy di Gruppo – Modello normativo di Gruppo e principi', ''], [None, None, None, None, 'per la gestione delle normative di Gruppo', None], [None, None, None, None, '\\uf0f0 Processo di Gruppo per la gestione della Normativa di', None], [None, None, None, None, 'Gruppo', None], ['Riferimenti a normativa esterna', None, None, '', '\\uf0f0 Codice Civile, artt. 2497 e segg.', ''], [None, None, None, None, '\\uf0f0 IFRS, come adottati dall’Unione Europea', None], [None, None, None, None, '\\uf0f0 Riferimenti a normativa esterna inclusi nel Regolamento', None], [None, None, None, None, 'sull’esercizio dell’attività di direzione e coordinamento', None], ['', 'Funzione Proponente', '', '\\uf0f0 Bilancio, Normativa e Segnalazioni della Capogruppo', None, None], ['', 'Funzione Validante', '', '\\uf0f0 Compliance della Capogruppo', None, None], ['', 'Funzione Approvante', '', '\\uf0f0 Amministratore Delegato della Capogruppo', None, None], ['Funzione Emanante', 'Funzione Emanante', None, '', '\\uf0f0 Ordine di Servizio dell’Amministratore Delegato n. 2 del 27', ''], [None, None, None, None, 'gennaio 2023', None], ['', 'Modalità di pubblicazione', '', '\\uf0f0 Intranet aziendale', None, None]] Tipologia Documento   Policy di Gruppo   Normativa interna abrogata   Policy di Gruppo “Amministrazione, Bilancio e Segnalazioni”   v1.3 del 05/10/2022   Principale normativa di CDP S.p.A.  collegata    Modello di Organizzazione Gestione e Controllo ex D. Lgs.   231/2001    Codice Etico    Principi generali sull’esercizio dell’attività di direzione e   coordinamento   Principale normativa di Gruppo  collegata    Policy di Gruppo – Modello normativo di Gruppo e principi   per la gestione delle normative di Gruppo    Processo di Gruppo per la gestione della Normativa di   Gruppo   Riferimenti a normativa esterna   Codice Civile, artt. 2497 e segg.   IFRS, come adottati dall’Unione Europea    Riferimenti a normativa esterna inclusi nel Regolamento   sull’esercizio dell’attività di direzione e coordinamento   Funzione Proponente   Bilancio, Normativa e Segnalazioni della Capogruppo   Funzione Validante   Compliance della Capogruppo   Funzione Approvante   Amministratore Delegato della Capogruppo   Funzione Emanante    Ordine di Servizio dell’Amministratore Delegato n. 2 del 27   gennaio 2023   Modalità di pubblicazione   Intranet aziendale          1.2  Storia del documento    [['', 'Storia del documento', None, None, None, None, None, None, None, None, None, ''], ['', 'Versione n°', '', '', 'Principali modifiche introdotte', '', '', 'Data', '', '', 'Soggetto approvatore', ''], ['1.0', None, None, 'Documento di prima emissione', None, None, '28/05/2018', None, None, '', 'Amministratore Delegato della', ''], [None, None, None, None, None, None, None, None, None, None, 'Capogruppo', None], ['1.1', None, None, '', 'Modifiche minor per allineamento', '', '11/05/2020', None, None, 'Responsabile Organizzazione e\\nProcessi della Capogruppo', None, None], [None, None, None, None, 'del documento alla struttura', None, None, None, None, None, None, None], [None, None, None, None, 'organizzativa vigente', None, None, None, None, None, None, None], ['1.2', None, None, '', 'Modifiche minor per allineamento', '', '21/12/2021', None, None, 'Resp. Organizzazione e Processi\\ndi CDP S.p.A.', None, None], [None, None, None, None, 'del documento alla struttura', None, None, None, None, None, None, None], [None, None, None, None, 'organizzativa e al corpo normativo', None, None, None, None, None, None, None], [None, None, None, None, 'vigente1', None, None, None, None, None, None, None], ['1.3', None, None, '', 'Modifiche minor per allineamento', '', '05/10/2022', None, None, 'Responsabile Compensation e\\nOrganizzazione', None, None], [None, None, None, None, 'del documento alla struttura', None, None, None, None, None, None, None], [None, None, None, None, 'organizzativa vigente1', None, None, None, None, None, None, None], ['1.4', None, None, '', 'Integrazioni relative', '', '27/01/2023', None, None, 'Amministratore Delegato della\\nCapogruppo', None, None], [None, None, None, None, 'all’aggiornamento del “Manuale', None, None, None, None, None, None, None], [None, None, None, None, 'Contabile di Gruppo”', None, None, None, None, None, None, None]] Storia del documento    Versione n°  Principali modifiche introdotte  Data  Soggetto approvatore   1.0  Documento di prima emissione  28/05/2018  Amministratore Delegato della   Capogruppo   1.1   Modifiche minor per allineamento  del documento alla struttura  organizzativa vigente   11/05/2020  Responsabile Organizzazione e   Processi della Capogruppo   1.2   Modifiche minor per allineamento  del documento alla struttura  organizzativa e al corpo normativo  vigente1   21/12/2021  Resp. Organizzazione e Processi   di CDP S.p.A.   1.3   Modifiche minor per allineamento  del documento alla struttura  organizzativa vigente1   05/10/2022   Responsabile Compensation e   Organizzazione   1.4   Integrazioni relative  all’aggiornamento del “Manuale  Contabile di Gruppo”   27/01/2023  Amministratore Delegato della   Capogruppo      1.3  Contatti e assistenza operativa   [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul\\ndocumento', None, None, '', 'Luca Caviglia – tel: 06 4221 3472 email: luca.caviglia@cdp.it', ''], [None, None, None, None, 'Marco Giorgio – tel: 06 4221 3308 email: marco.giorgio@cdp.it', None], [None, None, None, None, 'Sabrina Coletti – tel: 06 4221 5443 email: sabrina.coletti@cdp.it', None]] Tipologia  Riferimenti   Chiarimenti sul   documento   Luca Caviglia – tel: 06 4221 3472 email: luca.caviglia@cdp.it   Marco Giorgio – tel: 06 4221 3308 email: marco.giorgio@cdp.it   Sabrina Coletti – tel: 06 4221 5443 email: sabrina.coletti@cdp.it",
+        "hash": "00617a66b8029aca63d2628411e804f1cb809da7b16ed6ad5224f0d990084282"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::92e683d866b7eda61f17",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::92e683d866b7eda61f17",
+        "name": "1.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una cronologia delle versioni del documento, elencando le principali modifiche introdotte, le date di approvazione e i soggetti approvatori, nonché i riferimenti per contatti e assistenza operativa. Testo significativo: Storia del documento Versione n° Principali modifiche introdotte Data Soggetto approvatore 1.0 Documento di prima emissione 28/05/2018 Amministratore Delegato della Capogruppo 1.1 Modifiche minor per allineamento del documento alla struttura organizzativa vigente 11/05/2020 Responsabile Organizzazione e Processi della Capogruppo 1.2 Modifiche minor per allineamento del documento alla struttura organizzativa e al corpo normativo vigente1 21/12/2021 Resp. Organizzazione e Processi di CDP S.p.A. 1.3 Modifiche minor per allineamento del documento alla struttura organizzativa vigente1 05/10/2022 Responsabile Compensation e Organizzazione 1.4 Integrazioni relative all’aggiornamento del “Manuale Contabile di Gruppo” 27/01/2023 Amministratore Delegato della Capogruppo 1.3 Contatti e assistenza operativa Tipologia Riferimenti Chiarimenti sul documento Luca Caviglia – tel: 06 4221 3472 email: luca.caviglia@cdp.it Marco Giorgio – tel: 06 4221 3308 email: marco.giorgio@cdp.it Sabrina Coletti – tel: 06 4221 5443 email: sabrina.coletti@cdp.it",
+        "plain_text": "[['', 'Storia del documento', None, None, None, None, None, None, None, None, None, ''], ['', 'Versione n°', '', '', 'Principali modifiche introdotte', '', '', 'Data', '', '', 'Soggetto approvatore', ''], ['1.0', None, None, 'Documento di prima emissione', None, None, '28/05/2018', None, None, '', 'Amministratore Delegato della', ''], [None, None, None, None, None, None, None, None, None, None, 'Capogruppo', None], ['1.1', None, None, '', 'Modifiche minor per allineamento', '', '11/05/2020', None, None, 'Responsabile Organizzazione e\\nProcessi della Capogruppo', None, None], [None, None, None, None, 'del documento alla struttura', None, None, None, None, None, None, None], [None, None, None, None, 'organizzativa vigente', None, None, None, None, None, None, None], ['1.2', None, None, '', 'Modifiche minor per allineamento', '', '21/12/2021', None, None, 'Resp. Organizzazione e Processi\\ndi CDP S.p.A.', None, None], [None, None, None, None, 'del documento alla struttura', None, None, None, None, None, None, None], [None, None, None, None, 'organizzativa e al corpo normativo', None, None, None, None, None, None, None], [None, None, None, None, 'vigente1', None, None, None, None, None, None, None], ['1.3', None, None, '', 'Modifiche minor per allineamento', '', '05/10/2022', None, None, 'Responsabile Compensation e\\nOrganizzazione', None, None], [None, None, None, None, 'del documento alla struttura', None, None, None, None, None, None, None], [None, None, None, None, 'organizzativa vigente1', None, None, None, None, None, None, None], ['1.4', None, None, '', 'Integrazioni relative', '', '27/01/2023', None, None, 'Amministratore Delegato della\\nCapogruppo', None, None], [None, None, None, None, 'all’aggiornamento del “Manuale', None, None, None, None, None, None, None], [None, None, None, None, 'Contabile di Gruppo”', None, None, None, None, None, None, None]] Storia del documento    Versione n°  Principali modifiche introdotte  Data  Soggetto approvatore   1.0  Documento di prima emissione  28/05/2018  Amministratore Delegato della   Capogruppo   1.1   Modifiche minor per allineamento  del documento alla struttura  organizzativa vigente   11/05/2020  Responsabile Organizzazione e   Processi della Capogruppo   1.2   Modifiche minor per allineamento  del documento alla struttura  organizzativa e al corpo normativo  vigente1   21/12/2021  Resp. Organizzazione e Processi   di CDP S.p.A.   1.3   Modifiche minor per allineamento  del documento alla struttura  organizzativa vigente1   05/10/2022   Responsabile Compensation e   Organizzazione   1.4   Integrazioni relative  all’aggiornamento del “Manuale  Contabile di Gruppo”   27/01/2023  Amministratore Delegato della   Capogruppo      1.3  Contatti e assistenza operativa   [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul\\ndocumento', None, None, '', 'Luca Caviglia – tel: 06 4221 3472 email: luca.caviglia@cdp.it', ''], [None, None, None, None, 'Marco Giorgio – tel: 06 4221 3308 email: marco.giorgio@cdp.it', None], [None, None, None, None, 'Sabrina Coletti – tel: 06 4221 5443 email: sabrina.coletti@cdp.it', None]] Tipologia  Riferimenti   Chiarimenti sul   documento   Luca Caviglia – tel: 06 4221 3472 email: luca.caviglia@cdp.it   Marco Giorgio – tel: 06 4221 3308 email: marco.giorgio@cdp.it   Sabrina Coletti – tel: 06 4221 5443 email: sabrina.coletti@cdp.it",
+        "hash": "92e683d866b7eda61f17c12077196f51c7557691df0cae41c816dc816a8bf8b7"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::088c308e08bdc7683955",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::088c308e08bdc7683955",
+        "name": "1.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce informazioni di contatto per chiarimenti sul documento e un glossario con le definizioni dei termini principali utilizzati nel regolamento. Testo significativo: Chiarimenti sul documento Luca Caviglia – tel: 06 4221 3472 email: luca.caviglia@cdp.it Marco Giorgio – tel: 06 4221 3308 email: marco.giorgio@cdp.it Sabrina Coletti – tel: 06 4221 5443 email: sabrina.coletti@cdp.it Glossario • Capogruppo: Cassa Depositi e Prestiti S.p.A. o, sinteticamente, CDP; • Società del Gruppo: le Società controllate da CDP, definite nel capitolo 2 ed elencate nell’Allegato “A” dei “Principi generali sull’esercizio dell’attività di direzione e coordinamento”. Tali Società controllate esercitano attività di direzione e coordinamento sulle proprie società controllate non quotate, assicurando che queste ultime si conformino alle prescrizioni del presente documento; • Gruppo: CDP e le Società del Gruppo; • Reporting Package: l’insieme di documenti che raccolgono dati ed informazioni di natura patrimoniale, economico, finanziaria, che vengono inviati dalle Società del Gruppo ed utilizzati da CDP per la redazione della Relazione Finanziaria Annuale e della Relazione Finanziaria Semestrale Consolidata; • Bilancio Consolidato: il bilancio del Gruppo CDP, redatto ai sensi del principio contabile IFRS 10 -“Bilancio consolidato”; • Mappa di Gruppo: illustrazione della composizione nonché dell’informazione in merito ai settori operativi del Gruppo; •",
+        "plain_text": "[['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul\\ndocumento', None, None, '', 'Luca Caviglia – tel: 06 4221 3472 email: luca.caviglia@cdp.it', ''], [None, None, None, None, 'Marco Giorgio – tel: 06 4221 3308 email: marco.giorgio@cdp.it', None], [None, None, None, None, 'Sabrina Coletti – tel: 06 4221 5443 email: sabrina.coletti@cdp.it', None]] Tipologia  Riferimenti   Chiarimenti sul   documento   Luca Caviglia – tel: 06 4221 3472 email: luca.caviglia@cdp.it   Marco Giorgio – tel: 06 4221 3308 email: marco.giorgio@cdp.it   Sabrina Coletti – tel: 06 4221 5443 email: sabrina.coletti@cdp.it            2  Glossario    •  Capogruppo: Cassa Depositi e Prestiti S.p.A. o, sinteticamente, CDP;   •  Società del Gruppo: le Società controllate da CDP, definite nel capitolo 2 ed elencate  nell’Allegato “A” dei “Principi generali sull’esercizio dell’attività di direzione e coordinamento”. Tali  Società controllate esercitano attività di direzione e coordinamento sulle proprie società  controllate non quotate, assicurando che queste ultime si conformino alle prescrizioni del  presente documento;   •  Gruppo: CDP e le Società del Gruppo;   •  Reporting Package: l’insieme di documenti che raccolgono dati ed informazioni di natura  patrimoniale, economico, finanziaria, che vengono inviati dalle Società del Gruppo ed utilizzati  da CDP per la redazione della Relazione Finanziaria Annuale e della Relazione Finanziaria  Semestrale Consolidata;   •  Bilancio Consolidato: il bilancio del Gruppo CDP, redatto ai sensi del principio contabile IFRS  10 -“Bilancio consolidato”;   •  Mappa di Gruppo: illustrazione della composizione nonché dell’informazione in merito ai settori  operativi del Gruppo;   •  Autorità di Vigilanza: istituzioni indipendenti che hanno il compito di controllare il rispetto della  regolamentazione relativa a un determinato ambito di attività (a titolo esemplificativo e non  esaustivo: BdI, BCE, Consob, Ivass);   •  Manuale Contabile di Gruppo: documento contenente l’insieme di principi contabili IFRS e  relative interpretazioni, al quale il Gruppo si attiene al fine di assicurare una corretta ed uniforme  rilevazione contabile dei fatti di gestione.",
+        "hash": "088c308e08bdc7683955c49f56ceb2e4feee6091b2c63b7ed65ac61115fd7f75"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0818f10d401057b0a06f",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0818f10d401057b0a06f",
+        "name": "2",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una serie di definizioni operative e chiarisce il significato di termini chiave utilizzati nel documento, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: • Capogruppo: Cassa Depositi e Prestiti S.p.A. o, sinteticamente, CDP; • Società del Gruppo: le Società controllate da CDP, definite nel capitolo 2 ed elencate nell’Allegato “A” dei “Principi generali sull’esercizio dell’attività di direzione e coordinamento”. Tali Società controllate esercitano attività di direzione e coordinamento sulle proprie società controllate non quotate, assicurando che queste ultime si conformino alle prescrizioni del presente documento; • Gruppo: CDP e le Società del Gruppo; • Reporting Package: l’insieme di documenti che raccolgono dati ed informazioni di natura patrimoniale, economico, finanziaria, che vengono inviati dalle Società del Gruppo ed utilizzati da CDP per la redazione della Relazione Finanziaria Annuale e della Relazione Finanziaria Semestrale Consolidata; • Bilancio Consolidato: il bilancio del Gruppo CDP, redatto ai sensi del principio contabile IFRS 10 -“Bilancio consolidato”; • Mappa di Gruppo: illustrazione della composizione nonché dell’informazione in merito ai settori operativi del Gruppo; • Autorità di Vigilanza: istituzioni indipendenti che hanno il compito di controllare il rispetto della regolamentazione relativa a un determinato ambito di attività (a titolo esemplificativo e non",
+        "plain_text": "•  Capogruppo: Cassa Depositi e Prestiti S.p.A. o, sinteticamente, CDP;   •  Società del Gruppo: le Società controllate da CDP, definite nel capitolo 2 ed elencate  nell’Allegato “A” dei “Principi generali sull’esercizio dell’attività di direzione e coordinamento”. Tali  Società controllate esercitano attività di direzione e coordinamento sulle proprie società  controllate non quotate, assicurando che queste ultime si conformino alle prescrizioni del  presente documento;   •  Gruppo: CDP e le Società del Gruppo;   •  Reporting Package: l’insieme di documenti che raccolgono dati ed informazioni di natura  patrimoniale, economico, finanziaria, che vengono inviati dalle Società del Gruppo ed utilizzati  da CDP per la redazione della Relazione Finanziaria Annuale e della Relazione Finanziaria  Semestrale Consolidata;   •  Bilancio Consolidato: il bilancio del Gruppo CDP, redatto ai sensi del principio contabile IFRS  10 -“Bilancio consolidato”;   •  Mappa di Gruppo: illustrazione della composizione nonché dell’informazione in merito ai settori  operativi del Gruppo;   •  Autorità di Vigilanza: istituzioni indipendenti che hanno il compito di controllare il rispetto della  regolamentazione relativa a un determinato ambito di attività (a titolo esemplificativo e non  esaustivo: BdI, BCE, Consob, Ivass);   •  Manuale Contabile di Gruppo: documento contenente l’insieme di principi contabili IFRS e  relative interpretazioni, al quale il Gruppo si attiene al fine di assicurare una corretta ed uniforme  rilevazione contabile dei fatti di gestione.        3  Obiettivo e perimetro di applicazione   3.1  Obiettivo   Scopo del presente documento è quello di declinare i principi indicati nel documento “Principi  generali sull’esercizio dell’attività di direzione e coordinamento”. In particolare, l’obiettivo è di definire  i principi che le diverse Società del Gruppo sono tenute ad osservare al fine di garantire un  coordinamento organico e un approccio omogeneo verso tematiche rilevanti ai fini di Gruppo in  materia di:   •  governo dei processi di bilancio e della definizione di specifici indirizzi e linee guida in tema di  contabilità, amministrazione e bilancio;   •  definizione dei modelli applicativi dei principi contabili IFRS a livello di Gruppo;   •  progetti in materia di amministrazione, contabilità e bilancio;   •  segnalazioni di vigilanza;   •  service agreements in materia di amministrazione, contabilità e bilancio;   •  informazioni rilevanti richieste dalla Capogruppo.   A tal fine, questo documento disciplina ruoli e responsabilità della Capogruppo e delle Società del  Gruppo, nonché attività e flussi informativi sulle tematiche sopra menzionate.   Le tempistiche, i processi operativi e gli aspetti di dettaglio, nonché le funzioni/strutture competenti  della Capogruppo e delle Società del Gruppo, potranno essere declinate in dettaglio negli allegati  alla presente policy. Tali allegati, che potranno essere suscettibili di successivi aggiornamenti da  parte della Capogruppo, non richiederanno la nuova emanazione della presente policy, purché  debitamente comunicati alle Società del Gruppo.      3.2  Perimetro di applicazione   •  Cassa depositi e prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”)   •  Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti  del codice civile2 (di seguito anche “Società del Gruppo”).    Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a  Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo (di  seguito anche “policy”), nel rispetto del principio di proporzionalità e tenuto conto dei profili di  autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in particolare  dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti.    Le Società destinatarie applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando la",
+        "hash": "0818f10d401057b0a06f23969a5a9050084ba5592b123dc8b037fa5fc0361ee6"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::f9ef262c8b433071c652",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::f9ef262c8b433071c652",
+        "name": "3",
+        "type": "Sottocomma",
+        "abstract": "Il comma definisce lo scopo del documento, che è quello di declinare i principi generali sull’esercizio dell’attività di direzione e coordinamento, specificando i principi che le Società del Gruppo devono osservare per garantire coordinamento e omogeneità su tematiche rilevanti di Gruppo. Testo significativo: Scopo del presente documento è quello di declinare i principi indicati nel documento “Principi generali sull’esercizio dell’attività di direzione e coordinamento”. In particolare, l’obiettivo è di definire i principi che le diverse Società del Gruppo sono tenute ad osservare al fine di garantire un coordinamento organico e un approccio omogeneo verso tematiche rilevanti ai fini di Gruppo in materia di: governo dei processi di bilancio e della definizione di specifici indirizzi e linee guida in tema di contabilità, amministrazione e bilancio; definizione dei modelli applicativi dei principi contabili IFRS a livello di Gruppo; progetti in materia di amministrazione, contabilità e bilancio; segnalazioni di vigilanza; service agreements in materia di amministrazione, contabilità e bilancio; informazioni rilevanti richieste dalla Capogruppo. A tal fine, questo documento disciplina ruoli e responsabilità della Capogruppo e delle Società del Gruppo, nonché attività e flussi informativi sulle tematiche sopra menzionate.",
+        "plain_text": "3.1  Obiettivo   Scopo del presente documento è quello di declinare i principi indicati nel documento “Principi  generali sull’esercizio dell’attività di direzione e coordinamento”. In particolare, l’obiettivo è di definire  i principi che le diverse Società del Gruppo sono tenute ad osservare al fine di garantire un  coordinamento organico e un approccio omogeneo verso tematiche rilevanti ai fini di Gruppo in  materia di:   •  governo dei processi di bilancio e della definizione di specifici indirizzi e linee guida in tema di  contabilità, amministrazione e bilancio;   •  definizione dei modelli applicativi dei principi contabili IFRS a livello di Gruppo;   •  progetti in materia di amministrazione, contabilità e bilancio;   •  segnalazioni di vigilanza;   •  service agreements in materia di amministrazione, contabilità e bilancio;   •  informazioni rilevanti richieste dalla Capogruppo.   A tal fine, questo documento disciplina ruoli e responsabilità della Capogruppo e delle Società del  Gruppo, nonché attività e flussi informativi sulle tematiche sopra menzionate.   Le tempistiche, i processi operativi e gli aspetti di dettaglio, nonché le funzioni/strutture competenti  della Capogruppo e delle Società del Gruppo, potranno essere declinate in dettaglio negli allegati  alla presente policy. Tali allegati, che potranno essere suscettibili di successivi aggiornamenti da  parte della Capogruppo, non richiederanno la nuova emanazione della presente policy, purché  debitamente comunicati alle Società del Gruppo.      3.2  Perimetro di applicazione   •  Cassa depositi e prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”)   •  Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti  del codice civile2 (di seguito anche “Società del Gruppo”).    Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a  Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo (di  seguito anche “policy”), nel rispetto del principio di proporzionalità e tenuto conto dei profili di  autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in particolare  dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti.    Le Società destinatarie applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando la",
+        "hash": "f9ef262c8b433071c652e0eb187d7369df77d2a3bb4561b42be56ff172048cdc"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::4b47025e068ee975029c",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::4b47025e068ee975029c",
+        "name": "3.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma stabilisce che le Società del Gruppo devono osservare principi e regole definite dalla Capogruppo per garantire coordinamento e omogeneità su tematiche di amministrazione, contabilità e bilancio, disciplinando ruoli, responsabilità e flussi informativi. Testo significativo: Scopo del presente documento è quello di declinare i principi indicati nel documento “Principi generali sull’esercizio dell’attività di direzione e coordinamento”. In particolare, l’obiettivo è di definire i principi che le diverse Società del Gruppo sono tenute ad osservare al fine di garantire un coordinamento organico e un approccio omogeneo verso tematiche rilevanti ai fini di Gruppo in materia di: • governo dei processi di bilancio e della definizione di specifici indirizzi e linee guida in tema di contabilità, amministrazione e bilancio; • definizione dei modelli applicativi dei principi contabili IFRS a livello di Gruppo; • progetti in materia di amministrazione, contabilità e bilancio; • segnalazioni di vigilanza; • service agreements in materia di amministrazione, contabilità e bilancio; • informazioni rilevanti richieste dalla Capogruppo. A tal fine, questo documento disciplina ruoli e responsabilità della Capogruppo e delle Società del Gruppo, nonché attività e flussi informativi sulle tematiche sopra menzionate.",
+        "plain_text": "Scopo del presente documento è quello di declinare i principi indicati nel documento “Principi  generali sull’esercizio dell’attività di direzione e coordinamento”. In particolare, l’obiettivo è di definire  i principi che le diverse Società del Gruppo sono tenute ad osservare al fine di garantire un  coordinamento organico e un approccio omogeneo verso tematiche rilevanti ai fini di Gruppo in  materia di:   •  governo dei processi di bilancio e della definizione di specifici indirizzi e linee guida in tema di  contabilità, amministrazione e bilancio;   •  definizione dei modelli applicativi dei principi contabili IFRS a livello di Gruppo;   •  progetti in materia di amministrazione, contabilità e bilancio;   •  segnalazioni di vigilanza;   •  service agreements in materia di amministrazione, contabilità e bilancio;   •  informazioni rilevanti richieste dalla Capogruppo.   A tal fine, questo documento disciplina ruoli e responsabilità della Capogruppo e delle Società del  Gruppo, nonché attività e flussi informativi sulle tematiche sopra menzionate.   Le tempistiche, i processi operativi e gli aspetti di dettaglio, nonché le funzioni/strutture competenti  della Capogruppo e delle Società del Gruppo, potranno essere declinate in dettaglio negli allegati  alla presente policy. Tali allegati, che potranno essere suscettibili di successivi aggiornamenti da  parte della Capogruppo, non richiederanno la nuova emanazione della presente policy, purché  debitamente comunicati alle Società del Gruppo.      3.2  Perimetro di applicazione   •  Cassa depositi e prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”)   •  Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti  del codice civile2 (di seguito anche “Società del Gruppo”).    Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a  Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo (di  seguito anche “policy”), nel rispetto del principio di proporzionalità e tenuto conto dei profili di  autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in particolare  dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti.    Le Società destinatarie applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando la",
+        "hash": "4b47025e068ee975029c02a5eaa96710dafa115f95f05d9398737e54d65848d7"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::cdc9259cd4aeccc50e84",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::cdc9259cd4aeccc50e84",
+        "name": "3.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma definisce i soggetti destinatari della policy di Gruppo, specificando che la Capogruppo CDP e le società da essa dirette e coordinate devono assicurare la conformità delle società sub-controllate non quotate alla policy stessa, nel rispetto del principio di proporzionalità e dell'autonomia decisionale degli organi societari, nonché della normativa di settore applicabile. Testo significativo: Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo (di seguito anche “policy”), nel rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti.",
+        "plain_text": "•  Cassa depositi e prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”)   •  Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti  del codice civile2 (di seguito anche “Società del Gruppo”).    Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a  Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo (di  seguito anche “policy”), nel rispetto del principio di proporzionalità e tenuto conto dei profili di  autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in particolare  dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti.    Le Società destinatarie applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando la   normativa interna della Società per renderla coerente con i principi e le regole contenute in questo  documento.   La presente Normativa di Gruppo è pubblicata sulle rispettive intranet aziendali della Capogruppo e  delle Società del Gruppo, ovvero diffusa secondo le modalità ritenute più opportune dalle stesse.         4  Governo dei processi di bilancio e della definizione di specifici indirizzi e linee  guida in tema di contabilità, amministrazione e bilancio   Per governo dei processi di bilancio e per definizione di specifici indirizzi e linee guida in tema di  contabilità, amministrazione e bilancio si intende l'insieme di regole e procedure amministrativo-contabili adottate dalla Capogruppo e dalle Società del Gruppo per la corretta rilevazione e  rappresentazione dei fatti di gestione, nonché la corretta applicazione della normativa vigente in  tema di contabilità e bilancio.    4.1  Analisi normativa   La Capogruppo analizza, almeno con cadenza semestrale, gli aggiornamenti relativi alla normativa  contabile, aventi impatto sulla struttura e sul contenuto del reporting package e delle informazioni  integrative eventualmente richieste.   Tale esame viene condotto dalla Capogruppo con lo scopo di fornire indicazioni alle Società del  Gruppo sulla corretta applicazione degli aggiornamenti relativi alla normativa contabile e, a tal fine,  CDP predispone l’informativa contenente:   •  la descrizione delle modifiche intervenute;   •  l’indicazione delle linee guida operative necessarie al recepimento della normativa contabile in  sede di produzione del reporting package per la redazione del Bilancio Consolidato e del Bilancio  Consolidato Semestrale Abbreviato.   4.2  Predisposizione Bilancio Consolidato   L’articolazione del processo di predisposizione del Bilancio Consolidato, nonché del Bilancio  Consolidato Semestrale Abbreviato, si basa sui seguenti principi e linee guida:   •  La Capogruppo invia alle Società del Gruppo le istruzioni per la redazione del reporting package  utile alla predisposizione della Relazione Finanziaria Annuale e della Relazione Finanziaria  Semestrale Consolidata;   •  Le Società del Gruppo si attengono a quanto indicato in tali istruzioni;   •  La Capogruppo individua, con cadenza semestrale, gli aggiornamenti necessari da apportare  all’applicativo software utilizzato per il consolidamento, in linea con gli aggiornamenti normativi  o con specifiche esigenze (ad esempio di razionalizzazione, organizzazione, efficientamento,  ecc.). Tali modifiche sono inviate alle Società del Gruppo, accompagnate da specifiche note  tecniche per una piena comprensione e recepimento delle stesse;",
+        "hash": "cdc9259cd4aeccc50e848a93011ec11a37a28d99f89a3e181b17b06869017f66"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::e3b0c44298fc1c149afb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::e3b0c44298fc1c149afb",
+        "name": "tema di contabilità, amministrazione e bilancio",
+        "type": "Articolo",
+        "abstract": "",
+        "plain_text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::c75e605dae43468e84ae",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::c75e605dae43468e84ae",
+        "name": "4.1",
+        "type": "Sottocomma",
+        "abstract": "La Capogruppo deve analizzare periodicamente gli aggiornamenti normativi contabili e fornire alle Società del Gruppo indicazioni e istruzioni operative per la corretta applicazione, inclusa la predisposizione di informative e l'aggiornamento degli strumenti software di consolidamento. Testo significativo: La Capogruppo analizza, almeno con cadenza semestrale, gli aggiornamenti relativi alla normativa contabile, aventi impatto sulla struttura e sul contenuto del reporting package e delle informazioni integrative eventualmente richieste. Tale esame viene condotto dalla Capogruppo con lo scopo di fornire indicazioni alle Società del Gruppo sulla corretta applicazione degli aggiornamenti relativi alla normativa contabile e, a tal fine, CDP predispone l’informativa contenente: la descrizione delle modifiche intervenute; l’indicazione delle linee guida operative necessarie al recepimento della normativa contabile in sede di produzione del reporting package per la redazione del Bilancio Consolidato e del Bilancio Consolidato Semestrale Abbreviato.",
+        "plain_text": "La Capogruppo analizza, almeno con cadenza semestrale, gli aggiornamenti relativi alla normativa  contabile, aventi impatto sulla struttura e sul contenuto del reporting package e delle informazioni  integrative eventualmente richieste.   Tale esame viene condotto dalla Capogruppo con lo scopo di fornire indicazioni alle Società del  Gruppo sulla corretta applicazione degli aggiornamenti relativi alla normativa contabile e, a tal fine,  CDP predispone l’informativa contenente:   •  la descrizione delle modifiche intervenute;   •  l’indicazione delle linee guida operative necessarie al recepimento della normativa contabile in  sede di produzione del reporting package per la redazione del Bilancio Consolidato e del Bilancio  Consolidato Semestrale Abbreviato.   4.2  Predisposizione Bilancio Consolidato   L’articolazione del processo di predisposizione del Bilancio Consolidato, nonché del Bilancio  Consolidato Semestrale Abbreviato, si basa sui seguenti principi e linee guida:   •  La Capogruppo invia alle Società del Gruppo le istruzioni per la redazione del reporting package  utile alla predisposizione della Relazione Finanziaria Annuale e della Relazione Finanziaria  Semestrale Consolidata;   •  Le Società del Gruppo si attengono a quanto indicato in tali istruzioni;   •  La Capogruppo individua, con cadenza semestrale, gli aggiornamenti necessari da apportare  all’applicativo software utilizzato per il consolidamento, in linea con gli aggiornamenti normativi  o con specifiche esigenze (ad esempio di razionalizzazione, organizzazione, efficientamento,  ecc.). Tali modifiche sono inviate alle Società del Gruppo, accompagnate da specifiche note  tecniche per una piena comprensione e recepimento delle stesse;",
+        "hash": "c75e605dae43468e84ae7316a94f603f5b4b202e40d059a15d4f352a9d0c1e02"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::83c4124100099dc46c56",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::83c4124100099dc46c56",
+        "name": "4.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina le modalità operative e i principi guida per la predisposizione del Bilancio Consolidato e del Bilancio Consolidato Semestrale Abbreviato, imponendo obblighi procedurali e informativi a carico delle Società del Gruppo e della Capogruppo. Testo significativo: Le Società del Gruppo si attengono a quanto indicato in tali istruzioni; [...] Le Società del Gruppo forniscono, nelle modalità e nelle tempistiche indicate dalla Capogruppo, tutte le informazioni necessarie alla predisposizione della “Mappa di Gruppo”, [...] Le Società del Gruppo osservano, inoltre, le tempistiche stabilite dalla Capogruppo per la predisposizione e per l’approvazione della propria reportistica ai fini del Bilancio Consolidato e del Bilancio Separato della Capogruppo, fornendo a quest’ultima un reporting package approvato dagli organi societari competenti e/o informazioni rilevanti richiesti dalla Capogruppo in tema di contabilità e bilancio; [...] Le Società del Gruppo sono tenute a procedere con gli interventi richiesti ed a fornire il supporto necessario, nelle modalità e nelle tempistiche indicate dalla Capogruppo; [...] Le Società del Gruppo informano tempestivamente la Capogruppo e, in ogni caso, secondo le indicazioni ricevute nelle istruzioni, circa eventi che possano richiedere la valutazione di rettifiche all’informativa e/o ai dati del Bilancio Consolidato e del Bilancio Consolidato Semestrale Abbreviato.",
+        "plain_text": "L’articolazione del processo di predisposizione del Bilancio Consolidato, nonché del Bilancio  Consolidato Semestrale Abbreviato, si basa sui seguenti principi e linee guida:   •  La Capogruppo invia alle Società del Gruppo le istruzioni per la redazione del reporting package  utile alla predisposizione della Relazione Finanziaria Annuale e della Relazione Finanziaria  Semestrale Consolidata;   •  Le Società del Gruppo si attengono a quanto indicato in tali istruzioni;   •  La Capogruppo individua, con cadenza semestrale, gli aggiornamenti necessari da apportare  all’applicativo software utilizzato per il consolidamento, in linea con gli aggiornamenti normativi  o con specifiche esigenze (ad esempio di razionalizzazione, organizzazione, efficientamento,  ecc.). Tali modifiche sono inviate alle Società del Gruppo, accompagnate da specifiche note  tecniche per una piena comprensione e recepimento delle stesse;   •  Le Società del Gruppo forniscono, nelle modalità e nelle tempistiche indicate dalla Capogruppo,  tutte le informazioni necessarie alla predisposizione della “Mappa di Gruppo”, utilizzata per la  definizione del perimetro di consolidamento e per l’elaborazione dell’informativa del Bilancio  Consolidato e del Bilancio Consolidato Semestrale Abbreviato;   •  La Capogruppo definisce, sia in sede di pianificazione della redazione della Relazione  Finanziaria Annuale e sia della Relazione Finanziaria Semestrale Consolidata, il calendario  finanziario contenente le scadenze per l’ottenimento dei flussi informativi necessari. A titolo di  esempio, sono inclusi tra i flussi informativi le riconciliazioni dei saldi intercompany, la redazione  degli schemi di reporting package, la redazione delle tabelle, la predisposizione dell’informativa  di corredo utile per la relazione sulla gestione e per l’elaborazione delle note di commento;   •  Le Società del Gruppo condividono con la Capogruppo le tempistiche di approvazione del proprio  bilancio individuale e, ove redatto, del bilancio sub-consolidato;   •  La Capogruppo predispone, con cadenza semestrale, le “Richieste di informazioni integrative” e  le fornisce alle Società del Gruppo. Tali informazioni sono relative alla richiesta di dati che  integrano quelli presenti nell’applicativo software utilizzato per il consolidamento;   •  Le Società del Gruppo forniscono il reporting package, le richieste di informazioni integrative ed,  in generale, i flussi informativi richiesti nelle modalità e nelle tempistiche indicate dalla  Capogruppo (tali richieste possono avere quale obiettivo anche la redazione di situazioni  contabili intermedie o preliminari, redatte a titolo volontario o obbligatorio, ivi incluse quelle  necessarie allo studio o alla realizzazione di specifiche operazioni societarie);   •  Le Società del Gruppo osservano, inoltre, le tempistiche stabilite dalla Capogruppo per la  predisposizione e per l’approvazione della propria reportistica ai fini del Bilancio Consolidato e  del Bilancio Separato della Capogruppo, fornendo a quest’ultima un reporting package  approvato dagli organi societari competenti e/o informazioni rilevanti richiesti dalla Capogruppo  in tema di contabilità e bilancio;   •  La Capogruppo verifica gli esiti delle procedure di diagnostico presenti nell’applicativo software  utilizzato per il consolidamento e svolge analisi di ragionevolezza sui flussi informativi ricevuti  dalle Società del Gruppo;   •  In presenza di richieste di chiarimenti, variazioni e interventi di modifica sull’applicativo software  utilizzato per il consolidamento, le Società del Gruppo sono tenute a procedere con gli interventi  richiesti ed a fornire il supporto necessario, nelle modalità e nelle tempistiche indicate dalla  Capogruppo;   •  Le Società del Gruppo individuano le risorse necessarie a supportare la Capogruppo nelle attività  di verifica dei flussi informativi inviati dalle stesse;   •  Le Società del Gruppo informano tempestivamente la Capogruppo e, in ogni caso, secondo le  indicazioni ricevute nelle istruzioni, circa eventi che possano richiedere la valutazione di rettifiche  all’informativa e/o ai dati del Bilancio Consolidato e del Bilancio Consolidato Semestrale  Abbreviato.      5  Definizione dei modelli applicativi dei principi contabili IFRS a livello di Gruppo   Per definizione dei modelli applicativi dei principi contabili IFRS a livello di Gruppo si intende il  complesso di procedure che consentono il recepimento di nuovi principi, nonché l’applicazione di  quelli già in vigore, assicurando l’uniformità di applicazione a livello di Gruppo.    In particolare, gli ambiti rilevanti sono riconducibili principalmente alle due seguenti casistiche:   - Recepimento e applicazione degli specifici trattamenti contabili    - Manuale Contabile di Gruppo   5.1  Recepimento e applicazione degli specifici trattamenti contabili    La Capogruppo analizza semestralmente gli aggiornamenti relativi alla normativa contabile, aventi  impatto sul Bilancio Consolidato e sul Bilancio Consolidato Semestrale Abbreviato.    Nell’ambito delle istruzioni relative alla redazione della Relazione Finanziaria Annuale e della  Relazione Finanziaria Semestrale Consolidata, la Capogruppo invia alle Società del Gruppo la  sintesi dei principi contabili adottati dal Gruppo (nel seguito anche “regole contabili”) e l’elenco dei  nuovi principi contabili applicabili a partire dal 1° gennaio del nuovo esercizio, per una piena  conoscenza e adozione delle stesse.   Le Società del Gruppo, a fronte dell’esigenza di definire congiuntamente a CDP il trattamento  contabile, sottopongono tempestivamente alla Capogruppo:   a) in caso di specifiche fattispecie non univocamente e oggettivamente riconducibili a schemi   già adottati in precedenza:   •  la struttura e le caratteristiche dell’operazione;   •  la ratio dell’operazione;   •  la preliminare definizione del trattamento contabile;   •  i report e le evidenze prodotte e/o elaborate dall’advisor eventualmente coinvolto;   •  l’aggiornamento periodico circa l’evoluzione dell’operazione;   •  la documentazione di supporto essenziale per l’analisi, assicurando l’aggiornamento  tempestivo della stessa ed evidenziando le differenze eventualmente apportate;   b) in caso di mutamento di un trattamento contabile già applicato, la documentazione di   supporto essenziale per l’analisi, assicurando l’aggiornamento tempestivo della stessa ed  evidenziando le differenze eventualmente apportate.      Le Società del Gruppo informano tempestivamente la Capogruppo circa l’eventuale incarico da  affidare ad advisor contabili e ne concordano modalità e termini.    La Capogruppo valuta la tempistica necessaria per l’analisi della fattispecie sottoposta e analizza il  trattamento contabile elaborato dalle Società del Gruppo, sulla base della documentazione ricevuta  e di ulteriori informazioni raccolte anche tramite mezzi informali (ad esempio call, e-mail, riunioni),  al fine di definirne la coerenza e l’applicabilità rispetto alle regole contabili di Gruppo.   A fronte di eventuali variazioni necessarie al trattamento contabile proposto e/o a possibili  alternative, la Capogruppo e le Società del Gruppo definiscono congiuntamente il trattamento",
+        "hash": "83c4124100099dc46c56d9c63b89dee1876528c5cadc2f4ea8f4aa2b01a2614c"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::3ac43e73f250483ca10a",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::3ac43e73f250483ca10a",
+        "name": "5",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive le procedure e i processi per il recepimento e l'applicazione dei principi contabili IFRS a livello di Gruppo, specificando ruoli, modalità operative e documentazione necessaria, senza introdurre obblighi, sanzioni, condizioni o termini temporali. Testo significativo: Per definizione dei modelli applicativi dei principi contabili IFRS a livello di Gruppo si intende il complesso di procedure che consentono il recepimento di nuovi principi, nonché l’applicazione di quelli già in vigore, assicurando l’uniformità di applicazione a livello di Gruppo.",
+        "plain_text": "Per definizione dei modelli applicativi dei principi contabili IFRS a livello di Gruppo si intende il  complesso di procedure che consentono il recepimento di nuovi principi, nonché l’applicazione di  quelli già in vigore, assicurando l’uniformità di applicazione a livello di Gruppo.    In particolare, gli ambiti rilevanti sono riconducibili principalmente alle due seguenti casistiche:   - Recepimento e applicazione degli specifici trattamenti contabili    - Manuale Contabile di Gruppo   5.1  Recepimento e applicazione degli specifici trattamenti contabili    La Capogruppo analizza semestralmente gli aggiornamenti relativi alla normativa contabile, aventi  impatto sul Bilancio Consolidato e sul Bilancio Consolidato Semestrale Abbreviato.    Nell’ambito delle istruzioni relative alla redazione della Relazione Finanziaria Annuale e della  Relazione Finanziaria Semestrale Consolidata, la Capogruppo invia alle Società del Gruppo la  sintesi dei principi contabili adottati dal Gruppo (nel seguito anche “regole contabili”) e l’elenco dei  nuovi principi contabili applicabili a partire dal 1° gennaio del nuovo esercizio, per una piena  conoscenza e adozione delle stesse.   Le Società del Gruppo, a fronte dell’esigenza di definire congiuntamente a CDP il trattamento  contabile, sottopongono tempestivamente alla Capogruppo:   a) in caso di specifiche fattispecie non univocamente e oggettivamente riconducibili a schemi   già adottati in precedenza:   •  la struttura e le caratteristiche dell’operazione;   •  la ratio dell’operazione;   •  la preliminare definizione del trattamento contabile;   •  i report e le evidenze prodotte e/o elaborate dall’advisor eventualmente coinvolto;   •  l’aggiornamento periodico circa l’evoluzione dell’operazione;   •  la documentazione di supporto essenziale per l’analisi, assicurando l’aggiornamento  tempestivo della stessa ed evidenziando le differenze eventualmente apportate;   b) in caso di mutamento di un trattamento contabile già applicato, la documentazione di   supporto essenziale per l’analisi, assicurando l’aggiornamento tempestivo della stessa ed  evidenziando le differenze eventualmente apportate.      Le Società del Gruppo informano tempestivamente la Capogruppo circa l’eventuale incarico da  affidare ad advisor contabili e ne concordano modalità e termini.    La Capogruppo valuta la tempistica necessaria per l’analisi della fattispecie sottoposta e analizza il  trattamento contabile elaborato dalle Società del Gruppo, sulla base della documentazione ricevuta  e di ulteriori informazioni raccolte anche tramite mezzi informali (ad esempio call, e-mail, riunioni),  al fine di definirne la coerenza e l’applicabilità rispetto alle regole contabili di Gruppo.   A fronte di eventuali variazioni necessarie al trattamento contabile proposto e/o a possibili  alternative, la Capogruppo e le Società del Gruppo definiscono congiuntamente il trattamento",
+        "hash": "3ac43e73f250483ca10ae78a2d6098b008ab091b8fe931f497cca028244d30bc"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::d05b858b292de70abda9",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::d05b858b292de70abda9",
+        "name": "5.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina le modalità operative e gli obblighi di comunicazione e coordinamento tra Capogruppo e Società del Gruppo in materia di aggiornamento, applicazione e condivisione dei trattamenti contabili, inclusa la gestione delle divergenze e l'adozione del Manuale Contabile di Gruppo. Testo significativo: La Capogruppo analizza semestralmente gli aggiornamenti relativi alla normativa contabile, aventi impatto sul Bilancio Consolidato e sul Bilancio Consolidato Semestrale Abbreviato. [...] Le Società del Gruppo dichiarano alla Capogruppo di conformarsi al “Manuale Contabile di Gruppo” nella redazione di bilancio separato, individuale e/o sub-consolidato qualora redatti sulla base dei principi contabili IFRS. Qualora le Società del Gruppo stabiliscano di non conformarsi al suddetto Manuale, forniscono le opportune motivazioni.",
+        "plain_text": "La Capogruppo analizza semestralmente gli aggiornamenti relativi alla normativa contabile, aventi  impatto sul Bilancio Consolidato e sul Bilancio Consolidato Semestrale Abbreviato.    Nell’ambito delle istruzioni relative alla redazione della Relazione Finanziaria Annuale e della  Relazione Finanziaria Semestrale Consolidata, la Capogruppo invia alle Società del Gruppo la  sintesi dei principi contabili adottati dal Gruppo (nel seguito anche “regole contabili”) e l’elenco dei  nuovi principi contabili applicabili a partire dal 1° gennaio del nuovo esercizio, per una piena  conoscenza e adozione delle stesse.   Le Società del Gruppo, a fronte dell’esigenza di definire congiuntamente a CDP il trattamento  contabile, sottopongono tempestivamente alla Capogruppo:   a) in caso di specifiche fattispecie non univocamente e oggettivamente riconducibili a schemi   già adottati in precedenza:   •  la struttura e le caratteristiche dell’operazione;   •  la ratio dell’operazione;   •  la preliminare definizione del trattamento contabile;   •  i report e le evidenze prodotte e/o elaborate dall’advisor eventualmente coinvolto;   •  l’aggiornamento periodico circa l’evoluzione dell’operazione;   •  la documentazione di supporto essenziale per l’analisi, assicurando l’aggiornamento  tempestivo della stessa ed evidenziando le differenze eventualmente apportate;   b) in caso di mutamento di un trattamento contabile già applicato, la documentazione di   supporto essenziale per l’analisi, assicurando l’aggiornamento tempestivo della stessa ed  evidenziando le differenze eventualmente apportate.      Le Società del Gruppo informano tempestivamente la Capogruppo circa l’eventuale incarico da  affidare ad advisor contabili e ne concordano modalità e termini.    La Capogruppo valuta la tempistica necessaria per l’analisi della fattispecie sottoposta e analizza il  trattamento contabile elaborato dalle Società del Gruppo, sulla base della documentazione ricevuta  e di ulteriori informazioni raccolte anche tramite mezzi informali (ad esempio call, e-mail, riunioni),  al fine di definirne la coerenza e l’applicabilità rispetto alle regole contabili di Gruppo.   A fronte di eventuali variazioni necessarie al trattamento contabile proposto e/o a possibili  alternative, la Capogruppo e le Società del Gruppo definiscono congiuntamente il trattamento   contabile da adottare. In caso di valutazioni non coincidenti tra la Capogruppo e le Società del  Gruppo, nell’applicazione del trattamento contabile da adottare nell’ambito del Reporting Package  predisposto ai fini della redazione del Bilancio Consolidato e del Bilancio Consolidato Semestrale  Abbreviato, la valutazione della Capogruppo è quella che la Società del Gruppo è tenuta ad  applicare.   Un diverso trattamento contabile adottabile nell’ambito del proprio bilancio individuale, separato e/o  sub-consolidato deve essere supportato da specifica argomentazione da parte delle Società del  Gruppo e sottoposto al parere non vincolante del Dirigente Preposto della Capogruppo3.   Al completamento dell’operazione, la Società del Gruppo invia la documentazione finale ufficiale (a  titolo esemplificativo, un contratto di compravendita firmato da tutti i contraenti), confermando  l’assenza di differenze rispetto alla documentazione preliminare esaminata e rispetto alla quale è  stato definito il trattamento contabile.   5.2  Manuale Contabile di Gruppo   In presenza di un “Manuale Contabile di Gruppo”, le Società del Gruppo provvedono al recepimento  da parte degli organi competenti e all’applicazione dello stesso nella redazione del reporting  package.   Le Società del Gruppo dichiarano alla Capogruppo di conformarsi al “Manuale Contabile di Gruppo”  nella redazione di bilancio separato, individuale e/o sub-consolidato qualora redatti sulla base dei  principi contabili IFRS. Qualora le Società del Gruppo stabiliscano di non conformarsi al suddetto  Manuale, forniscono le opportune motivazioni.   L’aggiornamento del Manuale Contabile di Gruppo è a cura della UO Segnalazioni Regolamentari e  Normativa, che provvede a trasmetterlo di volta in volta alle Società del Gruppo tramite email,  accompagnandolo con una breve sintesi delle principali modifiche apportate allo stesso, senza che  sia necessaria la nuova emanazione della presente Policy.      6  Progetti in materia di amministrazione, contabilità e bilancio   Per progetti in materia di amministrazione, contabilità e bilancio si intendono tutte le attività svolte a  livello di Gruppo finalizzate alla corretta raccolta e completa tenuta della documentazione relativa ai  fatti amministrativi della Capogruppo e delle Società del Gruppo, propedeutica alla successiva  imputazione degli stessi nei libri contabili e la loro classificazione nelle relative voci di pertinenza.   A fronte di esigenze di prima/nuova applicazione di principi contabili IFRS identificate da CDP o  evidenziate dalle Società del Gruppo, la Capogruppo valuta il livello di impatto di tale esigenza sul  Gruppo e stabilisce il livello e le modalità di coinvolgimento delle Società del Gruppo, definendo  quindi:   •  i progetti gestiti dalla Capogruppo per tutte le Società del Gruppo coinvolte;   •  i progetti gestiti dalle Società del Gruppo o da alcune di esse sotto il coordinamento e  supervisione della Capogruppo.",
+        "hash": "d05b858b292de70abda9e03a767d9d883befd6e92402c454411514b737fd842a"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::878dbf168e0a27c56ad9",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::878dbf168e0a27c56ad9",
+        "name": "5.2",
+        "type": "Sottocomma",
+        "abstract": "Le Società del Gruppo devono recepire e applicare il Manuale Contabile di Gruppo nella redazione del reporting package e dichiarare la conformità alla Capogruppo, motivando eventuali non conformità; la UO Segnalazioni Regolamentari e Normativa aggiorna e trasmette il Manuale. La Capogruppo valuta e coordina i progetti relativi all'applicazione di principi contabili IFRS. Testo significativo: Le Società del Gruppo provvedono al recepimento da parte degli organi competenti e all’applicazione dello stesso nella redazione del reporting package. Le Società del Gruppo dichiarano alla Capogruppo di conformarsi al “Manuale Contabile di Gruppo” nella redazione di bilancio separato, individuale e/o sub-consolidato qualora redatti sulla base dei principi contabili IFRS. Qualora le Società del Gruppo stabiliscano di non conformarsi al suddetto Manuale, forniscono le opportune motivazioni. L’aggiornamento del Manuale Contabile di Gruppo è a cura della UO Segnalazioni Regolamentari e Normativa, che provvede a trasmetterlo di volta in volta alle Società del Gruppo tramite email, accompagnandolo con una breve sintesi delle principali modifiche apportate allo stesso, senza che sia necessaria la nuova emanazione della presente Policy.",
+        "plain_text": "In presenza di un “Manuale Contabile di Gruppo”, le Società del Gruppo provvedono al recepimento  da parte degli organi competenti e all’applicazione dello stesso nella redazione del reporting  package.   Le Società del Gruppo dichiarano alla Capogruppo di conformarsi al “Manuale Contabile di Gruppo”  nella redazione di bilancio separato, individuale e/o sub-consolidato qualora redatti sulla base dei  principi contabili IFRS. Qualora le Società del Gruppo stabiliscano di non conformarsi al suddetto  Manuale, forniscono le opportune motivazioni.   L’aggiornamento del Manuale Contabile di Gruppo è a cura della UO Segnalazioni Regolamentari e  Normativa, che provvede a trasmetterlo di volta in volta alle Società del Gruppo tramite email,  accompagnandolo con una breve sintesi delle principali modifiche apportate allo stesso, senza che  sia necessaria la nuova emanazione della presente Policy.      6  Progetti in materia di amministrazione, contabilità e bilancio   Per progetti in materia di amministrazione, contabilità e bilancio si intendono tutte le attività svolte a  livello di Gruppo finalizzate alla corretta raccolta e completa tenuta della documentazione relativa ai  fatti amministrativi della Capogruppo e delle Società del Gruppo, propedeutica alla successiva  imputazione degli stessi nei libri contabili e la loro classificazione nelle relative voci di pertinenza.   A fronte di esigenze di prima/nuova applicazione di principi contabili IFRS identificate da CDP o  evidenziate dalle Società del Gruppo, la Capogruppo valuta il livello di impatto di tale esigenza sul  Gruppo e stabilisce il livello e le modalità di coinvolgimento delle Società del Gruppo, definendo  quindi:   •  i progetti gestiti dalla Capogruppo per tutte le Società del Gruppo coinvolte;   •  i progetti gestiti dalle Società del Gruppo o da alcune di esse sotto il coordinamento e  supervisione della Capogruppo.",
+        "hash": "878dbf168e0a27c56ad9119a20c5ce6badd5f2e153990f1a303c118e945c55ca"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0c338be24f52cc1ae04a",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0c338be24f52cc1ae04a",
+        "name": "7",
+        "type": "Sottocomma",
+        "abstract": "Le Società del Gruppo sono obbligate a predisporre, inviare e gestire le segnalazioni di vigilanza secondo la normativa vigente, a informare tempestivamente la Capogruppo su rilievi, ispezioni e aggiornamenti normativi, e a coinvolgerla in specifici processi decisionali e operativi relativi alle segnalazioni e all'esternalizzazione di servizi amministrativo-contabili. Testo significativo: Le Società del Gruppo soggette ad obblighi segnaletici: curano la predisposizione delle segnalazioni di vigilanza con la periodicità e il livello di dettaglio previsti dalla relativa normativa vigente. [...] Le Società del Gruppo, nell’ambito del processo decisionale di esternalizzazione a terze parti di servizi amministrativo-contabile e di bilancio, sono tenute a valutare il parere della Capogruppo dandone evidenza agli organi decisionali e, laddove la decisione si discosti da quello su cui si è espresso la Capogruppo con proprio parere, la Società del Gruppo ne fornisce adeguata motivazione alla Capogruppo.",
+        "plain_text": "Per Segnalazioni di Vigilanza si intendono i flussi informativi rivenienti da risultanze contabili, nonché  ulteriori informazioni integrative relative a specifiche aree che sono oggetto di invio da parte della  Capogruppo e delle Società del Gruppo alle Autorità di Vigilanza competenti (Banca d’Italia, BCE,  IVASS, Consob).   Le Società del Gruppo soggette ad obblighi segnaletici:   •  curano la predisposizione delle segnalazioni di vigilanza con la periodicità e il livello di  dettaglio previsti dalla relativa normativa vigente. Le funzioni aziendali coinvolte adottano un  adeguato sistema di controlli e quadrature al fine di garantire la corrispondenza con i legacy  e i sistemi contabili di riferimento;   •  inviano trimestralmente alla Capogruppo un data quality report condiviso che evidenzi i  controlli di primo livello effettuati mensilmente, il numero di rilievi (deterministici e   andamentali) ricevuti e le azioni correttive indirizzate che hanno comportato successivi invii  delle basi segnaletiche;   •  informano tempestivamente la Capogruppo di eventuali rilievi/richieste di chiarimento  pervenute dalle Autorità di Vigilanza e che potrebbero avere impatti sostanziali sulla normale  gestione delle segnalazioni;   •  informano tempestivamente la Capogruppo dell’avvio di eventuali ispezioni da parte di Banca  d’Italia e la aggiornano periodicamente delle attività ispettive in corso e dell’esito delle stesse;   •  coinvolgono la Capogruppo, nei casi di aggiornamenti normativi in ambito segnaletico,  inviando l’analisi degli impatti operativi che ne derivano;   •  qualora siano chiamate a inviare nuove basi informative, pongono all’attenzione della  Capogruppo la relativa progettualità;   •  si avvalgono del supporto della Capogruppo nella definizione del capitolato di gara e nel  processo di selezione e valutazione dell’outsourcer segnaletico;   •  nel caso in cui si appresti a operatività con caratteristiche diverse rispetto a quanto già  presente nel proprio bilancio, interessa tempestivamente la Capogruppo inviando una  documentazione che contenga la descrizione dell’operazione stessa nei termini principali e  la relativa rappresentazione segnaletica (forma tecnica originaria, indicazioni delle regole di  compilazione e impatto sulle segnalazioni). La Capogruppo, se necessario, rende disponibile  un adeguato supporto di natura tecnica.      La Capogruppo:   •  può chiedere periodicamente alle Società del Gruppo evidenza di tutti gli eventuali  rilievi/richieste ricevuti da Banca d’Italia;   •  può partecipare a consultazioni pubbliche per le normative in corso di emanazione che  interessano Società del Gruppo e viene informata da queste circa le posizioni assunte  dalle associazioni di categoria (Assilea, Assifact, ecc.).      8   Service agreements in materia di amministrazione, contabilità e bilancio   Al fine di sfruttare appieno le sinergie applicabili a livello di Gruppo, nonché di garantire la coerenza  e l’omogeneità in ambito amministrativo-contabile e di bilancio, l’eventuale affidamento a terzi della  fornitura di servizi di assistenza e supporto a livello tecnico, nel suddetto ambito da parte delle  Società del Gruppo, è soggetto a parere preventivo non vincolante da parte del Direttore  Amministrazione Finanza e Controllodella Capogruppo.    Le Società del Gruppo, nell’ambito del processo decisionale di esternalizzazione a terze parti di  servizi amministrativo-contabile e di bilancio, sono tenute a valutare il parere della Capogruppo  dandone evidenza agli organi decisionali e, laddove la decisione si discosti da quello su cui si è  espresso la Capogruppo con proprio parere, la Società del Gruppo ne fornisce adeguata  motivazione alla Capogruppo.",
+        "hash": "0c338be24f52cc1ae04aaa5ae9cbb338c41d295d638545e11f55652084457511"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::90d94d12c8f41f26a2b8",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::90d94d12c8f41f26a2b8",
+        "name": "9",
+        "type": "Sottocomma",
+        "abstract": "Il comma definisce quali sono le informazioni rilevanti che le Società del Gruppo devono inviare tempestivamente alla Capogruppo, specificando la tipologia di documenti e i relativi termini di trasmissione. Testo significativo: Per informazioni rilevanti si intendono le informazioni relative ad aspetti inerenti i sistemi di governo, di controllo, nonché le informazioni aventi natura economico, patrimoniale e finanziaria, che le Società del Gruppo inviano tempestivamente alla Capogruppo, in particolare: • i progetti di bilancio approvati dai rispettivi CdA delle Società del Gruppo (entro massimo 3 giorni dalla data del CdA); • i bilanci semestrali approvati dai rispettivi CdA delle Società del Gruppo (entro massimo 3 giorni dalla data del CdA); • i bilanci approvati dalle rispettive assemblee delle società controllate (entro massimo 3 giorni dalla data di approvazione da parte dell’Assemblea); • le relazioni della società di revisione; • i verbali delle rispettive assemblee delle società controllate che hanno approvato il bilancio, così come previsto dal processo di Gruppo “Corporate Governance”; • i verbali delle sedute del Collegio Sindacale delle Società del Gruppo, non appena disponibili; • eventuali situazioni contabili redatte per altri scopi di legge (ad esempio una situazione intermedia redatta ai sensi dell’articolo 2433-bis del Codice Civile).",
+        "plain_text": "Per informazioni rilevanti si intendono le informazioni relative ad aspetti inerenti i sistemi di governo,  di controllo, nonché le informazioni aventi natura economico, patrimoniale e finanziaria, che le  Società del Gruppo inviano tempestivamente alla Capogruppo, in particolare:   •  i progetti di bilancio approvati dai rispettivi CdA delle Società del Gruppo (entro massimo 3 giorni  dalla data del CdA);   •  i bilanci semestrali approvati dai rispettivi CdA delle Società del Gruppo (entro massimo 3 giorni  dalla data del CdA);   •  i bilanci approvati dalle rispettive assemblee delle società controllate (entro massimo 3 giorni  dalla data di approvazione da parte dell’Assemblea);   •  le relazioni della società di revisione;   •  i verbali delle rispettive assemblee delle società controllate che hanno approvato il bilancio, così  come previsto dal processo di Gruppo “Corporate Governance”;   •  i verbali delle sedute del Collegio Sindacale delle Società del Gruppo, non appena disponibili;   •  eventuali situazioni contabili redatte per altri scopi di legge (ad esempio una situazione  intermedia redatta ai sensi dell’articolo 2433-bis del Codice Civile).",
+        "hash": "90d94d12c8f41f26a2b8f343a9d7b599bcb7e8fa95efc20e8e9f51c3f45e4452"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::04d394427a2edf32239a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::04d394427a2edf32239a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::04d394427a2edf32239a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::00617a66b8029aca63d2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::00617a66b8029aca63d2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::00617a66b8029aca63d2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::92e683d866b7eda61f17"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::92e683d866b7eda61f17"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::92e683d866b7eda61f17"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::088c308e08bdc7683955"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::088c308e08bdc7683955"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::088c308e08bdc7683955"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0818f10d401057b0a06f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0818f10d401057b0a06f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0818f10d401057b0a06f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::f9ef262c8b433071c652"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::f9ef262c8b433071c652"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::f9ef262c8b433071c652"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::4b47025e068ee975029c"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::4b47025e068ee975029c"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::4b47025e068ee975029c"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::cdc9259cd4aeccc50e84"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::cdc9259cd4aeccc50e84"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::cdc9259cd4aeccc50e84"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::c75e605dae43468e84ae"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::c75e605dae43468e84ae"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::c75e605dae43468e84ae"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::83c4124100099dc46c56"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::83c4124100099dc46c56"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::83c4124100099dc46c56"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::3ac43e73f250483ca10a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::3ac43e73f250483ca10a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::3ac43e73f250483ca10a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::d05b858b292de70abda9"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::d05b858b292de70abda9"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::d05b858b292de70abda9"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::878dbf168e0a27c56ad9"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::878dbf168e0a27c56ad9"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::878dbf168e0a27c56ad9"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0c338be24f52cc1ae04a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0c338be24f52cc1ae04a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0c338be24f52cc1ae04a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::90d94d12c8f41f26a2b8"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::90d94d12c8f41f26a2b8"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::66b900cb771d0c54c098d222619fd942",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::90d94d12c8f41f26a2b8"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::04d394427a2edf32239a",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::04d394427a2edf32239a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::04d394427a2edf32239a",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::04d394427a2edf32239a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::00617a66b8029aca63d2",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::00617a66b8029aca63d2"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::00617a66b8029aca63d2",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::00617a66b8029aca63d2"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::92e683d866b7eda61f17",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::92e683d866b7eda61f17"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::92e683d866b7eda61f17",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::92e683d866b7eda61f17"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::088c308e08bdc7683955",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::088c308e08bdc7683955"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::088c308e08bdc7683955",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::088c308e08bdc7683955"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0818f10d401057b0a06f",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0818f10d401057b0a06f"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0818f10d401057b0a06f",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0818f10d401057b0a06f"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::f9ef262c8b433071c652",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::f9ef262c8b433071c652"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::f9ef262c8b433071c652",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::f9ef262c8b433071c652"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::4b47025e068ee975029c",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::4b47025e068ee975029c"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::4b47025e068ee975029c",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::4b47025e068ee975029c"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::cdc9259cd4aeccc50e84",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::cdc9259cd4aeccc50e84"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::cdc9259cd4aeccc50e84",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::cdc9259cd4aeccc50e84"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::c75e605dae43468e84ae",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::c75e605dae43468e84ae"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::c75e605dae43468e84ae",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::c75e605dae43468e84ae"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::83c4124100099dc46c56",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::83c4124100099dc46c56"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::83c4124100099dc46c56",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::83c4124100099dc46c56"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::3ac43e73f250483ca10a",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::3ac43e73f250483ca10a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::3ac43e73f250483ca10a",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::3ac43e73f250483ca10a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::d05b858b292de70abda9",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::d05b858b292de70abda9"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::d05b858b292de70abda9",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::d05b858b292de70abda9"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::878dbf168e0a27c56ad9",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::878dbf168e0a27c56ad9"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::878dbf168e0a27c56ad9",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::878dbf168e0a27c56ad9"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0c338be24f52cc1ae04a",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0c338be24f52cc1ae04a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0c338be24f52cc1ae04a",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::0c338be24f52cc1ae04a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::90d94d12c8f41f26a2b8",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::90d94d12c8f41f26a2b8"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::90d94d12c8f41f26a2b8",
+      "target": "DOCUMENT_SECTION::66b900cb771d0c54c098d222619fd942::90d94d12c8f41f26a2b8"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:13:36.180075+00:00",
+    "document_name": "PLCGRPAmmneBilancioeSegnalazionidiGruppov14.pdf",
+    "document_hash": "66b900cb771d0c54c098d222619fd942"
+  }
+}

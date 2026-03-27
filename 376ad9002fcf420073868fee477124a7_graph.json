@@ -1,0 +1,628 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+        "name": "PLCImpairmentTestPartecipazionieAvviamentiV1020230315.pdf",
+        "description": "Il comma fornisce i riferimenti di contatto per chiarimenti sul documento e per assistenza operativa, nonché un glossario dei termini utilizzati. Testo significativo: Tipologia Riferimenti Chiarimenti sul documento Paolo Carosi: paolo.carosi@cdp.it Marco Pirri: marco.pirri@cdp.it Assistenza operativa pianificazione.gruppo@cdp.it 1.3 Glossario • Capogruppo: Cassa depositi e prestiti S.p.A. • Società del Gruppo: ai fini della presente Policy si intendono le società diverse dalla Capogruppo indicate nel perimetro di applicazione di cui al par. 2. • Gruppo: CDP S.p.A. e le Società del Gruppo • Valore d’uso: il valore di un asset in funzione dei flussi finanziari che l’attività è in grado di generare attraverso l’utilizzo continuato all’interno dell’entità stessa e la dismissione al termine della sua vita utile all’interno dell’entità • Fair Value: il prezzo che si percepirebbe per la vendita di un'attività ovvero che si pagherebbe per il trasferimento di una passività in una regolare operazione tra operatori di mercato alla data di valutazione • CGU: il più piccolo gruppo identificabile di attività che genera flussi finanziari in entrata indipendenti dai flussi finanziari in entrata generati da altre attività o gruppo di attività [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', None, None, '', 'Paolo Carosi: paolo.carosi@cdp.it', ''], [None, None, None, None, 'Marco Pirri: marco.pirri@cdp.it', None], ['', 'Assistenza operativa', '', '', 'pianificazione.gruppo@cdp.it', '']] [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', None, None, '', 'Paolo Carosi: paolo.carosi@cdp.it', ''], [None, None, None, None, 'Marco Pirri: marco.pirri@cdp.it', None], ['', 'Assistenza operativa', '', '', 'pianificazione.gruppo@cdp.it', '']] [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', None, None, '', 'Paolo Carosi: paolo.carosi@cdp.it', ''], [None, None, None, None, 'Marco Pirri: marco.pirri@cdp.it', None], ['', 'Assistenza operativa', '', '', 'pianificazione.gruppo@cdp.it', '']] Tipologia Riferimenti Chiarimenti sul documento Paolo Carosi: paolo.carosi@cdp.it Marco Pirri: marco.pirri@cdp.it Assistenza operativa pianificazione.gruppo@cdp.it 1.3 Glossario • Capogruppo: Cassa depositi e prestiti S.p.A. • Società del Gruppo: ai fini della presente Policy si intendono le società diverse dalla Capogruppo indicate nel perimetro di applicazione di cui al par. 2. • Gruppo: CDP S.p.A. e le Società del Gruppo • Valore d’uso: il valore di un asset in funzione dei flussi finanziari che l’attività è in grado di generare attraverso l’utilizzo continuato all’interno dell’entità stessa e la dismissione al termine della sua vita utile all’interno dell’entità • Fair Value: il prezzo che si percepirebbe per la vendita di [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', None, None, '', 'Paolo Carosi: paolo.carosi@cdp.it', ''], [None, None, None, None, 'Marco Pirri: marco.pirri@cdp.it', None], ['', 'Assistenza operativa', '', '', 'pianificazione.gruppo@cdp.it', '']] [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', None, None, '', 'Paolo Carosi: paolo.carosi@cdp.it', ''], [None, None, None, None, 'Marco Pirri: marco.pirri@cdp.it', None], ['', 'Assistenza operativa', '', '', 'pianificazione.gruppo@cdp.it', '']] [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', None, None, '', 'Paolo Carosi: paolo.carosi@cdp.it', ''], [None, None, None, None, 'Marco Pirri: marco.pirri@cdp.it', None], ['', 'Assistenza operativa', '', '', 'pianificazione.gruppo@cdp.it', '']] Tipologia Riferimenti Chiarimenti sul documento Paolo Carosi: paolo.carosi@cdp.it Marco Pirri: marco.pirri@cdp.it Assistenza operativa pianificazione.gruppo@cdp.it 1.3 Glossario • Capogruppo: Cassa depositi e prestiti S.p.A. • Società",
+        "date_enacted": "",
+        "status": "",
+        "hash": "376ad9002fcf420073868fee477124a7"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb",
+        "name": "Scheda del documento",
+        "type": "Articolo",
+        "abstract": "",
+        "plain_text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5ef6c1bc8b1a01fe132a",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5ef6c1bc8b1a01fe132a",
+        "name": "1.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce i riferimenti di contatto per chiarimenti sul documento e per assistenza operativa, nonché un glossario dei termini utilizzati. Testo significativo: Tipologia Riferimenti Chiarimenti sul documento Paolo Carosi: paolo.carosi@cdp.it Marco Pirri: marco.pirri@cdp.it Assistenza operativa pianificazione.gruppo@cdp.it 1.3 Glossario • Capogruppo: Cassa depositi e prestiti S.p.A. • Società del Gruppo: ai fini della presente Policy si intendono le società diverse dalla Capogruppo indicate nel perimetro di applicazione di cui al par. 2. • Gruppo: CDP S.p.A. e le Società del Gruppo • Valore d’uso: il valore di un asset in funzione dei flussi finanziari che l’attività è in grado di generare attraverso l’utilizzo continuato all’interno dell’entità stessa e la dismissione al termine della sua vita utile all’interno dell’entità • Fair Value: il prezzo che si percepirebbe per la vendita di un'attività ovvero che si pagherebbe per il trasferimento di una passività in una regolare operazione tra operatori di mercato alla data di valutazione • CGU: il più piccolo gruppo identificabile di attività che genera flussi finanziari in entrata indipendenti dai flussi finanziari in entrata generati da altre attività o gruppo di attività",
+        "plain_text": "[['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', None, None, '', 'Paolo Carosi: paolo.carosi@cdp.it', ''], [None, None, None, None, 'Marco Pirri: marco.pirri@cdp.it', None], ['', 'Assistenza operativa', '', '', 'pianificazione.gruppo@cdp.it', '']] [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', None, None, '', 'Paolo Carosi: paolo.carosi@cdp.it', ''], [None, None, None, None, 'Marco Pirri: marco.pirri@cdp.it', None], ['', 'Assistenza operativa', '', '', 'pianificazione.gruppo@cdp.it', '']] [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul documento', None, None, '', 'Paolo Carosi: paolo.carosi@cdp.it', ''], [None, None, None, None, 'Marco Pirri: marco.pirri@cdp.it', None], ['', 'Assistenza operativa', '', '', 'pianificazione.gruppo@cdp.it', '']] Tipologia  Riferimenti   Chiarimenti sul documento   Paolo Carosi: paolo.carosi@cdp.it   Marco Pirri: marco.pirri@cdp.it    Assistenza operativa  pianificazione.gruppo@cdp.it      1.3  Glossario   •  Capogruppo: Cassa depositi e prestiti S.p.A.    •  Società del Gruppo: ai fini della presente Policy si intendono le società diverse dalla  Capogruppo indicate nel perimetro di applicazione di cui al par. 2.    •  Gruppo: CDP S.p.A. e le Società del Gruppo   •  Valore d’uso: il valore di un asset in funzione dei flussi finanziari che l’attività è in grado di  generare attraverso l’utilizzo continuato all’interno dell’entità stessa e la dismissione al  termine della sua vita utile all’interno dell’entità   •  Fair Value: il prezzo che si percepirebbe per la vendita di un'attività ovvero che si  pagherebbe per il trasferimento di una passività in una regolare operazione tra operatori di  mercato alla data di valutazione   •  CGU: il più piccolo gruppo identificabile di attività che genera flussi finanziari in entrata  indipendenti dai flussi finanziari in entrata generati da altre attività o gruppo di attività",
+        "hash": "5ef6c1bc8b1a01fe132a24601c5608d29249910540ee30b52726e1b8655eea09"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::04541007ee2787a92aba",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::04541007ee2787a92aba",
+        "name": "1.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce definizioni operative e indica il perimetro di applicazione della Policy di Gruppo, specificando i soggetti coinvolti e le modalità di recepimento e pubblicazione della normativa. Testo significativo: La presente Policy di Gruppo si applica a CDP S.p.A. (di seguito anche, “Capogruppo”) ed alle seguenti società del Gruppo: • CDP Equity S.p.A. (nel seguito CDPE) • CDP RETI S.p.A. (nel seguito CDP RETI) Le Società del Gruppo assicurano che l’operatività delle Società sub-controllate non quotate soggette a Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo, nel rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale posta in capo agli Organi Societari delle Società del Gruppo presenti in perimetro, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti. In particolare, le Società del Gruppo applicano, nel recepimento della presente normativa, quanto previsto dal “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando la normativa interna per renderla coerente con i principi e le regole contenute in questo documento. La Capogruppo recepisce la presente normativa all’interno del corpo normativo aziendale sotto forma di regolamento. La presente Normativa di Gruppo è pubblicata sulle rispettive intranet aziendali della",
+        "plain_text": "•  Capogruppo: Cassa depositi e prestiti S.p.A.    •  Società del Gruppo: ai fini della presente Policy si intendono le società diverse dalla  Capogruppo indicate nel perimetro di applicazione di cui al par. 2.    •  Gruppo: CDP S.p.A. e le Società del Gruppo   •  Valore d’uso: il valore di un asset in funzione dei flussi finanziari che l’attività è in grado di  generare attraverso l’utilizzo continuato all’interno dell’entità stessa e la dismissione al  termine della sua vita utile all’interno dell’entità   •  Fair Value: il prezzo che si percepirebbe per la vendita di un'attività ovvero che si  pagherebbe per il trasferimento di una passività in una regolare operazione tra operatori di  mercato alla data di valutazione   •  CGU: il più piccolo gruppo identificabile di attività che genera flussi finanziari in entrata  indipendenti dai flussi finanziari in entrata generati da altre attività o gruppo di attività          La presente Policy di Gruppo si applica a CDP S.p.A. (di seguito anche, “Capogruppo”) ed alle  seguenti società del Gruppo:   •  CDP Equity S.p.A. (nel seguito CDPE)   •  CDP RETI S.p.A. (nel seguito CDP RETI)   Le Società del Gruppo assicurano che l’operatività delle Società sub-controllate non quotate  soggette a Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di  Gruppo, nel rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale  posta in capo agli Organi Societari delle Società del Gruppo presenti in perimetro, nonché della  specifica normativa di settore a cui quest’ultimi sono sottoposti.   In particolare, le Società del Gruppo applicano, nel recepimento della presente normativa, quanto  previsto dal “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente  adeguando la normativa interna per renderla coerente con i principi e le regole contenute in questo  documento.   La Capogruppo recepisce la presente normativa all’interno del corpo normativo aziendale sotto  forma di regolamento.   La presente Normativa di Gruppo è pubblicata sulle rispettive intranet aziendali della Capogruppo e  delle Società del Gruppo, ovvero diffusa secondo le modalità ritenute più opportune dalle stesse.",
+        "hash": "04541007ee2787a92aba0feb25085056a000c07e993024154b992e22ca3aa82f"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::2587202a6f1871f582a1",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::2587202a6f1871f582a1",
+        "name": "3.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive lo scopo e l'ambito di applicazione della policy sull'impairment test per CDP e le società del Gruppo, specificando i principi, le linee guida e i riferimenti normativi da seguire, nonché le modalità operative e i flussi informativi tra le entità coinvolte. Testo significativo: Il presente documento vuole costituire una disciplina generale di riferimento per CDP e per le Società del Gruppo a perimetro nell’ambito dell’impairment test. L’obiettivo è di definire i principi e le linee guida che CDP S.p.A e le diverse Società del Gruppo sono tenute ad osservare al fine di garantire un coordinamento organico e un approccio omogeneo verso tematiche rilevanti ai fini di Gruppo.",
+        "plain_text": "Il presente documento vuole costituire una disciplina generale di riferimento per CDP e per le Società  del Gruppo a perimetro nell’ambito dell’impairment test.   L’obiettivo è di definire i principi e le linee guida che CDP S.p.A e le diverse Società del Gruppo sono  tenute ad osservare al fine di garantire un coordinamento organico e un approccio omogeneo verso  tematiche rilevanti ai fini di Gruppo.   La policy è strutturata come di seguito:   •  illustra il framework normativo di riferimento per la Capogruppo e le società del Gruppo in  Perimetro, fornendo una view sulle regole generali per la determinazione della riduzione del  valore delle attività partecipative e le perdite di valore delle stesse;   •  definisce le regole di condotta per l’esercizio del test di impairment;   •  definisce i flussi informativi tra la Capogruppo e le Società del Gruppo.      Le regole di condotta per l’esercizio del test di impairment fanno riferimento:   •  al valore d’iscrizione delle partecipazioni in società controllate, collegate e sottoposte a  controllo congiunto, ai fini della predisposizione del bilancio separato delle entità facenti  parte del perimetro e delle partecipazioni in società collegate e sottoposte a controllo  congiunto, ai fini della predisposizione del bilancio consolidato del Gruppo CDP e degli  eventuali subconsolidati delle società nel perimetro;   •  al valore d’iscrizione degli avviamenti, nell’ambito della predisposizione del bilancio  consolidato del Gruppo CDP e dei bilanci sub-consolidati delle società nel perimetro.         La Capogruppo e le società del Gruppo svolgono le attività di impairment test in linea con quanto  prescritto dal framework normativo di riferimento, assicurandosi che tale processo rispetti sia i  principi contabili e giuridici applicabili sia la normativa aziendale rilevante.   Ad ogni data di riferimento, la Capogruppo, in coordinamento con le Società del Gruppo e  considerando eventuali esigenze specifiche di queste ultime, definisce le tempistiche del processo  di impairment test, sempre tenuto conto delle esigenze di redazione del Bilancio separato e di  Gruppo1.   4.1  Regole generali sulla riduzione di valore delle attività   Il procedimento di determinazione delle perdite per riduzione di valore delle attività (“impairment  test”) è disciplinato dal principio contabile internazionale IAS 36 “Riduzione di valore delle attività”2  cui si fa esplicito rimando per tutti gli ulteriori approfondimenti di dettaglio.    La finalità dello IAS 36 è quella di definire i principi che l’entità deve applicare per assicurarsi che le  proprie attività siano iscritte ad un valore non superiore a quello recuperabile.    Un’attività è iscritta in bilancio a un valore superiore a quello recuperabile se il suo valore contabile  eccede l’importo che può essere ottenuto dall’utilizzo o dalla vendita dell’attività stessa. In presenza  di tale circostanza, l’attività ha subito una riduzione di valore e l’entità deve rilevare una perdita di  valore a conto economico.    Ai sensi dello IAS 36 il valore recuperabile di un’attività viene determinato come il maggiore tra il fair  value dell’attività al netto dei costi di dismissione ed il suo valore d'uso.   Il procedimento di determinazione delle perdite per riduzione di valore si applica a:   •  una singola attività, quando questa genera flussi finanziari autonomi e indipendenti da altre  attività;    •  una unità generatrice di flussi finanziari (c.d. CGU) cui si riferisce la singola attività, quando  quest’ultima non genera flussi finanziari autonomi e indipendenti da altre attività.     Nella fattispecie, la CGU rappresenta, ai sensi dello IAS 36 par. 6, il più piccolo gruppo identificabile  di attività che genera flussi finanziari in entrata indipendenti dai flussi finanziari in entrata generati  da altre attività o gruppo di attività.      4.2  Determinazione delle perdite di valore delle attività   Ad ogni data di riferimento di bilancio lo IAS 36 richiede di valutare se esista una qualche indicazione  che dimostri che un’attività possa aver subito una perdita di valore. Nel caso in cui si verifichi tale  fattispecie, si rende necessario stimare il valore recuperabile di tale attività e confrontarlo con il suo  valore di bilancio.",
+        "hash": "2587202a6f1871f582a16528b4f115f5b80e849f1c8d2b1abedc95228b5f28a7"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::60b7e40aa859b47447a1",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::60b7e40aa859b47447a1",
+        "name": "4.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive il procedimento di determinazione delle perdite per riduzione di valore delle attività, rimandando all'applicazione dello IAS 36 e specificando le modalità di valutazione e iscrizione delle perdite di valore a bilancio. Testo significativo: Il procedimento di determinazione delle perdite per riduzione di valore delle attività (“impairment test”) è disciplinato dal principio contabile internazionale IAS 36 “Riduzione di valore delle attività” cui si fa esplicito rimando per tutti gli ulteriori approfondimenti di dettaglio.",
+        "plain_text": "Il procedimento di determinazione delle perdite per riduzione di valore delle attività (“impairment  test”) è disciplinato dal principio contabile internazionale IAS 36 “Riduzione di valore delle attività”2  cui si fa esplicito rimando per tutti gli ulteriori approfondimenti di dettaglio.    La finalità dello IAS 36 è quella di definire i principi che l’entità deve applicare per assicurarsi che le  proprie attività siano iscritte ad un valore non superiore a quello recuperabile.    Un’attività è iscritta in bilancio a un valore superiore a quello recuperabile se il suo valore contabile  eccede l’importo che può essere ottenuto dall’utilizzo o dalla vendita dell’attività stessa. In presenza  di tale circostanza, l’attività ha subito una riduzione di valore e l’entità deve rilevare una perdita di  valore a conto economico.    Ai sensi dello IAS 36 il valore recuperabile di un’attività viene determinato come il maggiore tra il fair  value dell’attività al netto dei costi di dismissione ed il suo valore d'uso.   Il procedimento di determinazione delle perdite per riduzione di valore si applica a:   •  una singola attività, quando questa genera flussi finanziari autonomi e indipendenti da altre  attività;    •  una unità generatrice di flussi finanziari (c.d. CGU) cui si riferisce la singola attività, quando  quest’ultima non genera flussi finanziari autonomi e indipendenti da altre attività.     Nella fattispecie, la CGU rappresenta, ai sensi dello IAS 36 par. 6, il più piccolo gruppo identificabile  di attività che genera flussi finanziari in entrata indipendenti dai flussi finanziari in entrata generati  da altre attività o gruppo di attività.      4.2  Determinazione delle perdite di valore delle attività   Ad ogni data di riferimento di bilancio lo IAS 36 richiede di valutare se esista una qualche indicazione  che dimostri che un’attività possa aver subito una perdita di valore. Nel caso in cui si verifichi tale  fattispecie, si rende necessario stimare il valore recuperabile di tale attività e confrontarlo con il suo  valore di bilancio.",
+        "hash": "60b7e40aa859b47447a1f16056423929de0264a159e5fa19def3115d50d90d8d"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::bd73b7f58a062b063e29",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::bd73b7f58a062b063e29",
+        "name": "4.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma elenca le condizioni e gli indicatori, sia esterni che interni, che devono essere considerati per valutare se un'attività ha subito una perdita di valore, secondo quanto richiesto dallo IAS 36. Testo significativo: Ad ogni data di riferimento di bilancio lo IAS 36 richiede di valutare se esista una qualche indicazione che dimostri che un’attività possa aver subito una perdita di valore. Nel caso in cui si verifichi tale fattispecie, si rende necessario stimare il valore recuperabile di tale attività e confrontarlo con il suo valore di bilancio. Nel valutare se esiste un’indicazione che un’attività possa aver subito una riduzione di valore, lo IAS 36 prevede che l’entità consideri come minimo le seguenti indicazioni (anche “indicatori di impairment”): ...",
+        "plain_text": "Ad ogni data di riferimento di bilancio lo IAS 36 richiede di valutare se esista una qualche indicazione  che dimostri che un’attività possa aver subito una perdita di valore. Nel caso in cui si verifichi tale  fattispecie, si rende necessario stimare il valore recuperabile di tale attività e confrontarlo con il suo  valore di bilancio.         Nel valutare se esiste un’indicazione che un’attività possa aver subito una riduzione di valore, lo IAS  36 prevede che l’entità consideri come minimo le seguenti indicazioni (anche “indicatori di  impairment”):      Fonti informative esterne   a) vi sono indicazioni osservabili che il valore di mercato di un’attività è diminuito   significativamente durante l’esercizio, più di quanto si prevedeva sarebbe accaduto con il  passare del tempo o con l’uso normale dell’attività in oggetto;   b) variazioni significative con effetto negativo per l’entità si sono verificate durante l’esercizio   o si verificheranno nel futuro prossimo nell’ambiente tecnologico, di mercato, economico o  normativo nel quale l’entità opera o nel mercato al quale un’attività è rivolta;   c)  i tassi di interesse di mercato o altri tassi di rendimento/remunerazione degli investimenti  sono aumentati nel corso dell’esercizio, ed è probabile che tali incrementi condizionino il  tasso di attualizzazione utilizzato nel calcolo del valore d’uso di un’attività e al contempo  riducano in maniera significativa il valore recuperabile dell’attività;   d) il valore contabile dell’attivo netto dell’entità è superiore alla sua capitalizzazione di mercato.      Fonti informative interne   e) l’obsolescenza o il deterioramento fisico di un’attività risulta evidente;  f) il verificarsi nel corso dell’esercizio, oppure la probabilità che si verifichino nel prossimo   futuro, significativi cambiamenti con effetto negativo sull’entità che redige il bilancio, nella  misura in cui o nel modo in cui un’attività viene utilizzata o ci si attende sarà utilizzata. Tali  cambiamenti includono casi quali l’attività che diventa inutilizzata, piani di dismissione o di  ristrutturazione del settore operativo al quale l’attività appartiene, piani di dismissione  dell’attività prima della data precedentemente prevista, e il ristabilire la vita utile di un’attività  come definita piuttosto che indefinita;   g) il peggioramento attuale o prospettico, rispetto a quanto previsto, dell’andamento economico   di un’attività, come risulta dall’informativa interna dell’entità che redige il bilancio;   h) la presenza di flussi finanziari connessi all’acquisto di un’attività, o di disponibilità liquide, che   in seguito si rendono necessarie per rendere operativa o conservare l’attività,  significativamente superiori a quelli originariamente preventivati;   i) la presenza di flussi finanziari netti effettivi oppure utili o perdite operative conseguenti   all’utilizzo dell’attività che si rivelano significativamente peggiori a quelli originariamente  preventivati;   j) il significativo peggioramento dei flussi finanziari netti o del reddito operativo preventivati, o   un significativo aumento della perdita preventivata relativa all’utilizzo dell’attività;   k) la presenza di perdite operative o flussi finanziari netti in uscita connessi all’attività, quando   gli importi del periodo in corso vengono aggregati a quelli preventivati per il futuro.      Ad integrazione di quanto sopra ulteriori indicatori possono essere rappresentati da:   Fonti informative esterne   l) un cambiamento nella normativa fiscale in quanto l'aumento del carico fiscale su un’attività,   in particolar modo se rappresenta l’attività principale per l’entità, può avere un impatto diretto  sui volumi di vendita, sui margini e sui flussi di cassa dell'entità stessa;",
+        "hash": "bd73b7f58a062b063e29a6e357e48c1bada04332674db961c22e2a6ca2aa6792"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::d20ab42357864a052915",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::d20ab42357864a052915",
+        "name": "4.2.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina le condizioni e i criteri per la rilevazione e la valutazione delle perdite di valore (impairment) delle partecipazioni, specificando quando e come applicare le regole dello IAS 36 e dello IAS 28, nonché gli indicatori oggettivi di perdita e le modalità di stima del valore recuperabile. Testo significativo: Le regole dello IAS 36 si applicano anche alle partecipazioni, in particolare: a) nel bilancio separato alle partecipazioni in entità controllate, controllate congiuntamente e sottoposte ad influenza notevole qualora rilevate al costo, come anche confermato dall’IFRS Interpretations Committee nell’IFRIC update di gennaio 2013 e b) nel bilancio consolidato alle partecipazioni in entità controllate congiuntamente e sottoposte ad influenza notevole rilevate con il metodo del patrimonio netto, una volta identificati gli indicatori esplicitamente dettati dallo IAS 28. [...] L'obiettiva evidenza che l'investimento netto in una collegata o in una joint venture ha subito una riduzione di valore include dati osservabili che giungono all'attenzione dell'entità in merito a specifici eventi di perdita. [...] Se qualcuno degli indicatori di impairment è presente, l’entità effettua una stima del valore recuperabile della partecipazione. In caso contrario, l’entità non dovrà procedere ad alcuna stima del valore recuperabile della partecipazione.",
+        "plain_text": "Le regole dello IAS 36 si applicano anche alle partecipazioni, in particolare:   a) nel bilancio separato alle partecipazioni in entità controllate, controllate congiuntamente e   sottoposte ad influenza notevole qualora rilevate al costo, come anche confermato dall’IFRS  Interpretations Committee nell’IFRIC update di gennaio 2013 e    b) nel bilancio consolidato alle partecipazioni in entità controllate congiuntamente e sottoposte   ad influenza notevole rilevate con il metodo del patrimonio netto, una volta identificati gli  indicatori esplicitamente dettati dallo IAS 28.      Peraltro, come indicato nel paragrafo precedente, lo IAS 36 prevede due specifici indicatori di  impairment proprio relativamente alle partecipazioni.    Con riferimento ai casi di società collegata o joint venture rilevate con il metodo del patrimonio netto,  dopo l'applicazione di tale metodo, lo IAS 28 stabilisce che l'entità deve determinare se vi siano   L'investimento netto in una collegata o in una joint venture ha subito una riduzione di valore e sono  sostenute perdite per riduzione di valore se, e soltanto se, vi è l'obiettiva evidenza di una riduzione  di valore in seguito a uno o più eventi che si sono verificati dopo la rilevazione iniziale  dell'investimento netto (un “evento di perdita”) e tale evento di perdita (o eventi) ha un impatto sui  futuri flussi finanziari stimati dell'investimento netto che possono essere stimati attendibilmente.   Può non essere possibile individuare un singolo evento separato che ha causato la riduzione di  valore. Piuttosto l'effetto combinato di diversi eventi può avere causato la riduzione di valore. Le  perdite attese come risultato di eventi futuri, indipendentemente dalla loro probabilità, non sono  rilevate.   L'obiettiva evidenza che l'investimento netto in una collegata o in una joint venture ha subito una  riduzione di valore include dati osservabili che giungono all'attenzione dell'entità in merito a specifici  eventi di perdita. In relazione a quanto riportato nel citato documento pubblicato dall’IFRS  Interpretations Committee nell’IFRIC update di gennaio 2013 si ritiene che gli eventi di perdita  enunciati dallo IAS 28, di seguito riportati, siano applicabili, nell’ambito del bilancio separato, anche  alle partecipazioni in entità controllate3:   a) significative difficoltà finanziarie della [controllata], collegata o della joint venture;  b) una violazione del contratto, quale un inadempimento o un mancato pagamento da parte   della [controllata], collegata o della joint venture;   c)  l'entità, per ragioni economiche o legali relative alla difficoltà finanziaria della controllata,  collegata o della joint venture, estende alla [controllata], collegata o alla joint venture una  concessione che l'entità non avrebbe altrimenti preso in considerazione;   d) sussiste la probabilità che la società [controllata], collegata o la joint venture dichiari   bancarotta o altre procedure di ristrutturazione finanziaria;   e) la scomparsa di un mercato attivo dell'investimento netto dovuta alle difficoltà finanziarie   della [controllata], collegata o della joint venture. La scomparsa di un mercato attivo dovuta  al fatto che gli strumenti rappresentativi di capitale o gli strumenti finanziari della  [controllata], collegata o della joint venture non sono più pubblicamente negoziati, non è  evidenza di una riduzione di valore. Il declassamento del rating di credito della [controllata],  collegata o della joint venture o la diminuzione del loro fair value non costituiscono, di per  sé, evidenza di una riduzione di valore, sebbene possano essere indicativi di una riduzione  di valore, se considerati congiuntamente ad altre informazioni disponibili;   f)  la presenza di informazioni circa cambiamenti con effetto avverso verificatisi nell'ambiente  tecnologico, di mercato, economico o legale in cui la [controllata], collegata o la joint venture  opera;   g) una diminuzione significativa o prolungata del fair value della [controllata], collegata o della   joint venture al di sotto del suo costo.           Se qualcuno degli indicatori di impairment è presente, l’entità effettua una stima del valore  recuperabile della partecipazione. In caso contrario, l’entità non dovrà procedere ad alcuna stima  del valore recuperabile della partecipazione.   Il valore recuperabile della partecipazione tiene conto di due differenti prospettive:   a) una prospettiva esterna, rappresentata dal “fair value al netto dei costi di dismissione”, ossia   quella di un generico operatore di mercato, per il quale un’attività vale il prezzo al quale  potrebbe essere scambiata sul mercato;   b) una prospettiva interna, rappresentata dal “valore d’uso”, ossia quella dell’entità, per la   quale un’attività assume valore in funzione dei flussi finanziari che l’attività è in grado di  generare attraverso l’utilizzo continuato all’interno dell’entità stessa e la dismissione al  termine della sua vita utile all’interno dell’entità4.       Il valore recuperabile è calcolato con riferimento ad ogni singola attività, qualora essa sia in grado  di generare flussi finanziari in entrata derivanti dall'uso continuativo ampiamente indipendenti dai  flussi  finanziari  in  entrata  generati  da  altre  attività  o  gruppo  di  attività.                     Altrimenti il valore recuperabile viene riferito all'unità generatrice di flussi finanziari (CGU) alla quale  l’attività appartiene, a meno che:   a) il fair value al netto dei costi di dismissione dell'attività sia superiore al valore contabile; o  b) il valore d'uso dell'attività possa essere considerato simile al suo fair value al netto dei costi   di dismissione e il fair value al netto dei costi di dismissione sia determinabile.      Per determinare se il valore recuperabile di un'attività debba essere stimato si applica il principio  della rilevanza. Secondo tale principio se precedenti calcoli mostrano che il valore recuperabile di  un'attività è significativamente maggiore rispetto al valore contabile, non bisogna determinare  nuovamente il valore recuperabile dell'attività, qualora non si sia verificato alcun evento che abbia  eliminato tale differenza. In maniera analoga, analisi precedenti possono mostrare che il valore  recuperabile di un’attività non è condizionato da uno (o più d’uno) degli indicatori di impairment  proposti dal principio.   A chiarimento di ciò, se i tassi di interesse presenti nel mercato o altri tassi di rendimento sugli  investimenti sono aumentati nel corso dell’esercizio, l’entità non è obbligata a effettuare una stima  formale del valore recuperabile di un’attività nei seguenti casi:   a) se non è probabile che l’aumento dei tassi di mercato incida sul tasso di attualizzazione   usato nel calcolo del valore d’uso. Per esempio, aumenti nei tassi di interesse a breve  termine possono non avere un effetto rilevante sui tassi di attualizzazione usati per  un’attività che ha una vita utile residua lunga;   b) se è probabile che l’aumento dei tassi di mercato incida sul tasso di attualizzazione usato   nel calcolo del valore d’uso ma una precedente analisi di sensitività del valore recuperabile  mostra che:   i.  è improbabile che ci sarà una diminuzione significativa del valore recuperabile poiché  è anche probabile che i flussi finanziari futuri aumentino (per esempio in alcuni casi,  un’entità può anche essere in grado di dimostrare di poter modificare i propri ricavi  per compensare eventuali aumenti dei tassi di mercato); o",
+        "hash": "d20ab42357864a0529155586331805957e7f2c2193424f17d266c3d42e0adc2a"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::c4e549629c092919fffe",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::c4e549629c092919fffe",
+        "name": "4.3.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce la definizione tecnica di fair value e dei costi di dismissione, specificando i criteri e le tecniche di valutazione da adottare secondo IFRS 13, la gerarchia degli input, e le modalità di determinazione in assenza di mercati attivi, nonché la distinzione tra fair value e valore d'uso. Testo significativo: Il fair value è il prezzo che si percepirebbe per la vendita di un’attività ovvero che si pagherebbe per il trasferimento di una passività in una regolare operazione tra operatori di mercato alla data di valutazione e deve essere determinato in accordo al principio IFRS 13 “Valutazione del fair value”.",
+        "plain_text": "Il fair value è il prezzo che si percepirebbe per la vendita di un’attività ovvero che si pagherebbe per  il trasferimento di una passività in una regolare operazione tra operatori di mercato alla data di  valutazione e deve essere determinato in accordo al principio IFRS 13 “Valutazione del fair value”.   La data di valutazione è, in sede di redazione del bilancio, la data di riferimento del bilancio stesso.   I costi di dismissione sono i costi marginali direttamente attribuibili alla dismissione di un'attività,  esclusi i costi di finanziamento e gli effetti fiscali. Esempi di tali costi sono le spese legali, l’imposta  di bollo e altre simili imposte connesse alla negoziazione, i costi di rimozione dell'attività, e i costi  incrementali diretti necessari per rendere un'attività pronta alla vendita. Tuttavia, i benefìci dovuti ai  dipendenti per la cessazione di rapporti lavorativi (come definiti nello IAS 19 “Benefici per i  dipendenti”) e i costi associati alla riduzione o alla riorganizzazione dell’entità successivi alla  dismissione di un'attività non sono da considerare costi incrementali diretti per la dismissione della  stessa.   Il principio IFRS 13, cui si rimanda per una completa trattazione delle regole riguardanti la  determinazione del fair value, specifica che il fair value è un criterio di valutazione di mercato, non  specifico dell’entità. Tuttavia, mentre per alcune attività e passività, potrebbero essere disponibili  transazioni o informazioni di mercato osservabili, per altre attività e passività tali informazioni  potrebbero non essere disponibili.    In particolare, quando non è rilevabile un prezzo per un’attività o una passività, un’entità deve  determinare il fair value applicando un’altra tecnica di valutazione che massimizzi l’utilizzo di input  osservabili rilevanti e riduca al minimo l’utilizzo di input non osservabili. Poiché il fair value è un   criterio di valutazione di mercato, esso viene determinato adottando quelle assunzioni che gli  operatori di mercato utilizzerebbero per determinare il prezzo dell’attività o della passività, incluse le  assunzioni circa i rischi. Di conseguenza, l’intenzione di un’entità di detenere un’attività o di  estinguere una passività (o di adempiere in altro modo) non è rilevante ai fini della valutazione del  fair value.   L’IFRS 13 definisce, inoltre, tre diversi livelli di fair value (cd. gerarchia del fair value), sulla base  degli input utilizzati per la stima dello stesso:   a) gli input di Livello 1 sono prezzi quotati (non rettificati) in mercati attivi per attività (o passività)   identiche a cui l’entità può accedere alla data di valutazione. Un prezzo quotato in un mercato  attivo fornisce la prova più attendibile del fair value e, quando disponibile, deve essere  utilizzato senza alcuna rettifica per valutare il fair value5;   b) gli input di Livello 2 sono input diversi dai prezzi quotati inclusi nel Livello 1 osservabili   direttamente o indirettamente per l’attività o per la passività. Se l’attività o passività ha una  determinata durata (contrattuale), un input di Livello 2 deve essere osservabile  sostanzialmente per l’intera durata dell’attività o della passività. Gli input di Livello 2  comprendono:    •  prezzi quotati per attività o passività similari in mercati attivi;    •  prezzi quotati per attività o passività identiche o similari in mercati non attivi;    •  dati diversi dai prezzi quotati osservabili per l’attività o passività, per esempio: (i) tassi  di interesse e curve dei rendimenti osservabili a intervalli comunemente quotati; (ii)  volatilità implicite; e (iii) spread creditizi;    •  input corroborati dal mercato;   c) gli input di Livello 3 sono input non osservabili per l’attività o per la passività. Gli input non   osservabili devono essere utilizzati per valutare il fair value nella misura in cui gli input  osservabili rilevanti non siano disponibili, consentendo pertanto situazioni di scarsa attività  del mercato per l’attività o passività alla data di valutazione. Tuttavia, la finalità della  valutazione del fair value resta la medesima, ossia un prezzo di chiusura alla data di  valutazione dal punto di vista di un operatore di mercato che possiede l’attività o la passività.  Pertanto, gli input non osservabili devono riflettere le assunzioni che gli operatori di mercato  utilizzerebbero nel determinare il prezzo dell’attività o passività, incluse quelle relative al  rischio.     Un’entità deve utilizzare tecniche di valutazione adatte alle circostanze e per le quali siano disponibili  dati sufficienti per valutare il fair value, massimizzando l’utilizzo di input osservabili rilevanti e  riducendo al minimo l’utilizzo di input non osservabili.   In assenza di disponibilità di un fair value determinato sulla base di input di Livello 1 si potrà ricorrere  ad input di livello inferiore.   Il fair value al netto dei costi di dismissione non riflette una vendita forzata, a meno che la direzione  aziendale non si trovi nella necessità di dover vendere l’attività quanto prima. I costi di dismissione,  diversi da quelli già rilevati come passività, devono essere dedotti ai fini della determinazione del fair  value al netto dei costi di dismissione.    Qualora non fosse possibile determinare il fair value al netto dei costi di dismissione poiché l’attività  non è commercializzata in un mercato attivo e non esiste alcun criterio per effettuare una stima  attendibile dell'importo ottenibile dalla vendita dell'attività in una contrattazione tra parti indipendenti,   consapevoli e disponibili, come valore recuperabile dell'attività deve essere assunto il suo valore  d'uso.   4.3.2 Valore d’uso   Il valore d'uso è il valore attuale dei flussi finanziari futuri attesi che si suppone deriveranno dall'uso  continuativo e dalla dismissione dell’attività stessa alla fine della sua vita utile. Tali flussi finanziari  futuri possono essere sia positivi che negativi.   La stima del valore d'uso di un'attività comporta pertanto le seguenti attività:   a) la stima dell’ammontare dei flussi finanziari futuri in entrata e in uscita che deriveranno   dall'uso continuativo dell'attività e dalla sua dismissione finale;   b) la stima delle tempistiche di ricezione ed esborso dei flussi finanziari futuri;  c)  la stima del valore temporale del denaro, che si riflette nell’applicazione di un tasso di  attualizzazione appropriato per i flussi finanziari futuri, che rappresenti il tasso di interesse  privo di rischio derivante dal mercato;   d) la stima del premio per l’incertezza inerente all’attività oggetto di valutazione;   e) l’individuazione di tutti gli altri fattori che possono influenzare la stima dei flussi finanziari   futuri generati dall’attività oggetto di valutazione (es. l’illiquidità dell’attività nel mercato, il  rischio macroeconomico correlato al paese in cui l’attività opera in presenza di economie  emergenti, la dimensione relativa dell’impresa connessa all’attività, ecc.).      Gli elementi di cui alle lettere b), d) ed e) di cui sopra possono essere incorporati nella stima dei  flussi cassa o nella determinazione del tasso di attualizzazione.   Nella determinazione del valore d'uso:   a) le proiezioni dei flussi finanziari devono essere fondate su presupposti ragionevoli e   sostenibili in grado di rappresentare la migliore stima effettuabile da parte della direzione  aziendale di una serie di condizioni economiche relative alla restante vita utile dell'attività.  Maggior peso deve essere dato alle evidenze provenienti dall'esterno;   b) le proiezioni dei flussi finanziari devono essere fondate sui più recenti budget/previsioni   approvati dalla direzione aziendale. Le proiezioni fondate su questi budget/previsioni devono  coprire un periodo massimo di cinque anni, a meno che un arco temporale superiore possa  essere giustificato;   c) le proiezioni di flussi finanziari superiori al periodo coperto dai più recenti budget/previsioni   devono essere stimate tramite estrapolazione delle proiezioni fondate su budget/previsioni  facendo uso per gli anni successivi di un tasso di crescita stabile o calante, a meno che un  tasso crescente possa essere giustificato. Questo tasso di crescita non deve eccedere il  tasso medio di crescita a lungo termine della produzione, dei settori industriali, del Paese o  dei Paesi in cui l’entità è operativa, o dei mercati nei quali il bene utilizzato è inserito, salvo  che un tasso superiore possa essere giustificato.      Le stime dei flussi finanziari futuri devono includere:   d) le proiezioni dei flussi finanziari in entrata derivanti dall'uso continuativo dell'attività;  e) le proiezioni dei flussi finanziari in uscita che necessariamente si verificano per generare   flussi finanziari in entrata dall'uso continuativo dell'attività (inclusi i flussi finanziari in uscita  per rendere l'attività utilizzabile) e che possono essere direttamente attribuiti o ripartiti  all'attività in base a un criterio ragionevole e coerente;   f) i flussi finanziari netti, qualora esistano, che saranno ricevuti (o pagati) per la dismissione",
+        "hash": "c4e549629c092919fffeb12af1accc19c9ea2830e6b6ab7b9af8c3c8b9f36193"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e446a430248f13db389c",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e446a430248f13db389c",
+        "name": "4.4",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina le modalità di rilevazione e contabilizzazione delle perdite di valore delle attività, specificando che il valore di carico deve essere ridotto al valore recuperabile e che la perdita va iscritta a conto economico, con ulteriori dettagli sulle modalità di svalutazione e sulla rilevazione di eventuali passività. Testo significativo: Se a fronte dello svolgimento dell’impairment test il valore recuperabile di un’attività risulta essere inferiore al valore di carico dell’attività stessa iscritta in bilancio, quest’ultimo deve essere ridotto al valore recuperabile. Tale rettifica di valore costituisce una perdita per riduzione di valore e deve essere rilevata nel conto economico.",
+        "plain_text": "4.4.1 Perdite di valore   Se a fronte dello svolgimento dell’impairment test il valore recuperabile di un’attività risulta essere  inferiore al valore di carico dell’attività stessa iscritta in bilancio, quest’ultimo deve essere ridotto al  valore recuperabile.   Tale rettifica di valore costituisce una perdita per riduzione di valore e deve essere rilevata nel conto  economico.   Se è rilevata una perdita per riduzione di valore, qualsiasi connessa attività o passività fiscale differita  è determinata secondo quanto previsto dal principio contabile IAS 12 “Imposte sul reddito” attraverso  la comparazione tra il valore contabile rettificato dell’attività e il suo valore ai fini fiscali.   Nella determinazione di una perdita per riduzione di valore, si possono verificare due differenti  situazioni:   a) la perdita per riduzione di valore è stimata per un importo inferiore al valore di carico   dell’attività cui si riferisce;   b) la perdita per riduzione di valore è stimata per un importo superiore al valore di carico   dell’attività cui si riferisce.     Nel caso (a) l’entità deve ridurre il valore contabile al valore recuperabile dell’attività per l’importo  della svalutazione. Nel caso (b) invece l’entità deve apportare la svalutazione fino all’azzeramento  del valore di carico dell’attività, mentre per l’eccedenza deve essere rilevata una passività se, e solo  se, ciò è richiesto da un altro principio contabile.         6 Rilevante è il tema del tasso di attualizzazione pre-tax e post tax, ripreso anche nelle Basis for conclusion del principio IAS 36, che, al  paragrafo BCZ85 indicano anche che “In theory, discounting post-tax cash flows at a post-tax discount rate and discounting pre-tax cash  flows at a pre-tax discount rate should give the sameresult, as long as the pre-tax discount rate is the post-tax discount rate adjusted to  reflect the specific amount and timing of the future tax cash flows. The pre-tax discount rate is not always the post-tax discount rate  grossed up by a standard rate of tax”. La stessa pubblicazione di KPMG “Insights into IFRS 15th Edition” peraltro riconosce nel WACC il  tasso più frequentemente utilizzato, per quanto si tratti di un tasso post-tax (cfr.3.10.710).",
+        "hash": "e446a430248f13db389ce343396a584e8dcf4dffd52c3927cbb4f645b7ce536e"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::a7964735defe55da49d4",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::a7964735defe55da49d4",
+        "name": "4.4.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina l'obbligo di ridurre il valore contabile di un'attività in bilancio qualora, a seguito dell'impairment test, il valore recuperabile risulti inferiore al valore di carico, e di rilevare la conseguente perdita nel conto economico, nonché le modalità di ripristino del valore in caso di cambiamento delle stime. Testo significativo: Se a fronte dello svolgimento dell’impairment test il valore recuperabile di un’attività risulta essere inferiore al valore di carico dell’attività stessa iscritta in bilancio, quest’ultimo deve essere ridotto al valore recuperabile. Tale rettifica di valore costituisce una perdita per riduzione di valore e deve essere rilevata nel conto economico.",
+        "plain_text": "Se a fronte dello svolgimento dell’impairment test il valore recuperabile di un’attività risulta essere  inferiore al valore di carico dell’attività stessa iscritta in bilancio, quest’ultimo deve essere ridotto al  valore recuperabile.   Tale rettifica di valore costituisce una perdita per riduzione di valore e deve essere rilevata nel conto  economico.   Se è rilevata una perdita per riduzione di valore, qualsiasi connessa attività o passività fiscale differita  è determinata secondo quanto previsto dal principio contabile IAS 12 “Imposte sul reddito” attraverso  la comparazione tra il valore contabile rettificato dell’attività e il suo valore ai fini fiscali.   Nella determinazione di una perdita per riduzione di valore, si possono verificare due differenti  situazioni:   a) la perdita per riduzione di valore è stimata per un importo inferiore al valore di carico   dell’attività cui si riferisce;   b) la perdita per riduzione di valore è stimata per un importo superiore al valore di carico   dell’attività cui si riferisce.     Nel caso (a) l’entità deve ridurre il valore contabile al valore recuperabile dell’attività per l’importo  della svalutazione. Nel caso (b) invece l’entità deve apportare la svalutazione fino all’azzeramento  del valore di carico dell’attività, mentre per l’eccedenza deve essere rilevata una passività se, e solo  se, ciò è richiesto da un altro principio contabile.         6 Rilevante è il tema del tasso di attualizzazione pre-tax e post tax, ripreso anche nelle Basis for conclusion del principio IAS 36, che, al  paragrafo BCZ85 indicano anche che “In theory, discounting post-tax cash flows at a post-tax discount rate and discounting pre-tax cash  flows at a pre-tax discount rate should give the sameresult, as long as the pre-tax discount rate is the post-tax discount rate adjusted to  reflect the specific amount and timing of the future tax cash flows. The pre-tax discount rate is not always the post-tax discount rate  grossed up by a standard rate of tax”. La stessa pubblicazione di KPMG “Insights into IFRS 15th Edition” peraltro riconosce nel WACC il  tasso più frequentemente utilizzato, per quanto si tratti di un tasso post-tax (cfr.3.10.710).   Ad ogni data di chiusura dell’esercizio l’entità deve valutare se vi è indicazione che una perdita per  riduzione durevole di valore di un’attività7 rilevata negli esercizi precedenti possa non esistere più o  possa essersi ridotta. Se esiste una qualsiasi indicazione di ciò, si deve stimare il valore recuperabile  di tale attività.   Una perdita per riduzione di valore di un’attività rilevata negli esercizi precedenti deve essere  rettificata se, e solo se, vi è stato un cambiamento nelle stime utilizzate per determinare il valore  recuperabile dell’attività da quando è stata rilevata l’ultima perdita per riduzione di valore. In tale  circostanza, il valore contabile dell’attività deve essere aumentato sino al valore recuperabile. Tale  incremento è un ripristino di valore.   L’accresciuto valore contabile di un’attività attribuibile a un ripristino di valore non deve eccedere il  valore contabile che sarebbe stato determinato se non si fosse rilevata alcuna perdita per riduzione  di valore dell’attività negli anni precedenti.   Un ripristino di valore riflette un aumento nella stima del servizio potenzialmente offerto da un’attività,  sia dal suo utilizzo sia dalla sua vendita, intercorso dalla data in cui l’entità ha rilevato per l’ultima  volta una perdita per riduzione di valore di quell’attività. Deve pertanto essere identificato il  cambiamento nelle stime che è all’origine dell’aumento nella stima del servizio potenzialmente  offerto. Esempi di cambiamenti nelle stime sono rappresentati da:   a) un cambiamento nel criterio utilizzato per calcolare il valore recuperabile (ossia, se il valore   recuperabile è basato sul fair value al netto dei costi di dismissione o sul valore d’uso);   b) se il valore recuperabile si basava sul valore d’uso, un cambiamento nel valore o nei tempi   dei flussi finanziari futuri stimati o nel tasso di sconto;    c)  se il valore recuperabile si basava sul fair value al netto dei costi di dismissione un  cambiamento nella stima dei componenti del fair value al netto dei costi di dismissione.      Nel valutare se vi è una qualche indicazione che una perdita per riduzione di valore di un’attività  rilevata negli esercizi precedenti per un’attività possa non esistere più o possa essersi ridotta,  devono essere considerate come minimo, le seguenti indicazioni:   Fonti informative esterne   a) vi sono evidenze osservabili che il valore di mercato dell’attività è aumentato in maniera   significativa nel corso dell’esercizio;   b) significativi cambiamenti con effetto favorevole per l’entità hanno avuto luogo nel corso   dell’esercizio, o lo avranno nel futuro prossimo, nell’ambiente tecnologico, di mercato,  economico o legale nel quale l’entità opera o nel mercato al quale l’attività è rivolta;   c) i tassi di interesse di mercato o altri tassi di rendimento degli investimenti sono diminuiti nel   corso dell’esercizio, e tali diminuzioni probabilmente condizionano il tasso di attualizzazione  utilizzato nel calcolo del valore d’uso dell’attività e incrementano in maniera rilevante il valore  recuperabile dell’attività.     Fonti interne di informazione   d) significativi cambiamenti con effetto favorevole per l’entità hanno avuto luogo nel corso   dell’esercizio, o si suppone che abbiano luogo nel futuro prossimo, nella misura o nel modo  in cui l’attività è usata o si suppone che venga usata. Questi cambiamenti includono i costi",
+        "hash": "a7964735defe55da49d48e8496d753176fd4be3ba3b26173653976fd0b712f8d"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::8c1125099445e689e4f7",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::8c1125099445e689e4f7",
+        "name": "4.5.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina le modalità operative e i criteri per l'elaborazione del test di impairment sugli avviamenti e sulle partecipazioni, specificando obblighi di allocazione, criteri di rilevazione delle perdite di valore, ordine di imputazione delle stesse e indicatori di impairment da considerare. Testo significativo: L’elaborazione del test di impairment richiede innanzitutto la definizione delle relative CGU. L’avviamento acquisito in un’aggregazione aziendale deve essere allocato, entro dodici mesi dalla data di acquisizione aziendale, ad una CGU dell’acquirente, che si prevede benefici delle sinergie derivanti dall’aggregazione, a prescindere dal fatto che altre attività o passività dell’acquisita siano assegnate a tali unità. Ogni unità a cui l’avviamento è così allocato deve: a) rappresentare il livello minimo all’interno dell’entità in cui l’avviamento è monitorato per operativi”, prima dell’aggregazione. Una perdita per riduzione di valore deve essere rilevata per una unità generatrice di flussi finanziari se, e soltanto se, il valore recuperabile dell’unità (gruppo di unità) è inferiore al valore contabile dell’unità (gruppo di unità). La perdita per riduzione di valore deve essere imputata a riduzione del valore contabile delle attività che fanno parte dell’unità (gruppo di unità) nel seguente ordine: a) prima, per ridurre il valore contabile di qualunque avviamento allocato all’unità generatrice di",
+        "plain_text": "L’elaborazione del test di impairment richiede innanzitutto la definizione delle relative CGU.  L’avviamento acquisito in un’aggregazione aziendale deve essere allocato, entro dodici mesi dalla  data di acquisizione aziendale, ad una CGU dell’acquirente, che si prevede benefici delle sinergie  derivanti dall’aggregazione, a prescindere dal fatto che altre attività o passività dell’acquisita siano  assegnate a tali unità.   Ogni unità a cui l’avviamento è così allocato deve:   a) rappresentare il livello minimo all’interno dell’entità in cui l’avviamento è monitorato per   operativi”, prima dell’aggregazione.      Una perdita per riduzione di valore deve essere rilevata per una unità generatrice di flussi finanziari  se, e soltanto se, il valore recuperabile dell’unità (gruppo di unità) è inferiore al valore contabile  dell’unità (gruppo di unità).   La perdita per riduzione di valore deve essere imputata a riduzione del valore contabile delle attività  che fanno parte dell’unità (gruppo di unità) nel seguente ordine:   a) prima, per ridurre il valore contabile di qualunque avviamento allocato all’unità generatrice   di flussi finanziari (gruppo di unità); e successivamente   b) alle altre attività dell’unità (gruppo di unità) in proporzione al valore contabile di ciascuna   attività che fa parte dell’unità (gruppo di unità) [IAS 36.104].     Non sono consentiti ripristini di valore successivi alla contabilizzazione di perdite per riduzione di  valore sull’avviamento rilevate in precedenti esercizi.        Il portafoglio partecipativo delle società nel perimetro della presente Policy è generalmente costituito  da società quotate e non quotate di rilevante interesse nazionale nonché strumentali all’attività  promozionale per il supporto alla crescita e all’internazionalizzazione delle imprese.   In qualità di Istituto Nazionale di Promozione, la Capogruppo insieme con le altre società a perimetro  investono prevalentemente con una prospettiva di lungo termine nel capitale delle imprese.    Il processo d’impairment test delle partecipazioni della Capogruppo e delle altre società a perimetro,  svolto in ottemperanza ai principi indicati nel par. 4 è elaborato con riferimento al bilancio separato  e consolidato, tenendo conto delle peculiarità del ruolo e degli investimenti detenuti dalle società.       5.1  Bilancio separato della Capogruppo e delle società del perimetro    Le partecipazioni iscritte nel bilancio separato di CDP e delle società del Gruppo sono rilevate al  costo e sono soggette al processo di impairment, come sopra definito, ai sensi dello IAS 36 e nel  rispetto di quanto previsto dallo IAS 28.   In particolare, ad ogni data di riferimento del bilancio, l’entità valuta la presenza degli indicatori di  impairment previsti dallo IAS 36 e degli indicatori integrativi, come riportati nel paragrafo 3.2.2, ove  applicabili.   Nella fattispecie, tenuto conto delle caratteristiche del portafoglio partecipativo, nonché del ruolo di  investitore di lungo periodo, sono considerati indicatori di impairment/obiettive evidenze di  impairment, almeno i seguenti indicatori:    a) il conseguimento di risultati economici negativi10 o comunque un significativo scostamento   rispetto ad obiettivi di budget (o previsti da piani pluriennali), qualora, a seguito di specifiche  analisi, risultino rilevanti ai fini dei loro effetti sulla stima dei flussi futuri attesi nell’eventuale  predisposizione del test di impairment;   b) significative difficoltà finanziarie della società partecipata;  c)  probabilità che la società partecipata dichiari bancarotta o sia soggetta ad altre procedure  di ristrutturazione finanziaria;   d) un valore contabile della partecipazione nel bilancio separato superiore al valore contabile,   nel bilancio consolidato, dell’attivo netto della partecipazione (inclusivo dell’eventuale  avviamento);   e) la distribuzione di un dividendo da parte della società partecipata superiore all’utile del conto   economico complessivo (o redditività complessiva per le società finanziarie)11 nell’esercizio  in cui lo dichiara.     Con riferimento alle partecipazioni quotate, sono, inoltre, considerati indicatori di impairment:      f) una riduzione della quotazione di mercato rispetto al valore contabile di riferimento superiore   al 40% ovvero per un periodo superiore a 24 mesi;      10 Il conseguimento di risultati economici negativi potrebbe non essere considerato rilevante qualora fosse in linea con gli obiettivi di  budget e/o piano industriale della partecipata (e.g. investimenti recentemente realizzati); al contrario si considerano sempre rilevanti  risultati negativi riconducibili a fattispecie previste dal codice civile (e.g. artt. 2446, 2447)  11 L’indicatore prevede di considerare la distribuzione di un dividendo maggiore del risultato del conto economico complessivo (o redditività  complessiva per le società finanziarie) dell’esercizio in cui si dichiara il dividendo (ad esempio, dividendi dichiarati nel 2017, rappresentativi  della distribuzione dell’utile netto dell’esercizio 2016, superiori al totale della redditività complessiva dell’esercizio 2017). Ai fini  dell’esercizio di impairment test per la data di riferimento del bilancio semestrale, in assenza di dati omogenei di confronto, la verifica di  tale indicatore è effettuata facendo riferimento ai dati relativi all’esercizio precedente",
+        "hash": "8c1125099445e689e4f74f9904fe20919cb08aebb309ff1d3231e48d4f142042"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5010ed34cf8c60fea9f8",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5010ed34cf8c60fea9f8",
+        "name": "5.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina i criteri e le modalità di rilevazione, valutazione e impairment delle partecipazioni iscritte nel bilancio separato di CDP e delle società del Gruppo, specificando indicatori, metodi di stima e fonti informative da utilizzare, in conformità agli IAS 36 e IAS 28. Testo significativo: Le partecipazioni iscritte nel bilancio separato di CDP e delle società del Gruppo sono rilevate al costo e sono soggette al processo di impairment, come sopra definito, ai sensi dello IAS 36 e nel rispetto di quanto previsto dallo IAS 28. In particolare, ad ogni data di riferimento del bilancio, l’entità valuta la presenza degli indicatori di impairment previsti dallo IAS 36 e degli indicatori integrativi, come riportati nel paragrafo 3.2.2, ove applicabili.",
+        "plain_text": "Le partecipazioni iscritte nel bilancio separato di CDP e delle società del Gruppo sono rilevate al  costo e sono soggette al processo di impairment, come sopra definito, ai sensi dello IAS 36 e nel  rispetto di quanto previsto dallo IAS 28.   In particolare, ad ogni data di riferimento del bilancio, l’entità valuta la presenza degli indicatori di  impairment previsti dallo IAS 36 e degli indicatori integrativi, come riportati nel paragrafo 3.2.2, ove  applicabili.   Nella fattispecie, tenuto conto delle caratteristiche del portafoglio partecipativo, nonché del ruolo di  investitore di lungo periodo, sono considerati indicatori di impairment/obiettive evidenze di  impairment, almeno i seguenti indicatori:    a) il conseguimento di risultati economici negativi10 o comunque un significativo scostamento   rispetto ad obiettivi di budget (o previsti da piani pluriennali), qualora, a seguito di specifiche  analisi, risultino rilevanti ai fini dei loro effetti sulla stima dei flussi futuri attesi nell’eventuale  predisposizione del test di impairment;   b) significative difficoltà finanziarie della società partecipata;  c)  probabilità che la società partecipata dichiari bancarotta o sia soggetta ad altre procedure  di ristrutturazione finanziaria;   d) un valore contabile della partecipazione nel bilancio separato superiore al valore contabile,   nel bilancio consolidato, dell’attivo netto della partecipazione (inclusivo dell’eventuale  avviamento);   e) la distribuzione di un dividendo da parte della società partecipata superiore all’utile del conto   economico complessivo (o redditività complessiva per le società finanziarie)11 nell’esercizio  in cui lo dichiara.     Con riferimento alle partecipazioni quotate, sono, inoltre, considerati indicatori di impairment:      f) una riduzione della quotazione di mercato rispetto al valore contabile di riferimento superiore   al 40% ovvero per un periodo superiore a 24 mesi;      10 Il conseguimento di risultati economici negativi potrebbe non essere considerato rilevante qualora fosse in linea con gli obiettivi di  budget e/o piano industriale della partecipata (e.g. investimenti recentemente realizzati); al contrario si considerano sempre rilevanti  risultati negativi riconducibili a fattispecie previste dal codice civile (e.g. artt. 2446, 2447)  11 L’indicatore prevede di considerare la distribuzione di un dividendo maggiore del risultato del conto economico complessivo (o redditività  complessiva per le società finanziarie) dell’esercizio in cui si dichiara il dividendo (ad esempio, dividendi dichiarati nel 2017, rappresentativi  della distribuzione dell’utile netto dell’esercizio 2016, superiori al totale della redditività complessiva dell’esercizio 2017). Ai fini  dell’esercizio di impairment test per la data di riferimento del bilancio semestrale, in assenza di dati omogenei di confronto, la verifica di  tale indicatore è effettuata facendo riferimento ai dati relativi all’esercizio precedente    g) downgrade del rating di almeno quattro notches dal momento in cui è stato effettuato   l’investimento nella partecipazione, se valutato rilevante congiuntamente ad altre  informazioni disponibili12.   h) un valore contabile dell’attivo netto nel bilancio consolidato superiore alla capitalizzazione di   mercato della partecipazione13     Con riferimento alle partecipazioni in entità non soggette all’attività di direzione e coordinamento, la  valutazione degli indicatori di impairment e delle obiettive evidenze di impairment è svolta sulla base  delle informazioni desunte da fonti pubbliche, ovvero delle eventuali ulteriori informazioni ricevute in  qualità di investitore.    La stima del valore recuperabile, l’elaborazione del test di impairment, la rilevazione delle perdite e  delle eventuali riprese di valore sono effettuate sulla base di quanto previsto dai principi di riferimento  sinteticamente riportati nei paragrafi precedenti.   Con particolare riferimento alla stima del valore recuperabile delle partecipazioni, inteso come il  maggiore tra il fair value al netto degli oneri di vendita e il valore d’uso, si evidenzia che:   i)  Per le società quotate in mercati attivi:   i.  il fair value14, è calcolato prioritariamente sulla base della quotazione media  ponderata per i volumi degli scambi rilevati nel mese antecedente la data di  riferimento della valutazione. In circostanze eccezionali, qualora tale media risulti  non rappresentativa, anche in ragione, a titolo di esempio, di una elevata volatilità  delle quotazioni registrate in tale periodo, il fair value è stimato facendo riferimento  alle quotazioni ponderate per i volumi scambiati in un arco temporale, antecedente  la data di riferimento della valutazione, anche superiore al mese;   ii.  il valore d’uso è calcolato facendo riferimento alle metodologie di valutazione  utilizzate nella prassi (e.g. attualizzazione dei flussi di cassa futuri / dividendi, metodi  patrimoniali, ecc.) tenuto conto dell’attività di business e delle caratteristiche  patrimoniali ed operative delle società oggetto di valutazione, facendo riferimento  alle informazioni pubbliche, ovvero alle eventuali ulteriori informazioni ricevute in  qualità di investitore.   j)  Per le società non quotate in mercati attivi:   i.  il fair value15 è calcolato tenendo conto di quanto esposto al paragrafo 3.3.1 ed in  ogni caso, utilizzando metodologie che massimizzino l’utilizzo di input osservabili sul  mercato;   ii.  il valore d’uso è calcolato facendo riferimento alle metodologie di valutazione  utilizzate nella prassi (e.g. attualizzazione dei flussi di cassa futuri / dividendi, metodi  patrimoniali, ecc.) tenuto conto dell’attività di business e delle caratteristiche  patrimoniali ed operative delle società oggetto di valutazione, facendo riferimento  alle informazioni pubbliche, ovvero delle eventuali ulteriori informazioni ricevute in  qualità di investitore disponibili alla data della valutazione.   Come riportato nel capitolo 3 non è sempre necessario che entrambi i valori (fair value e valore  d’uso) siano determinati in quanto se uno dei due valori risultasse superiore al valore contabile,      12 Il declassamento del rating di credito della partecipazione non costituisce, di per sé, evidenza di una riduzione di valore, sebbene possa  essere un’indicazione in tal senso; pertanto, tale trigger è considerato rilevante solo nel caso di attivazione congiunta con almeno un altro  trigger d’impairment  13 Il trigger si applica solo con riferimento al bilancio consolidato di Gruppo; un valore contabile dell’attivo netto nel bilancio consolidato  lievemente superiore alla capitalizzazione di mercato della partecipazione potrebbe non essere considerato rilevante.  14 Il Fair Value può, inoltre, essere calcolato pari al valore riveniente da eventuali transazioni recenti sull’asset oggetto di valutazione come  esposto al paragrafo 3.3.1  15 Cfr. nota al punto precedente   l'attività non avrebbe subito una perdita di valore e non sarebbe quindi necessario stimare l’altro  importo.   5.2  Bilancio consolidato del Gruppo CDP ed eventuali bilanci sub-consolidati delle entità  a perimetro    Le partecipazioni iscritte nel bilancio consolidato del Gruppo CDP ed in eventuali bilanci sub-consolidati delle entità a perimetro sono rilevate con il metodo del patrimonio netto, e sono soggette  al processo di impairment secondo quanto definito dallo IAS 28 e dallo IAS 36.   Ad ogni data di riferimento del bilancio, il processo di impairment è svolto in coerenza con quanto  effettuato ai fini del bilancio separato di CDP e delle società soggette, direttamente o indirettamente,  all’attività di direzione e coordinamento di CDP. In riferimento alle partecipazioni quotate, si precisa  che la valutazione delle obiettive evidenze di impairment svolta ai fini del bilancio separato viene  integrata con la verifica della sussistenza di una quotazione di mercato inferiore almeno del 40%  rispetto al valore di carico della partecipazione nel bilancio consolidato.   Ad ogni data di riferimento del bilancio, il valore d’iscrizione delle partecipazioni nel bilancio  consolidato è soggetto al processo di impairment in coerenza con quanto svolto ai fini del bilancio  separato di CDP nonché del bilancio separato o individuale delle società soggette, direttamente o  indirettamente, all’attività di direzione e coordinamento.   In particolare, una volta rilevata la presenza di indicatori di impairment sulle proprie partecipate e  stimato il valore recuperabile, tale valore è confrontato con il valore contabile della partecipazione  nel bilancio consolidato o subconsolidato per definirne i relativi esiti.   La rilevazione delle perdite e delle eventuali riprese di valore sono effettuate sulla base di quanto  previsto dai principi di riferimento sinteticamente riportati nei paragrafi precedenti.   Nel bilancio consolidato del Gruppo CDP e negli eventuali bilanci subconsolidati delle società a  perimetro ogni partecipazione è una singola attività e rappresenta una singola CGU da assoggettare  ad impairment test.   Rappresentano inoltre singole CGU anche le attività e le passività derivanti dal consolidamento  integrale di una società controllata o di un gruppo controllato16. Con riferimento a queste ultime,  qualora il valore recuperabile della partecipazione (come calcolato ai fini del bilancio separato) risulti  essere inferiore all’ammontare di attivo netto (comprensivo dell’eventuale avviamento) risultante nel  bilancio consolidato, viene rilevata una rettifica di valore che è imputata preventivamente a riduzione  dell’avviamento e per l’eccedenza a riduzione del valore degli altri asset.   La stima del valore recuperabile, l’elaborazione del test di impairment, la rilevazione delle perdite e  delle eventuali riprese di valore sono effettuate sulla base di quanto previsto dai principi di riferimento  sinteticamente riportati nei paragrafi precedenti.   5.2.1 Il test d’impairment sugli avviamenti    Ad ogni data di chiusura di bilancio del 31 dicembre l’avviamento rilevato nel bilancio consolidato  del Gruppo o negli eventuali bilanci subconsolidati delle ulteriori società a perimetro è soggetto al  processo di impairment. Tale avviamento è attribuito alle CGU di appartenenza come sopra  identificate.    L’entità svolge il processo di impairment test per gli avviamenti allocati alle CGU direttamente  controllate o indirettamente controllate per il tramite di società soggette all’attività di direzione e",
+        "hash": "5010ed34cf8c60fea9f89157510409828c1cd15baa955e021b3cfb428539cc43"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::80974b88833b12bf2c2d",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::80974b88833b12bf2c2d",
+        "name": "0",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive le modalità di rilevazione, valutazione e impairment delle partecipazioni e degli avviamenti nel bilancio consolidato e subconsolidato del Gruppo CDP, specificando i criteri e le condizioni applicabili secondo gli IAS 28 e 36. Testo significativo: sono rilevate con il metodo del patrimonio netto, e sono soggette al processo di impairment secondo quanto definito dallo IAS 28 e dallo IAS 36. Ad ogni data di riferimento del bilancio, il processo di impairment è svolto in coerenza con quanto effettuato ai fini del bilancio separato di CDP e delle società soggette, direttamente o indirettamente, all’attività di direzione e coordinamento di CDP. In riferimento alle partecipazioni quotate, si precisa che la valutazione delle obiettive evidenze di impairment svolta ai fini del bilancio separato viene integrata con la verifica della sussistenza di una quotazione di mercato inferiore almeno del 40% rispetto al valore di carico della partecipazione nel bilancio consolidato. Ad ogni data di riferimento del bilancio, il valore d’iscrizione delle partecipazioni nel bilancio consolidato è soggetto al processo di impairment in coerenza con quanto svolto ai fini del bilancio separato di CDP nonché del bilancio separato o individuale delle società soggette, direttamente o indirettamente, all’attività di direzione e coordinamento. In",
+        "plain_text": "sono rilevate con il metodo del patrimonio netto, e sono soggette  al processo di impairment secondo quanto definito dallo IAS 28 e dallo IAS 36. Ad ogni data di riferimento del bilancio, il processo di impairment è svolto in coerenza con quanto  effettuato ai fini del bilancio separato di CDP e delle società soggette, direttamente o indirettamente,  all’attività di direzione e coordinamento di CDP. In riferimento alle partecipazioni quotate, si precisa  che la valutazione delle obiettive evidenze di impairment svolta ai fini del bilancio separato viene  integrata con la verifica della sussistenza di una quotazione di mercato inferiore almeno del 40%  rispetto al valore di carico della partecipazione nel bilancio consolidato.   Ad ogni data di riferimento del bilancio, il valore d’iscrizione delle partecipazioni nel bilancio  consolidato è soggetto al processo di impairment in coerenza con quanto svolto ai fini del bilancio  separato di CDP nonché del bilancio separato o individuale delle società soggette, direttamente o  indirettamente, all’attività di direzione e coordinamento.   In particolare, una volta rilevata la presenza di indicatori di impairment sulle proprie partecipate e  stimato il valore recuperabile, tale valore è confrontato con il valore contabile della partecipazione  nel bilancio consolidato o subconsolidato per definirne i relativi esiti.   La rilevazione delle perdite e delle eventuali riprese di valore sono effettuate sulla base di quanto  previsto dai principi di riferimento sinteticamente riportati nei paragrafi precedenti.   Nel bilancio consolidato del Gruppo CDP e negli eventuali bilanci subconsolidati delle società a  perimetro ogni partecipazione è una singola attività e rappresenta una singola CGU da assoggettare  ad impairment test.   Rappresentano inoltre singole CGU anche le attività e le passività derivanti dal consolidamento  integrale di una società controllata o di un gruppo controllato16. Con riferimento a queste ultime,  qualora il valore recuperabile della partecipazione (come calcolato ai fini del bilancio separato) risulti  essere inferiore all’ammontare di attivo netto (comprensivo dell’eventuale avviamento) risultante nel  bilancio consolidato, viene rilevata una rettifica di valore che è imputata preventivamente a riduzione  dell’avviamento e per l’eccedenza a riduzione del valore degli altri asset.   La stima del valore recuperabile, l’elaborazione del test di impairment, la rilevazione delle perdite e  delle eventuali riprese di valore sono effettuate sulla base di quanto previsto dai principi di riferimento  sinteticamente riportati nei paragrafi precedenti.   5.2.1 Il test d’impairment sugli avviamenti    Ad ogni data di chiusura di bilancio del 31 dicembre l’avviamento rilevato nel bilancio consolidato  del Gruppo o negli eventuali bilanci subconsolidati delle ulteriori società a perimetro è soggetto al  processo di impairment. Tale avviamento è attribuito alle CGU di appartenenza come sopra  identificate.    L’entità svolge il processo di impairment test per gli avviamenti allocati alle CGU direttamente  controllate o indirettamente controllate per il tramite di società soggette all’attività di direzione e",
+        "hash": "80974b88833b12bf2c2dac2b5eb00324b37fe9350eea9d56b7037d58b7232877"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::89b7d92d8d7877a31643",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::89b7d92d8d7877a31643",
+        "name": "5.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina le modalità di valutazione dei risultati dei test di impairment da parte della Capogruppo e delle società del Gruppo, specificando obblighi informativi, criteri di valutazione e casi particolari di volatilità dei prezzi di mercato, nonché la gestione dei flussi informativi e la necessità di motivare eventuali deroghe rispetto ai pareri della Capogruppo. Testo significativo: Le Società del Gruppo assicurano un flusso informativo costante ed esaustivo in merito allo stato delle attività di impairment e in particolare devono avere cura di condividere con la Capogruppo, non appena disponibili: l’analisi degli indicatori di impairment, motivando adeguatamente eventuali deroghe applicate rispetto alla presente Policy (cfr. par. 4.2.1); le metodologie valutative applicate e i relativi modelli di calcolo utilizzati (cfr. par. 4.3.1 e 4.3.2.); le risultanze dei test di impairment, con un congruo anticipo rispetto (i) alla presentazione ai propri organi consultivi e deliberanti e (ii) alle date di approvazione dei bilanci della Capogruppo (separato e consolidato) (cfr. par. 5).",
+        "plain_text": "L’esito di ogni test sarà valutato dalla Capogruppo e dalle società del Gruppo e oggetto di  considerazioni specifiche ai fini dell’eventuale rilevazione di perdite o di riprese di valore nel rispetto  di quanto previsto dai principi e sinteticamente riportato nel presente documento ai paragrafi  precedenti nonché delle specifiche circostanze e degli elementi impiegati nell’elaborazione  dell’impairment test.   Nel caso di una variazione del valore recuperabile rispetto al valore contabile di un importo ritenuto  non materiale, si procederà, salvo prova contraria, a confermare il valore contabile.   In particolare, data la specificità e la natura degli investimenti di CDP e delle sue società soggette,  direttamente o indirettamente, all’attività di direzione e coordinamento (i.e. investimenti di lungo  periodo in partecipazioni strategiche), con riferimento agli investimenti rappresentati da società  quotate in mercati attivi e per le quali dunque il fair value è determinando sulla base delle quotazioni  di mercato, ulteriori considerazioni saranno svolte sulla rilevanza di tale fair value ai fini degli esiti  dei test di impairment.    Nella fattispecie, in circostanze eccezionali, quando ad esempio una variazione improvvisa e  anomala del prezzo delle azioni rilevata nel periodo di riferimento non rispecchia il normale  andamento dello strumento di capitale risultante dal livello dei prezzi registrato nelle settimane sia  antecedenti che successive alla data di riferimento della chiusura contabile e non è supportato da  alcun evento successivo, è necessario valutare se considerare tale variazione come non  rappresentativa di una perdita/incremento di valore del titolo.    Inoltre, la volatilità che in taluni periodi può assumere il prezzo di mercato delle partecipazioni  rappresentate da titoli azionari quotati può richiedere la considerazione in via prioritaria del valor  d’uso quale miglior stima del valore recuperabile ai fini del test di impairment.        Il presente capitolo illustra le attività che le Società del Gruppo devono svolgere al fine di consentire  un regolare scambio di flussi informativi con la Capogruppo che deve poter effettuare il monitoraggio  delle attività di impairment e delle relative risultanze.   Le Società del Gruppo assicurano un flusso informativo costante ed esaustivo in merito allo stato  delle attività di impairment e in particolare devono avere cura di condividere con la Capogruppo, non  appena disponibili:   •  l’analisi degli indicatori di impairment, motivando adeguatamente eventuali deroghe  applicate rispetto alla presente Policy (cfr. par. 4.2.1);   •  le metodologie valutative applicate e i relativi modelli di calcolo utilizzati (cfr. par. 4.3.1 e  4.3.2.);   •  le risultanze dei test di impairment, con un congruo anticipo rispetto (i) alla presentazione ai  propri organi consultivi e deliberanti e (ii) alle date di approvazione dei bilanci della  Capogruppo (separato e consolidato) (cfr. par. 5).   Il flusso informativo sarà indirizzato all’U.O. P&C Equity, Allocazione del Capitale della Capogruppo.   Resta ferma la facoltà della Capogruppo, qualora ritenuto necessario effettuare degli  approfondimenti, di richiedere ogni altro dato e informazione.    I flussi relativi gli indicatori di impairment, le metodologie valutative e le risultanze dei test vengono  analizzati dalla struttura P&C Equity, Allocazione del Capitale della Capogruppo sui quali, laddove  ritenuto opportuno, rilascia specifico parere.   Laddove la Società del Gruppo valuti di non adeguarsi a quanto espresso nel parere da parte della  Capogruppo, ne deve fornire adeguata motivazione.",
+        "hash": "89b7d92d8d7877a316439db03db9867c2a4b320da311f13952b4b997cb4cba0d"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5ef6c1bc8b1a01fe132a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5ef6c1bc8b1a01fe132a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5ef6c1bc8b1a01fe132a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::04541007ee2787a92aba"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::04541007ee2787a92aba"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::04541007ee2787a92aba"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::2587202a6f1871f582a1"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::2587202a6f1871f582a1"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::2587202a6f1871f582a1"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::60b7e40aa859b47447a1"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::60b7e40aa859b47447a1"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::60b7e40aa859b47447a1"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::bd73b7f58a062b063e29"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::bd73b7f58a062b063e29"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::bd73b7f58a062b063e29"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::d20ab42357864a052915"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::d20ab42357864a052915"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::d20ab42357864a052915"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::c4e549629c092919fffe"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::c4e549629c092919fffe"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::c4e549629c092919fffe"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e446a430248f13db389c"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e446a430248f13db389c"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e446a430248f13db389c"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::a7964735defe55da49d4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::a7964735defe55da49d4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::a7964735defe55da49d4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::8c1125099445e689e4f7"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::8c1125099445e689e4f7"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::8c1125099445e689e4f7"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5010ed34cf8c60fea9f8"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5010ed34cf8c60fea9f8"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5010ed34cf8c60fea9f8"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::80974b88833b12bf2c2d"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::80974b88833b12bf2c2d"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::80974b88833b12bf2c2d"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::89b7d92d8d7877a31643"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::89b7d92d8d7877a31643"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::89b7d92d8d7877a31643"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::376ad9002fcf420073868fee477124a7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5ef6c1bc8b1a01fe132a",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5ef6c1bc8b1a01fe132a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5ef6c1bc8b1a01fe132a",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5ef6c1bc8b1a01fe132a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::04541007ee2787a92aba",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::04541007ee2787a92aba"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::04541007ee2787a92aba",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::04541007ee2787a92aba"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::2587202a6f1871f582a1",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::2587202a6f1871f582a1"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::2587202a6f1871f582a1",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::2587202a6f1871f582a1"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::60b7e40aa859b47447a1",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::60b7e40aa859b47447a1"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::60b7e40aa859b47447a1",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::60b7e40aa859b47447a1"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::bd73b7f58a062b063e29",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::bd73b7f58a062b063e29"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::bd73b7f58a062b063e29",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::bd73b7f58a062b063e29"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::d20ab42357864a052915",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::d20ab42357864a052915"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::d20ab42357864a052915",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::d20ab42357864a052915"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::c4e549629c092919fffe",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::c4e549629c092919fffe"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::c4e549629c092919fffe",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::c4e549629c092919fffe"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e446a430248f13db389c",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e446a430248f13db389c"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e446a430248f13db389c",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::e446a430248f13db389c"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::a7964735defe55da49d4",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::a7964735defe55da49d4"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::a7964735defe55da49d4",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::a7964735defe55da49d4"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::8c1125099445e689e4f7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::8c1125099445e689e4f7"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::8c1125099445e689e4f7",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::8c1125099445e689e4f7"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5010ed34cf8c60fea9f8",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5010ed34cf8c60fea9f8"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5010ed34cf8c60fea9f8",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::5010ed34cf8c60fea9f8"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::80974b88833b12bf2c2d",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::80974b88833b12bf2c2d"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::80974b88833b12bf2c2d",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::80974b88833b12bf2c2d"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::89b7d92d8d7877a31643",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::89b7d92d8d7877a31643"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::89b7d92d8d7877a31643",
+      "target": "DOCUMENT_SECTION::376ad9002fcf420073868fee477124a7::89b7d92d8d7877a31643"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:15:27.569403+00:00",
+    "document_name": "PLCImpairmentTestPartecipazionieAvviamentiV1020230315.pdf",
+    "document_hash": "376ad9002fcf420073868fee477124a7"
+  }
+}

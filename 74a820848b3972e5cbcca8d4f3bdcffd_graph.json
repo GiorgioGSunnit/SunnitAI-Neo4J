@@ -1,0 +1,588 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+        "name": "PolicyPCGdiGruppo22Clean20231204.pdf",
+        "description": "Il comma fornisce una scheda riepilogativa contenente le informazioni essenziali relative al documento, tra cui tipologia, normativa interna abrogata, normativa collegata, riferimenti normativi esterni, funzioni coinvolte e modalità di pubblicazione. Testo significativo: Scheda del documento: Tipologia Documento Policy di Gruppo, Normativa interna abrogata Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di Gruppo v. 2.0 del 01 febbraio 2021, Principale normativa di CDP S.p.A. collegata Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001, Codice Etico, Principi generali sull’esercizio dell’attività di direzione e coordinamento, Principale normativa di Gruppo collegata Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione delle normative di Gruppo, Processo di Gruppo per la gestione della Normativa di Gruppo, Riferimenti a normativa esterna Codice Civile, artt. 2497 e segg., Funzione Proponente Pianificazione e Controllo di Gestione della Capogruppo, Funzione Validante Compensation e Organizzazione della Capogruppo, Funzione Approvante Amministratore Delegato della Capogruppo, Funzione Emanante Ordine di Servizio dell’Amministratore Delegato n. 01 del 01 febbraio 2021, Modalità di pubblicazione Intranet aziendale. 1.1 Scheda del documento [['', 'Tipologia Documento', '', '', '\\uf0f0 Policy di Gruppo', ''], ['Normativa interna\\nabrogata', 'Normativa interna', None, '', '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', ''], [None, 'abrogata', None, None, 'Gruppo v. 2.0 del 01 febbraio 2021', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 1.1 del 18 dicembre 2019', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 1.0 del 12 dicembre 2017', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 2.0 del 01 febbraio 2021', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 2.1 del 05 ottobre 2022', None], ['Principale normativa di\\nCDP S.p.A. collegata', None, None, '', '\\uf0f0 Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001', ''], [None, None, None, None, '\\uf0f0 Codice Etico', None], [None, None, None, None, '\\uf0f0 Principi generali sull’esercizio dell’attività di direzione 1.1 Scheda del documento [['', 'Tipologia Documento', '', '', '\\uf0f0 Policy di Gruppo', ''], ['Normativa interna\\nabrogata', 'Normativa interna', None, '', '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', ''], [None, 'abrogata', None, None, 'Gruppo v. 2.0 del 01 febbraio 2021', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 1.1 del 18 dicembre 2019', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 1.0 del 12 dicembre 2017', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 2.0 del 01 febbraio 2021',",
+        "date_enacted": "",
+        "status": "",
+        "hash": "74a820848b3972e5cbcca8d4f3bdcffd"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fbca877d705a5f4982f4",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fbca877d705a5f4982f4",
+        "name": "1",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una scheda riepilogativa contenente le informazioni essenziali relative al documento, tra cui tipologia, normativa interna abrogata, normativa collegata, riferimenti normativi esterni, funzioni coinvolte e modalità di pubblicazione. Testo significativo: Scheda del documento: Tipologia Documento Policy di Gruppo, Normativa interna abrogata Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di Gruppo v. 2.0 del 01 febbraio 2021, Principale normativa di CDP S.p.A. collegata Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001, Codice Etico, Principi generali sull’esercizio dell’attività di direzione e coordinamento, Principale normativa di Gruppo collegata Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione delle normative di Gruppo, Processo di Gruppo per la gestione della Normativa di Gruppo, Riferimenti a normativa esterna Codice Civile, artt. 2497 e segg., Funzione Proponente Pianificazione e Controllo di Gestione della Capogruppo, Funzione Validante Compensation e Organizzazione della Capogruppo, Funzione Approvante Amministratore Delegato della Capogruppo, Funzione Emanante Ordine di Servizio dell’Amministratore Delegato n. 01 del 01 febbraio 2021, Modalità di pubblicazione Intranet aziendale.",
+        "plain_text": "1.1  Scheda del documento    [['', 'Tipologia Documento', '', '', '\\uf0f0 Policy di Gruppo', ''], ['Normativa interna\\nabrogata', 'Normativa interna', None, '', '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', ''], [None, 'abrogata', None, None, 'Gruppo v. 2.0 del 01 febbraio 2021', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 1.1 del 18 dicembre 2019', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 1.0 del 12 dicembre 2017', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 2.0 del 01 febbraio 2021', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 2.1 del 05 ottobre 2022', None], ['Principale normativa di\\nCDP S.p.A. collegata', None, None, '', '\\uf0f0 Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001', ''], [None, None, None, None, '\\uf0f0 Codice Etico', None], [None, None, None, None, '\\uf0f0 Principi generali sull’esercizio dell’attività di direzione e coordinamento', None], ['Principale normativa di\\nGruppo collegata', None, None, '', '\\uf0f0 Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione', ''], [None, None, None, None, 'delle normative di Gruppo', None], [None, None, None, None, '\\uf0f0 Processo di Gruppo per la gestione della Normativa di Gruppo', None], ['', 'Riferimenti a normativa', '', '\\uf0f0 Codice Civile, artt. 2497 e segg.', None, None], [None, 'esterna', None, None, None, None], ['Funzione Proponente', 'Funzione Proponente', None, '', '\\uf0f0 Pianificazione e Controllo di Gestione della Capogruppo', ''], [None, None, None, None, '\\uf0f0 Direzione Investimenti (contributore)Business Plan Monitoring della', None], [None, None, None, None, 'Capogruppo (contributore)', None], ['Funzione Validante', None, None, '', '\\uf0f0 Compensation e Organizzazione della Capogruppo', ''], [None, None, None, None, '\\uf0f0 Direzione Amministrazione Finanza e Controllo della Capogruppo', None], [None, None, None, None, '\\uf0f0 Compliance della Capogruppo', None], [None, None, None, None, '\\uf0f0 Supporto Organismo di Vigilanza della Capogruppo', None], ['', 'Funzione Approvante', '', '', '\\uf0f0 Amministratore Delegato della Capogruppo', ''], ['Funzione Emanante', 'Funzione Emanante', None, '', '\\uf0f0 Ordine di Servizio dell’Amministratore Delegato n. 01 del 01 febbraio', ''], [None, None, None, None, '2021', None], ['', 'Modalità di pubblicazione', '', '', '\\uf0f0 Intranet aziendale', '']] Tipologia Documento   Policy di Gruppo   Normativa interna  abrogata    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 2.0 del 01 febbraio 2021    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 1.1 del 18 dicembre 2019    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 1.0 del 12 dicembre 2017    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 2.0 del 01 febbraio 2021    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 2.1 del 05 ottobre 2022   Principale normativa di  CDP S.p.A. collegata    Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001    Codice Etico     Principi generali sull’esercizio dell’attività di direzione e coordinamento   Principale normativa di  Gruppo collegata    Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione   delle normative di Gruppo    Processo di Gruppo per la gestione della Normativa di Gruppo   Riferimenti a normativa  esterna   Codice Civile, artt. 2497 e segg.   Funzione Proponente   Pianificazione e Controllo di Gestione della Capogruppo     Direzione Investimenti (contributore)Business Plan Monitoring della   Capogruppo (contributore)   Funzione Validante   Compensation e Organizzazione della Capogruppo    Direzione Amministrazione Finanza e Controllo della Capogruppo    Compliance della Capogruppo    Supporto Organismo di Vigilanza della Capogruppo   Funzione Approvante   Amministratore Delegato della Capogruppo   Funzione Emanante    Ordine di Servizio dell’Amministratore Delegato n. 01 del 01 febbraio   2021   Modalità di pubblicazione   Intranet aziendale",
+        "hash": "fbca877d705a5f4982f4f12e79a6e95ceafab35355dcc4f40065ab3740073736"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::a20be21c6bf8b8f32a29",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::a20be21c6bf8b8f32a29",
+        "name": "1.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una panoramica strutturata delle informazioni chiave relative al documento, tra cui tipologia, normativa abrogata, riferimenti normativi collegati, funzioni coinvolte, modalità di pubblicazione, storia delle versioni e contatti per assistenza. Testo significativo: Tipologia Documento  Policy di Gruppo Normativa interna abrogata  Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di Gruppo v. 2.0 del 01 febbraio 2021 ... Modalità di pubblicazione  Intranet aziendale",
+        "plain_text": "[['', 'Tipologia Documento', '', '', '\\uf0f0 Policy di Gruppo', ''], ['Normativa interna\\nabrogata', 'Normativa interna', None, '', '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', ''], [None, 'abrogata', None, None, 'Gruppo v. 2.0 del 01 febbraio 2021', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 1.1 del 18 dicembre 2019', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 1.0 del 12 dicembre 2017', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 2.0 del 01 febbraio 2021', None], [None, None, None, None, '\\uf0f0 Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di', None], [None, None, None, None, 'Gruppo v. 2.1 del 05 ottobre 2022', None], ['Principale normativa di\\nCDP S.p.A. collegata', None, None, '', '\\uf0f0 Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001', ''], [None, None, None, None, '\\uf0f0 Codice Etico', None], [None, None, None, None, '\\uf0f0 Principi generali sull’esercizio dell’attività di direzione e coordinamento', None], ['Principale normativa di\\nGruppo collegata', None, None, '', '\\uf0f0 Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione', ''], [None, None, None, None, 'delle normative di Gruppo', None], [None, None, None, None, '\\uf0f0 Processo di Gruppo per la gestione della Normativa di Gruppo', None], ['', 'Riferimenti a normativa', '', '\\uf0f0 Codice Civile, artt. 2497 e segg.', None, None], [None, 'esterna', None, None, None, None], ['Funzione Proponente', 'Funzione Proponente', None, '', '\\uf0f0 Pianificazione e Controllo di Gestione della Capogruppo', ''], [None, None, None, None, '\\uf0f0 Direzione Investimenti (contributore)Business Plan Monitoring della', None], [None, None, None, None, 'Capogruppo (contributore)', None], ['Funzione Validante', None, None, '', '\\uf0f0 Compensation e Organizzazione della Capogruppo', ''], [None, None, None, None, '\\uf0f0 Direzione Amministrazione Finanza e Controllo della Capogruppo', None], [None, None, None, None, '\\uf0f0 Compliance della Capogruppo', None], [None, None, None, None, '\\uf0f0 Supporto Organismo di Vigilanza della Capogruppo', None], ['', 'Funzione Approvante', '', '', '\\uf0f0 Amministratore Delegato della Capogruppo', ''], ['Funzione Emanante', 'Funzione Emanante', None, '', '\\uf0f0 Ordine di Servizio dell’Amministratore Delegato n. 01 del 01 febbraio', ''], [None, None, None, None, '2021', None], ['', 'Modalità di pubblicazione', '', '', '\\uf0f0 Intranet aziendale', '']] Tipologia Documento   Policy di Gruppo   Normativa interna  abrogata    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 2.0 del 01 febbraio 2021    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 1.1 del 18 dicembre 2019    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 1.0 del 12 dicembre 2017    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 2.0 del 01 febbraio 2021    Policy di Gruppo Attività di Pianificazione e Controllo di Gestione di   Gruppo v. 2.1 del 05 ottobre 2022   Principale normativa di  CDP S.p.A. collegata    Modello di Organizzazione Gestione e Controllo ex D. Lgs. 231/2001    Codice Etico     Principi generali sull’esercizio dell’attività di direzione e coordinamento   Principale normativa di  Gruppo collegata    Policy di Gruppo – Modello normativo di Gruppo e principi per la gestione   delle normative di Gruppo    Processo di Gruppo per la gestione della Normativa di Gruppo   Riferimenti a normativa  esterna   Codice Civile, artt. 2497 e segg.   Funzione Proponente   Pianificazione e Controllo di Gestione della Capogruppo     Direzione Investimenti (contributore)Business Plan Monitoring della   Capogruppo (contributore)   Funzione Validante   Compensation e Organizzazione della Capogruppo    Direzione Amministrazione Finanza e Controllo della Capogruppo    Compliance della Capogruppo    Supporto Organismo di Vigilanza della Capogruppo   Funzione Approvante   Amministratore Delegato della Capogruppo   Funzione Emanante    Ordine di Servizio dell’Amministratore Delegato n. 01 del 01 febbraio   2021   Modalità di pubblicazione   Intranet aziendale   1.2  Storia del documento    [['', 'Storia del documento', None, None, None, None, None, None, ''], ['Versione n°', None, 'Principali modifiche introdotte', None, None, 'Data', '', 'Soggetto', ''], [None, None, None, None, None, None, None, 'approvatore', None], ['1.0', None, '\\uf0f0 Documento di prima emissione', None, None, '12/12/2017', '', 'Amministratore', ''], [None, None, None, None, None, None, None, 'delegato della', None], [None, None, None, None, None, None, None, 'Capogruppo', None], ['1.1', None, '\\uf0f0 Modifiche minor per allineamento del\\ndocumento alla struttura organizzativa e al\\ncorpo normativo vigente1', None, None, '18/12/2019', '', 'Resp.', ''], [None, None, None, None, None, None, None, 'Organizzazione', None], [None, None, None, None, None, None, None, 'e Processi', None], ['2.0', None, '', '\\uf0f0 Determinazione delle modalità e tempistiche di', '', '01/02/2021', 'Amministratore\\ndelegato della\\nCapogruppo', None, None], [None, None, None, 'monitoraggio del Piano Industriale;', None, None, None, None, None], [None, None, None, '\\uf0f0 Allineamento delle responsabilità delle UO al', None, None, None, None, None], [None, None, None, 'corpo normativo e alla struttura organizzativa', None, None, None, None, None], [None, None, None, 'vigente', None, None, None, None, None], ['2.1', None, '\\uf0f0 Modifiche minor per allineamento del\\ndocumento alla struttura organizzativa e al\\ncorpo normativo vigente1', None, None, '05/10/2022', '', 'Resp.', ''], [None, None, None, None, None, None, None, 'Compensation e', None], [None, None, None, None, None, None, None, 'Organizzazione', None], ['2.2', None, '', 'Sono state riportate le seguenti modifiche minor:', '', '04/12/2023', 'Resp.\\nCompensation e\\nOrganizzazione', None, None], [None, None, None, '\\uf0f0 Inserito nel paragrafo “Rendicontazione delle', None, None, None, None, None], [None, None, None, 'performance” il riferimento alla redditività del', None, None, None, None, None], [None, None, None, 'portafoglio partecipativo', None, None, None, None, None], [None, None, None, '\\uf0f0 Inserito il rimando alla Policy di Gruppo', None, None, None, None, None], [None, None, None, '“Impairment Test delle Partecipazioni e degli', None, None, None, None, None], [None, None, None, 'Avviamenti”', None, None, None, None, None], [None, None, None, '\\uf0f0 Allineato il documento alla struttura', None, None, None, None, None], [None, None, None, 'organizzativa e al corpo normativo vigente1', None, None, None, None, None]] Storia del documento    Versione n°  Principali modifiche introdotte  Data  Soggetto   approvatore   1.0    Documento di prima emissione  12/12/2017   Amministratore   delegato della   Capogruppo   1.1     Modifiche  minor  per  allineamento  del   documento alla struttura organizzativa e al  corpo normativo vigente1   18/12/2019   Resp.   Organizzazione   e Processi   2.0     Determinazione delle modalità e tempistiche di  monitoraggio del Piano Industriale;      Allineamento delle responsabilità delle UO al  corpo normativo e alla struttura organizzativa  vigente   01/02/2021    Amministratore   delegato della   Capogruppo     2.1     Modifiche  minor  per  allineamento  del   documento alla struttura organizzativa e al  corpo normativo vigente1   05/10/2022   Resp.   Compensation e   Organizzazione   2.2   Sono state riportate le seguenti modifiche minor:     Inserito nel paragrafo “Rendicontazione delle  performance” il riferimento alla redditività del  portafoglio partecipativo     Inserito il rimando alla Policy di Gruppo  “Impairment Test delle Partecipazioni e degli  Avviamenti”     Allineato  il  documento  alla  struttura   organizzativa e al corpo normativo vigente1   04/12/2023   Resp.   Compensation e   Organizzazione      1.3  Contatti e assistenza operativa   [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul\\ndocumento', None, None, '', 'Lorenzo Iucci -n. tel: 06 4221 3367 email: lorenzo.iucci@cdp.it', ''], [None, None, None, None, 'Paolo Carosi -n. tel: 06 4221 3392 email: paolo.carosi@cdp.it', None], ['', 'Assistenza', '', 'e-mail: pianificazione.gruppo@cdp.it', 'e-mail: pianificazione.gruppo@cdp.it', None], [None, 'operativa', None, None, None, None]] Tipologia  Riferimenti   Chiarimenti sul   documento   Lorenzo Iucci -n. tel: 06 4221 3367 email: lorenzo.iucci@cdp.it   Paolo Carosi -n. tel: 06 4221 3392 email: paolo.carosi@cdp.it   Assistenza   operativa   e-mail: pianificazione.gruppo@cdp.it",
+        "hash": "a20be21c6bf8b8f32a297d6cd747f481ed0b9e5e6c6c4b889c6ca56daacfc3d5"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::14be4de552e2a7e353ac",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::14be4de552e2a7e353ac",
+        "name": "1.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta la cronologia delle versioni del documento, elencando le principali modifiche introdotte, le date di approvazione e i soggetti approvatori, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: Versione n° Principali modifiche introdotte Data Soggetto approvatore 1.0 Documento di prima emissione 12/12/2017 Amministratore delegato della Capogruppo 1.1 Modifiche minor per allineamento del documento alla struttura organizzativa e al corpo normativo vigente1 18/12/2019 Resp. Organizzazione e Processi 2.0 Determinazione delle modalità e tempistiche di monitoraggio del Piano Industriale; Allineamento delle responsabilità delle UO al corpo normativo e alla struttura organizzativa vigente 01/02/2021 Amministratore delegato della Capogruppo 2.1 Modifiche minor per allineamento del documento alla struttura organizzativa e al corpo normativo vigente1 05/10/2022 Resp. Compensation e Organizzazione 2.2 Sono state riportate le seguenti modifiche minor: Inserito nel paragrafo “Rendicontazione delle performance” il riferimento alla redditività del portafoglio partecipativo Inserito il rimando alla Policy di Gruppo “Impairment Test delle Partecipazioni e degli Avviamenti” Allineato il documento alla struttura organizzativa e al corpo normativo vigente1 04/12/2023 Resp. Compensation e Organizzazione",
+        "plain_text": "[['', 'Storia del documento', None, None, None, None, None, None, ''], ['Versione n°', None, 'Principali modifiche introdotte', None, None, 'Data', '', 'Soggetto', ''], [None, None, None, None, None, None, None, 'approvatore', None], ['1.0', None, '\\uf0f0 Documento di prima emissione', None, None, '12/12/2017', '', 'Amministratore', ''], [None, None, None, None, None, None, None, 'delegato della', None], [None, None, None, None, None, None, None, 'Capogruppo', None], ['1.1', None, '\\uf0f0 Modifiche minor per allineamento del\\ndocumento alla struttura organizzativa e al\\ncorpo normativo vigente1', None, None, '18/12/2019', '', 'Resp.', ''], [None, None, None, None, None, None, None, 'Organizzazione', None], [None, None, None, None, None, None, None, 'e Processi', None], ['2.0', None, '', '\\uf0f0 Determinazione delle modalità e tempistiche di', '', '01/02/2021', 'Amministratore\\ndelegato della\\nCapogruppo', None, None], [None, None, None, 'monitoraggio del Piano Industriale;', None, None, None, None, None], [None, None, None, '\\uf0f0 Allineamento delle responsabilità delle UO al', None, None, None, None, None], [None, None, None, 'corpo normativo e alla struttura organizzativa', None, None, None, None, None], [None, None, None, 'vigente', None, None, None, None, None], ['2.1', None, '\\uf0f0 Modifiche minor per allineamento del\\ndocumento alla struttura organizzativa e al\\ncorpo normativo vigente1', None, None, '05/10/2022', '', 'Resp.', ''], [None, None, None, None, None, None, None, 'Compensation e', None], [None, None, None, None, None, None, None, 'Organizzazione', None], ['2.2', None, '', 'Sono state riportate le seguenti modifiche minor:', '', '04/12/2023', 'Resp.\\nCompensation e\\nOrganizzazione', None, None], [None, None, None, '\\uf0f0 Inserito nel paragrafo “Rendicontazione delle', None, None, None, None, None], [None, None, None, 'performance” il riferimento alla redditività del', None, None, None, None, None], [None, None, None, 'portafoglio partecipativo', None, None, None, None, None], [None, None, None, '\\uf0f0 Inserito il rimando alla Policy di Gruppo', None, None, None, None, None], [None, None, None, '“Impairment Test delle Partecipazioni e degli', None, None, None, None, None], [None, None, None, 'Avviamenti”', None, None, None, None, None], [None, None, None, '\\uf0f0 Allineato il documento alla struttura', None, None, None, None, None], [None, None, None, 'organizzativa e al corpo normativo vigente1', None, None, None, None, None]] Storia del documento    Versione n°  Principali modifiche introdotte  Data  Soggetto   approvatore   1.0    Documento di prima emissione  12/12/2017   Amministratore   delegato della   Capogruppo   1.1     Modifiche  minor  per  allineamento  del   documento alla struttura organizzativa e al  corpo normativo vigente1   18/12/2019   Resp.   Organizzazione   e Processi   2.0     Determinazione delle modalità e tempistiche di  monitoraggio del Piano Industriale;      Allineamento delle responsabilità delle UO al  corpo normativo e alla struttura organizzativa  vigente   01/02/2021    Amministratore   delegato della   Capogruppo     2.1     Modifiche  minor  per  allineamento  del   documento alla struttura organizzativa e al  corpo normativo vigente1   05/10/2022   Resp.   Compensation e   Organizzazione   2.2   Sono state riportate le seguenti modifiche minor:     Inserito nel paragrafo “Rendicontazione delle  performance” il riferimento alla redditività del  portafoglio partecipativo     Inserito il rimando alla Policy di Gruppo  “Impairment Test delle Partecipazioni e degli  Avviamenti”     Allineato  il  documento  alla  struttura   organizzativa e al corpo normativo vigente1   04/12/2023   Resp.   Compensation e   Organizzazione      1.3  Contatti e assistenza operativa   [['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul\\ndocumento', None, None, '', 'Lorenzo Iucci -n. tel: 06 4221 3367 email: lorenzo.iucci@cdp.it', ''], [None, None, None, None, 'Paolo Carosi -n. tel: 06 4221 3392 email: paolo.carosi@cdp.it', None], ['', 'Assistenza', '', 'e-mail: pianificazione.gruppo@cdp.it', 'e-mail: pianificazione.gruppo@cdp.it', None], [None, 'operativa', None, None, None, None]] Tipologia  Riferimenti   Chiarimenti sul   documento   Lorenzo Iucci -n. tel: 06 4221 3367 email: lorenzo.iucci@cdp.it   Paolo Carosi -n. tel: 06 4221 3392 email: paolo.carosi@cdp.it   Assistenza   operativa   e-mail: pianificazione.gruppo@cdp.it",
+        "hash": "14be4de552e2a7e353ac6314873c152f913322a28e6e8ebbb1d4e78d4839ab5f"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::50126241e5b1c5782680",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::50126241e5b1c5782680",
+        "name": "1.3",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce informazioni di contatto per chiarimenti e assistenza operativa relativi al documento, elencando nominativi, recapiti e-mail e telefonici, e include un glossario con le definizioni di Capogruppo, Società del Gruppo e Gruppo. Testo significativo: Chiarimenti sul documento Lorenzo Iucci -n. tel: 06 4221 3367 email: lorenzo.iucci@cdp.it Paolo Carosi -n. tel: 06 4221 3392 email: paolo.carosi@cdp.it Assistenza operativa e-mail: pianificazione.gruppo@cdp.it 1.4 Glossario • Capogruppo: Cassa depositi e prestiti S.p.A. • Società del Gruppo: ai fini del presente Regolamento si intendono le società diverse dalla Capogruppo indicate nel perimetro di applicazione di cui al par. 2. • Gruppo: CDP e le Società del Gruppo.",
+        "plain_text": "[['', 'Tipologia', '', '', 'Riferimenti', ''], ['Chiarimenti sul\\ndocumento', None, None, '', 'Lorenzo Iucci -n. tel: 06 4221 3367 email: lorenzo.iucci@cdp.it', ''], [None, None, None, None, 'Paolo Carosi -n. tel: 06 4221 3392 email: paolo.carosi@cdp.it', None], ['', 'Assistenza', '', 'e-mail: pianificazione.gruppo@cdp.it', 'e-mail: pianificazione.gruppo@cdp.it', None], [None, 'operativa', None, None, None, None]] Tipologia  Riferimenti   Chiarimenti sul   documento   Lorenzo Iucci -n. tel: 06 4221 3367 email: lorenzo.iucci@cdp.it   Paolo Carosi -n. tel: 06 4221 3392 email: paolo.carosi@cdp.it   Assistenza   operativa   e-mail: pianificazione.gruppo@cdp.it      1.4  Glossario   •  Capogruppo: Cassa depositi e prestiti S.p.A.   •  Società del Gruppo: ai fini del presente Regolamento si intendono le società diverse dalla  Capogruppo indicate nel perimetro di applicazione di cui al par. 2.   •  Gruppo: CDP e le Società del Gruppo.",
+        "hash": "50126241e5b1c5782680213cbe6283b36afced728ae192f3f0c15b5341284540"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::329cae2682aba4420773",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::329cae2682aba4420773",
+        "name": "1.4",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce definizioni operative dei termini chiave utilizzati nel regolamento, specifica il perimetro di applicazione della normativa di Gruppo e descrive la finalità e l'ambito della policy, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: • Capogruppo: Cassa depositi e prestiti S.p.A. • Società del Gruppo: ai fini del presente Regolamento si intendono le società diverse dalla Capogruppo indicate nel perimetro di applicazione di cui al par. 2. • Gruppo: CDP e le Società del Gruppo. 2 Perimetro di applicazione • Cassa depositi e prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”) • Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del codice civile2 (di seguito anche “Società del Gruppo”). Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo (di seguito anche “policy”), nel rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché della",
+        "plain_text": "•  Capogruppo: Cassa depositi e prestiti S.p.A.   •  Società del Gruppo: ai fini del presente Regolamento si intendono le società diverse dalla  Capogruppo indicate nel perimetro di applicazione di cui al par. 2.   •  Gruppo: CDP e le Società del Gruppo.      2  Perimetro di applicazione    •  Cassa depositi e prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”)   •  Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile2 (di seguito anche “Società del Gruppo”).    Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a  Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo (di  seguito anche “policy”), nel rispetto del principio di proporzionalità e tenuto conto dei profili di  autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in  particolare dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi  sono sottoposti.    Le Società destinatarie applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando la  normativa interna della Società per renderla coerente con i principi e le regole contenute in questo  documento.   La presente Normativa di Gruppo è pubblicata sulle rispettive intranet aziendali della Capogruppo e  delle Società del Gruppo, ovvero diffusa secondo le modalità ritenute più opportune dalle stesse.      3  Premessa   La presente policy descrive i principi e le linee guida applicabili a CDP e alle Società del Gruppo  (anche in relazione alle loro sub-controllate non quotate soggette a Direzione e Coordinamento) in  materia di:   • Pianificazione strategica;   • Budgeting;   • Rendicontazione delle performance;   • Impairment testing;   • Determinazione delle politiche di dividendo.   A tal fine vengono descritti:    • Ruoli e responsabilità della Capogruppo e delle Società del Gruppo;   • Attività e flussi informativi.   Le tempistiche, i processi operativi e gli aspetti di dettaglio (es. Indicatori, KPI, etc.) nonché le  funzioni/strutture competenti della Capogruppo e delle Società del Gruppo potranno essere  eventualmente declinate in dettaglio in documenti allegati alla presente policy. Tali allegati, se  presenti potranno essere oggetto di successivi aggiornamenti da parte della Capogruppo (tali  aggiornamenti non richiederanno la nuova emanazione della presente policy, purché debitamente  comunicati alle Società del Gruppo destinatarie).",
+        "hash": "329cae2682aba442077340f2744dbc148d456403029b03ddbb39a3b932ab05f9"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::b83315e9bf917369dfdf",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::b83315e9bf917369dfdf",
+        "name": "2",
+        "type": "Sottocomma",
+        "abstract": "Il comma definisce i soggetti destinatari della policy di Gruppo (CDP e Società del Gruppo soggette a direzione e coordinamento), specificando che le società sub-controllate devono conformarsi alla policy secondo il principio di proporzionalità e nel rispetto dell'autonomia decisionale e della normativa di settore. Viene inoltre stabilito che la normativa di Gruppo deve essere pubblicata o diffusa internamente e che le modalità operative possono essere dettagliate in allegati aggiornabili senza necessità di nuova emanazione della policy. Testo significativo: Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo (di seguito anche “policy”), nel rispetto del principio di proporzionalità e tenuto conto dei profili di autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in particolare dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi sono sottoposti.",
+        "plain_text": "•  Cassa depositi e prestiti S.p.A. (di seguito anche “CDP” o “la Capogruppo”)   •  Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile2 (di seguito anche “Società del Gruppo”).    Le Società soggette a direzione e coordinamento di CDP ai sensi degli articoli 2497 e seguenti del  codice civile assicurano che l’operatività delle Società sub-controllate non quotate e soggette a  Direzione e Coordinamento sia conforme a quanto statuito dalla presente Policy di Gruppo (di  seguito anche “policy”), nel rispetto del principio di proporzionalità e tenuto conto dei profili di  autonomia decisionale posti in capo agli Organi Societari delle Società del Gruppo ed in  particolare dei Soggetti vigilati, nonché della specifica normativa di settore a cui quest’ultimi  sono sottoposti.    Le Società destinatarie applicano, nel recepimento della presente normativa, quanto previsto dal  “Processo di Gruppo per la gestione della Normativa di Gruppo”, eventualmente adeguando la  normativa interna della Società per renderla coerente con i principi e le regole contenute in questo  documento.   La presente Normativa di Gruppo è pubblicata sulle rispettive intranet aziendali della Capogruppo e  delle Società del Gruppo, ovvero diffusa secondo le modalità ritenute più opportune dalle stesse.      3  Premessa   La presente policy descrive i principi e le linee guida applicabili a CDP e alle Società del Gruppo  (anche in relazione alle loro sub-controllate non quotate soggette a Direzione e Coordinamento) in  materia di:   • Pianificazione strategica;   • Budgeting;   • Rendicontazione delle performance;   • Impairment testing;   • Determinazione delle politiche di dividendo.   A tal fine vengono descritti:    • Ruoli e responsabilità della Capogruppo e delle Società del Gruppo;   • Attività e flussi informativi.   Le tempistiche, i processi operativi e gli aspetti di dettaglio (es. Indicatori, KPI, etc.) nonché le  funzioni/strutture competenti della Capogruppo e delle Società del Gruppo potranno essere  eventualmente declinate in dettaglio in documenti allegati alla presente policy. Tali allegati, se  presenti potranno essere oggetto di successivi aggiornamenti da parte della Capogruppo (tali  aggiornamenti non richiederanno la nuova emanazione della presente policy, purché debitamente  comunicati alle Società del Gruppo destinatarie).",
+        "hash": "b83315e9bf917369dfdf41d5dce7de3781e5fd37b9b915fb3c57762a592c0356"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::00953e3fe292070046d4",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::00953e3fe292070046d4",
+        "name": "3",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive i principi, le linee guida e le responsabilità in materia di pianificazione strategica, budgeting, rendicontazione delle performance, impairment testing e politiche di dividendo per CDP e le Società del Gruppo, specificando che i dettagli operativi possono essere definiti in allegati aggiornabili senza necessità di nuova emanazione della policy. Testo significativo: La presente policy descrive i principi e le linee guida applicabili a CDP e alle Società del Gruppo (anche in relazione alle loro sub-controllate non quotate soggette a Direzione e Coordinamento) in materia di: • Pianificazione strategica; • Budgeting; • Rendicontazione delle performance; • Impairment testing; • Determinazione delle politiche di dividendo. A tal fine vengono descritti: • Ruoli e responsabilità della Capogruppo e delle Società del Gruppo; • Attività e flussi informativi. Le tempistiche, i processi operativi e gli aspetti di dettaglio (es. Indicatori, KPI, etc.) nonché le funzioni/strutture competenti della Capogruppo e delle Società del Gruppo potranno essere eventualmente declinate in dettaglio in documenti allegati alla presente policy. Tali allegati, se presenti potranno essere oggetto di successivi aggiornamenti da parte della Capogruppo (tali aggiornamenti non richiederanno la nuova emanazione della presente policy, purché debitamente comunicati alle Società del Gruppo destinatarie).",
+        "plain_text": "La presente policy descrive i principi e le linee guida applicabili a CDP e alle Società del Gruppo  (anche in relazione alle loro sub-controllate non quotate soggette a Direzione e Coordinamento) in  materia di:   • Pianificazione strategica;   • Budgeting;   • Rendicontazione delle performance;   • Impairment testing;   • Determinazione delle politiche di dividendo.   A tal fine vengono descritti:    • Ruoli e responsabilità della Capogruppo e delle Società del Gruppo;   • Attività e flussi informativi.   Le tempistiche, i processi operativi e gli aspetti di dettaglio (es. Indicatori, KPI, etc.) nonché le  funzioni/strutture competenti della Capogruppo e delle Società del Gruppo potranno essere  eventualmente declinate in dettaglio in documenti allegati alla presente policy. Tali allegati, se  presenti potranno essere oggetto di successivi aggiornamenti da parte della Capogruppo (tali  aggiornamenti non richiederanno la nuova emanazione della presente policy, purché debitamente  comunicati alle Società del Gruppo destinatarie).     4  Pianificazione strategica   Il processo di Pianificazione Strategica viene inteso come l’insieme di attività attraverso cui la  Capogruppo e ciascuna Società del Gruppo, per il proprio perimetro, definiscono: i) gli obiettivi  strategici di medio-lungo periodo, ovvero le linee di azione e le direttrici di sviluppo del Gruppo per  la realizzazione della propria mission; ii) il modello di business con il quale il Gruppo intende  realizzare il suo percorso di crescita; iii) gli obiettivi pluriennali di tipo economico-finanziario e  d’impatto sul sistema economico; iv) le azioni che saranno intraprese per il raggiungimento degli  obiettivi e v) il modello di pianificazione strategica, programmazione e controllo che consenta di  monitorare l’avanzamento del Piano Industriale di Gruppo e dei Piani Industriali delle Società del  Gruppo.   Il Piano Industriale è il documento di sintesi del processo descritto.    La definizione del Piano Industriale delle Società del Gruppo, nonché gli aggiornamenti significativi  dello stesso (i.e. variazioni rilevanti al perimetro di operatività e/o agli obiettivi economico-finanziari  e di impatto sul sistema economico) vengono pianificati e discussi con le competenti strutture della  Capogruppo, nel rispetto dei principi e linee guida di seguito indicati.      4.1  Definizione del Piano Industriale   L’articolazione del processo di predisposizione del Piano Industriale si basa sui seguenti principi e  linee guida:   Linee guida strategiche di Gruppo: definizione e approvazione   •  la Capogruppo definisce, con il supporto delle Società del Gruppo per i rispettivi ambiti di  competenza: (i) gli obiettivi strategici di medio-lungo termine ed il modello di business di  Gruppo; (ii) il livello di ambizione complessivo, per macro-area di attività e per ciascuna  Società del Gruppo, e li comunica alle singole società. La Capogruppo definisce altresì, con  il supporto delle Società del Gruppo, l’ammontare di rischio assumibile in ottica prospettica a  livello di Gruppo, nell’ambito del processo di determinazione dell’adeguatezza patrimoniale;   •  le Società del Gruppo valutano e approvano, nei rispettivi Consigli di Amministrazione, le  linee guida strategiche, in piena coerenza con quelle delineate nel Piano Industriale di  Gruppo, declinandole ulteriormente, ove necessario.   Piano Industriale delle Società del Gruppo: elaborazione e approvazione   •  la Capogruppo definisce, in coordinamento con le Società del Gruppo, modalità e tempistiche  per la redazione del Piano Industriale delle singole Società del Gruppo, comunicandole a  queste ultime attraverso l’UO “Pianificazione e Controllo Equity e Allocazione del Capitale”  della Capogruppo;   •  le Società del Gruppo comunicano alla Capogruppo i responsabili del processo di  elaborazione del Piano Industriale, da individuarsi di norma nell’ambito delle strutture di  Pianificazione e Controllo di Gestione delle singole Società del Gruppo, nonché i referenti  delle ulteriori funzioni coinvolte;",
+        "hash": "00953e3fe292070046d451b708248b3c498378fbe63a0483ff92284e2a6a9a90"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::78516481d645af87ff81",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::78516481d645af87ff81",
+        "name": "4",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive il processo di pianificazione strategica, specificando le attività, i soggetti coinvolti, le modalità di definizione e approvazione degli obiettivi strategici e del Piano Industriale a livello di Gruppo e di singole società. Testo significativo: Il processo di Pianificazione Strategica viene inteso come l’insieme di attività attraverso cui la Capogruppo e ciascuna Società del Gruppo, per il proprio perimetro, definiscono: i) gli obiettivi strategici di medio-lungo periodo, ovvero le linee di azione e le direttrici di sviluppo del Gruppo per la realizzazione della propria mission; ii) il modello di business con il quale il Gruppo intende realizzare il suo percorso di crescita; iii) gli obiettivi pluriennali di tipo economico-finanziario e d’impatto sul sistema economico; iv) le azioni che saranno intraprese per il raggiungimento degli obiettivi e v) il modello di pianificazione strategica, programmazione e controllo che consenta di monitorare l’avanzamento del Piano Industriale di Gruppo e dei Piani Industriali delle Società del Gruppo.",
+        "plain_text": "Il processo di Pianificazione Strategica viene inteso come l’insieme di attività attraverso cui la  Capogruppo e ciascuna Società del Gruppo, per il proprio perimetro, definiscono: i) gli obiettivi  strategici di medio-lungo periodo, ovvero le linee di azione e le direttrici di sviluppo del Gruppo per  la realizzazione della propria mission; ii) il modello di business con il quale il Gruppo intende  realizzare il suo percorso di crescita; iii) gli obiettivi pluriennali di tipo economico-finanziario e  d’impatto sul sistema economico; iv) le azioni che saranno intraprese per il raggiungimento degli  obiettivi e v) il modello di pianificazione strategica, programmazione e controllo che consenta di  monitorare l’avanzamento del Piano Industriale di Gruppo e dei Piani Industriali delle Società del  Gruppo.   Il Piano Industriale è il documento di sintesi del processo descritto.    La definizione del Piano Industriale delle Società del Gruppo, nonché gli aggiornamenti significativi  dello stesso (i.e. variazioni rilevanti al perimetro di operatività e/o agli obiettivi economico-finanziari  e di impatto sul sistema economico) vengono pianificati e discussi con le competenti strutture della  Capogruppo, nel rispetto dei principi e linee guida di seguito indicati.      4.1  Definizione del Piano Industriale   L’articolazione del processo di predisposizione del Piano Industriale si basa sui seguenti principi e  linee guida:   Linee guida strategiche di Gruppo: definizione e approvazione   •  la Capogruppo definisce, con il supporto delle Società del Gruppo per i rispettivi ambiti di  competenza: (i) gli obiettivi strategici di medio-lungo termine ed il modello di business di  Gruppo; (ii) il livello di ambizione complessivo, per macro-area di attività e per ciascuna  Società del Gruppo, e li comunica alle singole società. La Capogruppo definisce altresì, con  il supporto delle Società del Gruppo, l’ammontare di rischio assumibile in ottica prospettica a  livello di Gruppo, nell’ambito del processo di determinazione dell’adeguatezza patrimoniale;   •  le Società del Gruppo valutano e approvano, nei rispettivi Consigli di Amministrazione, le  linee guida strategiche, in piena coerenza con quelle delineate nel Piano Industriale di  Gruppo, declinandole ulteriormente, ove necessario.   Piano Industriale delle Società del Gruppo: elaborazione e approvazione   •  la Capogruppo definisce, in coordinamento con le Società del Gruppo, modalità e tempistiche  per la redazione del Piano Industriale delle singole Società del Gruppo, comunicandole a  queste ultime attraverso l’UO “Pianificazione e Controllo Equity e Allocazione del Capitale”  della Capogruppo;   •  le Società del Gruppo comunicano alla Capogruppo i responsabili del processo di  elaborazione del Piano Industriale, da individuarsi di norma nell’ambito delle strutture di  Pianificazione e Controllo di Gestione delle singole Società del Gruppo, nonché i referenti  delle ulteriori funzioni coinvolte;",
+        "hash": "78516481d645af87ff81e067b4956c1011266b69c38eb7caf4e85e74bca9f397"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eb70db4ccabf878d7b16",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eb70db4ccabf878d7b16",
+        "name": "4.1",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive in dettaglio il processo di predisposizione, approvazione e monitoraggio del Piano Industriale di Gruppo e delle singole Società del Gruppo, specificando ruoli, responsabilità, modalità operative e principi guida. Testo significativo: L’articolazione del processo di predisposizione del Piano Industriale si basa sui seguenti principi e linee guida: Linee guida strategiche di Gruppo: definizione e approvazione • la Capogruppo definisce, con il supporto delle Società del Gruppo per i rispettivi ambiti di competenza: (i) gli obiettivi strategici di medio-lungo termine ed il modello di business di Gruppo; (ii) il livello di ambizione complessivo, per macro-area di attività e per ciascuna Società del Gruppo, e li comunica alle singole società. La Capogruppo definisce altresì, con il supporto delle Società del Gruppo, l’ammontare di rischio assumibile in ottica prospettica a livello di Gruppo, nell’ambito del processo di determinazione dell’adeguatezza patrimoniale; • le Società del Gruppo valutano e approvano, nei rispettivi Consigli di Amministrazione, le linee guida strategiche, in piena coerenza con quelle delineate nel Piano Industriale di Gruppo, declinandole ulteriormente, ove necessario. Piano Industriale delle Società del Gruppo: elaborazione e approvazione • la Capogruppo definisce, in coordinamento con le Società del Gruppo, modalità e tempistiche per la redazione del Piano Industriale",
+        "plain_text": "L’articolazione del processo di predisposizione del Piano Industriale si basa sui seguenti principi e  linee guida:   Linee guida strategiche di Gruppo: definizione e approvazione   •  la Capogruppo definisce, con il supporto delle Società del Gruppo per i rispettivi ambiti di  competenza: (i) gli obiettivi strategici di medio-lungo termine ed il modello di business di  Gruppo; (ii) il livello di ambizione complessivo, per macro-area di attività e per ciascuna  Società del Gruppo, e li comunica alle singole società. La Capogruppo definisce altresì, con  il supporto delle Società del Gruppo, l’ammontare di rischio assumibile in ottica prospettica a  livello di Gruppo, nell’ambito del processo di determinazione dell’adeguatezza patrimoniale;   •  le Società del Gruppo valutano e approvano, nei rispettivi Consigli di Amministrazione, le  linee guida strategiche, in piena coerenza con quelle delineate nel Piano Industriale di  Gruppo, declinandole ulteriormente, ove necessario.   Piano Industriale delle Società del Gruppo: elaborazione e approvazione   •  la Capogruppo definisce, in coordinamento con le Società del Gruppo, modalità e tempistiche  per la redazione del Piano Industriale delle singole Società del Gruppo, comunicandole a  queste ultime attraverso l’UO “Pianificazione e Controllo Equity e Allocazione del Capitale”  della Capogruppo;   •  le Società del Gruppo comunicano alla Capogruppo i responsabili del processo di  elaborazione del Piano Industriale, da individuarsi di norma nell’ambito delle strutture di  Pianificazione e Controllo di Gestione delle singole Società del Gruppo, nonché i referenti  delle ulteriori funzioni coinvolte;   •  le Società del Gruppo predispongono il proprio Piano Industriale, in coordinamento con l’UO  “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo e con la  collaborazione delle altre strutture, declinando per ciascuna iniziativa il relativo piano di  implementazione3. La documentazione di Piano Industriale deve consentire di apprezzare,  con sufficiente livello di dettaglio:   ─  gli obiettivi strategici della Società ed il livello di ambizione;   ─  la strategia perseguita dalla Società per il raggiungimento degli obiettivi prefissati;   ─  le principali iniziative di business ed i relativi piani attuativi;   ─  le proiezioni economico-finanziarie pluriennali e le ipotesi sottostanti;   •  le Società del Gruppo hanno la responsabilità di condividere preliminarmente con la  Capogruppo, in tempi congrui, la documentazione rilevante a supporto della predisposizione  del Piano Industriale e del processo deliberativo;   •  la Capogruppo si esprime rispetto alla proposta di approvazione del Piano Industriale,  mediante: (i) il parere rilasciato dal Comitato Rischi di Governance di Gruppo per i profili di  propria competenza e (ii) ogni eventuale ulteriore considerazione di tipo strategico, di  business, economico-finanziaria sul Piano Industriale della Società del Gruppo, a cura delle  competenti strutture della Capogruppo. La proposta di Piano Industriale viene infine valutata  e approvata dagli organi di governo della Capogruppo; gli esiti vengono trasmessi alle  Società del Gruppo attraverso l’UO “Pianificazione e Controllo Equity e Allocazione del  Capitale” della Capogruppo;   •  il Piano Industriale delle Società del Gruppo, corredato dai pareri della Capogruppo, è  approvato nel Consiglio di Amministrazione di ciascuna Società. Laddove il Piano Industriale  approvato si discosti da quello su cui si è espressa la Capogruppo, la Società del Gruppo ne  fornisce adeguata motivazione.      4.2  Monitoraggio del Piano Industriale   Il processo di Monitoraggio del Piano Industriale viene inteso come l’insieme di attività che la  Capogruppo e ciascuna Società del Gruppo4, per il proprio perimetro, svolgono per garantire la  corretta e puntuale realizzazione della componente progettuale delle nuove iniziative di business  definite nel Piano Industriale del Gruppo.   Il processo è coordinato dall’UO “Monitoraggio Piano Strategico e Segreteria Tecnica” della  Capogruppo, che si avvale del contributo delle Società del Gruppo (analogamente a quanto fa con  le Unità Organizzative della Capogruppo per la componente CDP) per il perimetro di competenza,  mediante:   • il monitoraggio, con periodicità almeno trimestrale dello stato di avanzamento dei piani attuativi   delle iniziative definite nel Piano Industriale del Gruppo, svolgendo incontri mirati con i referenti  delle Società del Gruppo interessate;      3 Per il piano di implementazione delle sole iniziative contenute anche nel Piano Industriale del Gruppo, l’attività è svolta in coordinamento  con l’UO “Monitoraggio Piano Strategico e Segreteria Tecnica” della Capogruppo.  4 Resta inteso che il processo di “Monitoraggio del Piano Industriale” ai fini della presente policy è attivato per le sole Società del Gruppo  direttamente coinvolte nelle iniziative definite nel Piano Industriale del Gruppo.",
+        "hash": "eb70db4ccabf878d7b1661aba669adf2ae85f797e7b0e09b207e8a162c8d2367"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::19ef5ff6e878795abbb2",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::19ef5ff6e878795abbb2",
+        "name": "4.2",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive le attività e le responsabilità delle Società del Gruppo e della Capogruppo nel monitoraggio e nella rendicontazione delle iniziative previste dal Piano Industriale, nonché nel processo di budgeting, imponendo la fornitura di informazioni, la predisposizione di reportistica e il rispetto delle tempistiche e modalità definite dalla Capogruppo. Testo significativo: Le Società del Gruppo sono responsabili ciascuna del proprio processo di budget e garantiscono lo svolgimento delle attività nel rispetto delle tempistiche e delle modalità indicate dalla Capogruppo.",
+        "plain_text": "Il processo di Monitoraggio del Piano Industriale viene inteso come l’insieme di attività che la  Capogruppo e ciascuna Società del Gruppo4, per il proprio perimetro, svolgono per garantire la  corretta e puntuale realizzazione della componente progettuale delle nuove iniziative di business  definite nel Piano Industriale del Gruppo.   Il processo è coordinato dall’UO “Monitoraggio Piano Strategico e Segreteria Tecnica” della  Capogruppo, che si avvale del contributo delle Società del Gruppo (analogamente a quanto fa con  le Unità Organizzative della Capogruppo per la componente CDP) per il perimetro di competenza,  mediante:   • il monitoraggio, con periodicità almeno trimestrale dello stato di avanzamento dei piani attuativi   delle iniziative definite nel Piano Industriale del Gruppo, svolgendo incontri mirati con i referenti  delle Società del Gruppo interessate;      3 Per il piano di implementazione delle sole iniziative contenute anche nel Piano Industriale del Gruppo, l’attività è svolta in coordinamento  con l’UO “Monitoraggio Piano Strategico e Segreteria Tecnica” della Capogruppo.  4 Resta inteso che il processo di “Monitoraggio del Piano Industriale” ai fini della presente policy è attivato per le sole Società del Gruppo  direttamente coinvolte nelle iniziative definite nel Piano Industriale del Gruppo.   • la predisposizione di adeguata reportistica per: (i) i Vertici aziendali della Capogruppo; (ii) per il   Consiglio di Amministrazione della Capogruppo, previa validazione da parte dei referenti delle  Società del Gruppo interessate per il perimetro di competenza;   Le Società del Gruppo:   • forniscono all’UO “Monitoraggio Piano Strategico e Segreteria Tecnica” le informazioni sullo stato   di avanzamento delle iniziative rilevanti sulla base delle scadenze preliminarmente concordate;   • informano tempestivamente la Capogruppo (incluso l’UO “Monitoraggio Piano Strategico e   Segreteria Tecnica”) qualora si presentino delle criticità che potrebbero compromettere la  realizzazione delle iniziative o comportare ritardi rispetto alla pianificazione iniziale; in tal caso  l’UO “Monitoraggio Piano Strategico e Segreteria Tecnica” valuta l’opportunità di attivare  eventuali processi di escalation.   I flussi informativi necessari per la rendicontazione delle performance economico finanziarie delle  iniziative sono comunicati alla Capogruppo come indicato al par. 6 (“Rendicontazione delle  performance”) del presente documento.      5  Budgeting   Il processo di budgeting viene inteso come l’insieme delle attività attraverso cui la Capogruppo e le  Società del Gruppo definiscono gli obiettivi annuali. Tali obiettivi devono essere definiti in coerenza  con il Piano Industriale approvato dai rispettivi consigli di Amministrazione, tenuto conto del contesto  di riferimento e dei risultati effettivamente conseguiti alla data.    Al fine di garantire una pianificazione a livello di Gruppo, l’UO “Pianificazione e Controllo Equity e  Allocazione del Capitale” della Capogruppo definisce le tempistiche e le modalità del processo di  Budget, valutando eventuali specifiche esigenze delle Società del Gruppo.   Le Società del Gruppo sono responsabili ciascuna del proprio processo di budget e garantiscono lo  svolgimento delle attività nel rispetto delle tempistiche e delle modalità indicate dalla Capogruppo.   Le Società del Gruppo comunicano alla Capogruppo i responsabili del processo di elaborazione del  budget, da individuarsi di norma nell’ambito delle strutture di Pianificazione e Controllo di Gestione  delle singole Società, nonché i referenti delle ulteriori funzioni coinvolte.    Le Società del Gruppo, di concerto con l’UO “Pianificazione e Controllo Equity e Allocazione del  Capitale” della Capogruppo, definiscono le modalità di rappresentazione degli indicatori chiave e dei  principali driver dell’attività di business, anche con riferimento alle Società da esse controllate, in  modo tale da garantire alle strutture della Capogruppo la migliore comprensione degli obiettivi  individuati e delle performance conseguite.      In particolare, la documentazione predisposta deve includere, con sufficiente livello di dettaglio:    •  gli obiettivi qualitativi e quantitativi annuali;   •  l’aggiornamento, ove necessario, degli obiettivi di medio-lungo termine;   •  i principali driver e azioni gestionali funzionali al raggiungimento degli obiettivi individuati.",
+        "hash": "19ef5ff6e878795abbb2d4cf9dce39daa14e317b8eb1626b2185564a79bd96cf"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::bb7548bffdaa95084dcb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::bb7548bffdaa95084dcb",
+        "name": "5",
+        "type": "Sottocomma",
+        "abstract": "Il comma disciplina il processo di budgeting e rendicontazione delle performance all'interno del Gruppo, imponendo alle Società del Gruppo obblighi di definizione, comunicazione, strutturazione e rendicontazione degli obiettivi e delle performance, secondo modalità e tempistiche stabilite dalla Capogruppo, al fine di garantire coerenza e controllo centralizzato. Testo significativo: Il processo di budgeting viene inteso come l’insieme delle attività attraverso cui la Capogruppo e le Società del Gruppo definiscono gli obiettivi annuali. Tali obiettivi devono essere definiti in coerenza con il Piano Industriale approvato dai rispettivi consigli di Amministrazione, tenuto conto del contesto di riferimento e dei risultati effettivamente conseguiti alla data. Al fine di garantire una pianificazione a livello di Gruppo, l’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo definisce le tempistiche e le modalità del processo di Budget, valutando eventuali specifiche esigenze delle Società del Gruppo. Le Società del Gruppo sono responsabili ciascuna del proprio processo di budget e garantiscono lo svolgimento delle attività nel rispetto delle tempistiche e delle modalità indicate dalla Capogruppo. Le Società del Gruppo comunicano alla Capogruppo i responsabili del processo di elaborazione del budget, da individuarsi di norma nell’ambito delle strutture di Pianificazione e Controllo di Gestione delle singole Società, nonché",
+        "plain_text": "Il processo di budgeting viene inteso come l’insieme delle attività attraverso cui la Capogruppo e le  Società del Gruppo definiscono gli obiettivi annuali. Tali obiettivi devono essere definiti in coerenza  con il Piano Industriale approvato dai rispettivi consigli di Amministrazione, tenuto conto del contesto  di riferimento e dei risultati effettivamente conseguiti alla data.    Al fine di garantire una pianificazione a livello di Gruppo, l’UO “Pianificazione e Controllo Equity e  Allocazione del Capitale” della Capogruppo definisce le tempistiche e le modalità del processo di  Budget, valutando eventuali specifiche esigenze delle Società del Gruppo.   Le Società del Gruppo sono responsabili ciascuna del proprio processo di budget e garantiscono lo  svolgimento delle attività nel rispetto delle tempistiche e delle modalità indicate dalla Capogruppo.   Le Società del Gruppo comunicano alla Capogruppo i responsabili del processo di elaborazione del  budget, da individuarsi di norma nell’ambito delle strutture di Pianificazione e Controllo di Gestione  delle singole Società, nonché i referenti delle ulteriori funzioni coinvolte.    Le Società del Gruppo, di concerto con l’UO “Pianificazione e Controllo Equity e Allocazione del  Capitale” della Capogruppo, definiscono le modalità di rappresentazione degli indicatori chiave e dei  principali driver dell’attività di business, anche con riferimento alle Società da esse controllate, in  modo tale da garantire alle strutture della Capogruppo la migliore comprensione degli obiettivi  individuati e delle performance conseguite.      In particolare, la documentazione predisposta deve includere, con sufficiente livello di dettaglio:    •  gli obiettivi qualitativi e quantitativi annuali;   •  l’aggiornamento, ove necessario, degli obiettivi di medio-lungo termine;   •  i principali driver e azioni gestionali funzionali al raggiungimento degli obiettivi individuati.      La documentazione deve, inoltre, essere strutturata in modo tale da consentire di apprezzare:    •  l’esistenza di scostamenti tra budget e obiettivi qualitativi e quantitativi di Piano Industriale;   •  nel corso dell’esercizio di budget, l’andamento economico-finanziario della Società e delle  sue linee di business rispetto agli obiettivi di budget.    L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo, con  l’eventuale supporto delle altre funzioni di Capogruppo, verifica la coerenza del budget rispetto agli  obiettivi di Piano Industriale, la sua sostenibilità economico-finanziaria e la completezza dei contenuti  informativi.   La proposta di budget viene infine valutata e approvata dagli organi di governo della Capogruppo;  gli esiti vengono trasmessi alle Società del Gruppo attraverso l’UO “Pianificazione e Controllo Equity  e Allocazione del Capitale” di Capogruppo.   Il budget delle Società del Gruppo, corredato delle valutazioni della Capogruppo, è approvato nel  Consiglio di Amministrazione di ciascuna Società. Laddove il budget approvato si discosti da quello  su cui si è espresso la Capogruppo con proprio parere, la Società del Gruppo ne fornisce adeguata  motivazione.   Eventuali aggiornamenti di budget in corso d’anno, in linea generale non previsti, dovranno essere  preliminarmente pianificati e discussi con l’UO “Pianificazione e Controllo Equity e Allocazione del  Capitale” della Capogruppo, nel rispetto dei principi e linee guida sopra indicati.      6  Rendicontazione delle performance    Il processo di rendicontazione delle performance viene inteso come l’insieme delle attività attraverso  cui le Società del Gruppo predispongono, anche con riferimento alle Società da esse controllate,  flussi informativi verso la Capogruppo, che consentano di monitorare su base almeno mensile:   •  l’andamento dell’attività di business e gli eventuali scostamenti rispetto agli obiettivi di  budget;   •  le principali operazioni concluse e la pipeline delle nuove operazioni;   •  il lancio di nuovi prodotti e iniziative tali da impattare significativamente sui risultati  economico-finanziari delle Società del Gruppo;   •  i risultati economico-finanziari e la situazione patrimoniale;   •  l’evoluzione prevedibile della gestione;    •  in ogni caso, tutti i dati e le informazioni (anche non incluse nei flussi informativi come da  prassi condivisi), necessarie per una rappresentazione efficace dell’andamento della  gestione, ivi inclusa l’evoluzione della reddittività del portafoglio partecipativo di Gruppo su  base almeno semestrale.   Le Società del Gruppo definiscono, condividendole preliminarmente con l’UO “Pianificazione e  Controllo Equity e Allocazione del Capitale” della Capogruppo, il contenuto e la struttura della  reportistica di monitoraggio, anche al fine di garantire coerenza di metriche e modalità di  rappresentazione delle performance a livello di Gruppo.",
+        "hash": "bb7548bffdaa95084dcb29a69e8ac298617f6ff0e4e419d0e2db9e3cd4734d4e"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eac96b11ce2e513eddc0",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eac96b11ce2e513eddc0",
+        "name": "6",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive gli obblighi delle Società del Gruppo in merito alla rendicontazione periodica delle performance e alla trasmissione di flussi informativi alla Capogruppo, nonché le modalità di definizione, condivisione e discussione della reportistica di monitoraggio, specificando anche la responsabilità di garantire l'efficace implementazione del processo e il rispetto delle tempistiche. Testo significativo: Le Società del Gruppo sono tenute a garantire l’efficace implementazione del processo di rendicontazione dei flussi informativi ed il rispetto delle tempistiche, inviando tutte le informazioni all’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo.",
+        "plain_text": "Il processo di rendicontazione delle performance viene inteso come l’insieme delle attività attraverso  cui le Società del Gruppo predispongono, anche con riferimento alle Società da esse controllate,  flussi informativi verso la Capogruppo, che consentano di monitorare su base almeno mensile:   •  l’andamento dell’attività di business e gli eventuali scostamenti rispetto agli obiettivi di  budget;   •  le principali operazioni concluse e la pipeline delle nuove operazioni;   •  il lancio di nuovi prodotti e iniziative tali da impattare significativamente sui risultati  economico-finanziari delle Società del Gruppo;   •  i risultati economico-finanziari e la situazione patrimoniale;   •  l’evoluzione prevedibile della gestione;    •  in ogni caso, tutti i dati e le informazioni (anche non incluse nei flussi informativi come da  prassi condivisi), necessarie per una rappresentazione efficace dell’andamento della  gestione, ivi inclusa l’evoluzione della reddittività del portafoglio partecipativo di Gruppo su  base almeno semestrale.   Le Società del Gruppo definiscono, condividendole preliminarmente con l’UO “Pianificazione e  Controllo Equity e Allocazione del Capitale” della Capogruppo, il contenuto e la struttura della  reportistica di monitoraggio, anche al fine di garantire coerenza di metriche e modalità di  rappresentazione delle performance a livello di Gruppo.   L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo definisce le  scadenze per la predisposizione e l’invio della reportistica di monitoraggio e la consolida nella  reportistica complessiva relativa alle Società del Gruppo.    La reportistica di monitoraggio di ciascuna Società del Gruppo viene discussa periodicamente  nell’ambito di “riunioni gestionali” di condivisione dell’andamento economico-finanziario e dei  principali eventi del periodo. Tali riunioni si svolgono con cadenza generalmente mensile tra le  strutture di “Pianificazione e Controllo di Gestione” della Capogruppo e delle Società del Gruppo e,  su base trimestrale, può essere prevista la partecipazione dei vertici della Capogruppo e delle  Società del Gruppo.   Le Società del Gruppo sono tenute a garantire l’efficace implementazione del processo di  rendicontazione dei flussi informativi ed il rispetto delle tempistiche, inviando tutte le informazioni  all’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo.       7  Impairment testing    Il processo di impairment testing viene inteso come l’insieme di attività attraverso cui la Capogruppo,  ad ogni data di bilancio, verifica la sussistenza di elementi oggettivi, quantitativi e qualitativi, che  possano far ritenere non interamente recuperabile il valore d’iscrizione in bilancio degli asset  aziendali (indicatori di impairment) e, nel caso di specie, delle partecipazioni. L’eventuale  sussistenza di tali elementi determinerà la necessità di effettuare la stima del valore recuperabile  delle partecipazioni.   L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo è responsabile  dello svolgimento dell’impairment test delle società partecipate.    L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo definisce le  metodologie e i criteri per lo svolgimento dell’impairment test e ne richiede validazione alla Direzione  Rischi della Capogruppo.   L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo definisce  inoltre le tempistiche dell’attività, in coerenza con quelle comunicate dall’UO “Bilancio, Normativa e  Segnalazioni” della Capogruppo in relazione al processo di bilancio, e le comunicano alle società  del Gruppo.   Le Società del Gruppo comunicano alla Capogruppo i responsabili del processo di impairment  testing, di norma da individuarsi nell’ambito delle strutture di Pianificazione e Controllo di Gestione  delle singole Società del Gruppo, nonché i referenti delle eventuali ulteriori funzioni coinvolte.    Le Società del Gruppo sono responsabili di fornire, nei tempi indicati, la documentazione e tutte le  informazioni utili ai fini dello svolgimento del processo di impairment test alle competenti strutture di  Capogruppo, anche con riferimento alle Società da esse partecipate. Tali informazioni includono:   •  prospetti di Stato Patrimoniale e Conto Economico consuntivi aggiornati alla data di  riferimento dell’esercizio di impairment test;   •  proiezioni economico-finanziarie pluriennali aggiornate;",
+        "hash": "eac96b11ce2e513eddc0aad2841e4b6a256df2656d10f837547dd34005f2865e"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fa69d1fbc7055bfba23e",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fa69d1fbc7055bfba23e",
+        "name": "7",
+        "type": "Sottocomma",
+        "abstract": "Il comma descrive gli obblighi procedurali e informativi delle Società del Gruppo e della Capogruppo in relazione al processo di impairment testing, specificando responsabilità, flussi informativi, criteri metodologici e tempistiche, nonché la necessità di fornire documentazione e informazioni utili per la verifica della recuperabilità delle partecipazioni. Testo significativo: Il processo di impairment testing viene inteso come l’insieme di attività attraverso cui la Capogruppo, ad ogni data di bilancio, verifica la sussistenza di elementi oggettivi, quantitativi e qualitativi, che possano far ritenere non interamente recuperabile il valore d’iscrizione in bilancio degli asset aziendali (indicatori di impairment) e, nel caso di specie, delle partecipazioni. L’eventuale sussistenza di tali elementi determinerà la necessità di effettuare la stima del valore recuperabile delle partecipazioni. L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo è responsabile dello svolgimento dell’impairment test delle società partecipate. L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo definisce le metodologie e i criteri per lo svolgimento dell’impairment test e ne richiede validazione alla Direzione Rischi della Capogruppo. L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo definisce inoltre le tempistiche dell’attività, in coerenza con quelle comunicate dall’UO “Bilancio, Normativa e Segnalazioni” della Capogruppo in relazione",
+        "plain_text": "Il processo di impairment testing viene inteso come l’insieme di attività attraverso cui la Capogruppo,  ad ogni data di bilancio, verifica la sussistenza di elementi oggettivi, quantitativi e qualitativi, che  possano far ritenere non interamente recuperabile il valore d’iscrizione in bilancio degli asset  aziendali (indicatori di impairment) e, nel caso di specie, delle partecipazioni. L’eventuale  sussistenza di tali elementi determinerà la necessità di effettuare la stima del valore recuperabile  delle partecipazioni.   L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo è responsabile  dello svolgimento dell’impairment test delle società partecipate.    L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo definisce le  metodologie e i criteri per lo svolgimento dell’impairment test e ne richiede validazione alla Direzione  Rischi della Capogruppo.   L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo definisce  inoltre le tempistiche dell’attività, in coerenza con quelle comunicate dall’UO “Bilancio, Normativa e  Segnalazioni” della Capogruppo in relazione al processo di bilancio, e le comunicano alle società  del Gruppo.   Le Società del Gruppo comunicano alla Capogruppo i responsabili del processo di impairment  testing, di norma da individuarsi nell’ambito delle strutture di Pianificazione e Controllo di Gestione  delle singole Società del Gruppo, nonché i referenti delle eventuali ulteriori funzioni coinvolte.    Le Società del Gruppo sono responsabili di fornire, nei tempi indicati, la documentazione e tutte le  informazioni utili ai fini dello svolgimento del processo di impairment test alle competenti strutture di  Capogruppo, anche con riferimento alle Società da esse partecipate. Tali informazioni includono:   •  prospetti di Stato Patrimoniale e Conto Economico consuntivi aggiornati alla data di  riferimento dell’esercizio di impairment test;   •  proiezioni economico-finanziarie pluriennali aggiornate;   •  ulteriori informazioni che si dovessero rendere necessarie ai fini dello svolgimento  dell’esercizio di impairment test, anche tenuto conto della specificità del business delle  Società del Gruppo.   In relazione all’attività di impairment testing svolta dalle Società del Gruppo sulle proprie partecipate,  le Società del Gruppo sono responsabili di fornire, nei tempi indicati, le informazioni tali da consentire  alla Capogruppo la verifica della coerenza nelle metriche utilizzate e delle metodologie applicate.    Per maggiori dettagli relativamente le attività di Impairment Testing si rimanda alla Policy di Gruppo  di riferimento “Impairment Test delle Partecipazioni e degli Avviamenti”, laddove applicabile.      8  Determinazione delle politiche di dividendo   Nell’esercizio delle proprie responsabilità di indirizzo, direzione e coordinamento la Capogruppo,  attraverso l’UO “Pianificazione e Controllo Equity e Allocazione del Capitale”, definisce le politiche  di distribuzione dei dividendi delle Società del Gruppo e delle società da queste controllate, anche  tenendo conto della salvaguardia dell’equilibrio economico, finanziario e patrimoniale sia delle  singole Società del Gruppo sia del Gruppo nel suo complesso e di quanto previsto da eventuali Enti  Regolatori.   A tal fine, in corrispondenza delle chiusure di bilancio rilevanti, le Società del Gruppo comunicano  all’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo le  informazioni richieste per la quantificazione dell’ammontare di dividendo distribuibile. L’UO  “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo, nello svolgimento  di tali analisi, si avvalgono del supporto delle altre funzioni della Capogruppo e delle Società del  Gruppo.",
+        "hash": "fa69d1fbc7055bfba23e91ffad81ef1fadc631a2339edbc8d8660fe56bb032e0"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::99bdad9fddd11f578cc2",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::99bdad9fddd11f578cc2",
+        "name": "8",
+        "type": "Sottocomma",
+        "abstract": "La Capogruppo, tramite l'UO 'Pianificazione e Controllo Equity e Allocazione del Capitale', è responsabile della definizione delle politiche di distribuzione dei dividendi delle Società del Gruppo e delle loro controllate, considerando l'equilibrio economico, finanziario e patrimoniale e le disposizioni degli Enti Regolatori. Le Società del Gruppo devono comunicare le informazioni necessarie per la quantificazione dei dividendi distribuibili. Testo significativo: Nell’esercizio delle proprie responsabilità di indirizzo, direzione e coordinamento la Capogruppo, attraverso l’UO “Pianificazione e Controllo Equity e Allocazione del Capitale”, definisce le politiche di distribuzione dei dividendi delle Società del Gruppo e delle società da queste controllate, anche tenendo conto della salvaguardia dell’equilibrio economico, finanziario e patrimoniale sia delle singole Società del Gruppo sia del Gruppo nel suo complesso e di quanto previsto da eventuali Enti Regolatori. A tal fine, in corrispondenza delle chiusure di bilancio rilevanti, le Società del Gruppo comunicano all’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo le informazioni richieste per la quantificazione dell’ammontare di dividendo distribuibile. L’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo, nello svolgimento di tali analisi, si avvalgono del supporto delle altre funzioni della Capogruppo e delle Società del Gruppo.",
+        "plain_text": "Nell’esercizio delle proprie responsabilità di indirizzo, direzione e coordinamento la Capogruppo,  attraverso l’UO “Pianificazione e Controllo Equity e Allocazione del Capitale”, definisce le politiche  di distribuzione dei dividendi delle Società del Gruppo e delle società da queste controllate, anche  tenendo conto della salvaguardia dell’equilibrio economico, finanziario e patrimoniale sia delle  singole Società del Gruppo sia del Gruppo nel suo complesso e di quanto previsto da eventuali Enti  Regolatori.   A tal fine, in corrispondenza delle chiusure di bilancio rilevanti, le Società del Gruppo comunicano  all’UO “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo le  informazioni richieste per la quantificazione dell’ammontare di dividendo distribuibile. L’UO  “Pianificazione e Controllo Equity e Allocazione del Capitale” della Capogruppo, nello svolgimento  di tali analisi, si avvalgono del supporto delle altre funzioni della Capogruppo e delle Società del  Gruppo.",
+        "hash": "99bdad9fddd11f578cc29400b3b1cd1773ca3934d50bf54b0c6fd59ec19fba44"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fbca877d705a5f4982f4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fbca877d705a5f4982f4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fbca877d705a5f4982f4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::a20be21c6bf8b8f32a29"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::a20be21c6bf8b8f32a29"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::a20be21c6bf8b8f32a29"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::14be4de552e2a7e353ac"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::14be4de552e2a7e353ac"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::14be4de552e2a7e353ac"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::50126241e5b1c5782680"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::50126241e5b1c5782680"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::50126241e5b1c5782680"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::329cae2682aba4420773"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::329cae2682aba4420773"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::329cae2682aba4420773"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::b83315e9bf917369dfdf"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::b83315e9bf917369dfdf"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::b83315e9bf917369dfdf"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::00953e3fe292070046d4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::00953e3fe292070046d4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::00953e3fe292070046d4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::78516481d645af87ff81"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::78516481d645af87ff81"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::78516481d645af87ff81"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eb70db4ccabf878d7b16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eb70db4ccabf878d7b16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eb70db4ccabf878d7b16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::19ef5ff6e878795abbb2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::19ef5ff6e878795abbb2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::19ef5ff6e878795abbb2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::bb7548bffdaa95084dcb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::bb7548bffdaa95084dcb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::bb7548bffdaa95084dcb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eac96b11ce2e513eddc0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eac96b11ce2e513eddc0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eac96b11ce2e513eddc0"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fa69d1fbc7055bfba23e"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fa69d1fbc7055bfba23e"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fa69d1fbc7055bfba23e"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::99bdad9fddd11f578cc2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::99bdad9fddd11f578cc2"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::74a820848b3972e5cbcca8d4f3bdcffd",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::99bdad9fddd11f578cc2"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fbca877d705a5f4982f4",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fbca877d705a5f4982f4"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fbca877d705a5f4982f4",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fbca877d705a5f4982f4"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::a20be21c6bf8b8f32a29",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::a20be21c6bf8b8f32a29"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::a20be21c6bf8b8f32a29",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::a20be21c6bf8b8f32a29"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::14be4de552e2a7e353ac",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::14be4de552e2a7e353ac"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::14be4de552e2a7e353ac",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::14be4de552e2a7e353ac"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::50126241e5b1c5782680",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::50126241e5b1c5782680"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::50126241e5b1c5782680",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::50126241e5b1c5782680"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::329cae2682aba4420773",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::329cae2682aba4420773"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::329cae2682aba4420773",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::329cae2682aba4420773"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::b83315e9bf917369dfdf",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::b83315e9bf917369dfdf"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::b83315e9bf917369dfdf",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::b83315e9bf917369dfdf"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::00953e3fe292070046d4",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::00953e3fe292070046d4"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::00953e3fe292070046d4",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::00953e3fe292070046d4"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::78516481d645af87ff81",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::78516481d645af87ff81"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::78516481d645af87ff81",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::78516481d645af87ff81"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eb70db4ccabf878d7b16",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eb70db4ccabf878d7b16"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eb70db4ccabf878d7b16",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eb70db4ccabf878d7b16"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::19ef5ff6e878795abbb2",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::19ef5ff6e878795abbb2"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::19ef5ff6e878795abbb2",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::19ef5ff6e878795abbb2"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::bb7548bffdaa95084dcb",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::bb7548bffdaa95084dcb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::bb7548bffdaa95084dcb",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::bb7548bffdaa95084dcb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eac96b11ce2e513eddc0",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eac96b11ce2e513eddc0"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eac96b11ce2e513eddc0",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::eac96b11ce2e513eddc0"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fa69d1fbc7055bfba23e",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fa69d1fbc7055bfba23e"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fa69d1fbc7055bfba23e",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::fa69d1fbc7055bfba23e"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::99bdad9fddd11f578cc2",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::99bdad9fddd11f578cc2"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::99bdad9fddd11f578cc2",
+      "target": "DOCUMENT_SECTION::74a820848b3972e5cbcca8d4f3bdcffd::99bdad9fddd11f578cc2"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:21:18.688786+00:00",
+    "document_name": "PolicyPCGdiGruppo22Clean20231204.pdf",
+    "document_hash": "74a820848b3972e5cbcca8d4f3bdcffd"
+  }
+}
