@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::f1f0118009109bda15c46feeca98e105",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::f1f0118009109bda15c46feeca98e105",
+        "name": "T2LE_00066_26_AEAT_LEV.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "f1f0118009109bda15c46feeca98e105"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::f1f0118009109bda15c46feeca98e105",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:01:20.273597+00:00",
+    "document_name": "T2LE_00066_26_AEAT_LEV.pdf",
+    "document_hash": "f1f0118009109bda15c46feeca98e105"
+  }
+}

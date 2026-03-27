@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::d739a4e73f1dc201bbfe216ac101f9f4",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::d739a4e73f1dc201bbfe216ac101f9f4",
+        "name": "6_PERMISO_IMPORTACION_5.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "d739a4e73f1dc201bbfe216ac101f9f4"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb",
+        "name": "0",
+        "type": "Comma",
+        "abstract": "",
+        "plain_text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::d739a4e73f1dc201bbfe216ac101f9f4",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::d739a4e73f1dc201bbfe216ac101f9f4",
+      "target": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::d739a4e73f1dc201bbfe216ac101f9f4",
+      "target": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::d739a4e73f1dc201bbfe216ac101f9f4",
+      "target": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::d739a4e73f1dc201bbfe216ac101f9f4",
+      "target": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::d739a4e73f1dc201bbfe216ac101f9f4",
+      "target": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::d739a4e73f1dc201bbfe216ac101f9f4",
+      "target": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::d739a4e73f1dc201bbfe216ac101f9f4::e3b0c44298fc1c149afb"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:07:59.273197+00:00",
+    "document_name": "6_PERMISO_IMPORTACION_5.pdf",
+    "document_hash": "d739a4e73f1dc201bbfe216ac101f9f4"
+  }
+}

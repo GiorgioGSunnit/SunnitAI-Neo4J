@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::0705164d138ce639ed8c308e34787731",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::0705164d138ce639ed8c308e34787731",
+        "name": "8_FITO_ORIGEN.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "0705164d138ce639ed8c308e34787731"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::0705164d138ce639ed8c308e34787731",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:09:18.587603+00:00",
+    "document_name": "8_FITO_ORIGEN.pdf",
+    "document_hash": "0705164d138ce639ed8c308e34787731"
+  }
+}

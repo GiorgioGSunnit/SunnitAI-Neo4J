@@ -1,0 +1,452 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+        "name": "Documento_8B6AQK5141.pdf",
+        "description": "Il comma elenca i dati relativi al trasporto che devono essere indicati, come il nome della nave, numero del volo, numero del documento di trasporto, numero del vagone o veicolo, e numero di identificazione del pacco. Testo significativo: Transporte: Nombre del buque / Nº de vuelo: Nº del conocimiento de embarque / nº de conocimiento aéreo: Nº de vagón / vehículo / remolque: Nº de diferido correos/nº identificación paquete: Transporte: Nombre del buque / Nº de vuelo: Nº del conocimiento de embarque / nº de conocimiento aéreo: Nº de vagón / vehículo / remolque: Nº de diferido correos/nº identificación paquete: Transporte: Nombre del buque / Nº de vuelo: Nº del conocimiento de embarque / nº de conocimiento aéreo: Nº de vagón / vehículo / remolque: Nº de diferido correos/nº identificación paquete: Il comma richiede l'indicazione del numero di autorizzazione, certificato o notifica di esportazione AEMPS relativo alla spedizione. Testo significativo: Número (s) de autorización/certificado/notificación exportación AEMPS: 0532625/25/NOT Número (s) de autorización/certificado/notificación exportación AEMPS: 0532625/25/NOT Número (s) de autorización/certificado/notificación exportación AEMPS: 0532625/25/NOT Il comma richiede l'indicazione del numero dei sigilli e dei contenitori, nonché informazioni relative al luogo, data, nome, cognome e firma del dichiarante. Testo significativo: Número(s) del(los) precinto(s) y número del(los) contenedor(es): Lugar y fecha de la declaración: Nombre y apellidos del firmante: Firma Número(s) del(los) precinto(s) y número del(los) contenedor(es): 17. Destino. Lugar y fecha de la declaración: Nombre y apellidos del firmante: Firma Número(s) del(los) precinto(s) y número del(los) contenedor(es): 17. Destino. Lugar y fecha de la declaración: Nombre y apellidos del firmante: Firma Il comma indica la necessità di specificare se esiste un DOIFE previo, selezionando tra le opzioni 'No' o 'Sí', come parte della dichiarazione richiesta. Testo significativo: DOIFE previo: No Sí DOIFE previo: No Sí DOIFE previo: No Sí Il comma elenca le possibili esiti del controllo fisico di identità, distinguendo tra 'satisfactorio' e 'no satisfactorio', ma non introduce obblighi, condizioni, sanzioni o termini temporali. Testo significativo: Control Físico Satisfactorio No satisfactorio Satisfactorio: No satisfactorio: Control Físico Satisfactorio No satisfactorio Satisfactorio: No satisfactorio: Control Físico Satisfactorio No satisfactorio Satisfactorio: No satisfactorio: Il comma richiede l'indicazione del numero di autorizzazione, certificato o notifica di esportazione AEMPS relativo all'analisi di laboratorio. Testo significativo: Numero de autorización/certificado notificación exportación AEMPS: Numero de autorización/certificado notificación exportación AEMPS: Numero de autorización/certificado notificación exportación AEMPS: Il comma elenca situazioni di non conformità relative all'assenza o invalidità di certificati o documenti, nonché errori nell'etichettatura, in materia di esportazioni. Testo significativo: Ausencia de certificados o documentos que acrediten la conformidad/ e).Otro / Certificados o documentos no válidos 2.-Materia Prima 4. Etiquetado incorrecto Ausencia de certificados o documentos que acrediten la conformidad/ e).Otro / Certificados o documentos no válidos 2.-Materia Prima 4. Etiquetado incorrecto Ausencia de certificados o documentos que acrediten la conformidad/ e).Otro / Certificados o documentos no válidos 2.-Materia Prima 4. Etiquetado incorrecto Il comma richiede l'identificazione completa dell'autorità competente in caso di non idoneità dovuta a igiene deficiente, merce deteriorata o rottura della catena del freddo. Testo significativo: Identificación completa",
+        "date_enacted": "",
+        "status": "",
+        "hash": "2c4a60ebf65321417cca5367d7a3fe1f"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb",
+        "name": "0",
+        "type": "Comma",
+        "abstract": "",
+        "plain_text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::27780cf0873335423e6b",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::27780cf0873335423e6b",
+        "name": "10.",
+        "type": "Sottocomma",
+        "abstract": "Il comma elenca i dati relativi al trasporto che devono essere indicati, come il nome della nave, numero del volo, numero del documento di trasporto, numero del vagone o veicolo, e numero di identificazione del pacco. Testo significativo: Transporte: Nombre del buque / Nº de vuelo: Nº del conocimiento de embarque / nº de conocimiento aéreo: Nº de vagón / vehículo / remolque: Nº de diferido correos/nº identificación paquete:",
+        "plain_text": "Transporte: \n \nNombre del buque / Nº de vuelo: \n \n \nNº del conocimiento de embarque / nº de conocimiento aéreo: \n \n \nNº de vagón / vehículo / remolque: \n \n \nNº de diferido correos/nº identificación paquete:",
+        "hash": "27780cf0873335423e6ba04b9273a96e12d2513951a60e868089c0f5fc484c1c"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::336c0662c8df74f87f18",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::336c0662c8df74f87f18",
+        "name": "11.",
+        "type": "Sottocomma",
+        "abstract": "Il comma richiede l'indicazione del numero di autorizzazione, certificato o notifica di esportazione AEMPS relativo alla spedizione. Testo significativo: Número (s) de autorización/certificado/notificación exportación AEMPS: 0532625/25/NOT",
+        "plain_text": "Número (s) de autorización/certificado/notificación exportación AEMPS: 0532625/25/NOT",
+        "hash": "336c0662c8df74f87f18b7a5d78befebe98229a74e1668ec1996b1f5adcc8662"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::3241ea4d5440e8199d32",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::3241ea4d5440e8199d32",
+        "name": "16.",
+        "type": "Sottocomma",
+        "abstract": "Il comma richiede l'indicazione del numero dei sigilli e dei contenitori, nonché informazioni relative al luogo, data, nome, cognome e firma del dichiarante. Testo significativo: Número(s) del(los) precinto(s) y número del(los) contenedor(es): Lugar y fecha de la declaración: Nombre y apellidos del firmante: Firma",
+        "plain_text": "Número(s) del(los) precinto(s) y número del(los) contenedor(es): \n \n \n \n \n \n17. Destino.  \n \nLugar y fecha de la declaración: \n \n \nNombre y apellidos del firmante: \n \n \nFirma",
+        "hash": "3241ea4d5440e8199d32cbc1aecd80eb91fa4c7e14695e67c3b3f5af6e013bcf"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::85bf6f5f955a93fa2bb7",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::85bf6f5f955a93fa2bb7",
+        "name": "19.",
+        "type": "Sottocomma",
+        "abstract": "Il comma indica la necessità di specificare se esiste un DOIFE previo, selezionando tra le opzioni 'No' o 'Sí', come parte della dichiarazione richiesta. Testo significativo: DOIFE previo: No Sí",
+        "plain_text": "DOIFE previo:                                                  No \n \n                     Sí",
+        "hash": "85bf6f5f955a93fa2bb75108164dd9ae75e267bd69f582a97b206758ce69a3b7"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::97b1cbdaa227dec15a30",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::97b1cbdaa227dec15a30",
+        "name": "23.",
+        "type": "Sottocomma",
+        "abstract": "Il comma elenca le possibili esiti del controllo fisico di identità, distinguendo tra 'satisfactorio' e 'no satisfactorio', ma non introduce obblighi, condizioni, sanzioni o termini temporali. Testo significativo: Control Físico Satisfactorio No satisfactorio Satisfactorio: No satisfactorio:",
+        "plain_text": "Control Físico \n           Satisfactorio \n \n     No satisfactorio  Satisfactorio: \n \nNo satisfactorio:",
+        "hash": "97b1cbdaa227dec15a30d0b8855b8a8ac59006cc4a25498263ec2c6d2e799858"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::dd5a572d4e55195755bc",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::dd5a572d4e55195755bc",
+        "name": "26.",
+        "type": "Sottocomma",
+        "abstract": "Il comma richiede l'indicazione del numero di autorizzazione, certificato o notifica di esportazione AEMPS relativo all'analisi di laboratorio. Testo significativo: Numero de autorización/certificado notificación exportación AEMPS:",
+        "plain_text": "Numero de autorización/certificado notificación exportación AEMPS:",
+        "hash": "dd5a572d4e55195755bc45d4f486fce2853082d6cca004f33c0b1b5c27f486f3"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::91ac40acc8f7321dfd6e",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::91ac40acc8f7321dfd6e",
+        "name": "3.",
+        "type": "Sottocomma",
+        "abstract": "Il comma elenca situazioni di non conformità relative all'assenza o invalidità di certificati o documenti, nonché errori nell'etichettatura, in materia di esportazioni. Testo significativo: Ausencia de certificados o documentos que acrediten la conformidad/ e).Otro / Certificados o documentos no válidos 2.-Materia Prima 4. Etiquetado incorrecto",
+        "plain_text": "Ausencia de certificados o documentos que acrediten la conformidad/ e).Otro \n \n \n/  Certificados o documentos no válidos  2.-Materia Prima \n \n \n4. Etiquetado incorrecto",
+        "hash": "91ac40acc8f7321dfd6ec6f3b8f233bf8fdf8b0589ae4629cb8afca1f9d12d65"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::7f2e226ed46b81c6c225",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::7f2e226ed46b81c6c225",
+        "name": "28.",
+        "type": "Sottocomma",
+        "abstract": "Il comma richiede l'identificazione completa dell'autorità competente in caso di non idoneità dovuta a igiene deficiente, merce deteriorata o rottura della catena del freddo. Testo significativo: Identificación completa de la autoridad competente:",
+        "plain_text": "NO APTO \n31. Identificación completa de la autoridad competente:",
+        "hash": "7f2e226ed46b81c6c225e979981bb60699b7c98295b40496e7e055a64e064218"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::1517626f2976a1898d52",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::1517626f2976a1898d52",
+        "name": "34.",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce informazioni relative al documento doganale di riferimento, inclusi dettagli di autenticazione e verifica elettronica. Testo significativo: Documento aduanero de referncia: 35: DOIFE(s) sucesivo(s): Número(s) Firmado por PUGA LLOPIS DANIEL - DNI ***1588** Fecha: 08/08/2025 13:01:42 CEST Este documento ha sido firmado electrónicamente Su validez se puede comprobar introduciendo el código 8B6AQK5141 en la aplicación 'Localizador' de la Oficina Virtual de la AEMPS ( http://www.aemps.gob.es )",
+        "plain_text": "Documento aduanero de referncia: \n \n \n \n35: DOIFE(s) sucesivo(s): \n \n   Número(s)  Firmado por PUGA LLOPIS DANIEL - DNI ***1588**\nFecha: 08/08/2025 13:01:42 CEST Este documento ha sido firmado electrónicamente\nSu validez se puede comprobar introduciendo el código 8B6AQK5141 en la aplicación 'Localizador'\nde la Oficina Virtual de la AEMPS ( http://www.aemps.gob.es )",
+        "hash": "1517626f2976a1898d528d60d7560ccc16243c1673974889d9d462a46a577ce1"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::27780cf0873335423e6b"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::27780cf0873335423e6b"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::27780cf0873335423e6b"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::336c0662c8df74f87f18"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::336c0662c8df74f87f18"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::336c0662c8df74f87f18"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::3241ea4d5440e8199d32"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::3241ea4d5440e8199d32"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::3241ea4d5440e8199d32"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::85bf6f5f955a93fa2bb7"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::85bf6f5f955a93fa2bb7"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::85bf6f5f955a93fa2bb7"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::97b1cbdaa227dec15a30"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::97b1cbdaa227dec15a30"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::97b1cbdaa227dec15a30"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::dd5a572d4e55195755bc"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::dd5a572d4e55195755bc"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::dd5a572d4e55195755bc"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::91ac40acc8f7321dfd6e"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::91ac40acc8f7321dfd6e"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::91ac40acc8f7321dfd6e"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::7f2e226ed46b81c6c225"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::7f2e226ed46b81c6c225"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::7f2e226ed46b81c6c225"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::1517626f2976a1898d52"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::1517626f2976a1898d52"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::2c4a60ebf65321417cca5367d7a3fe1f",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::1517626f2976a1898d52"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::27780cf0873335423e6b",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::27780cf0873335423e6b"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::27780cf0873335423e6b",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::27780cf0873335423e6b"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::336c0662c8df74f87f18",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::336c0662c8df74f87f18"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::336c0662c8df74f87f18",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::336c0662c8df74f87f18"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::3241ea4d5440e8199d32",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::3241ea4d5440e8199d32"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::85bf6f5f955a93fa2bb7",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::85bf6f5f955a93fa2bb7"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::97b1cbdaa227dec15a30",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::97b1cbdaa227dec15a30"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::97b1cbdaa227dec15a30",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::97b1cbdaa227dec15a30"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::dd5a572d4e55195755bc",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::dd5a572d4e55195755bc"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::dd5a572d4e55195755bc",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::dd5a572d4e55195755bc"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::91ac40acc8f7321dfd6e",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::91ac40acc8f7321dfd6e"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::91ac40acc8f7321dfd6e",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::91ac40acc8f7321dfd6e"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::7f2e226ed46b81c6c225",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::7f2e226ed46b81c6c225"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::7f2e226ed46b81c6c225",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::7f2e226ed46b81c6c225"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::1517626f2976a1898d52"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::1517626f2976a1898d52",
+      "target": "DOCUMENT_SECTION::2c4a60ebf65321417cca5367d7a3fe1f::e3b0c44298fc1c149afb"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:10:46.325738+00:00",
+    "document_name": "Documento_8B6AQK5141.pdf",
+    "document_hash": "2c4a60ebf65321417cca5367d7a3fe1f"
+  }
+}

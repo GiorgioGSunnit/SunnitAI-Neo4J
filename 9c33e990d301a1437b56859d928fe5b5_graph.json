@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::9c33e990d301a1437b56859d928fe5b5",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::9c33e990d301a1437b56859d928fe5b5",
+        "name": "E_106089EX_AEAT_DAE.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "9c33e990d301a1437b56859d928fe5b5"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::9c33e990d301a1437b56859d928fe5b5",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T21:58:37.277641+00:00",
+    "document_name": "E_106089EX_AEAT_DAE.pdf",
+    "document_hash": "9c33e990d301a1437b56859d928fe5b5"
+  }
+}
