@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+        "name": "NOA.ES.2026.0001675.pdf",
+        "description": "Il comma elenca e descrive le categorie di articoli di uso domestico e loro parti, realizzati in ferro o acciaio, inclusi oggetti per la pulizia e la lucidatura. Testo significativo: Artículos de uso doméstico y sus partes, de fundición, hierro o acero; lana de hierro o acero; esponjas, estropajos, guantes y artículos similares para fregar, lustrar o usos análogos, de hierro o acero. Artículos de uso doméstico y sus partes, de fundición, hierro o acero; lana de hierro o acero; esponjas, estropajos, guantes y artículos similares para fregar, lustrar o usos análogos, de hierro o acero Il comma riporta dati descrittivi e identificativi relativi a una spedizione di articoli di uso domestico in ferro o acciaio, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: Parte I: Descripción de la mercancia presentada I.2. TRACES Reference NOA.ES.2026.0001675 I.3. Referencia local 4VLC1 I.1. Expedidor/Exportador Nombre WORLDWIDE EXPORT AND IMPORT CO., LTD Dirección 231. JIANGBEI RD . NINGBO.CHINA 312400 Ningbo City País China Código ISO CN ... I.31. Descripción de la mercancía 1. 73 MANUFACTURAS DE FUNDICIÓN, DE HIERRO O ACERO 7323 Artículos de uso doméstico y sus partes, de fundición, hierro o acero; lana de hierro o acero; esponjas, estropajos, guantes y artículos similares para fregar, lustrar o usos análogos, de hierro o acero Los demás 732399 Los demás 73239900 Los demás [['Parte I: Descripción de la mercancia presentada', 'I.2. TRACES Reference\\nNOA.ES.2026.0001675', None, None, 'I.3. Referencia local\\n4VLC1', None, 'I.1. Expedidor/Exportador\\nNombre WORLDWIDE EXPORT AND IMPORT CO., LTD\\nDirección 231. JIANGBEI RD . NINGBO.CHINA\\n312400 Ningbo City\\nPaís China Código ISO CN', None], [None, None, None, None, 'I.4. Puesto de control fronterizo\\n(PCF)\\nValencia, P', None, None, None], [None, None, None, None, 'I.5. Puesto de control\\nfronterizo/Punto de\\nControl/Código de Unidad de\\nControl\\nESVLC1-SanidadExterior', None, None, None], [None, 'I.6. Destinatario/Importador\\nNombre CACIA IMPORT EXPORT, S.L.\\nDirección AV. DE VILA REAL, 8, CASTELLON\\n12006 Castellón de la Plana\\nPaís España Código ISO ES', None, None, None, None, 'I.7. Lugar de destino\\nNombre CACIA IMPORT EXPORT, S.L.\\nDirección AV. DE VILA REAL, 8, CASTELLON\\n12006 Castellón de la Plana\\nNúmero de\\nautorización\\nPaís España Código ISO ES', None], [None, 'I.8. Operador responsable de la partida\\nNombre VICENTE GARAY LILLO\\nDirección DR J.J. DOMINE 6\\n46011 Valencia\\nPaís España Código ISO ES', None, None, None, None, 'I.9. Documentos de acompañamiento\\nTipo\\nNúmero\\nFecha de emisión\\nPaís\\nPaís y lugar de emisión', None], [None, 'I.10. Notificación previa\\nFecha 13.01.2026 +01 (Europe/Madrid) Hora 00:00:00 +01 (Europe/Madrid)', None, None, None, None, None, None], [None, 'I.13. Medio de transporte', None, None, None, None, 'O\\nI.11. País de origen Código ISO\\nChina CN', None], ['', 'Tipo', 'Documento', 'Identificación', None, None, None, None], [None, 'Barco', '', 'MSC MICHEL CAPPELLINI |\\nLiberia', None, None, 'I.12. Región Il comma riporta una descrizione tecnica e quantitativa della merce presentata, inclusi dati identificativi, peso, quantità, paese di origine e una dichiarazione di veridicità da parte dell'operatore responsabile. Testo significativo: I, the undersigned operator responsible for the consignment detailed above, certify that to the best of my knowledge and belief, the statements made in Part I of this document are true and complete. [['Parte I: Descripción de la mercancia presentada', '#1.', 'Materia prima\\n73239900', 'Peso neto\\n61 kg', None, 'Recuento de",
+        "date_enacted": "",
+        "status": "",
+        "hash": "055e17c1a017ec27adc8b4045d781d36"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa",
+        "name": "7323",
+        "type": "Sottocomma",
+        "abstract": "Il comma elenca e descrive le categorie di articoli di uso domestico e loro parti, realizzati in ferro o acciaio, inclusi oggetti per la pulizia e la lucidatura. Testo significativo: Artículos de uso doméstico y sus partes, de fundición, hierro o acero; lana de hierro o acero; esponjas, estropajos, guantes y artículos similares para fregar, lustrar o usos análogos, de hierro o acero.",
+        "plain_text": "Artículos de uso doméstico y sus partes, de fundición, hierro o acero; lana de hierro o acero; esponjas, estropajos, guantes y artículos  similares para fregar, lustrar o usos análogos, de hierro o acero",
+        "hash": "5afab27d02ad88ab52fa27e070e540f7ef665150e5bf71234ad3c03b2ed0c0cd"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::c0ed14bf07a9e190ca4f",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::c0ed14bf07a9e190ca4f",
+        "name": "7323_tab1",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta dati descrittivi e identificativi relativi a una spedizione di articoli di uso domestico in ferro o acciaio, senza introdurre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: Parte I: Descripción de la mercancia presentada I.2. TRACES Reference NOA.ES.2026.0001675 I.3. Referencia local 4VLC1 I.1. Expedidor/Exportador Nombre WORLDWIDE EXPORT AND IMPORT CO., LTD Dirección 231. JIANGBEI RD . NINGBO.CHINA 312400 Ningbo City País China Código ISO CN ... I.31. Descripción de la mercancía 1. 73 MANUFACTURAS DE FUNDICIÓN, DE HIERRO O ACERO 7323 Artículos de uso doméstico y sus partes, de fundición, hierro o acero; lana de hierro o acero; esponjas, estropajos, guantes y artículos similares para fregar, lustrar o usos análogos, de hierro o acero Los demás 732399 Los demás 73239900 Los demás",
+        "plain_text": "[['Parte I: Descripción de la mercancia presentada', 'I.2. TRACES Reference\\nNOA.ES.2026.0001675', None, None, 'I.3. Referencia local\\n4VLC1', None, 'I.1. Expedidor/Exportador\\nNombre WORLDWIDE EXPORT AND IMPORT CO., LTD\\nDirección 231. JIANGBEI RD . NINGBO.CHINA\\n312400 Ningbo City\\nPaís China Código ISO CN', None], [None, None, None, None, 'I.4. Puesto de control fronterizo\\n(PCF)\\nValencia, P', None, None, None], [None, None, None, None, 'I.5. Puesto de control\\nfronterizo/Punto de\\nControl/Código de Unidad de\\nControl\\nESVLC1-SanidadExterior', None, None, None], [None, 'I.6. Destinatario/Importador\\nNombre CACIA IMPORT EXPORT, S.L.\\nDirección AV. DE VILA REAL, 8, CASTELLON\\n12006 Castellón de la Plana\\nPaís España Código ISO ES', None, None, None, None, 'I.7. Lugar de destino\\nNombre CACIA IMPORT EXPORT, S.L.\\nDirección AV. DE VILA REAL, 8, CASTELLON\\n12006 Castellón de la Plana\\nNúmero de\\nautorización\\nPaís España Código ISO ES', None], [None, 'I.8. Operador responsable de la partida\\nNombre VICENTE GARAY LILLO\\nDirección DR J.J. DOMINE 6\\n46011 Valencia\\nPaís España Código ISO ES', None, None, None, None, 'I.9. Documentos de acompañamiento\\nTipo\\nNúmero\\nFecha de emisión\\nPaís\\nPaís y lugar de emisión', None], [None, 'I.10. Notificación previa\\nFecha 13.01.2026 +01 (Europe/Madrid) Hora 00:00:00 +01 (Europe/Madrid)', None, None, None, None, None, None], [None, 'I.13. Medio de transporte', None, None, None, None, 'O\\nI.11. País de origen Código ISO\\nChina CN', None], ['', 'Tipo', 'Documento', 'Identificación', None, None, None, None], [None, 'Barco', '', 'MSC MICHEL CAPPELLINI |\\nLiberia', None, None, 'I.12. Región de origen Código', None], [None, '', None, None, None, None, None, None], [None, 'D\\nI.14. País de expedición Código ISO\\nChina CN', None, None, None, None, None, None], [None, 'A\\nI.15. Establecimiento de origen D\\nNombre\\nDirección\\nI\\nNúmero de autorización\\nPaís Código ISO', None, None, None, None, None, None], [None, 'L\\nI.16. Condiciones de transporte\\nAmbiente ☑ De congelación ☐ De refrigeración ☐', None, None, None, None, None, None], [None, 'I.17. Número del recipiente / Número del precinto', None, None, None, None, None, None], [None, 'Número del contenedor', None, None, None, 'A\\nNúmero del precinto', None, 'Precinto oficial'], [None, 'UETU7676771', None, None, None, 'FX43649696', None, '☐'], [None, 'V', None, None, None, None, None, None], [None, 'I.18. Mercancías certificadas como\\nFood Contact Materials', None, None, None, None, None, None], [None, 'I.19. Conformidad de las mercancías\\nConforme ☐ No conforme ☐', None, None, None, None, None, None], [None, 'I.23. Para el mercado interior ☑', None, None, None, None, None, None], [None, 'I.27. Medios de transporte después del puesto de control\\nfronterizo/almacenamiento', None, None, None, None, 'I.28. Transportista\\nNombre\\nDirección\\nPaís Código ISO', None], [None, 'Tipo', 'Documento', 'Identificación', None, None, None, None], [None, '', '', '', None, None, None, None], [None, '', '', '', None, None, None, None], [None, '', '', '', None, None, None, None], [None, '', '', '', None, None, None, None], [None, 'I.29. Fecha de salida', None, None, None, None, None, None], [None, 'I.31. Descripción de la mercancía\\n1. 73 MANUFACTURAS DE FUNDICIÓN, DE HIERRO O ACERO\\n7323 Artículos de uso doméstico y sus partes, de fundición, hierro o acero; lana de hierro o acero; esponjas, estropajos, guantes y artículos\\nsimilares para fregar, lustrar o usos análogos, de hierro o acero\\nLos demás\\n732399 Los demás\\n73239900 Los demás', None, None, None, None, None, None], [None, '', None, None, None, None, None, None]]",
+        "hash": "c0ed14bf07a9e190ca4f0039048b07ded474cf4e6c32e7d508a1a3609b4c2248"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::f40bb266ac389058b8a4",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::f40bb266ac389058b8a4",
+        "name": "7323_tab2",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta una descrizione tecnica e quantitativa della merce presentata, inclusi dati identificativi, peso, quantità, paese di origine e una dichiarazione di veridicità da parte dell'operatore responsabile. Testo significativo: I, the undersigned operator responsible for the consignment detailed above, certify that to the best of my knowledge and belief, the statements made in Part I of this document are true and complete.",
+        "plain_text": "[['Parte I: Descripción de la mercancia presentada', '#1.', 'Materia prima\\n73239900', 'Peso neto\\n61 kg', None, 'Recuento de bultos\\n35 Caja', None, 'Cantidad', 'Tipo de producto', None, 'Identification Code', None, 'País de origen\\nChina (CN)'], [None, 'I.32. Número total de bultos\\n35 Caja', None, None, 'I.33. Cantidad', None, 'I.34. Peso neto total\\n61 kg', None, None, 'I.34. Peso bruto total\\n64 kg', None, 'I.34. Volumen bruto total', None], [None, 'I.35 Declaración\\nI, the undersigned operator responsible for the consignment detailed above, certify that to the best of my knowledge and belief, the statements made\\nin Part I of this document are true and complete.\\nFecha Nombre del firmante Firma\\n19 enero 2026 17:07:01 +01 (CET) salvador garay lopez\\nO\\nD\\nA\\nD\\nI\\nL\\nA\\nV', None, None, None, None, None, None, None, None, None, None, None], ['', None, None, None, None, None, None, None, None, None, None, None, None]]",
+        "hash": "f40bb266ac389058b8a47290c7fbb484521cce431e51862e292aefa0e0110ea5"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::696a42291db7dafc4241",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::696a42291db7dafc4241",
+        "name": "7323_tab3",
+        "type": "Sottocomma",
+        "abstract": "Il comma riporta una serie di controlli e verifiche documentali, di identità, fisici e di laboratorio, nonché l'idoneità per il mercato interno e dettagli relativi all'ispezione e alla certificazione ufficiale della partita di articoli di uso domestico in ferro o acciaio. Testo significativo: I, the undersigned certifying officer, hereby record the results of checks carried out on the consignment in accordance with Union requirements and where applicable in accordance with the national requirements of the Member State of destination.",
+        "plain_text": "[['Parte II: Resolución sobre la partida', 'II.1 Previous NOA', 'II.2. NOA Reference\\nNOA.ES.2026.0001675', None, 'II.24 Subsequent NOA'], [None, 'II.3. Control documental\\nEU Standard Satisfactorio ☑ No satisfactorio ☐', None, 'II.4. Control de identidad Sí ☐ No ☑\\nSatisfactorio ☐ No satisfactorio ☐', None], [None, 'II.5. Control físico Sí ☐ No ☑\\nSatisfactorio ☐ No satisfactorio ☐', None, 'II.6 Pruebas de laboratorio Sí ☐ No ☑\\nPrueba\\nAleatorio ☐ Sospecha ☐\\nResultad Pendiente ☐ Satisfactorio ☐ No satisfactorio ☐\\nos', None], [None, 'II.12 Apto para el mercado interior ☑\\nFood Contact Materials ☑', None, None, None], [None, 'II.18 Detalles del destino controlado\\nNombre\\nDirección\\nPaís Código ISO', None, None, None], [None, 'II.20 Código de Unidad de Control\\nPCF Valencia, P Sello\\nNúmero de ESVLC1-\\nunidades SanidadExterio\\nr', None, 'II.21 Inspector oficial que certifica\\nI, the undersigned certifying officer, hereby record the results of checks\\ncarried out on the consignment in accordance with Union requirements\\nand where applicable in accordance with the national requirements of\\nthe Member State of destination.\\nO\\nApellidos, Esther Peiró Firma\\nnombre Just\\nFecha 21 enero 2026\\n18:57:34 +01\\n(CET)', None], [None, 'II.22 Tasas de inspección', None, None, None], ['', None, None, None, None], [None, 'II.23 Referencia del documento aduanero', None, None, None], [None, 'V A L I D A D', None, None, None]]",
+        "hash": "696a42291db7dafc4241eb4482817c1b7a059c24801f6ae5ac3853e854bb2c29"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::c0ed14bf07a9e190ca4f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::c0ed14bf07a9e190ca4f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::f40bb266ac389058b8a4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::f40bb266ac389058b8a4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::696a42291db7dafc4241"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::696a42291db7dafc4241"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::055e17c1a017ec27adc8b4045d781d36",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::c0ed14bf07a9e190ca4f",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::c0ed14bf07a9e190ca4f"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::c0ed14bf07a9e190ca4f",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::f40bb266ac389058b8a4",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::f40bb266ac389058b8a4"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::f40bb266ac389058b8a4",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::696a42291db7dafc4241",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::696a42291db7dafc4241"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::696a42291db7dafc4241",
+      "target": "DOCUMENT_SECTION::055e17c1a017ec27adc8b4045d781d36::5afab27d02ad88ab52fa"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:38:58.556561+00:00",
+    "document_name": "NOA.ES.2026.0001675.pdf",
+    "document_hash": "055e17c1a017ec27adc8b4045d781d36"
+  }
+}

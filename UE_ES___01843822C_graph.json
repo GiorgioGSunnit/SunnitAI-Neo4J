@@ -1,0 +1,435 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+        "name": "UE_ES___01843822C.pdf",
+        "description": "Il comma si limita a indicare che devono essere dichiarati i mezzi di trasporto, senza specificare obblighi, condizioni, sanzioni o termini temporali. Testo significativo: Medios de transporte declarados / Declared means of conveyance Medios de transporte declarados / Declared means of conveyance Medios de transporte declarados / Declared means of conveyance Il comma elenca le informazioni identificative e descrittive richieste per i colli e i prodotti vegetali dichiarati al punto di ingresso, tra cui marchi distintivi, numero e descrizione dei colli, nome del prodotto, nome botanico, quantità dichiarata e numeri di container e sigilli. Testo significativo: Marcas distintivas de los bultos; número y descripción de los bultos; nombre del producto; nombre botánico de las plantas / Distinguishing marks; number and description of packages; name of produce; botanical name of plants 9.Cantidad declarada/ Quantity declared / 132 / Paleta / Tierras y medios de cultivo / COCO PITH-FIBRES COCO, fibra (para sustrato) / Cocos nucifera 144.546,00000 kg ... Nº Contenedor y Nº Precinto / Container number and Seal number: MEDU7593718; MSDU6536583; MSMU8442108; CAIU8959586; FFAU1542499; MSNU5289067 Marcas distintivas de los bultos; número y descripción de los bultos; nombre del producto; nombre botánico de las plantas / Distinguishing marks; number and description of packages; name of produce; botanical name of plants 9.Cantidad declarada/ Quantity declared / 132 / Paleta / Tierras y medios de cultivo / COCO PITH-FIBRES COCO, fibra (para sustrato) / Cocos nucifera 144.546,00000 kg * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * Marcas distintivas de los bultos; número y descripción de los bultos; nombre del producto; nombre botánico de las plantas / Distinguishing marks; number and description of packages; name of produce; botanical name of plants 9.Cantidad declarada/ Quantity declared / 132 / Paleta / Tierras y medios de cultivo / COCO PITH-FIBRES COCO, fibra (para sustrato) / Cocos nucifera 144.546,00000 kg * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
+        "date_enacted": "",
+        "status": "",
+        "hash": "7214c85a2b58be6dc2d24dbd27c3af97"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::18c79a2c9fd6e37b7e49",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::18c79a2c9fd6e37b7e49",
+        "name": "6.",
+        "type": "Sottocomma",
+        "abstract": "Il comma si limita a indicare che devono essere dichiarati i mezzi di trasporto, senza specificare obblighi, condizioni, sanzioni o termini temporali. Testo significativo: Medios de transporte declarados / Declared means of conveyance",
+        "plain_text": "Medios de transporte declarados / Declared means of conveyance",
+        "hash": "18c79a2c9fd6e37b7e49110635c3256f71aeb64b57fbd44a033161fbd0e6e647"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb",
+        "name": "0",
+        "type": "Comma",
+        "abstract": "",
+        "plain_text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::9a254415a65c2a35a902",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::9a254415a65c2a35a902",
+        "name": "8.",
+        "type": "Sottocomma",
+        "abstract": "Il comma elenca le informazioni identificative e descrittive richieste per i colli e i prodotti vegetali dichiarati al punto di ingresso, tra cui marchi distintivi, numero e descrizione dei colli, nome del prodotto, nome botanico, quantità dichiarata e numeri di container e sigilli. Testo significativo: Marcas distintivas de los bultos; número y descripción de los bultos; nombre del producto; nombre botánico de las plantas / Distinguishing marks; number and description of packages; name of produce; botanical name of plants 9.Cantidad declarada/ Quantity declared / 132 / Paleta / Tierras y medios de cultivo / COCO PITH-FIBRES COCO, fibra (para sustrato) / Cocos nucifera 144.546,00000 kg ... Nº Contenedor y Nº Precinto / Container number and Seal number: MEDU7593718; MSDU6536583; MSMU8442108; CAIU8959586; FFAU1542499; MSNU5289067",
+        "plain_text": "Marcas distintivas de los bultos; número y descripción de los bultos; nombre del producto; nombre botánico de las \nplantas / Distinguishing marks; number and description of packages; name of produce; botanical name of plants 9.Cantidad declarada/ \n      Quantity declared / 132 / Paleta / Tierras y medios de cultivo / COCO PITH-FIBRES COCO, fibra (para sustrato) / Cocos nucifera\n144.546,00000 kg *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  \n*  *  *  *  *  * Nº Contenedor y Nº Precinto / Container number and Seal number: MEDU7593718; MSDU6536583; MSMU8442108; CAIU8959586; FFAU1542499; \nMSNU5289067",
+        "hash": "9a254415a65c2a35a9020914307481e7e973be3681c9e19f4144e5dd3d5e3449"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::664b69a6d011eb439a13",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::664b69a6d011eb439a13",
+        "name": "18.",
+        "type": "Sottocomma",
+        "abstract": "Il comma indica il luogo e la data di emissione del certificato, senza imporre obblighi, condizioni, sanzioni o termini temporali. Testo significativo: Lugar de expedición / Place of issue Málaga Fecha / Date 3 de Noviembre de 2025",
+        "plain_text": "Lugar de expedición / Place of issue\n  Málaga\n Fecha / Date\n  3 de Noviembre de 2025",
+        "hash": "664b69a6d011eb439a1310004688d975e55e556c01b1fb9963e0d71b20d96b41"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::3e698f20c8847fd5f840",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::3e698f20c8847fd5f840",
+        "name": "13.",
+        "type": "Sottocomma",
+        "abstract": "Il comma fornisce una definizione o una specificazione terminologica relativa al trattamento, identificando il prodotto chimico come ingrediente attivo. Testo significativo: Producto químico (ingrediente activo) Chemical (active ingredient)",
+        "plain_text": "Producto químico (ingrediente activo)\n          Chemical (active ingredient)",
+        "hash": "3e698f20c8847fd5f8405e766b47d6dfcacbe16ecd1072147ef17cf61678106f"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::626ebd7657b646fd4b4c",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::626ebd7657b646fd4b4c",
+        "name": "2.",
+        "type": "Sottocomma",
+        "abstract": "Il comma attesta che le piante o prodotti vegetali descritti sono stati coperti da un certificato fitosanitario per la riesportazione, specificando dettagli su origine, confezionamento, ispezioni e assenza di rischio di infestazione durante la permanenza. Testo significativo: Hiermit wird bescheinigt, daß - Dass die oben beschriebenen Pflanzen oder Pflanzenerzeugnisse wurden aus in ........................... (Land der Wiederausfuhr) importierten .......... (Herkunftsland) durch Pflanzengesundheitszeugnis Nr abgedeckt ..................: Original beglaubigte Kopie davon ist der Bescheinigung vorgelegt angebracht - Das sind: verpackt in Containern umgepackt Original Neu - Auf der Grundlage, dass: der ursprünglichen Bescheinigung und weitere Inspektion wird als auf die aktuellen phytosanitären Vorschriften des Einfuhrlandes entsprechen - Während der Lagerung ............................................... (Land der Wiederausfuhr) nicht geladen wurde auf die Gefahr eines Befalls oder Infektion ausgesetzt (*) Überqueren Sie die entsprechende Box ϡϗέ",
+        "plain_text": "PFLANZENGESUNDHEITSZEUGNIS FÜR DIE WIEDERAUSFUHR\n10. Hiermit wird bescheinigt, daß\n- Dass die oben beschriebenen Pflanzen oder Pflanzenerzeugnisse \nwurden aus in ........................... (Land der Wiederausfuhr) \nimportierten .......... (Herkunftsland) durch \nPflanzengesundheitszeugnis Nr abgedeckt ..................:\nOriginal   beglaubigte Kopie davon ist der Bescheinigung \nvorgelegt angebracht\n- Das sind:\nverpackt     in Containern umgepackt\nOriginal      Neu\n- Auf der Grundlage, dass:\nder ursprünglichen Bescheinigung und\nweitere Inspektion wird als auf die aktuellen phytosanitären \nVorschriften des Einfuhrlandes entsprechen\n- Während der Lagerung ............................................... (Land \nder Wiederausfuhr) nicht geladen wurde auf die Gefahr eines Befalls \noder Infektion ausgesetzt\n(*) Überqueren Sie die entsprechende Box ϡϗέ",
+        "hash": "626ebd7657b646fd4b4c81962492d3fb4fe56f3051d407a9468ca133dea6ed96"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::a1428af44ccb99356028",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::a1428af44ccb99356028",
+        "name": "1.",
+        "type": "Sottocomma",
+        "abstract": "Il comma non contiene elementi testuali significativi in lingua italiana o francese che consentano di attribuire un significato normativo specifico, né emergono obblighi, condizioni, termini temporali o sanzioni. Testo significativo: ࠪਓ୶਽〠৺ൠ൰ 2. Ἵ⢙Ự⯛䇱Җ 3. ⭣ᣕⲴ᭦䍗਽〠৺ൠ൰ 4. 㾯⨝⢉Ἵ⢙؍ᣔ㓴㓷 Ἵ⢙؍ᣔ㓴㓷 5. ӗൠ 6. ⭣ᣕⲴ䘀䗃ᐕާ 7. ⭣ᣕⲴޕຳൠ⛩ 8. व㻵䇶࡛ḷ䇠˗व㻵Ԧᮠ৺व㻵䈤᰾˗ӗ૱਽〠˗Ἵ⢙ᆖ਽ 9. ⭣ᣕᮠ䟿 10. ީ䇱᰾к䘠Ἵ⢙৺Ἵ⢙ӗ૱ ᐢ᤹➗㿴ᇊ〻ᒿ䘋㹼Ựḕˈ 㻛䇔ѪнᑖᴹỰ⯛ᙗᴹᇣ⭏⢙ˈᒦфสᵜнᑖᴹަԆⲴᴹᇣ⭏⢙ˈ ㅖਸ䗃ޕഭ⧠㹼ⲴἽ⢙Ự⯛㾱≲Ǆ 11. 䱴࣐༠᰾ 2. ǼǰǺǶǹǨǵǰǺǨǸǵȃǱ ǹǭǸǺǰǼǰǲǨǺ ȹ 3. ǯȈȧȊȓȍȕȕȖȍ ȕȈȐȔȍȕȖȊȈȕȐȍ Ȑ ȈȌȘȍș ȗȖȓțȟȈȚȍȓȧ",
+        "plain_text": "ࠪਓ୶਽〠৺ൠ൰\n2.           Ἵ⢙Ự⯛䇱Җ\n3.           ⭣ᣕⲴ᭦䍗਽〠৺ൠ൰\n4.           㾯⨝⢉Ἵ⢙؍ᣔ㓴㓷\nἽ⢙؍ᣔ㓴㓷\n5.           ӗൠ\n6.           ⭣ᣕⲴ䘀䗃ᐕާ\n7.           ⭣ᣕⲴޕຳൠ⛩\n8.           व㻵䇶࡛ḷ䇠˗व㻵Ԧᮠ৺व㻵䈤᰾˗ӗ૱਽〠˗Ἵ⢙ᆖ਽\n9.           ⭣ᣕᮠ䟿\n10.         ީ䇱᰾к䘠Ἵ⢙৺Ἵ⢙ӗ૱\nᐢ᤹➗㿴ᇊ〻ᒿ䘋㹼Ựḕˈ\n㻛䇔ѪнᑖᴹỰ⯛ᙗᴹᇣ⭏⢙ˈᒦфสᵜнᑖᴹަԆⲴᴹᇣ⭏⢙ˈ\nㅖਸ䗃ޕഭ⧠㹼ⲴἽ⢙Ự⯛㾱≲Ǆ\n11.         䱴࣐༠᰾ 2.      ǼǰǺǶǹǨǵǰǺǨǸǵȃǱǹǭǸǺǰǼǰǲǨǺȹ 3.      ǯȈȧȊȓȍȕȕȖȍȕȈȐȔȍȕȖȊȈȕȐȍȐȈȌȘȍșȗȖȓțȟȈȚȍȓȧ",
+        "hash": "a1428af44ccb993560289ed50ad9ebbafd0e576fa048bf8b073df9ca852f311c"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::2798199a170400a14ed8",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::2798199a170400a14ed8",
+        "name": "4.",
+        "type": "Sottocomma",
+        "abstract": "Il comma attesta che le piante o prodotti vegetali descritti sono stati importati nel paese di réexportation sotto la protezione di un certificato fitosanitario originale, e che sono conformi alle disposizioni fitosanitarie del paese importatore. Testo significativo: Que les plantas ou produits végétaux décrits ci-dessus ont été importés vers ........................... (pays de réexportation) á partir de .......... (Pays d'origine), sous la protection du certificat phytosanitaire N° .................. copie fidele certifié conforme, qui reste jointe au présent certificat;",
+        "plain_text": "ǶȘȋȈȕȐȏȈȞȐȧȗȖȒȈȘȈȕȚȐȕțȐȏȈȡȐȚȍȘȈșȚȍȕȐȑǰǹǷǨǵǰǰ\nǲǶǴǻǶȘȋȈȕȐȏȈȞȐȐȧȔȗȖȒȈȘȈȕȚȐȕțȐȏȈȡȐȚȍȘȈșȚȍȕȐȑ\n«««««\n5.      ǴȍșȚȖȗȘȖȐșȝȖȎȌȍȕȐȧ 6.      ǯȈȧȊȓȍȕȕȣȑșȗȖșȖȉȚȘȈȕșȗȖȘȚȐȘȖȊȒȐ 7.      ǯȈȧȊȓȍȕȕȣȑȗțȕȒȚȊȊȖȏȈ 8.      ǴȈȘȒȐȘȖȊȒȈǶȚȓȐȟȐȚȍȓȤȕȣȍȏȕȈȒȐȒȖȓȐȟȍșȚȊȖȔȍșȚȐ ȖȗȐșȈȕȐȍțȗȈȒȖȊȒȐȕȈȐȔȍȕȖȊȈȕȐȍȗȘȖȌțȒȞȐȐ\nȉȖȚȈȕȐȟȍșȒȖȍȕȈȏȊȈȕȐȍȘȈșȚȍȕȐȑȹȒȖȕȚȍȑȕȍȘȈȐȹ\nȗȓȖȔȉȣ 9.      ǯȈȧȊȓȍȕȕȖȍȒȖȓȐȟȍșȚȊȖ ᵰ㲛઼ᡆ⚝㧼༴⨶ 10.     ǵȈșȚȖȧȡȐȔțȌȖșȚȖȊȍȘȧȍȚșȧȟȚȖȘȈșȚȍȕȐȧȐȓȐ",
+        "hash": "2798199a170400a14ed86199699d234532decae247ceae4b726b827b943f9547"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::1a8c9a94c7d50dfd4628",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::1a8c9a94c7d50dfd4628",
+        "name": "12.",
+        "type": "Sottocomma",
+        "abstract": "Il comma non contiene elementi testuali significativi, non presenta obblighi, condizioni, sanzioni o termini temporali, né definizioni. Il contenuto appare privo di rilevanza normativa. Testo significativo: ༴⨶ᯩ⌅ 13. ॆᆖӗ૱⍫ᙗᡀ࠶ 14. ᤱ㔝ᰦ䰤৺⑙ᓖ 15. ⎃ᓖ 16. ᰕᵏ 17. 䱴࣐ؑ᚟ 18. ㆮ䇱ൠ⛩ ᰕᵏ ᦸᵳㆮᆇӪⲴဃ਽઼ㆮ਽ ⴆㄐ ȘȈșȚȐȚȍȓȤȕȣȍ ȗȘȖȌțȒȚȣ ȖȗȐșȈȕȕȣȍ ȊȣȠȍ ȉȣȓȐ ȌȖșȔȖȚȘȍȕȣ șȖȋȓȈșȕȖ șȖȖȚȊȍȚșȚȊțȦȡȐȔ ȗȘȖȞȍȌțȘȈȔ Ȑ ȗȘȐȏȕȈȕȣ șȊȖȉȖȌȕȣȔȐ ȖȚ ȒȈȘȈȕȚȐȕȕȣȝ ȊȘȍȌȕȣȝ ȖȘȋȈȕȐȏȔȖȊ Ȑ șȟȐȚȈȦȚșȧ ȗȘȈȒȚȐȟȍșȒȐ șȊȖȉȖȌȕȣȔȐ ȖȚ ȌȘțȋȐȝ ȊȘȍȌȕȣȝ ȖȘȋȈȕȐȏȔȖȊ Ȑ ȖȚȊȍȟȈȦȚ ȌȍȑșȚȊțȦȡȐȔ ȜȐȚȖșȈȕȐȚȈȘȕȣȔ ȚȘȍȉȖȊȈȕȐȧȔ șȚȘȈȕȣ ȐȔȗȖȘȚȍȘȈ 11. ǬȖȗȖȓȕȐȚȍȓȤȕȈȧ ȌȍȒȓȈȘȈȞȐȧ ޽ࠪਓ䇱Җ ǶǩǭǯǯǨǸǨǮǰǪǨǵǰǭ ǰǳǰ ǬǭǯǰǵǼǭǲǾǰȇ",
+        "plain_text": "༴⨶ᯩ⌅\n13.         ॆᆖӗ૱⍫ᙗᡀ࠶\n14.         ᤱ㔝ᰦ䰤৺⑙ᓖ\n15.         ⎃ᓖ\n16.         ᰕᵏ\n17.         䱴࣐ؑ᚟\n18.         ㆮ䇱ൠ⛩\nᰕᵏ\nᦸᵳㆮᆇӪⲴဃ਽઼ㆮ਽\nⴆㄐ ȘȈșȚȐȚȍȓȤȕȣȍȗȘȖȌțȒȚȣȖȗȐșȈȕȕȣȍȊȣȠȍ ȉȣȓȐȌȖșȔȖȚȘȍȕȣșȖȋȓȈșȕȖșȖȖȚȊȍȚșȚȊțȦȡȐȔȗȘȖȞȍȌțȘȈȔȐ\nȗȘȐȏȕȈȕȣșȊȖȉȖȌȕȣȔȐȖȚȒȈȘȈȕȚȐȕȕȣȝȊȘȍȌȕȣȝȖȘȋȈȕȐȏȔȖȊȐ\nșȟȐȚȈȦȚșȧȗȘȈȒȚȐȟȍșȒȐșȊȖȉȖȌȕȣȔȐȖȚȌȘțȋȐȝȊȘȍȌȕȣȝ\nȖȘȋȈȕȐȏȔȖȊȐ\nȖȚȊȍȟȈȦȚȌȍȑșȚȊțȦȡȐȔȜȐȚȖșȈȕȐȚȈȘȕȣȔȚȘȍȉȖȊȈȕȐȧȔ\nșȚȘȈȕȣȐȔȗȖȘȚȍȘȈ 11.     ǬȖȗȖȓȕȐȚȍȓȤȕȈȧȌȍȒȓȈȘȈȞȐȧ ޽ࠪਓ䇱Җ ǶǩǭǯǯǨǸǨǮǰǪǨǵǰǭǰǰǳǰǬǭǯǰǵǼǭǲǾǰȇ",
+        "hash": "1a8c9a94c7d50dfd462812ffae5c79349c504a8e6927f4cf0fcd3250e6f0b496"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::ee645e91ee2d427772a4",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::ee645e91ee2d427772a4",
+        "name": "2.",
+        "type": "Sottocomma",
+        "abstract": "Il comma attesta che le piante o prodotti vegetali descritti sono stati importati nel paese di réexportation sotto la protezione di un certificato fitosanitario originale, e che sono conformi alle disposizioni fitosanitarie del paese importatore, senza essere stati esposti a rischi di infestazione o infezione durante lo stoccaggio. Testo significativo: Que les plantas ou produits végétaux décrits ci-dessus ont été importés vers ........................... (pays de réexportation) á partir de .......... (Pays d'origine), sous la protection du certificat phytosanitaire N° .................. copie fidele certifié conforme, qui reste jointe au présent certificat; Qu'ils sont emballés/remballés dans des récipients originaux/nouveaux; Que sur la base du certificat phytosanitaire original et du contrôle additionnel, ils sont censés étre conformes aux dispositions phytosanitaires en vigueur dans le pays importateur; qu'au cours de leur stockage dans.................................... (pays de réexportation) le chargement n'a été exposé á aucun risque d'infestation ou d'infection.",
+        "plain_text": "޽ࠪਓ䇱Җ\n㕆ਧ\n10. ީ䇱᰾˖\n- Ἵ⢙ছ⭏䇱Җਧ⸱«««ᡰ⏥ⴆⲴк䘠Ἵ⢙৺Ἵ⢙ӗ૱൷⭡««««««䘋\n(޽ࠪਓഭ) Ⓚ㠚«««««৏ӗഭ) փ⧠Ҿ䇱Җ৏Ԧ઼࢟ᵜǄ 12.     ǶȉȘȈȉȖȚȒȈ 13.     ǽȐȔȐȒȈȚȌȍȑșȚȊțȦȡȍȍȊȍȡȍșȚȊȖ 14.     ȅȒșȗȖȏȐȞȐȧȐȚȍȔȗȍȘȈȚțȘȈ 15.     ǲȖȕȞȍȕȚȘȈȞȐȧ ⣦ᘱ˖ᢃव䟽ᯠᢃव㻵ޕᇩಘ৏㻵ᯠⲴ\n-               สҾ˖৏䇱Җ䱴࣐Ự傼ˈ㻛㿶Ѫㅖਸ䘋ਓഭ⧠㹼ⲴἽ⢙Ự⯛⌅\n㿴\n-䍗⢙൘«««޽ࠪਓഭ) ᆈۘᵏ䰤ˈ⋑ᴹᝏḃ⯵∂Ⲵ䳀ᛓǄ\n䈧൘⴨ᓄⲴṶ䟼ࡂ* 16.     ǬȈȚȈ 17.     ǬȖȗȖȓȕȐȚȍȓȤȕȈȧȐȕȜȖȘȔȈȞȐȧ",
+        "hash": "ee645e91ee2d427772a4cadcfef2f459b07606e97b8c9bbdb0fd5e9cc4862dd5"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::d4735e3a265e16eee03f",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::d4735e3a265e16eee03f",
+        "name": "18.",
+        "type": "Sottocomma",
+        "abstract": "Il comma non contiene testo leggibile o interpretabile, pertanto non è possibile attribuire un significato normativo specifico. Testo significativo: ǴȍșȚȖ ȊȣȌȈȟȐ ǬȈȚȈ ǼȈȔȐȓȐȧ Ȑ ȗȖȌȗȐșȤ țȗȖȓȕȖȔȖȟȍȕȕȖȋȖ ȌȖȓȎȕȖșȚȕȖȋȖ ȓȐȞȈ ǷȍȟȈȚȤ ȖȘȋȈȕȐȏȈȞȐȐ ǸǭȅǲǹǷǶǸǺǵȃǱ ǼǰǺǶǹǨǵǰǺǨǸǵȃǱ ǹǭǸǺǰǼǰǲǨǺ 2. ǸǭȅǲǹǷǶǺǵȃǱ ǼǰǺǶǹǨǵǰǺǨǸǵȃǱ ǹǭǸǺǰǼǰǲǨǺ ȹ",
+        "plain_text": "ǴȍșȚȖȊȣȌȈȟȐ\nǬȈȚȈ\nǼȈȔȐȓȐȧȐȗȖȌȗȐșȤțȗȖȓȕȖȔȖȟȍȕȕȖȋȖȌȖȓȎȕȖșȚȕȖȋȖȓȐȞȈ\nǷȍȟȈȚȤȖȘȋȈȕȐȏȈȞȐȐ ǸǭȅǲǹǷǶǸǺǵȃǱǼǰǺǶǹǨǵǰǺǨǸǵȃǱǹǭǸǺǰǼǰǲǨǺ 2.      ǸǭȅǲǹǷǶǺǵȃǱǼǰǺǶǹǨǵǰǺǨǸǵȃǱǹǭǸǺǰǼǰǲǨǺȹ",
+        "hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+      }
+    },
+    {
+      "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::8d852ee892c1093a086a",
+      "labels": [
+        "DOCUMENT_SECTION"
+      ],
+      "properties": {
+        "id": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::8d852ee892c1093a086a",
+        "name": "0",
+        "type": "Comma",
+        "abstract": "ࠪਓ୶਽〠৺ൠ൰ 2. Ἵ⢙Ự⯛䇱Җ 3. ⭣ᣕⲴ᭦䍗਽〠৺ൠ൰ 4. 㾯⨝⢉Ἵ⢙؍ᣔ㓴㓷 Ἵ⢙؍ᣔ㓴㓷 5. ӗൠ 6. ⭣ᣕⲴ䘀䗃ᐕާ 7. ⭣ᣕⲴޕຳൠ⛩ 8. व㻵䇶࡛ḷ䇠˗व㻵Ԧᮠ৺व㻵䈤᰾˗ӗ૱਽〠˗Ἵ⢙ᆖ਽ 9. ⭣ᣕᮠ䟿 10. ީ䇱᰾к䘠Ἵ⢙৺Ἵ⢙ӗ૱ ᐢ᤹➗㿴ᇊ〻ᒿ䘋㹼Ựḕˈ 㻛䇔ѪнᑖᴹỰ⯛ᙗᴹᇣ⭏⢙ˈᒦфสᵜнᑖᴹަԆⲴᴹᇣ⭏⢙ˈ ㅖਸ䗃ޕഭ⧠㹼ⲴἽ⢙Ự⯛㾱≲Ǆ 11. 䱴࣐༠᰾ 2. ǼǰǺǶǹǨǵǰǺǨǸǵȃǱǹǭǸǺǰǼǰǲǨǺȹ 3. ǯȈȧȊȓȍȕȕȖȍȕȈȐȔȍȕȖȊȈȕȐȍȐȈȌȘȍșȗȖȓțȟȈȚȍȓȧ ǶȘȋȈȕȐȏȈȞȐȧȗȖȒȈȘȈȕȚȐȕțȐȏȈȡȐȚȍȘȈșȚȍȕȐȑǰǹǷǨǵǰǰ ǲǶǴǻǶȘȋȈȕȐȏȈȞȐȐȧȔȗȖȒȈȘȈȕȚȐȕțȐȏȈȡȐȚȍȘȈșȚȍȕȐȑ ««««« 5. ǴȍșȚȖȗȘȖȐșȝȖȎȌȍȕȐȧ 6. ǯȈȧȊȓȍȕȕȣȑșȗȖșȖȉȚȘȈȕșȗȖȘȚȐȘȖȊȒȐ 7. ǯȈȧȊȓȍȕȕȣȑȗțȕȒȚȊȊȖȏȈ 8. ǴȈȘȒȐȘȖȊȒȈǶȚȓȐȟȐȚȍȓȤȕȣȍȏȕȈȒȐȒȖȓȐȟȍșȚȊȖȔȍșȚȐ ȖȗȐșȈȕȐȍțȗȈȒȖȊȒȐȕȈȐȔȍȕȖȊȈȕȐȍȗȘȖȌțȒȞȐȐ ȉȖȚȈȕȐȟȍșȒȖȍȕȈȏȊȈȕȐȍȘȈșȚȍȕȐȑȹȒȖȕȚȍȑȕȍȘȈȐȹ ȗȓȖȔȉȣ 9. ǯȈȧȊȓȍȕȕȖȍȒȖȓȐȟȍșȚȊȖ ᵰ㲛઼ᡆ⚝㧼༴⨶ 10. ǵȈșȚȖȧȡȐȔțȌȖșȚȖȊȍȘȧȍȚșȧȟȚȖȘȈșȚȍȕȐȧȐȓȐ ༴⨶ᯩ⌅ 13. ॆᆖӗ૱⍫ᙗᡀ࠶ 14. ᤱ㔝ᰦ䰤৺⑙ᓖ 15. ⎃ᓖ 16. ᰕᵏ 17. 䱴࣐ؑ᚟ 18. ㆮ䇱ൠ⛩ ᰕᵏ ᦸᵳㆮᆇӪⲴဃ਽઼ㆮ਽ ⴆㄐ ȘȈșȚȐȚȍȓȤȕȣȍȗȘȖȌțȒȚȣȖȗȐșȈȕȕȣȍȊȣȠȍ ȉȣȓȐȌȖșȔȖȚȘȍȕȣșȖȋȓȈșȕȖșȖȖȚȊȍȚșȚȊțȦȡȐȔȗȘȖȞȍȌțȘȈȔȐ ȗȘȐȏȕȈȕȣșȊȖȉȖȌȕȣȔȐȖȚȒȈȘȈȕȚȐȕȕȣȝȊȘȍȌȕȣȝȖȘȋȈȕȐȏȔȖȊȐ șȟȐȚȈȦȚșȧȗȘȈȒȚȐȟȍșȒȐșȊȖȉȖȌȕȣȔȐȖȚȌȘțȋȐȝȊȘȍȌȕȣȝ ȖȘȋȈȕȐȏȔȖȊȐ ȖȚȊȍȟȈȦȚȌȍȑșȚȊțȦȡȐȔȜȐȚȖșȈȕȐȚȈȘȕȣȔȚȘȍȉȖȊȈȕȐȧȔ șȚȘȈȕȣȐȔȗȖȘȚȍȘȈ 11. ǬȖȗȖȓȕȐȚȍȓȤȕȈȧȌȍȒȓȈȘȈȞȐȧ ޽ࠪਓ䇱Җ ǶǩǭǯǯǨǸǨǮǰǪǨǵǰǭǰǰǳǰǬǭǯǰǵǼǭǲǾǰȇ ޽ࠪਓ䇱Җ 㕆ਧ 10. ީ䇱᰾˖ - Ἵ⢙ছ⭏䇱Җਧ⸱«««ᡰ⏥ⴆⲴк䘠Ἵ⢙৺Ἵ⢙ӗ૱൷⭡««««««䘋 (޽ࠪਓഭ) Ⓚ㠚«««««৏ӗഭ) փ⧠Ҿ䇱Җ৏Ԧ઼࢟ᵜǄ 12. ǶȉȘȈȉȖȚȒȈ 13. ǽȐȔȐȒȈȚȌȍȑșȚȊțȦȡȍȍȊȍȡȍșȚȊȖ 14. ȅȒșȗȖȏȐȞȐȧȐȚȍȔȗȍȘȈȚțȘȈ 15. ǲȖȕȞȍȕȚȘȈȞȐȧ ⣦ᘱ˖ᢃव䟽ᯠᢃव㻵ޕᇩಘ৏㻵ᯠⲴ - สҾ˖৏䇱Җ䱴࣐Ự傼ˈ㻛㿶Ѫㅖਸ䘋ਓഭ⧠㹼ⲴἽ⢙Ự⯛⌅ 㿴 -䍗⢙൘«««޽ࠪਓഭ) ᆈۘᵏ䰤ˈ⋑ᴹᝏḃ⯵∂Ⲵ䳀ᛓǄ 䈧൘⴨ᓄⲴṶ䟼ࡂ* 16. ǬȈȚȈ 17. ǬȖȗȖȓȕȐȚȍȓȤȕȈȧȐȕȜȖȘȔȈȞȐȧ ǴȍșȚȖȊȣȌȈȟȐ ǬȈȚȈ ǼȈȔȐȓȐȧȐȗȖȌȗȐșȤțȗȖȓȕȖȔȖȟȍȕȕȖȋȖȌȖȓȎȕȖșȚȕȖȋȖȓȐȞȈ ǷȍȟȈȚȤȖȘȋȈȕȐȏȈȞȐȐ ǸǭȅǲǹǷǶǸǺǵȃǱǼǰǺǶǹǨǵǰǺǨǸǵȃǱǹǭǸǺǰǼǰǲǨǺ 2. ǸǭȅǲǹǷǶǺǵȃǱǼǰǺǶǹǨǵǰǺǨǸǵȃǱǹǭǸǺǰǼǰǲǨǺȹ ǵȈșȚȖȧȡȐȔțȌȖșȚȖȊȍȘȧȍȚșȧ ȟȚȖȘȈșȚȍȕȐȧȐȓȐȘȈșȚȐȚȍȓȤȕȣȍȗȘȖȌțȒȚȣȖȗȐșȈȕȕȣȍȊȣȠȍ ȉȣȓȐȐȔȗȖȘȚȐȘȖȊȈȕȣȊ«««««««««șȚȘȈȕȈȘȍȥȒșȗȖȘȚȍȘȐȏ «««șȚȘȈȕȈȗȘȖȐșȝȖȎȌȍȕȐȧȗȖȜȐȚȖșȈȕȐȚȈȘȕȖȔțșȍȘȚȐȜȐȒȈȚț ȹ«««««« ȖȘȐȋȐȕȈȓȏȈȊȍȘȍȕȕȈȧȗȖȌȓȐȕȕȈȧȒȖȗȐȧȒȖȚȖȘȖȋȖ ȗȘȐȓȈȋȈȍȚșȧȒȕȈșȚȖȧȡȍȔțșȍȘȚȐȜȐȒȈȚț ȟȚȖȖȕȐ țȗȈȒȖȊȈȕȣȗȍȘȍțȗȈȒȖȊȈȕȣȊ ȖȘȐȋȐȕȈȓȤȕțȦȕȖȊțȦȚȈȘț ȟȚȖȕȈȖșȕȖȊȈȕȐȐ ȖȘȐȋȐȕȈȓȤȕȖȋȖșȍȘȚȐȜȐȒȈȚȈȐ ȌȖȗȖȓȕȐȚȍȓȤȕȖȋȖȌȖșȔȖȚȘȈȖȕȐșȟȐȚȈȦȚșȧȖȚȊȍȟȈȦȡȐȔȐ ȌȍȑșȚȊțȦȡȐȔȜȐȚȖșȈȕȐȚȈȘȕȣȔȚȘȍȉȖȊȈȕȐȧȔșȚȘȈȕȣȐȔȗȖȘȚȍȘȈ ȟȚȖȊȖȊȘȍȔȧȝȘȈȕȍȕȐȧȊșȚȘȈȕȈ ȘȍȥȒșȗȖȘȚȍȘȋȘțȏȕȍȗȖȌȊȍȘȋȈȓșȧȘȐșȒțȏȈȘȈȎȍȕȐȧȊȘȍȌȕȣȔȐ ȖȘȋȈȕȐȏȔȈȔȐ ǵȍȕțȎȕȖȍȏȈȟȍȘȒȕțȚȤ",
+        "plain_text": "ࠪਓ୶਽〠৺ൠ൰\n2.           Ἵ⢙Ự⯛䇱Җ\n3.           ⭣ᣕⲴ᭦䍗਽〠৺ൠ൰\n4.           㾯⨝⢉Ἵ⢙؍ᣔ㓴㓷\nἽ⢙؍ᣔ㓴㓷\n5.           ӗൠ\n6.           ⭣ᣕⲴ䘀䗃ᐕާ\n7.           ⭣ᣕⲴޕຳൠ⛩\n8.           व㻵䇶࡛ḷ䇠˗व㻵Ԧᮠ৺व㻵䈤᰾˗ӗ૱਽〠˗Ἵ⢙ᆖ਽\n9.           ⭣ᣕᮠ䟿\n10.         ީ䇱᰾к䘠Ἵ⢙৺Ἵ⢙ӗ૱\nᐢ᤹➗㿴ᇊ〻ᒿ䘋㹼Ựḕˈ\n㻛䇔ѪнᑖᴹỰ⯛ᙗᴹᇣ⭏⢙ˈᒦфสᵜнᑖᴹަԆⲴᴹᇣ⭏⢙ˈ\nㅖਸ䗃ޕഭ⧠㹼ⲴἽ⢙Ự⯛㾱≲Ǆ\n11.         䱴࣐༠᰾ 2.      ǼǰǺǶǹǨǵǰǺǨǸǵȃǱǹǭǸǺǰǼǰǲǨǺȹ 3.      ǯȈȧȊȓȍȕȕȖȍȕȈȐȔȍȕȖȊȈȕȐȍȐȈȌȘȍșȗȖȓțȟȈȚȍȓȧ\nǶȘȋȈȕȐȏȈȞȐȧȗȖȒȈȘȈȕȚȐȕțȐȏȈȡȐȚȍȘȈșȚȍȕȐȑǰǹǷǨǵǰǰ\nǲǶǴǻǶȘȋȈȕȐȏȈȞȐȐȧȔȗȖȒȈȘȈȕȚȐȕțȐȏȈȡȐȚȍȘȈșȚȍȕȐȑ\n«««««\n5.      ǴȍșȚȖȗȘȖȐșȝȖȎȌȍȕȐȧ 6.      ǯȈȧȊȓȍȕȕȣȑșȗȖșȖȉȚȘȈȕșȗȖȘȚȐȘȖȊȒȐ 7.      ǯȈȧȊȓȍȕȕȣȑȗțȕȒȚȊȊȖȏȈ 8.      ǴȈȘȒȐȘȖȊȒȈǶȚȓȐȟȐȚȍȓȤȕȣȍȏȕȈȒȐȒȖȓȐȟȍșȚȊȖȔȍșȚȐ ȖȗȐșȈȕȐȍțȗȈȒȖȊȒȐȕȈȐȔȍȕȖȊȈȕȐȍȗȘȖȌțȒȞȐȐ\nȉȖȚȈȕȐȟȍșȒȖȍȕȈȏȊȈȕȐȍȘȈșȚȍȕȐȑȹȒȖȕȚȍȑȕȍȘȈȐȹ\nȗȓȖȔȉȣ 9.      ǯȈȧȊȓȍȕȕȖȍȒȖȓȐȟȍșȚȊȖ ᵰ㲛઼ᡆ⚝㧼༴⨶ 10.     ǵȈșȚȖȧȡȐȔțȌȖșȚȖȊȍȘȧȍȚșȧȟȚȖȘȈșȚȍȕȐȧȐȓȐ\n༴⨶ᯩ⌅\n13.         ॆᆖӗ૱⍫ᙗᡀ࠶\n14.         ᤱ㔝ᰦ䰤৺⑙ᓖ\n15.         ⎃ᓖ\n16.         ᰕᵏ\n17.         䱴࣐ؑ᚟\n18.         ㆮ䇱ൠ⛩\nᰕᵏ\nᦸᵳㆮᆇӪⲴဃ਽઼ㆮ਽\nⴆㄐ ȘȈșȚȐȚȍȓȤȕȣȍȗȘȖȌțȒȚȣȖȗȐșȈȕȕȣȍȊȣȠȍ ȉȣȓȐȌȖșȔȖȚȘȍȕȣșȖȋȓȈșȕȖșȖȖȚȊȍȚșȚȊțȦȡȐȔȗȘȖȞȍȌțȘȈȔȐ\nȗȘȐȏȕȈȕȣșȊȖȉȖȌȕȣȔȐȖȚȒȈȘȈȕȚȐȕȕȣȝȊȘȍȌȕȣȝȖȘȋȈȕȐȏȔȖȊȐ\nșȟȐȚȈȦȚșȧȗȘȈȒȚȐȟȍșȒȐșȊȖȉȖȌȕȣȔȐȖȚȌȘțȋȐȝȊȘȍȌȕȣȝ\nȖȘȋȈȕȐȏȔȖȊȐ\nȖȚȊȍȟȈȦȚȌȍȑșȚȊțȦȡȐȔȜȐȚȖșȈȕȐȚȈȘȕȣȔȚȘȍȉȖȊȈȕȐȧȔ\nșȚȘȈȕȣȐȔȗȖȘȚȍȘȈ 11.     ǬȖȗȖȓȕȐȚȍȓȤȕȈȧȌȍȒȓȈȘȈȞȐȧ ޽ࠪਓ䇱Җ ǶǩǭǯǯǨǸǨǮǰǪǨǵǰǭǰǰǳǰǬǭǯǰǵǼǭǲǾǰȇ\n޽ࠪਓ䇱Җ\n㕆ਧ\n10. ީ䇱᰾˖\n- Ἵ⢙ছ⭏䇱Җਧ⸱«««ᡰ⏥ⴆⲴк䘠Ἵ⢙৺Ἵ⢙ӗ૱൷⭡««««««䘋\n(޽ࠪਓഭ) Ⓚ㠚«««««৏ӗഭ) փ⧠Ҿ䇱Җ৏Ԧ઼࢟ᵜǄ 12.     ǶȉȘȈȉȖȚȒȈ 13.     ǽȐȔȐȒȈȚȌȍȑșȚȊțȦȡȍȍȊȍȡȍșȚȊȖ 14.     ȅȒșȗȖȏȐȞȐȧȐȚȍȔȗȍȘȈȚțȘȈ 15.     ǲȖȕȞȍȕȚȘȈȞȐȧ ⣦ᘱ˖ᢃव䟽ᯠᢃव㻵ޕᇩಘ৏㻵ᯠⲴ\n-               สҾ˖৏䇱Җ䱴࣐Ự傼ˈ㻛㿶Ѫㅖਸ䘋ਓഭ⧠㹼ⲴἽ⢙Ự⯛⌅\n㿴\n-䍗⢙൘«««޽ࠪਓഭ) ᆈۘᵏ䰤ˈ⋑ᴹᝏḃ⯵∂Ⲵ䳀ᛓǄ\n䈧൘⴨ᓄⲴṶ䟼ࡂ* 16.     ǬȈȚȈ 17.     ǬȖȗȖȓȕȐȚȍȓȤȕȈȧȐȕȜȖȘȔȈȞȐȧ\nǴȍșȚȖȊȣȌȈȟȐ\nǬȈȚȈ\nǼȈȔȐȓȐȧȐȗȖȌȗȐșȤțȗȖȓȕȖȔȖȟȍȕȕȖȋȖȌȖȓȎȕȖșȚȕȖȋȖȓȐȞȈ\nǷȍȟȈȚȤȖȘȋȈȕȐȏȈȞȐȐ ǸǭȅǲǹǷǶǸǺǵȃǱǼǰǺǶǹǨǵǰǺǨǸǵȃǱǹǭǸǺǰǼǰǲǨǺ 2.      ǸǭȅǲǹǷǶǺǵȃǱǼǰǺǶǹǨǵǰǺǨǸǵȃǱǹǭǸǺǰǼǰǲǨǺȹ\nǵȈșȚȖȧȡȐȔțȌȖșȚȖȊȍȘȧȍȚșȧ\nȟȚȖȘȈșȚȍȕȐȧȐȓȐȘȈșȚȐȚȍȓȤȕȣȍȗȘȖȌțȒȚȣȖȗȐșȈȕȕȣȍȊȣȠȍ\nȉȣȓȐȐȔȗȖȘȚȐȘȖȊȈȕȣȊ«««««««««șȚȘȈȕȈȘȍȥȒșȗȖȘȚȍȘȐȏ\n«««șȚȘȈȕȈȗȘȖȐșȝȖȎȌȍȕȐȧȗȖȜȐȚȖșȈȕȐȚȈȘȕȖȔțșȍȘȚȐȜȐȒȈȚț\nȹ««««««\nȖȘȐȋȐȕȈȓȏȈȊȍȘȍȕȕȈȧȗȖȌȓȐȕȕȈȧȒȖȗȐȧȒȖȚȖȘȖȋȖ\nȗȘȐȓȈȋȈȍȚșȧȒȕȈșȚȖȧȡȍȔțșȍȘȚȐȜȐȒȈȚț\nȟȚȖȖȕȐ\nțȗȈȒȖȊȈȕȣȗȍȘȍțȗȈȒȖȊȈȕȣȊ\nȖȘȐȋȐȕȈȓȤȕțȦȕȖȊțȦȚȈȘț\nȟȚȖȕȈȖșȕȖȊȈȕȐȐ\nȖȘȐȋȐȕȈȓȤȕȖȋȖșȍȘȚȐȜȐȒȈȚȈȐ\nȌȖȗȖȓȕȐȚȍȓȤȕȖȋȖȌȖșȔȖȚȘȈȖȕȐșȟȐȚȈȦȚșȧȖȚȊȍȟȈȦȡȐȔȐ\nȌȍȑșȚȊțȦȡȐȔȜȐȚȖșȈȕȐȚȈȘȕȣȔȚȘȍȉȖȊȈȕȐȧȔșȚȘȈȕȣȐȔȗȖȘȚȍȘȈ\nȟȚȖȊȖȊȘȍȔȧȝȘȈȕȍȕȐȧȊșȚȘȈȕȈ\nȘȍȥȒșȗȖȘȚȍȘȋȘțȏȕȍȗȖȌȊȍȘȋȈȓșȧȘȐșȒțȏȈȘȈȎȍȕȐȧȊȘȍȌȕȣȔȐ\nȖȘȋȈȕȐȏȔȈȔȐ\n\rǵȍȕțȎȕȖȍȏȈȟȍȘȒȕțȚȤ",
+        "hash": "8d852ee892c1093a086a1c2e17b930c7a56c1fb28c07e5ee6bc857f54c6419c3"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::18c79a2c9fd6e37b7e49"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::18c79a2c9fd6e37b7e49"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::18c79a2c9fd6e37b7e49"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::9a254415a65c2a35a902"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::9a254415a65c2a35a902"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::9a254415a65c2a35a902"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::664b69a6d011eb439a13"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::664b69a6d011eb439a13"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::664b69a6d011eb439a13"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::3e698f20c8847fd5f840"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::3e698f20c8847fd5f840"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::3e698f20c8847fd5f840"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::626ebd7657b646fd4b4c"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::626ebd7657b646fd4b4c"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::626ebd7657b646fd4b4c"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::a1428af44ccb99356028"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::2798199a170400a14ed8"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::1a8c9a94c7d50dfd4628"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::ee645e91ee2d427772a4"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::d4735e3a265e16eee03f"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::8d852ee892c1093a086a"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "CONTAINS",
+      "source": "LEGAL_DOC::7214c85a2b58be6dc2d24dbd27c3af97",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::8d852ee892c1093a086a"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::18c79a2c9fd6e37b7e49",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::18c79a2c9fd6e37b7e49"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::9a254415a65c2a35a902",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::9a254415a65c2a35a902"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::9a254415a65c2a35a902",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::9a254415a65c2a35a902"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::664b69a6d011eb439a13",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::664b69a6d011eb439a13"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::3e698f20c8847fd5f840",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::3e698f20c8847fd5f840"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::3e698f20c8847fd5f840",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::3e698f20c8847fd5f840"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::626ebd7657b646fd4b4c",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::626ebd7657b646fd4b4c"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::626ebd7657b646fd4b4c",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::626ebd7657b646fd4b4c"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb"
+    },
+    {
+      "type": "PART_OF",
+      "source": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::e3b0c44298fc1c149afb",
+      "target": "DOCUMENT_SECTION::7214c85a2b58be6dc2d24dbd27c3af97::8d852ee892c1093a086a"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:18:49.481226+00:00",
+    "document_name": "UE_ES___01843822C.pdf",
+    "document_hash": "7214c85a2b58be6dc2d24dbd27c3af97"
+  }
+}

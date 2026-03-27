@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::950e875b16045ca6dbac97237a2dc2a6",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::950e875b16045ca6dbac97237a2dc2a6",
+        "name": "25N2042-TLX.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "950e875b16045ca6dbac97237a2dc2a6"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::950e875b16045ca6dbac97237a2dc2a6",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:22:33.199928+00:00",
+    "document_name": "25N2042-TLX.pdf",
+    "document_hash": "950e875b16045ca6dbac97237a2dc2a6"
+  }
+}

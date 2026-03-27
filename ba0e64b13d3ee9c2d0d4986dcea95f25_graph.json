@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::ba0e64b13d3ee9c2d0d4986dcea95f25",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::ba0e64b13d3ee9c2d0d4986dcea95f25",
+        "name": "提单_欧洲_出口_MEDURC891443_20251217.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "ba0e64b13d3ee9c2d0d4986dcea95f25"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::ba0e64b13d3ee9c2d0d4986dcea95f25",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:44:02.435913+00:00",
+    "document_name": "提单_欧洲_出口_MEDURC891443_20251217.pdf",
+    "document_hash": "ba0e64b13d3ee9c2d0d4986dcea95f25"
+  }
+}

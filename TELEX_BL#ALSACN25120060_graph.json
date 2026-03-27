@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::e7266b3cf18a9c5e195873b39e54673e",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::e7266b3cf18a9c5e195873b39e54673e",
+        "name": "TELEX_BL#ALSACN25120060.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "e7266b3cf18a9c5e195873b39e54673e"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::e7266b3cf18a9c5e195873b39e54673e",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:41:33.448121+00:00",
+    "document_name": "TELEX_BL#ALSACN25120060.pdf",
+    "document_hash": "e7266b3cf18a9c5e195873b39e54673e"
+  }
+}

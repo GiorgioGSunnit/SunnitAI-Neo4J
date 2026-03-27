@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::799fbb6418bb410d3ba8b9f741885d7d",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::799fbb6418bb410d3ba8b9f741885d7d",
+        "name": "177CSDSDNX00941A_SW提单.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "799fbb6418bb410d3ba8b9f741885d7d"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::799fbb6418bb410d3ba8b9f741885d7d",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:21:19.493163+00:00",
+    "document_name": "177CSDSDNX00941A_SW提单.pdf",
+    "document_hash": "799fbb6418bb410d3ba8b9f741885d7d"
+  }
+}

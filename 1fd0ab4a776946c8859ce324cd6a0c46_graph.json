@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::1fd0ab4a776946c8859ce324cd6a0c46",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::1fd0ab4a776946c8859ce324cd6a0c46",
+        "name": "I_021607ED_C10.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "1fd0ab4a776946c8859ce324cd6a0c46"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::1fd0ab4a776946c8859ce324cd6a0c46",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:31:22.053629+00:00",
+    "document_name": "I_021607ED_C10.pdf",
+    "document_hash": "1fd0ab4a776946c8859ce324cd6a0c46"
+  }
+}

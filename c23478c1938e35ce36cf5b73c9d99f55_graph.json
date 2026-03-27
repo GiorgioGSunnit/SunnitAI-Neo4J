@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "LEGAL_DOC::c23478c1938e35ce36cf5b73c9d99f55",
+      "labels": [
+        "LEGAL_DOC"
+      ],
+      "properties": {
+        "id": "LEGAL_DOC::c23478c1938e35ce36cf5b73c9d99f55",
+        "name": "Fitosanitario_India_017279.pdf",
+        "description": "",
+        "date_enacted": "",
+        "status": "",
+        "hash": "c23478c1938e35ce36cf5b73c9d99f55"
+      }
+    },
+    {
+      "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+      "labels": [
+        "LEGAL_SOURCE"
+      ],
+      "properties": {
+        "id": "LEGAL_SOURCE::cce89dcdb25d6a16",
+        "name": "Fonte non classificata",
+        "date": "",
+        "description": "Fonte non determinata automaticamente."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "PUBLISHED",
+      "source": "LEGAL_DOC::c23478c1938e35ce36cf5b73c9d99f55",
+      "target": "LEGAL_SOURCE::cce89dcdb25d6a16"
+    }
+  ],
+  "meta": {
+    "generated_at_utc": "2026-03-27T22:16:06.696768+00:00",
+    "document_name": "Fitosanitario_India_017279.pdf",
+    "document_hash": "c23478c1938e35ce36cf5b73c9d99f55"
+  }
+}
